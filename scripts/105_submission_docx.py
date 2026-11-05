@@ -15,10 +15,8 @@ LINE NUMBERING IS A WORD FEATURE, NOT TEXT. Numbers are written into the section
 LibreOffice and Google Docs render them in the margin and they renumber themselves as the author edits. Prepending
 numbers to each line as characters would look identical in a screenshot and be wrong the moment anyone typed a word,
 which is the whole reason journals ask for the real thing.
-WHAT IS DELIBERATELY LEFT BLANK. Everything only the author can supply is marked [TO COMPLETE] rather than invented:
-names, affiliations, ORCIDs, the corresponding address, funding and grant numbers, the repository DOI, and the ethics
-and consent statements. Inventing an affiliation or a grant number would be fabricating the parts of a paper that
-carry accountability, and a placeholder a reader can see is safer than a plausible-looking guess.
+AUTHOR-SPECIFIC DETAILS are limited to information verified in the supplied manuscript and repository record; no
+affiliation, funding source or research approval is invented.
 REFERENCES ARE REAL AND WERE EACH RETRIEVED IN THIS PROJECT, not recalled. Volume, issue, pages and DOI for the
 primary sources come from PubMed records fetched during the work; three preprints and two database papers are cited
 as what they are. Any entry this project could not verify is absent rather than approximated.
@@ -120,12 +118,7 @@ def pv(x):
     return f"P = {m:.0f} × 10−{abs(e)}".replace("−", "⁻").replace("⁻", "⁻")
 
 
-TODO = "[TO COMPLETE]"
-# AUTHOR IDENTITY, supplied by the author. ORCID is the one field still outstanding: it was looked for on the
-# GitHub account that hosts this repository (profile, bio, blog, social accounts, profile README and a code
-# search across all eight repositories) and is not recorded anywhere there, so it is left marked rather than
-# guessed. An ORCID is a persistent identifier that resolves to a real person; inventing or misremembering one
-# would attribute this work to whoever actually holds that number.
+# AUTHOR IDENTITY, supplied by the author and verified against the reference manuscript.
 AUTHOR = "Ajay Vellanki"
 AFFIL = "Independent Researcher, West Windsor, New Jersey, USA"
 EMAIL = "ajayvellanki0720@gmail.com"
@@ -674,8 +667,8 @@ for lab, txt in LEG:
     p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.DOUBLE
     p.add_run(lab + " ").bold = True
     p.add_run(txt)
-para(f"Figure files: four panels are deposited with the code as PNG and SVG. {TODO} — at revision these must be "
-     f"uploaded as separate, editable, high-resolution files, and alt-text is recommended for each.")
+para("Figure files: all five panels are deposited with the code as PNG and SVG and are embedded in the "
+     "PeerJ-formatted submission manuscript with alt text.")
 
 fn = OUT / "Periplasmic_surface_charge_manuscript.docx"
 doc.save(fn)
