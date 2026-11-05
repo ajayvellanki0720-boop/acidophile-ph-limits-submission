@@ -24,7 +24,7 @@ The verification tier uses only files committed here. Reconstructing the structu
 - `tests/` — automated tests.
 - `docs/` — manuscript source, analysis record, data dictionary, and design documents.
 - `docs/submission/` — submission manuscript generated from stored results.
-- `docs/submission/figures/` — four separate journal figure files in SVG and 300-dpi PNG formats, including combined Figure 4A/B.
+- `docs/submission/figures/` — four separate journal figure files in SVG and 600-dpi PNG formats, including combined Figure 4A/B.
 - `docs/submission/Supplemental_Data_S1.zip` — analysis-data supplement intended for direct journal upload, without an external DOI.
 
 The Word submission copy contains figure legends rather than embedded images. Earlier drafts and the historical project record below retain prior terminology and interpretations; the revised submission document is the current manuscript. The main analysis is observational, uses reported minima rather than established biological limits, and has no demonstrated out-of-clade predictive benefit.

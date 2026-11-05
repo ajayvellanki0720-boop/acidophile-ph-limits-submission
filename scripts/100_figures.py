@@ -62,7 +62,8 @@ def frame(ax, zero=True):
 
 def save(fig, name):
     for ext in ("png", "svg"):
-        fig.savefig(OUT / f"{name}.{ext}")
+        # 600-dpi raster export also meets the portal's 900px minimum height.
+        fig.savefig(OUT / f"{name}.{ext}", **({'dpi': 600} if ext == 'png' else {}))
     plt.close(fig)
     print(f"   wrote {OUT / (name + '.png')} and .svg")
 

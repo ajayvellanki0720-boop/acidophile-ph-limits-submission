@@ -41,16 +41,16 @@ for i, (part, box) in enumerate(zip(roots, boxes)):
 ET.ElementTree(root).write(OUT / 'Figure_4.svg', encoding='utf-8', xml_declaration=True)
 
 images = [Image.open(FIG / f'{p}.png').convert('RGB') for p in parts]
-pad = 90
+pad = 180
 canvas = Image.new('RGB', (max(im.width for im in images), sum(im.height for im in images) + 3 * pad), 'white')
 draw = ImageDraw.Draw(canvas)
-font = ImageFont.truetype(font_manager.findfont('DejaVu Sans'), 44)
+font = ImageFont.truetype(font_manager.findfont('DejaVu Sans'), 88)
 y = pad
 for i, im in enumerate(images):
-    draw.text((10, y - 60), chr(65 + i), fill='black', font=font)
+    draw.text((20, y - 120), chr(65 + i), fill='black', font=font)
     canvas.paste(im, (0, y))
     y += im.height + pad
-canvas.save(OUT / 'Figure_4.png', dpi=(300, 300))
+canvas.save(OUT / 'Figure_4.png', dpi=(600, 600))
 
 # Original raw downloads remain external; this archive holds the curated inputs
 # and stored numerical outputs needed to reproduce figures and inspect claims.

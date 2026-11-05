@@ -2,7 +2,11 @@
 
 Upload the final `Acidophile_PeerJ_Line_Numbered_Manuscript.docx` as the manuscript. It contains native continuous Word line numbering, a structured abstract and figure legends. Figures are separate, as required by the journal upload instructions.
 
-Upload `figures/Figure_1.svg` through `Figure_4.svg` as the four figures, or use their 300-dpi PNG counterparts if the submission system requests raster images. Figure 4 combines panels A and B. Upload only one format for each figure unless requested otherwise.
+Upload `figures/Figure_1.png` through `Figure_4.png` as the four figures. These 600-dpi files exceed the portal's 900-pixel minimum in both dimensions. SVG sources are retained in the repository; the portal lists PDF/EPS for vector uploads. Figure 4 combines panels A and B. Upload only one format for each figure unless requested otherwise.
+
+The portal rejected the valid Word file with an unexpected request for an EPS extension. Its accepted RTF alternative, `Acidophile_PeerJ_Line_Numbered_Manuscript.rtf`, was exported with LibreOffice and uploaded successfully. The Word source remains the editable master. The current master has a separate author cover page and no headers or footers, following the portal's manuscript checks. The portal requires a short title even though the manuscript has no running title.
+
+To regenerate the RTF with LibreOffice installed, run `soffice --headless --convert-to rtf --outdir docs/submission docs/submission/Acidophile_PeerJ_Line_Numbered_Manuscript.docx` after rebuilding the Word source.
 
 Upload `Supplemental_Data_S1.zip` as Supplemental Data S1, titled “Curated inputs and stored analysis outputs for extracytoplasmic surface charge and reported minimum growth pH.” It is about 21 MB, below the stated 30 MB individual-file limit. This is intended as journal-hosted supplemental data; the GitHub repository supplies code, figures, retrieval instructions and a public project record. No external archive DOI is promised.
 

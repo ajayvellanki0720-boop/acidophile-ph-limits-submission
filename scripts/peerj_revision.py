@@ -19,6 +19,12 @@ def before(anchor, text, style=None):
 
 
 def revise(doc):
+    # The submission portal adds its own headers and footers.
+    for section in doc.sections:
+        for part in (section.header, section.footer, section.first_page_header, section.first_page_footer):
+            for paragraph in part.paragraphs:
+                paragraph.clear()
+    next(p for p in doc.paragraphs if p.text == 'Abstract').paragraph_format.page_break_before = True
     doc.paragraphs[0].text = TITLE
     doc.paragraphs[0].style = doc.styles['Title']
     for r in doc.paragraphs[0].runs:
@@ -151,7 +157,7 @@ def revise(doc):
             p.paragraph_format.line_spacing = 1.15
             p.paragraph_format.space_after = Pt(8)
             for r in p.runs:
-                r.font.size = Pt(10)
+                r.font.size = Pt(12)
     for p in doc.paragraphs:
         for r in p.runs:
             r.text = r.text.replace('Fig. 4b', 'Fig. 4B').replace('Fig. 4a', 'Fig. 4A')
