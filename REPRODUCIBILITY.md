@@ -14,7 +14,7 @@ Run `bash reproduce.sh figures`. This executes `scripts/100_figures.py`, which r
 
 ## Regenerate the Word manuscript source
 
-Run `bash reproduce.sh manuscript`. The generator asserts the headline values against their stored results before writing `docs/submission/Periplasmic_surface_charge_manuscript.docx`. The delivered PeerJ-formatted file additionally applies the supplied reference manuscript's margins, typography, paragraph rhythm, and black heading styles while retaining native continuous Word line numbering.
+Run `bash reproduce.sh manuscript`. The generator asserts the headline values against their stored results before writing `docs/submission/Periplasmic_surface_charge_manuscript.docx`; `scripts/108_peerj_submission.py` then applies the supplied reference manuscript's margins, typography, paragraph rhythm, and black heading styles, embeds all five figure panels, and retains native continuous Word line numbering.
 
 ## Full reconstruction
 

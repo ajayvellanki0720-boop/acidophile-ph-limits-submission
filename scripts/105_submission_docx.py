@@ -129,7 +129,7 @@ TODO = "[TO COMPLETE]"
 AUTHOR = "Ajay Vellanki"
 AFFIL = "Independent Researcher, West Windsor, New Jersey, USA"
 EMAIL = "ajayvellanki0720@gmail.com"
-ORCID = TODO + " (ORCID iD — not found on the linked GitHub account; add as 0000-0000-0000-0000)"
+ORCID = "0009-0008-7994-152X"
 
 # ---------------------------------------------------------------------------------------------------------------
 doc = Document()

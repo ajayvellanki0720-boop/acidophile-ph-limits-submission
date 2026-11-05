@@ -29,7 +29,7 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for commands and [PROVENANCE.md](PR
 
 ## Citation and license
 
-Citation metadata is recorded in [CITATION.cff](CITATION.cff). No reuse license has been selected by the author; absent a license, normal copyright restrictions apply. A license should be added before archival publication if reuse is intended.
+Citation metadata is recorded in [CITATION.cff](CITATION.cff). Software is released under the MIT License. Original documentation, curated data, and figures are released under Creative Commons Attribution 4.0 International; third-party source rights and database terms remain applicable. See [DATA_LICENSE.md](DATA_LICENSE.md) for scope.
 
 ## Original project record
 
