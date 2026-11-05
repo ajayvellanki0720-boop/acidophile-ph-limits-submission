@@ -1,0 +1,11 @@
+subset,scheme,n,M1_rmse,M1_r2,best_other,best_delta_rmse,ci,models_beating_M1
+all,family_blocked,356,0.66,0.817,M2_acidic_proteome,0.007,-0.016 to 0.034,none
+all,leave_one_lineage_out,356,0.657,0.819,M2_acidic_proteome,0.022,-0.006 to 0.059,none
+verified_only,family_blocked,94,0.628,0.736,M2_acidic_proteome,0.018,-0.012 to 0.062,none
+verified_only,leave_one_lineage_out,94,0.626,0.738,M2_acidic_proteome,0.036,-0.011 to 0.112,none
+database_only,family_blocked,262,0.668,0.825,M2_acidic_proteome,0.003,-0.017 to 0.040,none
+database_only,leave_one_lineage_out,262,0.672,0.823,M2_acidic_proteome,0.024,-0.013 to 0.090,none
+bacteria,family_blocked,220,0.608,0.825,M2_acidic_proteome,0.01,-0.008 to 0.029,none
+bacteria,leave_one_lineage_out,220,0.605,0.826,M2_acidic_proteome,-0.001,-0.020 to 0.018,none
+archaea,family_blocked,136,0.84,0.751,M3_composition,-0.049,-0.224 to 0.166,none
+archaea,leave_one_lineage_out,136,0.828,0.758,M2_acidic_proteome,0.047,-0.027 to 0.136,none

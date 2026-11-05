@@ -1,0 +1,45 @@
+check,where,detail,baseline,correction_source,tier
+C3,06b,"writes summary.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,07,"writes kdp_robustness.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C5,102,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C3,11,"writes model_comparison_all_subsets.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,11,"writes model_summary.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,15,"writes tree_sensitivity_bootstrap.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,20,"writes verified_only_pgls.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,20,"writes verified_only_screen.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,26,"writes holdout_leave_one_lineage_out_folds.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,26,"writes holdout_leave_one_lineage_out_summary.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,26,"writes holdout_random_class_splits.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,26,"writes holdout_random_split_summary.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C5,26,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C7,27a,"declares his_breakdown.csv, which does not exist",,traceability,LATENT
+C3,28,"writes close_relative_contrasts.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,28,"writes close_relative_interaction.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C3,28,"writes close_relative_power.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C5,28,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C1,34b,line 54 stores the pgls_scan return `b` in a per_pt/per_point column without dividing by the predictor SD,correction 15,correction 15,ERROR
+C2,34b,"line 55 multiplies the pgls_scan return `b` by an SD, converting an already-per-SD coefficient back to per unit",correction 15 records this as a live instance of correction 6,correction 6,ERROR
+C1,34d,line 31 stores the pgls_scan return `b` in a per_pt/per_point column without dividing by the predictor SD,correction 15,correction 15,ERROR
+C1,34e,line 50 stores the pgls_scan return `b` in a per_pt/per_point column without dividing by the predictor SD,correction 15,correction 15,ERROR
+C1,36b,line 57 stores the pgls_scan return `b` in a per_pt/per_point column without dividing by the predictor SD,correction 15,correction 15,ERROR
+C1,36c,line 103 stores the pgls_scan return `b` in a per_pt/per_point column without dividing by the predictor SD,correction 15,correction 15,ERROR
+C7,36c,"declares exposure_position_splits_summary.csv, which does not exist",,traceability,LATENT
+C3,43,"writes archaea_wide_panel.csv but does not declare it in the docstring preamble  [and that file is not in this DATA_DIR, so declaring it would only move the finding to C7 - not actionable here]",,2026-10-31 twice,LATENT
+C5,51,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C5,56,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C5,63,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C5,67,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT
+C7,81,"declares histidine_pooled.csv, which does not exist",,traceability,LATENT
+C7,82,"declares histidine_sidedness.csv, which does not exist",,traceability,LATENT
+C7,83,"declares shared_component.csv, which does not exist",,traceability,LATENT
+C7,84,"declares scoring_quality_impact.csv, which does not exist",,traceability,LATENT
+C7,85,"declares shared_candidates.csv, which does not exist",,traceability,LATENT
+C7,86,"declares composition_control_choice.csv, which does not exist",,traceability,LATENT
+C7,87,"declares acidic_vs_histidine.csv, which does not exist",,traceability,LATENT
+C7,88,"declares design_rescaling.csv, which does not exist",,traceability,LATENT
+C7,89,"declares optimum_and_histidine.csv, which does not exist",,traceability,LATENT
+C7,90,"declares what_organises_residues.csv, which does not exist",,traceability,LATENT
+C7,91,"declares what_is_scoring_quality.csv, which does not exist",,traceability,LATENT
+C7,92,"declares which_complexes.csv, which does not exist",,traceability,LATENT
+C7,93,"declares common_core_panel.csv, which does not exist",,traceability,LATENT
+C5,98,stores a ratio/share/fold of fitted quantities with no assertion anywhere,,correction 12,LATENT

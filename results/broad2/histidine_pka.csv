@@ -1,0 +1,3 @@
+part,genomes_shared,genomes_new,genomes_old,columns_compared,cells_compared,cells_identical,fraction_identical,columns_differing,old_columns_absent,references,median_H_per_genome,threshold
+reproducibility,3002.0,3002.0,3002.0,850.0,2290015.0,2283460.0,0.9971375733346725,759.0,0.0,,,
+histidine abundance,,,,,,,,,,32.0,0.0,2.0

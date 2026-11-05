@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying manuscript."
+title: "Acidophile pH limits submission archive"
+type: software
+authors:
+  - family-names: Vellanki
+    given-names: Ajay
+repository-code: "https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-submission"
+version: 1.0.0
+date-released: 2026-11-05

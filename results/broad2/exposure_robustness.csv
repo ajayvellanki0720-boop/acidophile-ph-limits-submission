@@ -1,0 +1,39 @@
+test,predictor,model,n,beta_per_sd,se,p
+"PGLS, all bacteria",exposed periplasmic,plain,2678,0.15694366243965174,0.02370773281889731,4.327301435005913e-11
+"PGLS, all bacteria",exposed periplasmic,+ genome-wide acidic excess,2678,0.10058794975641272,0.024999898047010048,5.89232521505035e-05
+"PGLS, all bacteria",exposed periplasmic,"+ acidic excess, GC, genome size",2678,0.09846455734521894,0.02492729574818351,8.01518265867432e-05
+"PGLS, all bacteria",exposed periplasmic,+ optimum,1604,0.06103792969800666,0.024291496417122912,0.012077998410302396
+"PGLS, all bacteria",buried periplasmic,plain,2641,0.04868663038871878,0.02151048087595429,0.02369261417812725
+"PGLS, all bacteria",buried periplasmic,+ genome-wide acidic excess,2641,0.01265263443039175,0.021501719250120375,0.5562823691062078
+"PGLS, all bacteria",buried periplasmic,"+ acidic excess, GC, genome size",2641,0.013874497591630426,0.021404571835721472,0.5169105092583408
+"PGLS, all bacteria",buried periplasmic,+ optimum,1582,0.01954966209662458,0.021068073452815507,0.35358692860938445
+"PGLS, all bacteria",exposed cytoplasmic,plain,2766,0.027534560014643977,0.03118748505011369,0.3773822753519108
+"PGLS, all bacteria",exposed cytoplasmic,+ genome-wide acidic excess,2766,0.011026666049771879,0.03030851570649494,0.716024691900668
+"PGLS, all bacteria",exposed cytoplasmic,"+ acidic excess, GC, genome size",2766,0.008793860556752084,0.030216157072837018,0.7710489417356172
+"PGLS, all bacteria",exposed cytoplasmic,+ optimum,1654,0.04820111059734638,0.028789010879377415,0.0942637700072727
+"PGLS, all bacteria",transmembrane,plain,2765,0.06698761284960632,0.02226096608560058,0.0026430966300761576
+"PGLS, all bacteria",transmembrane,+ genome-wide acidic excess,2765,0.03119369643614866,0.021999005358411577,0.1563155900176219
+"PGLS, all bacteria",transmembrane,"+ acidic excess, GC, genome size",2765,0.03309834461270534,0.021972788306727224,0.13209621458538362
+"PGLS, all bacteria",transmembrane,+ optimum,1653,0.040516756457518156,0.02148530911567518,0.05949936328447469
+"PGLS, all bacteria",soluble surface,plain,2619,0.060723495257648606,0.03280975986189119,0.0643146646868187
+"PGLS, all bacteria",soluble surface,+ genome-wide acidic excess,2619,-0.08008001859220323,0.03504675351150512,0.022395688520223337
+"PGLS, all bacteria",soluble surface,"+ acidic excess, GC, genome size",2619,-0.1001503478277087,0.03533090294636083,0.0046230441238972915
+"PGLS, all bacteria",soluble surface,+ optimum,1569,0.013855906925338621,0.02822469258715139,0.6235559799875503
+within families (135 families),exposed periplasmic,raw,2280,0.4177861151289125,0.05420040743376275,0.0004997501249375312
+within families (135 families),exposed periplasmic,genome-wide acidic excess removed,2280,0.31178553110383406,0.056203204899203905,0.0004997501249375312
+within families (134 families),buried periplasmic,raw,2252,0.0028033045086480806,0.045238840629427686,0.9525237381309345
+within families (134 families),buried periplasmic,genome-wide acidic excess removed,2252,-0.008899736782899846,0.04688435612527407,0.8595702148925537
+within families (140 families),exposed cytoplasmic,raw,2342,-0.03521619887224282,0.07062738025457625,0.6256871564217891
+within families (140 families),exposed cytoplasmic,genome-wide acidic excess removed,2342,-0.06297445450742195,0.06549414869897091,0.34132933533233384
+within families (140 families),transmembrane,raw,2341,0.18723563623686007,0.06344515243713506,0.005497251374312844
+within families (140 families),transmembrane,genome-wide acidic excess removed,2341,0.046319070895899754,0.0627339656446717,0.463768115942029
+within families (134 families),soluble surface,raw,2203,0.023195336652653463,0.05677615283744857,0.6831584207896052
+within families (134 families),soluble surface,genome-wide acidic excess removed,2203,-0.09120025126930745,0.05470659716335613,0.09645177411294353
+subset: hand-curated literature only,exposed periplasmic,plain,87,0.22514356706496727,0.09853514502553148,0.024808963458350878
+subset: hand-curated literature only,exposed periplasmic,+ genome-wide acidic excess,87,0.2253227257841054,0.09901761428209477,0.025416788782241573
+subset: parser-extracted descriptions only,exposed periplasmic,plain,2459,0.13567069695917458,0.02296891980759191,3.973309827722786e-09
+subset: parser-extracted descriptions only,exposed periplasmic,+ genome-wide acidic excess,2459,0.07832939951221302,0.024322414198969407,0.0012965510942859076
+subset: databases only (ThermoBase/AciDB/BacDive),exposed periplasmic,plain,132,0.08454827875725113,0.09331547691529864,0.3666263493177805
+subset: databases only (ThermoBase/AciDB/BacDive),exposed periplasmic,+ genome-wide acidic excess,132,0.090639328175485,0.0946680727953437,0.3401769619537305
+subset: minima recorded as measured,exposed periplasmic,plain,2542,0.15080360958532965,0.02324987826164286,1.0543531521970862e-10
+subset: minima recorded as measured,exposed periplasmic,+ genome-wide acidic excess,2542,0.096740817232513,0.024584294328582133,8.540748152637798e-05

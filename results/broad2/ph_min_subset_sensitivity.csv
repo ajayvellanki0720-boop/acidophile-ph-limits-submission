@@ -1,0 +1,6 @@
+subset,description,n,lam,beta,se,p,z_vs_null,frac_null_more_extreme
+baseline,all genomes in the headline fit,2768,0.5730029268313387,0.18483736873503334,0.028980417768613466,2.0961278493295514e-10,,
+source retrievable,"drops every row with no fetchable source: ThermoBase, AciDB, BacDive and parser rows without a PMID",2598,0.5193270329393511,0.16785519499176602,0.028461104280686284,4.164814916705508e-09,-2.332086566455248,0.015
+value corroborated in source text,keeps rows whose stored minimum is stated by the cited paper,2590,0.5180568043484566,0.16636947135525323,0.028522649398596823,6.126087265889383e-09,-2.7020917470319454,0.0075
+literature origins only,"drops database compilations, keeping only values traced to a paper",2624,0.5243354322748024,0.16526377531399983,0.02836685531493446,6.373307760451419e-09,-3.002239569448677,0.005
+hand-read only,"the rows a human read, with the sentence stored; small by construction",90,,,,,,

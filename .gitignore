@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+data/raw/*
+!data/raw/.gitkeep
+results/full/annotations.tsv
+tools/iqtree3
+tools/FastTree
+results/broad/annotations.tsv
+results/broad2/annotations.tsv
+data/raw/structures/
+results/archaea_ext/annotations_ext.tsv
+results/archaea_ext2/annotations_ext.tsv
+results/phylo_broad2_boot/
+results/phylo_broad2_ml/

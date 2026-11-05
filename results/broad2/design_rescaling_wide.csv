@@ -1,0 +1,12 @@
+part,specification,beta_per_pt,se,p,beta_per_sd,sd_of_composite,n,lambda,ratio,reduction,prediction,committed,rescaled,resolution_target,margin_committed,margin_rescaled,still_detectable,n_committed,inflation_factor,n_rescaled,quoted_input,source,factor_section9,factor_this_script,product,rescaled_target,margin_over_resolution,assumes
+ratio,"net D+E-K-R, histidine free",0.07623235669979916,0.010700648328584137,1.3311763872465612e-12,0.234173248061466,3.0718353491763812,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,
+ratio,"net D+E-K-R, histidine held fixed",0.05453130677806614,0.011002017017232413,7.612098917513486e-07,0.16751119579764517,3.0718353491763812,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,
+ratio,rescaling factor,,,,,,,,0.7153301975538926,0.2846698024461074,,,,,,,,,,,,,,,,,,
+rescaled prediction,,,,,,,,,,,"NuoN, per reversal (32-ref)",-0.004,-0.0028613207902155706,,,,,,,,,,,,,,,
+rescaled prediction,,,,,,,,,,,"NuoL+NuoN 14 reversals (32-ref), the design target",-0.05,-0.035766509877694634,,,,,,,,,,,,,,,
+rescaled prediction,,,,,,,,,,,"NuoN, per reversal (7-ref)",-0.012,-0.008583962370646712,,,,,,,,,,,,,,,
+rescaled prediction,,,,,,,,,,,"NuoL+NuoN 14 reversals (7-ref), optimistic end",-0.16,-0.11445283160862282,,,,,,,,,,,,,,,
+resolution margin,,,,,,,,,,,,,,0.02,2.5,1.7883254938847317,True,,,,,,,,,,,
+sample size,,,,,,,,,,,,,,,,,,64.0,1.9542804242818697,126.0,,,,,,,,
+compounded rescaling,,,,,,,,,,,,,-0.0397,,,,,,,,docs/PREREGISTRATION.md section 9 target,"scripts/75 wide, via the pre-registration",,,,,,
+compounded rescaling,,,,,,,,,,,,,,,,,True,,,199.0,,,0.7939999999999999,0.7153301975538926,0.5679721768577907,-0.028398608842889535,1.4199304421444767,the two rescalings are independent; untested

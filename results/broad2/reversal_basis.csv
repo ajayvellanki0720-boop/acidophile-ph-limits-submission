@@ -1,0 +1,31 @@
+part,panel,component,pooled_beta_per_pt,pooled_se,pooled_p,n_refs,n_refs_positive,beta_DE,beta_K,effect_reversal_times_N,effect_neutralise_times_N,ratio_reversal_over_neutralise,share_neutral_control_of_reversal,ratio_corrected_scripts74,share_corrected_scripts74,note,ratio_7ref,ratio_32ref,share_7ref,share_32ref,gap_percentage_points,beta_net,n_positions,n_glutamate,n_aspartate,beta_E,beta_D,ref,pos,ref_aa
+pooled coefficient,7-reference hand-picked,D,0.014630129399388,0.0124582545148226,0.2402619916146886,6.0,5.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,D,0.0099794882500897,0.0040825785179935,0.0145090015272289,32.0,18.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,E,0.0321247291674165,0.0152335930563288,0.0349611223073858,6.0,5.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,E,0.0380911770978869,0.0060993743585297,4.2354048234043184e-10,32.0,31.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,D+E,0.0408960357086267,0.0093754628861896,1.2886211635584129e-05,6.0,6.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,D+E,0.0395112385679717,0.0063209855022569,4.0834626712448886e-10,32.0,30.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,K,-0.0353237735612237,0.0144581312150094,0.0145585953450563,6.0,1.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,K,-0.0104507768564055,0.005042073019043,0.0381988759930218,32.0,11.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,R,0.0240785860130834,0.0173318312730905,0.1647507894286605,6.0,4.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,R,0.0064954032383237,0.0062517962460908,0.2988205863894655,32.0,15.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,K+R,-0.0119156261135919,0.0092319532281053,0.1968098258009792,6.0,1.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,K+R,-0.0031232852671434,0.0048807487479112,0.5222250731292009,32.0,16.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,7-reference hand-picked,net D+E-K-R,0.0419511222106931,0.0096403442759799,1.3513486248717088e-05,6.0,6.0,,,,,,,,,,,,,,,,,,,,,,,
+pooled coefficient,32-reference rule-selected,net D+E-K-R,0.0336111026151764,0.0068974571549833,1.0993285547041006e-06,32.0,27.0,,,,,,,,,,,,,,,,,,,,,,,
+reversal vs neutralisation SUPERSEDED,7-reference hand-picked,,,,,,,0.0408960357086267,-0.0353237735612237,-0.0762198092698504,-0.0408960357086267,1.863745665054093,0.5365538972137468,2.62,0.38,"computed on per-SD coefficients mislabelled per point; correction 15, see scripts/74",,,,,,,,,,,,,,
+reversal vs neutralisation SUPERSEDED,32-reference rule-selected,,,,,,,0.0395112385679717,-0.0104507768564055,-0.0499620154243772,-0.0395112385679717,1.2645013731580925,0.790825554821265,1.27,0.79,"computed on per-SD coefficients mislabelled per point; correction 15, see scripts/74",,,,,,,,,,,,,,
+verdict reversal,,,,,,,,,,,,,,,,"margin of reversal over neutralisation, scale-free; falls because the basic term shrinks",1.863745665054093,1.2645013731580925,,,,,,,,,,,,
+neutral control prediction,7-reference hand-picked,,,,,,,0.0408960357086267,-0.0353237735612237,,,,0.5365538972137468,,,,,,,,,,,,,,,,,
+neutral control prediction,32-reference rule-selected,,,,,,,0.0395112385679717,-0.0104507768564055,,,,0.790825554821265,,,,,,,,,,,,,,,,,
+verdict neutral control,,,,,,,,,,,,,,,,"prediction recorded before construction; needs pooled-assay resolution, not the primary endpoint",,,0.5365538972137468,0.790825554821265,25.427165760751823,,,,,,,,,
+net basis,7-reference hand-picked,,,,,,,,,,,2.0,,,,ratio is 2 by construction under the single net predictor; not comparable with the separate-term ratio,,,,,,0.0419511222106931,,,,,,,,
+net basis,32-reference rule-selected,,,,,,,,,,,2.0,,,,ratio is 2 by construction under the single net predictor; not comparable with the separate-term ratio,,,,,,0.0336111026151764,,,,,,,,
+arm composition,7-reference hand-picked,,,,,,,0.0408960357086267,,,,,,,,,,,,,,,14.0,9.0,5.0,0.0321247291674165,0.014630129399388,,,
+arm composition,32-reference rule-selected,,,,,,,0.0395112385679717,,,,,,,,,,,,,,,14.0,9.0,5.0,0.0380911770978869,0.0099794882500897,,,
+ratio withheld,both,,,,,,,,,,,,,,,"per-position residue weighting not reported: b_D and b_E come from separate univariate fits and are not additive against b_DE from the summed-predictor model; needs a simultaneous D,E fit",,,,,,,,,,,,,,
+aspartate position,both,,,,,,,,,,,,,,,,,,,,,,,,,,,NuoL,72.0,D
+aspartate position,both,,,,,,,,,,,,,,,,,,,,,,,,,,,NuoN,62.0,D
+aspartate position,both,,,,,,,,,,,,,,,,,,,,,,,,,,,NuoN,195.0,D
+aspartate position,both,,,,,,,,,,,,,,,,,,,,,,,,,,,NuoL,160.0,D
+aspartate position,both,,,,,,,,,,,,,,,,,,,,,,,,,,,NuoL,210.0,D

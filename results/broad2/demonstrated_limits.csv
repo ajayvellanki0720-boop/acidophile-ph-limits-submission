@@ -1,0 +1,13 @@
+part,query,hit_count,n_checked,n_with_nogrowth_clause,rate,n_papers,n_with_bound
+stopword test,"""no growth at pH 4.0""",114.0,,,,,
+stopword test,"""growth at pH 4.0""",114.0,,,,,
+stopword test,"""not growth at pH 4.0""",114.0,,,,,
+stopword test,"""never growth at pH 4.0""",0.0,,,,,
+stopword test,"""xylophone growth at pH 4.0""",0.0,,,,,
+stopword test,"""no growth at pH""",7272.0,,,,,
+stopword test,"""growth at pH""",7272.0,,,,,
+stopword test,"EXT_ID:24867171 AND ""no growth at pH 4.0""",1.0,,,,,
+stopword test,"EXT_ID:24867171 AND ""growth at pH 4.0""",1.0,,,,,
+stopword test,"EXT_ID:24867171 AND ""no growth at pH 9.9""",0.0,,,,,
+ground truth,,,201.0,2.0,0.009950248756218905,,
+fulltext comparison,,,,,,99.0,34.0

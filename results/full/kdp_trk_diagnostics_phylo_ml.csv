@@ -1,0 +1,12 @@
+feature,test,beta_per_sd,p,note
+Kdp,PGLS main tree (n=219),-0.185,1.65e-04,lambda=0.21
+Kdp,leave-one-phylum-out (22 fits),-0.210 to -0.162,max p 2.0e-03,weakest when dropping Bacillota
+Kdp,permute within family,rho -0.199,0.2400,31 family strata have variation in the feature
+Kdp,permute within phylum,rho -0.199,0.0320,12 phylum strata have variation in the feature
+Kdp,calibration vs 4000 tree-simulated null features,t_obs -3.84,0.0010,null |t| 95th pct 2.14; share of null |t|>1.96: 0.07
+Trk/Ktr,PGLS main tree (n=219),0.213,3.30e-05,lambda=0.23
+Trk/Ktr,leave-one-phylum-out (22 fits),0.184 to 0.260,max p 3.2e-03,weakest when dropping Bacillota
+Trk/Ktr,permute within family,rho 0.199,0.0950,21 family strata have variation in the feature
+Trk/Ktr,permute within phylum,rho 0.199,0.0200,12 phylum strata have variation in the feature
+Trk/Ktr,calibration vs 4000 tree-simulated null features,t_obs 4.24,0.0015,null |t| 95th pct 2.15; share of null |t|>1.96: 0.07
+(both),family-blocked CV: M1 (opt only) RMSE,0.607,,n=219

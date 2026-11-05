@@ -1,0 +1,31 @@
+part,quantity,independent,published,abs_diff,tolerance,kind,agrees
+1,max root-to-tip depth difference vs Bio.Phylo,0.0,0.0,0.0,1e-09,exact,True
+comparison,covariance matrix vs ph.vcv_fast (max element),0.0,0.0,0.0,1e-09,exact,True
+comparison,headline n,2768.0,2768.0,0.0,0.0,exact,True
+comparison,headline references used,32.0,32.0,0.0,0.0,exact,True
+comparison,headline SD of predictor,0.38330195281603485,0.3833019528160348,5.551115123125783e-17,0.0005,convention (ddof),True
+comparison,headline lambda,0.5730000000000001,0.5730029268313387,2.926831338623259e-06,0.002,convention (grid vs Brent),True
+comparison,headline beta per SD,0.18483750204947552,0.1848373687350333,1.3331444223552147e-07,0.0005,convention,True
+comparison,headline se per SD,0.02898040882118229,0.0289804177686134,8.947431108519144e-09,0.0005,convention,True
+comparison,headline beta per unit,0.4822242639034714,0.4822239160981936,3.4780527780053916e-07,0.002,convention,True
+comparison,headline log10(p),-9.67860058541642,-9.678582231914941,1.835350147949555e-05,0.05,convention,True
+comparison,beta_per_unit * SD == beta_per_sd,0.0,0.0,0.0,1e-12,exact,True
+comparison,"exposed periplasmic, 32-reference panel, | n",1655.0,1655.0,0.0,0.0,exact,True
+comparison,"exposed periplasmic, 32-reference panel, | beta per SD",0.09036523039657494,0.0903640533515578,1.1770450171477709e-06,0.0005,convention,True
+comparison,"exposed periplasmic, 32-reference panel, | log10(p)",-2.44973652604958,-2.4497129739963044,2.3552053275643914e-05,0.05,convention,True
+comparison,"exposed periplasmic, 32 refs, + composit | n",1655.0,1655.0,0.0,0.0,exact,True
+comparison,"exposed periplasmic, 32 refs, + composit | beta per SD",0.21232334377548057,0.2123234655728475,1.217973669420669e-07,0.0005,convention,True
+comparison,"exposed periplasmic, 32 refs, + composit | log10(p)",-8.069350966612603,-8.069439620610453,8.865399784951933e-05,0.05,convention,True
+comparison,"exposed periplasmic, 32 references, NO c | n",2768.0,2768.0,0.0,0.0,exact,True
+comparison,"exposed periplasmic, 32 references, NO c | beta per SD",0.25004866722864905,0.2500531736205716,4.506391922565189e-06,0.0005,convention,True
+comparison,"exposed periplasmic, 32 references, NO c | log10(p)",-22.187466717685048,-22.18879342084981,0.0013267031647608007,0.05,convention,True
+comparison,"exposed cytoplasmic control, 32 referenc | n",2768.0,2768.0,0.0,0.0,exact,True
+comparison,"exposed cytoplasmic control, 32 referenc | beta per SD",0.021165868801377104,0.0211659096511173,4.0849740194637274e-08,0.0005,convention,True
+comparison,"exposed cytoplasmic control, 32 referenc | log10(p)",-0.4864658580031055,-0.48646696051724053,1.1025141350429202e-06,0.05,convention,True
+comparison,"transmembrane control, 32 references | n",2768.0,2768.0,0.0,0.0,exact,True
+comparison,"transmembrane control, 32 references | beta per SD",-0.043032339988021744,-0.0430322720063736,6.79816481441442e-08,0.0005,convention,True
+comparison,"transmembrane control, 32 references | log10(p)",-1.137695948114589,-1.1376928848620835,3.0632525054308246e-06,0.05,convention,True
+comparison,acidic D+E sum (per pt),0.053226280468520085,0.0532262584288336,2.2039686485564314e-08,0.0005,convention,True
+comparison,acidic D+E difference (per pt),0.053596451562688385,0.0535963686029468,8.295974158328834e-08,0.0005,convention,True
+comparison,histidine sum (per pt),-0.1316798961516246,-0.1316797003044723,1.958471523011429e-07,0.0005,convention,True
+comparison,histidine difference (per pt),-0.08000361541294203,-0.0800034862837264,1.291292156258006e-07,0.0005,convention,True

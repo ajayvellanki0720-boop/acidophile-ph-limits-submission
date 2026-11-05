@@ -1,0 +1,23 @@
+family,test,a,b,n,value,se,p
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",correlation,"NuoL, P33607","NuoN, P0AFF0",2286,0.2518865523008346,,
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",correlation,"NuoL, P33607","HyfB, P23482",2286,0.07897609507009366,,
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",correlation,"NuoN, P0AFF0","HyfB, P23482",2286,0.08734143096769778,,
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",coefficient,"NuoL, P33607",,2286,0.04764844486106421,0.021066035299905746,0.023799829064756105
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",coefficient,"NuoN, P0AFF0",,2286,0.048909740976694115,0.021229094449301062,0.02131774676586091
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",coefficient,"HyfB, P23482",,2286,-0.006795178967842025,0.019008880570049142,0.7207701506107476
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",difference,"NuoL, P33607","NuoN, P0AFF0",2286,-0.0012612961156299035,0.029907395312768717,0.9663604788710408
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",difference,"NuoL, P33607","HyfB, P23482",2286,0.05444362382890624,0.028374555217364497,0.05501622133257468
+"PF00361 (NuoL/NuoM/NuoN, the design's target)",difference,"NuoN, P0AFF0","HyfB, P23482",2286,0.05570491994453614,0.028495824109222335,0.05060136517292743
+PF00344 (SecY),correlation,"SecY E. coli, P0AGA2","SecY B. subtilis, P16336",2712,0.12594713826087334,,
+PF00344 (SecY),correlation,"SecY E. coli, P0AGA2","SecY E. coli again, via the wide panel",2712,1.0,,
+PF00344 (SecY),correlation,"SecY B. subtilis, P16336","SecY E. coli again, via the wide panel",2712,0.12594713826087334,,
+PF00344 (SecY),coefficient,"SecY E. coli, P0AGA2",,2712,0.025327251207619854,0.02347257196039359,0.28067735899395335
+PF00344 (SecY),coefficient,"SecY B. subtilis, P16336",,2712,0.038725537490390205,0.026318496707327374,0.1412941452170531
+PF00344 (SecY),coefficient,"SecY E. coli again, via the wide panel",,2712,0.025327251207619854,0.02347257196039359,0.28067735899395335
+PF00344 (SecY),difference,"SecY E. coli, P0AGA2","SecY B. subtilis, P16336",2712,-0.013398286282770351,0.035265066331561845,0.7039967536463456
+PF00344 (SecY),difference,"SecY E. coli, P0AGA2","SecY E. coli again, via the wide panel",2712,0.0,0.03319522961016704,1.0
+PF00344 (SecY),difference,"SecY B. subtilis, P16336","SecY E. coli again, via the wide panel",2712,0.013398286282770351,0.035265066331561845,0.7039967536463456
+PF00115 (cytochrome bo3 subunit 1),correlation,"CyoB, P0ABI8","CyoB again, via the wide panel",2399,0.9994287309900479,,
+PF00115 (cytochrome bo3 subunit 1),coefficient,"CyoB, P0ABI8",,2399,0.02748668768167368,0.022589572144253046,0.22380547887595606
+PF00115 (cytochrome bo3 subunit 1),coefficient,"CyoB again, via the wide panel",,2399,0.02849336848499979,0.022569930408325094,0.20691061149829865
+PF00115 (cytochrome bo3 subunit 1),difference,"CyoB, P0ABI8","CyoB again, via the wide panel",2399,-0.0010066808033261099,0.03193259351034693,0.9748507102609604

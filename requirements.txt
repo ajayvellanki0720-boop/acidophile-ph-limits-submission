@@ -1,0 +1,8 @@
+biopython==1.85
+matplotlib==3.9.4
+numpy==2.0.2
+pandas==2.3.3
+pyhmmer==0.12.3
+pytest
+python-docx
+scipy==1.13.1

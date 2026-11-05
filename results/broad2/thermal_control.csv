@@ -1,0 +1,27 @@
+predictor,subset,model,n,beta_per_sd,se,p
+exposed periplasmic,all bacteria,+ composition (reference),2768,0.18483736873503334,0.02898041776861345,2.096127849329498e-10
+exposed periplasmic,all bacteria,"+ composition, IVYWREL",2768,0.1768563823248844,0.02897164002853584,1.1761662919993626e-09
+exposed periplasmic,all bacteria,"+ composition, growth temperature",1464,0.23547318831151223,0.04157712230793913,1.7840306025469352e-08
+exposed periplasmic,all bacteria,"+ composition, IVYWREL, growth temperature",1464,0.22752582290703005,0.04168420421828385,5.643153725289774e-08
+exposed periplasmic,all bacteria,"+ composition, GC, size, IVYWREL, temperature",1464,0.2304941446668164,0.041528442307518225,3.385399273449121e-08
+exposed periplasmic,mesophiles only (optimum < 45 C),+ composition (reference),1249,0.19924364910440276,0.04221208151940904,2.625235868065683e-06
+exposed periplasmic,mesophiles only (optimum < 45 C),"+ composition, growth temperature",1249,0.19918830248868852,0.04223250622884989,2.671401010622816e-06
+exposed periplasmic,mesophiles only (optimum < 45 C),"+ composition, IVYWREL, growth temperature",1249,0.19357661723304495,0.042423144553509616,5.543330826519836e-06
+exposed periplasmic,mesophiles only (optimum < 45 C),"+ composition, GC, size, IVYWREL, temperature",1249,0.19089833919042207,0.042228815770485685,6.757963042104879e-06
+exposed periplasmic,thermophiles only (optimum >= 45 C),+ composition (reference),215,0.2589448143757721,0.07656440457644073,0.0008587477986063571
+exposed periplasmic,thermophiles only (optimum >= 45 C),"+ composition, growth temperature",215,0.2573060538523694,0.07489631267941103,0.0007139811250736893
+exposed periplasmic,thermophiles only (optimum >= 45 C),"+ composition, IVYWREL, growth temperature",215,0.25483784825571887,0.07508865646845791,0.0008259024437169092
+exposed periplasmic,thermophiles only (optimum >= 45 C),"+ composition, GC, size, IVYWREL, temperature",215,0.26135585917138565,0.0754514666223595,0.000648170516182394
+soluble surface,all bacteria,+ composition (reference),2764,-0.09351704455083765,0.038369369788353015,0.01486088364078566
+soluble surface,all bacteria,"+ composition, IVYWREL",2764,-0.07694840420686651,0.038226315265730504,0.04421491713998853
+soluble surface,all bacteria,"+ composition, growth temperature",1461,-0.07529080562876485,0.048518127034685575,0.12092600235470116
+soluble surface,all bacteria,"+ composition, IVYWREL, growth temperature",1461,-0.06251521640470847,0.04871661112183965,0.19961197048576798
+soluble surface,all bacteria,"+ composition, GC, size, IVYWREL, temperature",1461,-0.09163449534747019,0.04913205582237994,0.06237410538203778
+soluble surface,mesophiles only (optimum < 45 C),+ composition (reference),1246,-0.052697132054344474,0.05382282013598351,0.3277289648957591
+soluble surface,mesophiles only (optimum < 45 C),"+ composition, growth temperature",1246,-0.05273790537407783,0.05386871281460406,0.32776725476087987
+soluble surface,mesophiles only (optimum < 45 C),"+ composition, IVYWREL, growth temperature",1246,-0.043176536760375445,0.05426079673276977,0.42634601158392393
+soluble surface,mesophiles only (optimum < 45 C),"+ composition, GC, size, IVYWREL, temperature",1246,-0.07605453692328354,0.05465316668780977,0.16429863696288136
+soluble surface,thermophiles only (optimum >= 45 C),+ composition (reference),215,-0.08066850553842958,0.0876598600054278,0.35850592778010515
+soluble surface,thermophiles only (optimum >= 45 C),"+ composition, growth temperature",215,-0.06517578883408796,0.08559662300486441,0.44726303385297306
+soluble surface,thermophiles only (optimum >= 45 C),"+ composition, IVYWREL, growth temperature",215,-0.06244506811737678,0.0857892467852612,0.4675039390461485
+soluble surface,thermophiles only (optimum >= 45 C),"+ composition, GC, size, IVYWREL, temperature",215,-0.07958736775567252,0.08881121811126812,0.3712285918363113

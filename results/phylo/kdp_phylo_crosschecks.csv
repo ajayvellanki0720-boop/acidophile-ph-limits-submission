@@ -1,0 +1,10 @@
+check,n,lambda,beta_kdp_per_sd,p_one_sided_neg
+PGLS ph_opt + Kdp (reference),26,1.0,-0.171,0.0312
++ database-tier indicator,26,0.61,-0.218,0.0091
+"+ source indicators (ThermoBase, AciDB vs literature)",26,1.0,-0.185,0.0136
+independent contrasts: d(pH_min) ~ d(pH_opt) + d(Kdp rate),26,,-0.698,0.0312
+Fitch parsimony: minimum independent Kdp gains/losses on the tree = 6 (Kdp present in 14 of 26),26,,,
+contrasts where Kdp differs: pH_min residual moves opposite to Kdp in 12 of 20 (one-sided sign test),20,,,0.2517
+"PGLS, 13 strains from the first run only",13,0.0,-0.391,0.0065
+"PGLS, 13 strains added later only",13,1.0,-0.13,0.0592
+leave-one-genus-out (6 genera): RMSE opt+Kdp minus opt-only = -0.076 (bootstrap over genera 95% CI -0.114 to 0.033); negative = Kdp helps,26,,,

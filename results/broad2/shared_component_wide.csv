@@ -1,0 +1,13 @@
+part,pool,positions_per_genome,his_share_pct,n_genomes,regressor,controls_charged_residues,beta_per_pt,se,p,control_set,beta_sum_per_pt,beta_difference_per_pt,candidate,r_with_exposed,beta_candidate_per_pt,p_candidate,beta_exposed_controlled_per_pt,p_exposed_controlled,exposed_survives,beta_nonexposed_alone_per_pt,p_nonexposed_alone,beta_nonexposed_joint,p_nonexposed_joint,beta_exposed_joint,p_exposed_joint,verdict,measure,beta_uncontrolled_per_pt,p_uncontrolled,beta_controlled_per_pt,p_controlled,beta_quality,p_quality,retained
+pools,exposed (peri + cyto),1934.1734104046243,1.99195662364046,2768.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pools,non-exposed (bur + TM),7005.119219653179,0.9919039626165261,2768.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+regressor comparison,,,,,one pooled share over both faces,no,-0.3664910873401012,0.043900187171243256,1.0807745911154916e-16,,,,,,,,,,,,,,,,,,,,,,,,,
+regressor comparison,,,,,one pooled share over both faces,yes,-0.2984046937650071,0.04577299816694117,8.373437354361037e-11,,,,,,,,,,,,,,,,,,,,,,,,,
+regressor comparison,,,,,sum of two shares (scripts/82's),yes,-0.14465728967276073,0.02275115823374756,2.3803786028981453e-10,,,,,,,,,,,,,,,,,,,,,,,,,
+reconciliation with scripts/82,,,,,,,,,,"periplasmic D/E/K, as scripts/82 fits it",-0.1316797003044723,-0.08000348628372643,,,,,,,,,,,,,,,,,,,,,,
+reconciliation with scripts/82,,,,,,,,,,"pooled-exposed D/E/K, as used below",-0.14486217201050863,-0.09503741320023527,,,,,,,,,,,,,,,,,,,,,,
+candidate,,,,,,,,,,,,,"non-exposed His, same proteins",0.4642541857502863,0.11478406077023438,0.47336946340048613,-0.30668593806519756,9.748233920781875e-11,True,,,,,,,,,,,,,,,
+candidate,,,,,,,,,,,,,proteome-wide His,0.5723220079318017,0.02311976923804325,0.878334048745125,-0.3013738263492942,1.532801855401919e-09,True,,,,,,,,,,,,,,,
+candidate,,,,,,,,,,,,,"scoring quality, log10 positions",0.3111066063370889,-2.359830225535202,1.699402365282572e-09,-0.2629616582296532,1.0852596063209777e-08,True,,,,,,,,,,,,,,,
+falsifier,,,,,,,,,,,,,,,,,,,,-0.13955587033628478,0.3721817032610768,0.11478406077023438,0.47336946340048613,-0.30668593806519756,9.748233920781875e-11,"PASSES: the exposed share keeps its coefficient with the non-exposed share held fixed, and the non-exposed share does not carry more. Solvent accessibility is doing work, which is the minimum the titration reading requires.",,,,,,,,
+scoring quality against the headline,,,,,,,,,,,,,,,,,,,,,,,,,,,"acidic D+E, exposed periplasmic",0.10681245029190164,3.16831565205923e-17,0.11775120456019354,1.8480562742810596e-20,-2.349920937155179,2.3172230023838302e-10,1.1024108541504103

@@ -1,0 +1,8 @@
+part,n_refs,median_share,min_share,max_share,n_at_80pct,subset,r_agreement_vs_abs_beta,r_agreement_vs_positions,ref,beta_ref,share_same_sign,positions
+overall,32.0,0.44999999999999996,0.075,1.0,13.0,,,,,,,
+by subset,10.0,1.0,,,10.0,"individually significant, p<0.05",,,,,,
+by subset,22.0,0.35,,,3.0,not individually significant,,,,,,
+by subset,27.0,0.75,,,13.0,coefficient positive,,,,,,
+by subset,5.0,0.325,,,0.0,coefficient zero or negative,,,,,,
+correlations,,,,,,,0.787766294488592,0.27684853312571395,,,,
+concentrated signature,,,,,,,,,P62517,0.0320269168876567,0.375,51.0

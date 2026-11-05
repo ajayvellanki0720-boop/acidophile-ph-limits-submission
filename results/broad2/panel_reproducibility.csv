@@ -1,0 +1,2 @@
+part,genomes_shared,genomes_new,genomes_old,columns_compared,cells_compared,cells_identical,fraction_identical,columns_differing,old_columns_absent
+reproducibility,3002,3002,3002,850,2290015,2283460,0.9971375733346725,759,0

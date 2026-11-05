@@ -1,0 +1,16 @@
+part,term,beta,se,p,n,lambda,beta_per_sd,sd_of_term,level,reference_category,retained,survives,r_breadth_meanscore,verdict,artefact_by_assembly,r_breadth_depth
+baseline,log10 scorable positions,-1.8790486508148068,0.3715659029361381,4.53524651126376e-07,2768.0,0.5730029268313387,,,,,,,,,,
+decomposition,breadth alone (references detected),-0.04895412323535419,0.00962372604383889,3.8851886401602e-07,,,-0.1260127842000485,2.574099501164047,,,,,,,,
+decomposition,depth alone (log10 positions per reference),-1.286561907705731,0.5028261798957876,0.010560500154140458,,,-0.06399620318617497,0.04974203169149984,,,,,,,,
+decomposition,"breadth, both in",-0.04784697067984729,0.009627929040073598,7.118992401179965e-07,,,-0.1231628633592057,2.574099501164047,,,,,,,,
+decomposition,"depth, both in",-1.1630877543254607,0.5012982565378638,0.02040528207847612,,,-0.05785434793565245,0.04974203169149984,,,,,,,,
+assembly level,,-0.08525448229656937,0.04374507571847132,0.05140943663980892,,,,,Complete Genome,Contig,,,,,,
+assembly level,,-0.13867848795704868,0.157489288296208,0.3786337018476684,,,,,Chromosome,Contig,,,,,,
+assembly level,,-0.047339245729143394,0.03630170287944533,0.19232526353310328,,,,,Scaffold,Contig,,,,,,
+assembly level,scoring quality controlled,-1.9116763479542465,0.37270517743293774,3.1115946905623676e-07,,,,,,,1.0173639448479908,,,,,
+distance control,log10 genome size,0.06480962083412084,0.2018261960801334,0.7481468162228233,,,,,,,,,,,,
+distance control,mean alignment score,-0.00185117344640303,0.0003219727386889081,9.934889609037217e-09,,,,,,,,,,,,
+distance control,"breadth, distance held fixed",-0.035987260378701896,0.010569129819529236,0.0006712451439098234,,,,,,,,,,,,
+distance control,"depth, distance held fixed",0.046542359268160485,0.542626020136435,0.931653539059746,,,,,,,,,,,,
+distance control,breadth survives,,,,,,,,,,,True,0.3731571302746598,,,
+verdict,,,,,,,,,,,,,,"GENE CONTENT. Breadth carries the effect and depth does not, with assembly level, similarity to the reference organism and genome size all held fixed - genome size being the confound that would most easily have manufactured this, and it comes back null - so this is a statement about which complexes acid-tolerant genomes HAVE rather than about how well this panel measures them. It is a finding, and it has been held fixed as a nuisance for two days. Depth behaves exactly as the measurement account predicted it would - it predicts the limit until similarity to E. coli is controlled and then carries nothing - so both halves of the decomposition came out as their accounts said.",False,0.24844246910045292

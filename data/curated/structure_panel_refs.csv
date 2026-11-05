@@ -1,0 +1,47 @@
+label,uniprot,pfam,membrane,prevalence,exposed_peri_positions,status,n_tm,name,accepted
+P0AEJ0,P0AEJ0,PF07690,True,1.0,60.0,ok,14,Multidrug export protein EmrB,True
+P0ABG4,P0ABG4,PF01098,True,0.9133333333333333,42.0,ok,10,Probable peptidoglycan glycosyltransferase FtsW,True
+P0AC78,P0AC78,PF00953,True,0.9666666666666667,19.0,ok,11,Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphat,True
+P0AGA2,P0AGA2,PF00344,True,1.0,26.0,ok,10,Protein translocase subunit SecY,True
+P38101,P38101,PF01810,True,0.8466666666666667,20.0,ok,6,Cysteine/O-acetylserine efflux protein,True
+P76224,P76224,PF00528,True,0.98,63.0,ok,12,Inner membrane ABC transporter permease protein YnjC,True
+P24177,P24177,PF00873,True,0.86,262.0,ok,12,Probable aminoglycoside efflux pump,True
+P42590,P42590,PF13520,True,0.84,25.0,ok,13,Inner membrane transporter YgjI,True
+P69681,P69681,PF00909,True,0.86,40.0,ok,11,Ammonium transporter AmtB,True
+P76445,P76445,PF01569,True,0.8933333333333333,38.0,ok,5,Lipid A 1-diphosphate synthase,True
+P02921,P02921,PF13347,True,0.84,,median pLDDT 69,12,Melibiose permease,False
+P15993,P15993,PF00324,True,0.84,33.0,ok,12,Aromatic amino acid transport protein AroP,True
+P0AB98,P0AB98,PF00119,True,0.9133333333333333,,median pLDDT 53,5,ATP synthase subunit a,False
+P0ABI8,P0ABI8,PF00115,True,0.8666666666666667,51.0,ok,15,Cytochrome bo(3) ubiquinol oxidase subunit 1,True
+P06609,P06609,PF01032,True,0.9133333333333333,42.0,ok,10,Vitamin B12 import system permease protein BtuC,True
+P0AF16,P0AF16,PF03023,True,0.8,38.0,ok,14,Lipid II flippase MurJ,True
+P23482,P23482,PF00361,True,0.9066666666666666,55.0,ok,16,Hydrogenase-4 component B,True
+P0AGF4,P0AGF4,PF00083,True,0.9933333333333333,49.0,ok,12,D-xylose-proton symporter,True
+P32166,P32166,PF01040,True,0.9866666666666667,7.0,only 7 exposed periplasmic positions,9,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",False
+P31448,P31448,PF00474,True,0.86,46.0,ok,14,Uncharacterized symporter YidK,True
+P0ABJ3,P0ABJ3,PF00510,True,0.8,,median pLDDT 66,5,Cytochrome bo(3) ubiquinol oxidase subunit 3,False
+P37340,P37340,PF01554,True,0.9533333333333334,1.0,only 1 exposed periplasmic positions,12,Multidrug resistance protein MdtK,False
+P60955,P60955,PF01790,True,0.9,63.0,ok,7,Phosphatidylglycerol--prolipoprotein diacylglyceryl transfer,True
+P46136,P46136,PF00892,True,1.0,32.0,ok,10,Aromatic amino acid exporter YddG,True
+P69423,P69423,PF00902,True,0.9,26.0,ok,6,Sec-independent protein translocase protein TatC,True
+P0AFP9,P0AFP9,PF12698,True,0.9866666666666667,88.0,ok,6,Probable multidrug ABC transporter permease YbhR,True
+P24077,P24077,PF05977,True,0.8466666666666667,20.0,ok,12,Enterobactin exporter EntS,True
+P45394,P45394,PF01699,True,0.8533333333333334,13.0,only 13 exposed periplasmic positions,10,Inner membrane protein YrbG,False
+P77377,P77377,PF01943,True,0.8666666666666667,41.0,ok,12,Lipopolysaccharide biosynthesis protein WzxC,True
+P37669,P37669,PF01757,True,0.8066666666666666,43.0,ok,10,O-acetyltransferase WecH,True
+P0AFS7,P0AFS7,PF01594,True,0.9733333333333334,29.0,ok,9,Putative transport protein YdiK,True
+P62517,P62517,PF00535,True,1.0,51.0,ok,6,Glucans biosynthesis glucosyltransferase H,True
+Q47142,Q47142,PF12832,True,0.8333333333333334,12.0,only 12 exposed periplasmic positions,12,Probable 3-phenylpropionic acid transporter,False
+P0AEW1,P0AEW1,PF00420,True,0.86,10.0,only 10 exposed periplasmic positions,7,Hydrogenase-4 component E,False
+P0AFN6,P0AFN6,PF01061,True,0.94,34.0,ok,7,Inner membrane transport permease YadH,True
+P76090,P76090,PF01066,True,0.9866666666666667,30.0,ok,5,Inner membrane protein YnbA,True
+P76221,P76221,PF09335,True,0.8933333333333333,2.0,only 2 exposed periplasmic positions,5,TVP38/TMEM64 family inner membrane protein YdjZ,False
+P37642,P37642,PF03631,True,0.9,52.0,ok,6,Inner membrane protein YhjD,True
+P64432,P64432,PF01578,True,0.8533333333333334,17.0,ok,8,Inner membrane protein YpjD,True
+P75788,P75788,PF03600,True,0.9333333333333333,31.0,ok,10,Inner membrane protein YbiR,True
+P0AD30,P0AD30,PF01925,True,0.9733333333333334,50.0,ok,6,Probable membrane transporter protein YfcA,True
+EF-Tu,P0CE47,PF00009,False,,160.0,ok,0,EF-Tu,True
+GroEL,P0A6F5,PF00118,False,,220.0,ok,0,GroEL,True
+RecA,P0A7G6,PF00154,False,,159.0,ok,0,RecA,True
+ATPsynAlpha,P0ABB0,PF00006,False,,213.0,ok,0,ATPsynAlpha,True
+DnaK,P0A6Y8,PF00012,False,,254.0,ok,0,DnaK,True

@@ -1,0 +1,16 @@
+part,residue,pka,mean_share_pct,beta_per_pt,se,p,charge_at_ph7,n,lambda,monotone_in_pka,acidic_all_positive,basic_all_negative,contrast,pka_gap,survives_without_histidine,verdict,basic_class_sign_uniform,sig_charge_class,sig_within_acidic,sig_within_basic,beta_per_pka_unit
+joint fit,D,3.65,5.745866789616863,0.040494322103368674,0.02084414113887106,0.0521517283685315,negative,2768.0,0.5730029268313387,,,,,,,,,,,,
+joint fit,E,4.25,5.901075182936701,0.10359318341540681,0.01746844022144999,3.4006278751734757e-09,negative,2768.0,0.5730029268313387,,,,,,,,,,,,
+joint fit,H,6.0,1.688375150417349,-0.2204689772950476,0.03519676486309333,4.3417798500273224e-10,positive,2768.0,0.5730029268313387,,,,,,,,,,,,
+joint fit,K,10.5,4.067879068236975,-0.018177551152406532,0.019412922290468454,0.3491680940161409,positive,2768.0,0.5730029268313387,,,,,,,,,,,,
+joint fit,R,12.5,5.088554674349375,0.007403327286493765,0.021828877228361198,0.7345203696470511,positive,2768.0,0.5730029268313387,,,,,,,,,,,,
+pattern,,,,,,,,,,False,True,False,,,,,,,,,
+contrast,,,,0.18477155736281956,0.02602803688999815,1.5921579976253434e-12,,,,,,,acidic minus basic,5.716666666666666,,,,,,,
+contrast,,,,0.03958408854062459,0.013722476916011563,0.0039492860211799135,,,,,,,glutamate minus aspartate,0.6000000000000001,,,,,,,
+contrast,,,,-0.1072660244211,0.025152593836186333,2.0698247598094443e-05,,,,,,,histidine minus lysine/arginine,5.5,,,,,,,
+contrast,,,,0.08681162269340058,0.02299383308325626,0.00016309945466142861,,,,,,,acidic minus lysine/arginine (histidine held fixed),,,,,,,,
+charge class,,,,,,,,,,,,,,,True,,,,,,
+verdict,,,,,,,,,,,,,,,,"A CHARGE CLASS WITH AN OUTLIER. The acidic side differs from lysine and arginine even with histidine held fixed, so the grouping is real, but histidine does not belong to it: it is far larger than its class-mates and the class is not sign-uniform. pKa orders the acidic pair.",False,True,True,True,
+per pka unit,,,,,,,,,,,,,acidic minus basic,,,,,,,,0.032321555223816835
+per pka unit,,,,,,,,,,,,,glutamate minus aspartate,,,,,,,,0.06597348090104098
+per pka unit,,,,,,,,,,,,,histidine minus lysine/arginine,,,,,,,,-0.01950291353110909

@@ -1,0 +1,13 @@
+part,measure,n,beta_per_pt,se,p,sd,beta_per_sd,r_with_genomespot_feature,r_headline,r_contrast,genomespot_p,verdict,n_non_bacdive,n_total
+2b,"this project's measure, uncontrolled: panel periplasmic exposed D+E",2768,0.10681245029190158,0.012572531876650512,3.168315652059321e-17,2.19166335722021,0.2340969333996658,0.6382915843609781,,,,,,
+2b,"this project's contrast, uncontrolled: periplasmic minus cytoplasmic D+E",2768,0.07456144731270432,0.010687718517139691,3.77696786241767e-12,2.270211690379275,0.16927026934089973,0.5902093152101965,,,,,,
+2b,GenomeSPOT feature: proteome secreted minus cytoplasmic D+E,2768,0.2343220478753833,0.027374746878606544,1.8469943786408728e-17,1.2269202425919339,0.28749446382390403,1.0,,,,,,
+2b,GenomeSPOT input: proteome secreted D+E,2768,0.19239393149325476,0.02520025777191279,3.099957311857486e-14,1.7409080965705765,0.33494015306765207,0.901141339313095,,,,,,
+2-verdict,circularity,2768,,,,,,,0.6382915843609781,0.5902093152101965,1.8469943786408728e-17,"CIRCULAR. GenomeSPOT's stated pH feature predicts ph_min here on its own (+0.23432/pt, p 1.85e-17) and correlates with this project's measure at r +0.638. A predicted ph_min built from it cannot test the measure it is built from.",,
+3,new species with measured ph_min <= 3.0,51,,,,,,,,,,,12.0,
+3,new species with measured ph_min <= 3.5,101,,,,,,,,,,,17.0,
+3,new species with measured ph_min <= 4.0,421,,,,,,,,,,,65.0,
+3,new species with measured ph_min <= 4.5,563,,,,,,,,,,,81.0,
+3,new species with measured ph_min <= 5.0,1540,,,,,,,,,,,190.0,
+4,new rows resting on a single observation,3254,,,,,,,,,,,,4323.0
+4,new rows claiming ph_min <= 2.0 outside an acidophile-suggesting lineage,9,,,,,,,,,,,,13.0

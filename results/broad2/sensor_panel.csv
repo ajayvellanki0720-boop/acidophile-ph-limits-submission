@@ -1,0 +1,10 @@
+part,family,accession,is_periplasmic_sensor,n_detected,share_detected,n_total,median_copies_where_present,declared_sensor,derived_diagnostic,median_copies,measure,n_phyla_over_floor,largest_phylum_share,passes,gate
+1,PhoQ_Sensor,PF08918,True,13.0,0.004696531791907515,2768.0,1.0,,,,,,,,
+1,CpxA_peri,PF16527,True,50.0,0.018063583815028903,2768.0,1.0,,,,,,,,
+1,SBP_bac_3,PF00497,False,2277.0,0.8226156069364162,2768.0,4.0,,,,,,,,
+1,HAMP,PF00672,False,2633.0,0.951228323699422,2768.0,9.0,,,,,,,,
+1b,PhoQ_Sensor,PF08918,,,0.004696531791907515,,,True,True,1.0,,,,,
+1b,CpxA_peri,PF16527,,,0.018063583815028903,,,True,True,1.0,,,,,
+1b,SBP_bac_3,PF00497,,,0.8226156069364162,,,False,False,4.0,,,,,
+1b,HAMP,PF00672,,,0.951228323699422,,,False,False,9.0,,,,,
+2,,,,,0.01878612716763006,,,,,,feasibility gate,1.0,1.0,False,">=30% detected, >=3 phyla with >=50, <=70% in one phylum"

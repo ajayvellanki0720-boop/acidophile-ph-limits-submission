@@ -1,0 +1,8 @@
+part,x,y,pearson,spearman,n,per_position_reliability,r2_of_reliability,raw_r_beta_reliability,partial_r_given_log_size,ref,n_positions,reference_DE,de_rate,de_rate_rank,size_rank,panel_median_rate,reliability_observed,reliability_expected_from_size
+correlation,n_positions,reliability,0.571990478911252,0.4609178599179625,31.0,,,,,,,,,,,,,
+correlation,n_positions,item_rest_r,0.4348507024713415,0.38841010829436645,32.0,,,,,,,,,,,,,
+correlation,n_positions,beta_per_sd,0.5948177734400334,0.2273977971128491,32.0,,,,,,,,,,,,,
+correlation,n_positions,reference_DE,0.9769613399167725,0.7506805231366863,32.0,,,,,,,,,,,,,
+spearman-brown,,,,,31.0,0.0035,0.34631268851994657,,,,,,,,,,,
+partial,,,,,31.0,,,0.8169130370797166,0.7372453847384125,,,,,,,,,
+arm choice,,,,,,,,,,P24177,262.0,45.0,0.1717557251908397,2.0,1.0,0.09651162790697675,0.4487953839267209,0.47922654821008626

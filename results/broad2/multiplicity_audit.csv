@@ -1,0 +1,13 @@
+part,layer,n_hypotheses,basis,bonferroni_threshold,headline_p,orders_of_margin,n_passing_bh,lead,screen_p,survives_bonferroni,test,beta_per_sd,p,n
+search size,genome-wide feature,18.0,,,,,,,,,,,,
+search size,amino-acid composition,21.0,,,,,,,,,,,,
+search size,structural position class,7.0,,,,,,,,,,,,
+search size,principled total,46.0,,,,,,,,,,,,
+search size,every p-value row (absurdly conservative),7526.0,,,,,,,,,,,,
+headline,,46.0,principled count,0.0010869565217391304,2.0961278493294979e-10,6.7147944045693855,,,,,,,,
+headline,,7526.0,every p-value row,6.643635397289397e-06,2.0961278493294979e-10,4.500988022267114,,,,,,,,
+headline,,45.0,BH over principled set,,,,18.0,,,,,,,
+false leads,,,,0.0010869565217391304,,,,Kdp ATPase,1.168147909399723e-08,True,,,,
+false leads,,,,0.0010869565217391304,,,,histidine fraction,0.0453194457596378,False,,,,
+false leads,,,,0.0010869565217391304,,,,Trk/Ktr potassium uptake,0.0341172656081203,False,,,,
+binding constraint,,,,,,,,,,,hand-curated evidence tier,0.3923929396810038,0.0002085289951065,90.0

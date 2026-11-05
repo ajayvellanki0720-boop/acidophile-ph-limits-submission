@@ -1,0 +1,1 @@
+strain_id,ncbi_assembly,domain,phylum,class,family,genus,species,ph_min,ph_min_bound,ph_opt,ph_max,ph_max_bound,acid_identity,organic_acid,organic_acid_mM,ph_measured_at_c,temp_opt_c,temp_min_c,temp_max_c,oxygen,medium,metabolism,metal_note,source,confidence

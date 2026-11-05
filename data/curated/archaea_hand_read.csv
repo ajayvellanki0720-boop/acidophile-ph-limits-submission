@@ -1,0 +1,34 @@
+species,ph_min,ph_opt,ph_max,pmid,note
+Thermococcus acidaminovorans,5.0,9.0,9.5,9672685,growth pH 5.0-9.5 (optimum 9.0)
+Thermogladius shockii,3.5,5.5,8.5,20978744,growth range 3.5-8.5; optimum pH 5-6 (parser had read the optimum as the range)
+Methanomethylovorans uponensis,5.5,6.25,7.5,24000091,growth pH 5.5-7.5 (optimum 6.0-6.5)
+Thermococcus henrietii,6.0,6.75,7.5,34270399,growth pH 6.0-7.5 (optimum 6.5-7.0)
+Nanobdella aerobiophila,1.0,2.5,4.0,35993221,range in co-culture with its host Metallosphaera sedula; obligate ectosymbiont
+Methanolobus mangrovi,5.5,7.0,8.0,37982371,strain FTZ2T pH 5.5-8.0 (optimum 7.0)
+Methanolobus sediminis,5.0,6.5,7.5,37982371,strain FTZ6T pH 5.0-7.5 (optimum 6.5)
+Methanochimaera problematica,5.4,7.0,7.2,39635772,pH 5.4-7.2 (optimum 7.0)
+Nitrosotalea devaniterrae,4.2,,5.6,39348174,Nd1T pH 4.2-5.6; abstract repeats a sentence with 4.0-6.1 that must refer to Nd2T
+Nitrosotalea sinensis,4.0,,6.1,39348174,Nd2T pH 4.0-6.1 inferred from the repeated Nd1T sentence; assignment uncertain
+Caldiplasma sukawensis,1.5,3.5,5.0,41506132,strains SKW1/SKW2T pH 1.5-5.0 (optimum 3.0-4.0)
+Cuniculiplasma thermophilum,1.5,1.9,5.0,41506132,strains SKW3/SKW4T pH 1.5-5.0 (optimum 1.8-2.0)
+Natronobacterium nitratireducens,8.0,8.5,10.5,11594615,grew pH 8.0-10.5 (optimum 8.5)
+Natrinema ejinorense,6.0,7.0,8.5,17082411,pH 6.0-8.5 (optimum 7.0)
+Halalkalicoccus jeotgali,6.5,,9.0,17911300,grows in pH 6.5-9.0
+Halorubrum litoreum,6.5,7.25,9.0,17911283,pH 6.5-9.0 (optimum 7.0-7.5)
+Haloterrigena jeotgali,6.5,7.25,8.5,19620363,pH 6.5-8.5 (optimum 7.0-7.5)
+Haloterrigena daqingensis,8.0,10.0,10.5,19915113,pH 8.0-10.5 (optimum 10.0)
+Halogranum gelatinilyticum,5.5,6.75,9.0,20495026,range stated jointly for the two strains (TNN44T and TNN58T)
+Halogranum amylolyticum,5.5,6.75,9.0,20495026,range stated jointly for the two strains
+Halorubellus salinus,5.5,7.0,9.5,21889861,range stated jointly for both strains
+Halorubellus litoreus,5.5,7.0,9.5,21889861,range stated jointly for both strains
+Natronorubrum texcoconense,7.5,9.0,10.0,23187705,pH 7.5-10.0 (optimum 9)
+Halovivax limisalsi,6.5,,9.0,25015679,pH 6.5-9.0
+Halorientalis persicus,6.5,,9.0,24425819,pH 6.5-9.0
+Natribaculum breve,6.0,7.25,10.0,25406237,range stated jointly for the two strains (optimum 7.0-7.5)
+Natribaculum longum,6.0,7.25,10.0,25406237,range stated jointly for the two strains
+Halovivax cerinus,6.5,7.0,9.0,25269847,optimum pH 7.0; grew 6.5-9.0
+Halorubrum gandharaense,8.0,,11.0,25870255,pH 8.0-11.0
+Natronoarchaeum persicum,6.0,7.0,8.5,28840815,optimum pH 7.0; grew 6.0-8.5
+Haloplanus rallus,6.0,7.0,9.0,30129921,pH 6.0-9.0 (optimum 7.0)
+Halomicrococcus hydrotolerans,6.5,7.0,9.0,31204974,pH 6.5-9.0 (optimum 7.0)
+Halorubrum hochsteinianum,6.5,,9.0,37906310,pH 6.5-9.0

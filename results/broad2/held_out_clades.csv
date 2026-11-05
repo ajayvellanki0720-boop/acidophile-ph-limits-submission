@@ -1,0 +1,12 @@
+part,held_out,n_test,rmse_source_only,rmse_plus_gw,rmse_plus_periplasmic,rmse_plus_cytoplasmic,rmse_gain_pct,beta_periplasmic_train,n_acidophiles_in_fold,frac_tail_left_in_training,model,n,rmse,measure,periplasmic_gain,cytoplasmic_gain,rmse_baseline,rmse_periplasmic,rmse_cytoplasmic,value,n_folds,verdict,n_folds_improved
+fold,Pseudomonadota,1222.0,0.941050245857463,0.9150359785733526,0.9321873533347969,0.9146462656415927,-0.01874393484307057,0.583656147757696,103.0,0.5521739130434783,,,,,,,,,,,,,
+fold,Bacillota,494.0,1.0780473521965301,1.0267569448477358,1.0099562851387422,1.0250769062629397,0.016362840098914602,0.4094835050699454,61.0,0.7347826086956522,,,,,,,,,,,,,
+fold,Bacteroidota,449.0,0.7436133963173387,0.7469527292121885,0.7221837028119976,0.748087462886398,0.033160098934660515,0.5162871181016909,10.0,0.9565217391304348,,,,,,,,,,,,,
+fold,Actinomycetota,328.0,0.9961782540905746,1.0148119843674324,1.0100363434774893,1.0102848116793273,0.0047059366301432795,0.43463389025873805,26.0,0.8869565217391304,,,,,,,,,,,,,
+pooled,,,,,,,,,,,source indicators only,2493.0,0.9457974757649678,,,,,,,,,,
+pooled,,,,,,,,,,,+ genome-wide composition,2493.0,0.9248240902803013,,,,,,,,,,
+pooled,,,,,,,,,,,+ exposed PERIPLASMIC composite,2493.0,0.9253231177969135,,,,,,,,,,
+pooled,,,,,,,,,,,+ exposed cytoplasmic (control),2493.0,0.9237782940073783,,,,,,,,,,
+summary,,,,,,,,,,,,,,pooled out-of-sample RMSE gain,-0.0005395918227658613,0.001130805613644903,0.9248240902803013,0.9253231177969135,0.9237782940073783,,,,
+tail diagnostic,,,,,,,,,,,,,,"r(tail retained in training, RMSE gain)",,,,,,0.8348649581586293,4.0,,
+verdict,,,,,,,,,,,,,,,,,,,,,4.0,"DOES NOT GENERALISE AS A PREDICTOR: pooled out-of-sample RMSE gain is -0.05% against a growth-optimum-proxy baseline, and the cytoplasmic control does no worse (+0.11%). It lowers error in 3 of 4 folds, and the pooled figure is decided by the one fold it fails - Pseudomonadota, 49% of the scored genomes and the phylum holding most of the acidophiles, whose removal leaves training with little of the acid-tolerant tail the effect is confined to. Both readings must be carried: the association survives every within-sample test in this paper and does NOT buy out-of-sample accuracy across clades. For a claim about mechanism that is survivable; for any claim about prediction it is fatal, and this paper makes none.",3.0

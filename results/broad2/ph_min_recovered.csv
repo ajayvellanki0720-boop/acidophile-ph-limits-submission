@@ -1,0 +1,293 @@
+species,ph_min,origin,route,pmid,verdict,evidence
+Subtercola endophyticus,5.0,literature_auto,name_search,,range_only,Growth of strain AK-R2A1-2 T was observed at 4-25°C with pH 5.0-8.0.
+Neiella litorisoli,7.0,literature_auto,name_search,37160479,range_only,"The strain grew optimally at pH 7-8, 37-40 °C and with NaCl 3-4%."
+Rhodohalobacter sulfatireducens,7.0,literature_auto,name_search,35789432,no_ph_statement,
+Aestuariimicrobium ganziense,7.0,literature_auto,name_search,,range_only,"Growth occurred at 23-35°C (optimum, 30°C) in the presence of 0.5-4 % (w/v) NaCl (optimum, 1%) and at pH 7.0-8.0 (optimum, pH 7.0)."
+Rhodobacter ruber,6.5,literature_auto,name_search,34904946,no_ph_statement,
+Methanobacterium nebraskense,6.5,literature_auto,name_search,,range_only,"The strain grew at 20-45°C (optimum, 40°C), at pH 6.5-8.5 (optimum, pH 7.3) and with 0-2.5% NaCl (optimum, 0-1%)."
+Stenotrophomonas oleivorans,6.0,literature_auto,name_search,,range_only,ASS1 grew at temperature 25-37 (optimally at 37 ° C) and at pH 6 to 8 (optimally at pH 7 to 8).
+Devosia lacusdianchii,5.0,literature_auto,name_search,38170242,range_only,"Growth occurred at 10-44 °C, pH 5.0-10.0, and 0-5.0% (w/v) NaCl."
+Paenibacillus arenilitoris,7.0,literature_auto,name_search,36018400,range_only,"Cells grew optimally at 25-30 °C, pH 7.0-8.0 and with 2-4% NaCl (w/v)."
+Shumkonia mesophila,7.1,literature_auto,name_search,37843737,value_not_in_source,The strain Y-P2 T grew optimally at 25 °C (range from 15 to 30 °C) and pH 7.0 (range from pH 6.0 to 7.5) without NaCl.
+Oceanisphaera pacifica,7.0,literature_auto,name_search,35590019,range_only,"The strain optimally grew at 25-35°C, with 1.0-4.0% (w/v) NaCl and at pH 7.0-8.0."
+Bacillus nakamurai,5.5,literature_auto,name_search,27150918,range_only,"Furthermore, the strains grew in media of pH 5.5-10 (optimal growth at pH 7.0-8.0)."
+Kaistella yananensis,6.0,literature_auto,name_search,38206520,range_only,"Strain BT6-1-3 T grew at 15-40 °C (optimum 30 °C), at pH 6.0-10.0 (optimum pH 9.0), and with 0-1% (w/v) NaCl (optimum 0.5%)."
+Bacillus multifaciens,5.0,literature_auto,name_search,,range_only,"The isolate was able to grow at temperatures of 20-42°C (optimum growth at 40°C), at pH 5.0-10.0 (optimum growth at pH 8.0) and in the presence of 0-2% (w/v) NaCl (optimum growth with 1% NaCl)."
+Sporanaerobium hydrogeniformans,5.0,literature_auto,name_search,37572166,range_only,"Growth was observed at temperatures 30-50 °C (optimum 40-45 °C), pH 5.0-10.0 (optimum pH 8.0) and NaCl concentrations 0-0.5% (optimum 0%)."
+Brumimicrobium oceani,6.0,literature_auto,name_search,37843738,range_only,"Strain C305 T growth occurs at 4-40 °C (optimally at 30-33 °C), pH 6.0-9.0 (optimally at pH 8.0) and with 0.5-10.0% (w/v) NaCl (optimum 1.5-3.0%)."
+Tropicibacter oceani,4.0,literature_auto,name_search,,range_only,"Growth of strain YMD87 T occurred at 10.0-40.0°C (optimum, 25-30°C), pH 4.0-12.0 (optimum, 8.0) and with 0-6.0% (w/v) NaCl (optimum, 0.0-2.0%)."
+Paenibacillus jiangxiensis,5.0,literature_auto,name_search,,range_only,"Growth was observed at 15-48°C (optimum 37°C), at pH 5.0-9.0 (optimum pH 7.0) and with 0-5.0% (w/v) NaCl (optimum 1.0%)."
+Nesterenkonia aerolata,5.0,literature_auto,name_search,38170331,range_only,"Strain LY-0111 T grew at temperature of 10-42 °C (optimum 35 °C), pH of 5.0-10.0 (optimum pH 7.0) and NaCl concentration of 1-12% (optimum 0.5-3%, w/v)."
+Leeuwenhoekiella obamensis,5.5,literature_auto,name_search,39869186,value_stated,"Growth pH and temperature ranges were 5.5-8.5 (optimum pH 6.5-7.5) and 10-39 °C (optimum 25-35 °C), respectively."
+Yunchengibacter salinarum,6.0,literature_auto,name_search,39269642,range_only,"Growth occurred at 15-45°C (optimum 37°C), pH 6.0-9.0 (optimum pH 7.0-8.0) and with 0-8.0% NaCl (w/v, optimum 2.0%)."
+Pseudochrobactrum albidum,5.0,literature_auto,name_search,41774166,range_only,"Growth occurred at 20-45 °C (optimum 35 °C), pH 5.0-9.5 (optimum 7.5-8.0), and with 0-6.0% (w/v) NaCl (optimum 2.0-3.0%)."
+Paenibacillus nanchangensis,6.0,literature_auto,name_search,,range_only,"Strain CN-4 T grew at 15-42 °C (optimum at 30 °C), pH 6.0-9.0 (optimum at pH 7.0) with NaCl content of 0-4% (optimum at 0.5%), and was able to fix nitrogen."
+Christiangramia qingdaonensis,6.0,literature_auto,name_search,41495283,range_only,"Growth occurred at 4-35°C (optimum 28°C), pH 6.0-8.0 (optimum pH 7.0), and in 0.5-16.0% NaCl (optimum 2.5-3.0%)."
+Aurantibrevibacter litoralis,5.5,literature_auto,name_search,,range_only,"It exhibited growth at 10-40 °C (optimum: 37 °C), 0-7% NaCl (optimum: 1%), and pH 5.5-9.5 (optimum: pH 8.0)."
+Paracoccus marinaquae,5.0,literature_auto,name_search,36622427,range_only,"Growth occurred at 20-37 °C (optimum, 28 °C), pH 5.0-9.0 (optimum, pH 7.0-8.0), and with 0-7.0% NaCl (optimum, 2.0-3.0%)."
+Hyphomonas sediminis,6.0,literature_auto,name_search,35876987,range_only,"Strain WL0036 T was found to grow at 20-37 °C (optimum, 28 °C) with 0-9.0% NaCl (optimum, 2.5-4.0%) and displayed alkaliphilic growth with the pH range of pH 6.0-10.0 (optimum, pH 7.0-8.0)."
+Ignicoccus pacificus,4.5,thermobase,name_search,11155984,no_ph_statement,
+Meiothermus silvanus,5.5,thermobase,thermobase_doi,7547281,no_ph_statement,
+Marinitoga piezophila,5.0,thermobase,name_search,12148648,value_stated,"Growth is observed from pH 5 to pH 8, the optimum being at pH 6."
+Marinitoga litoralis,5.5,thermobase,name_search,19749030,range_only,"Growth was observed at temperatures ranging from 45 to 70 degrees C (optimum at 60 degrees C), between pH 5.5 and 7.5 (optimum at pH 6) and from 8 to 46 g NaCl l(-1) (optimum at 26 g l(-1))."
+Marinitoga hydrogenitolerans,4.5,thermobase,name_search,15879258,range_only,"They grew at 35-65 degrees C (optimum 60 degrees C), pH 4.5-8.5 (optimum pH 6.0) and 10-65 g sea salts l(-1) (optimum 30-40 g l(-1))."
+Mahella australiensis,5.5,thermobase,name_search,15545453,no_ph_statement,
+Metallosphaera hakonensis,1.0,thermobase,none,,no_source_found,
+Kosmotoga pacifica,5.5,thermobase,name_search,24264736,no_ph_statement,
+Kosmotoga olearia,5.5,thermobase,name_search,19643902,range_only,"The strain was Gram-negative and grew at 20-80 degrees C (optimum 65 degrees C), pH 5.5-8.0 (optimum pH 6.8) and NaCl concentrations of 10-60 g l(-1) (optimum 25-30 g l(-1))."
+Kallotenue papyrolyticum,5.0,thermobase,name_search,23950149,value_not_in_source,"The pH range for growth was pH 5.6-9.0, with an optimum of pH 7.5."
+Ignisphaera aggregans,5.4,thermobase,name_search,16627639,no_ph_statement,
+Meiothermus timidus,5.5,thermobase,name_search,15796977,no_ph_statement,
+Marinitoga okinawensis,5.0,thermobase,thermobase_doi,17329770,range_only,"Growth was observed between 30 and 70 degrees C (optimum at 55-60 degrees C), pH 5.0-7.4 (optimum at pH 5.5-5.8), 1.0-5.5 NaCl % (optimum at 3.0-3.5 %)."
+Halothermothrix orenii,5.5,thermobase,none,,no_source_found,
+Ignicoccus hospitalis,4.5,thermobase,name_search,17392210,no_ph_statement,
+Hydrogenobaculum acidophilum,2.0,thermobase,name_search,11594618,value_stated,Cells grew chemolithoautotrophically under an atmosphere of H2/CO2 (80:20) in the presence of low concentrations of O2 (optimum 1-2%).
+Hydrogenobacter subterraneus,5.5,thermobase,name_search,11491342,value_stated,Growth was observed at temperatures between 60 and 85 degrees C (optimum 78 degrees C; 120 min doubling time) and between pH 5.5 and pH 9.0 (optimum 7.5).
+Hydrogenivirga caldilitoris,5.5,thermobase,thermobase_doi,15545438,range_only,"Growth was observed between 55 and 77.5 degrees C (optimum 75 degrees C; 2 h doubling time), pH 5.5 and 8.3 (optimum pH 6.5-7.0), and in the presence of 0.5 and 4.0 % NaCl (optimum 2.0 %)."
+Hippea maritima,5.4,thermobase,none,,no_source_found,
+Halorhabdus utahensis,5.5,thermobase,none,,no_source_found,
+Halorhabdus tiamatea,5.5,thermobase,name_search,18175711,value_not_in_source,"Strain SARL4B(T) formed non-pigmented colonies and showed optimum growth at 45 degrees C, in 27% (w/v) NaCl and at pH 6.5-7.0."
+Halorhabdus rudnickae,5.5,thermobase,name_search,26749115,value_not_in_source,"Strains WSM-64(T) and WSM-66 showed optimum growth at 40 °C, in 20% NaCl and at pH 6.5-7.5."
+Halobellus limi,5.5,thermobase,name_search,22661071,range_only,"Strain TBN53(T) was able to grow at 25-55 °C (optimum 45 °C), with 1.4-5.1 M NaCl (optimum 2.6-3.9 M NaCl), with 0-1.0 M MgCl(2) (optimum 0-0.1 M MgCl(2)) and at pH 5.5-9.5 (optimum pH 7.0), whereas strain CSW2.24.4(T) was able to grow at 25-45 °C (optimum 37 °C), with 2.6-5.1 M NaCl (optimum 3.4 M NaCl), with 0.01-0.7 M MgCl(2) (optimum 0.05 M MgC"
+Halobaculum magnesiiphilum,5.5,thermobase,thermobase_doi,22611203,no_ph_statement,
+Halobacterium noricense,5.2,thermobase,none,,no_source_found,
+Metallosphaera sedula,1.0,thermobase,none,,no_source_found,
+Haloarcula hispanica,5.0,thermobase,none,,no_source_found,
+Halobacterium jilantaiense,5.5,thermobase,name_search,17012561,range_only,Strain NG4(T) grew at pH 5.5-8.5 and at a temperature of 22-55 degrees C.
+Ignicoccus islandicus,3.8,thermobase,name_search,11155984,no_ph_statement,
+Metallosphaera yellowstonensis,2.0,thermobase,none,,no_source_found,
+Methanothermus sociabilis,5.5,thermobase,none,,no_source_found,
+Methanocaldococcus fervens,5.5,thermobase,none,,no_source_found,
+Picrophilus oshimae,0.0,thermobase,none,,no_source_found,
+Phorcysia thermohydrogeniphila,4.5,thermobase,thermobase_doi,22140151,range_only,"Strain HB-8(T) grew between 65 and 80 °C (optimum 75 °C), 15 and 35 g NaCl l(-1) (optimum 30 g l(-1)) and pH 4.5 and 8.5 (optimum pH 6.0)."
+Petrotoga mobilis,5.5,thermobase,none,,no_source_found,
+Persephonella marina,4.7,thermobase,thermobase_doi,12148650,value_stated,"Both strains grew fastest at 2.5% (w/v) NaCl and at pH 6, although growth was observed from pH 4.7 to pH 7.5."
+Persephonella hydrogeniphila,5.5,thermobase,thermobase_doi,12807214,range_only,"Anoxic hydrogen-oxidizing growth with nitrate was observed between 50 and 72.5 degrees C (optimum 70 degrees C; 40 min doubling time), pH 5.5 and 7.6 (optimum pH 7.2), and in the presence of 1.5 and 5.0% NaCl (optimum 2.5%)."
+Parageobacillus thermoglucosidasius,6.5,thermobase,none,,no_source_found,
+Palaeococcus pacificus,5.0,thermobase,name_search,23104364,range_only,"Growth was observed between 50 and 90 °C (optimum 80 °C), pH 5.0 and 8.0 (optimum pH 7.0), 1% and 7% (w/v) sea salts (Sigma, optimum 3%), 1% and 4% (w/v) NaCl (optimum 3%) and 0.1 and 80 MPa (optimum 30 MPa)."
+Palaeococcus helgesonii,5.0,thermobase,name_search,12682713,range_only,"Growth was observed at temperatures from 45 to 85 degrees C (optimum at approximately 80 degrees C), pH 5-8 (optimum at 6.5), and 0.5-6.0% NaCl (optimum at approximately 2.8%)."
+Palaeococcus ferrophilus,4.0,thermobase,name_search,10758851,range_only,"83 degrees C; 30 min doubling time), pH 4.0 and 8.0 (opt."
+Oceanotoga teriensis,5.5,thermobase,thermobase_doi,20382783,range_only,"Cells grew at 25-70 °C (optimum 55-58 °C), pH 5.5-9.0 (optimum pH 7.3-7.8) and 0-12 % (w/v) NaCl (optimum 4.0-4.5 %)."
+Oceanithermus profundus,5.5,thermobase,thermobase_doi,12807196,range_only,"The organism grew in the temperature range 40-68 degrees C, with an optimum at 60 degrees C, and in the pH range 5.5-8.4, with an optimum around pH 7.5."
+Natronomonas gomsonensis,5.5,thermobase,name_search,23851717,value_stated,"The optimum pH and temperature for growth were determined to be pH 7.0 and 40 °C, respectively, while the strain was found to grow within pH and temperature ranges of 5.5-8.0 and 20-45 °C, respectively."
+Nanoarchaeum equitans,5.0,thermobase,none,,no_source_found,
+Methanocaldococcus bathoardescens,4.5,thermobase,thermobase_doi,25634941,no_ph_statement,
+Methanotorris igneus,5.0,thermobase,none,,no_source_found,
+Methanothermococcus thermolithotrophicus,5.1,thermobase,none,,no_source_found,
+Methanothermococcus okinawensis,4.5,thermobase,none,,no_source_found,
+Methanothermobacter marburgensis,5.0,thermobase,none,,no_source_found,
+Methanosarcina thermophila,5.5,thermobase,none,,no_source_found,
+Methanosarcina flavescens,5.0,thermobase,name_search,26763977,no_ph_statement,
+Methanopyrus kandleri,5.5,thermobase,none,,no_source_found,
+Methanomethylovorans thermophila,5.0,thermobase,name_search,16280511,value_stated,The optimal pH for growth was 6.5; growth was observed from pH 5 to pH 7.5.
+Methanoculleus submarinus,5.0,thermobase,name_search,12788731,verified_measured,Cells grew at pH values between 5.0 and 8.7 but did not grow at pH 4.7 or 9.0.
+Methanocaldococcus vulcanius,5.25,thermobase,none,,no_source_found,
+Methanocaldococcus villosus,5.5,thermobase,name_search,20622057,no_ph_statement,
+Methanocaldococcus jannaschii,5.25,thermobase,none,,no_source_found,
+Methanocaldococcus infernus,5.25,thermobase,thermobase_doi,9734046,no_ph_statement,
+Methanocaldococcus indicus,5.5,thermobase,name_search,14657125,no_ph_statement,
+Methanothrix thermoacetophila,6.0,thermobase,none,,no_source_found,
+Haloarchaeobius baliensis,5.5,thermobase,name_search,26449644,value_not_in_source,"The isolate grew optimally at 42-44 °C, pH 6.5-7.0, and with 2.6 M NaCl, and MgCl2 was required for growth."
+Archaeoglobus profundus,4.6,thermobase,none,,no_source_found,
+Geoglobus ahangari,5.0,thermobase,none,,no_source_found,
+Aquifex pyrophilus,5.4,thermobase,none,,no_source_found,
+Aquifex aeolicus,5.4,thermobase,thermobase_doi,33350903,no_ph_statement,
+Anoxybacillus flavithermus,5.0,thermobase,none,,no_source_found,
+Ammonifex degensii,5.0,thermobase,none,,no_source_found,
+Alicyclobacillus shizuokensis,3.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus sacchari,2.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus macrosporangiidus,3.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus kakegawensis,3.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus hesperidum,2.0,thermobase,name_search,10758847,no_ph_statement,
+Alicyclobacillus fastidiosus,2.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus cycloheptanicus,3.0,thermobase,none,,no_source_found,
+Alicyclobacillus contaminans,3.0,thermobase,name_search,17551043,no_ph_statement,
+Alicyclobacillus acidoterrestris,2.2,thermobase,none,,no_source_found,
+Ardenticatena maritima,5.5,thermobase,name_search,23378114,no_ph_statement,
+Alicyclobacillus acidocaldarius,2.0,thermobase,none,,no_source_found,
+Aciduliprofundum boonei,3.3,thermobase,none,,no_source_found,
+Acidothermus cellulolyticus,3.5,thermobase,none,,no_source_found,
+Acidithiobacillus caldus,1.0,thermobase,none,,no_source_found,
+Acidilobus saccharovorans,3.5,thermobase,name_search,19643887,range_only,"Strain 345-15(T) grew optimally at 80-85 degrees C and pH 3.5-4.0 and fermented a wide range of carbohydrates, including polysaccharides."
+Acidilobus aceticus,2.0,thermobase,name_search,11155973,value_stated,"The new organism was a hyperthermophile, growing in the temperature range 60-92 degrees C (with an optimum at 85 degrees C), an acidophile, having the pH range for growth of 2.0-6.0 (with an optimum at 3.8), and an obligate anaerobe."
+Acidianus infernus,1.0,thermobase,none,,no_source_found,
+Acidianus hospitalis,2.0,thermobase,none,,no_source_found,
+Acidianus brierleyi,1.0,thermobase,none,,no_source_found,
+Acidianus ambivalens,1.0,thermobase,none,,no_source_found,
+Pseudothermotoga elfii,5.5,thermobase,none,,no_source_found,
+Acetomicrobium mobile,5.4,thermobase,thermobase_doi,11837298,no_ph_statement,
+Aeropyrum pernix,5.0,thermobase,none,,no_source_found,
+Haladaptatus paucihalophilus,5.0,thermobase,none,,no_source_found,
+Balnearium lithotrophicum,5.0,thermobase,thermobase_doi,14657128,range_only,"Growth was observed between 45 and 80 degrees C (optimum temperature, 70-75 degrees C; doubling time, 80 min) and between pH 5.0 and 7.0 (optimum pH, 5.4)."
+Caldicellulosiruptor saccharolyticus,5.5,thermobase,none,,no_source_found,
+Geoglobus acetivorans,5.0,thermobase,name_search,19628601,value_stated,"The pH range for growth was 5.0-7.5, with an optimum at pH 6.8."
+Geobacillus zalihae,5.0,thermobase,name_search,17692114,value_stated,Background Thermophilic Bacillus strains of phylogenetic Bacillus rRNA group 5 were described as a new genus Geobacillus.
+Geobacillus vulcani,5.5,thermobase,name_search,15545427,no_ph_statement,
+Geobacillus thermantarcticus,5.5,thermobase,none,,no_source_found,
+Geobacillus icigianus,5.0,thermobase,name_search,25514918,no_ph_statement,
+Fervidobacterium pennivorans,5.5,thermobase,none,,no_source_found,
+Ferroplasma acidarmanus,0.35,thermobase,name_search,15066799,no_ph_statement,
+Dictyoglomus thermophilum,5.4,thermobase,none,,no_source_found,
+Desulfurococcus mucosus,4.5,thermobase,none,,no_source_found,
+Desulfurococcus amylolyticus,5.7,thermobase,none,,no_source_found,
+Desulfurobacterium thermolithotrophum,4.4,thermobase,none,,no_source_found,
+Desulfurobacterium pacificum,5.5,thermobase,name_search,17158986,no_ph_statement,
+Desulfurobacterium crinifex,5.0,thermobase,name_search,12743834,range_only,"It grew between 50 and 70 degrees C (optimum 60-65 degrees C; doubling time approximately 1 h 15 min at 60 degrees C), between pH 5.0 and 7.5 (optimum pH around 6.0-6.5) and at sea salts concentrations between 20 and 40 g l(-1 )(optimum 30 g l(-1))."
+Caldicellulosiruptor owensensis,5.5,thermobase,name_search,9542080,value_stated,The pH range for growth was 5.5-9.0 with an optimum at about pH 7.5.
+Desulfurobacterium atlanticum,5.0,thermobase,name_search,17158986,no_ph_statement,
+Deinococcus murrayi,5.1,thermobase,thermobase_doi,9336890,no_ph_statement,
+Deinococcus geothermalis,4.1,thermobase,thermobase_doi,9336890,no_ph_statement,
+Deferribacter desulfuricans,5.0,thermobase,name_search,12807210,range_only,"Growth was observed between 40 and 70 degrees C (optimum temperature: 60-65 degrees C; doubling time, 40 min) and between pH 5.0 and 7.5(optimum pH 6.5)."
+Coprothermobacter proteolyticus,5.0,thermobase,none,,no_source_found,
+Coprothermobacter platensis,4.3,thermobase,name_search,9828430,no_ph_statement,
+Clostridium fervidus,5.5,thermobase,none,,no_source_found,
+Clostridium caenicola,6.0,thermobase,name_search,19542130,no_ph_statement,
+Chthonomonas calidirosea,4.7,thermobase,name_search,21097641,range_only,"Strain T49(T) grew at 50-73 °C with an optimum temperature of 68 °C, and at pH 4.7-5.8 with an optimum growth pH of 5.3."
+Chloroflexus aurantiacus,5.5,thermobase,none,,no_source_found,
+Chloracidobacterium thermophilum,5.5,thermobase,none,,no_source_found,
+Calditerrivibrio nitroreducens,5.5,thermobase,name_search,18599715,value_not_in_source,"The temperature and pH for optimum growth were 55 degrees C and pH 7.0-7.5, respectively."
+Caldisericum exile,5.5,thermobase,thermobase_doi,19628600,no_ph_statement,
+Desulfurella acetivorans,4.3,thermobase,none,,no_source_found,
+Pyrobaculum calidifontis,5.5,thermobase,name_search,15803649,no_ph_statement,
+Thermofilum uzonense,5.5,thermobase,name_search,26664700,value_not_in_source,"Isolate 1807-2 grew optimally at 85 °C, pH 6.0-6.5, the parameters being close to those at the sampling site."
+Pyrobaculum islandicum,5.0,thermobase,none,,no_source_found,
+Thermoplasma acidophilum,0.5,thermobase,none,,no_source_found,
+Thermogemmatispora onikobensis,4.6,thermobase,name_search,20495028,range_only,"The pH range for growth of the strains was pH 4.6-8.0, with optimum growth at pH 7.0."
+Thermogemmatispora carboxidivorans,4.1,thermobase,name_search,24425739,range_only,"Strain PM5(T) grew at 40-65 °C and pH 4.1-8.0, with optimal growth at 55 °C and pH 6.0."
+Thermofilum pendens,4.0,thermobase,none,,no_source_found,
+Thermodesulfobium narugense,4.0,thermobase,none,,no_source_found,
+Thermodesulfatator indicus,6.0,thermobase,none,,no_source_found,
+Thermocrinis minervae,4.8,thermobase,name_search,19651724,range_only,"Strain CR11(T) grows between 65 and 85 degrees C (optimum 75 degrees C, doubling time 4.5 h) and between pH 4.8 and 7.8 (optimum pH 5.9-6.5)."
+Thermococcus zilligii,5.4,thermobase,name_search,9382704,no_ph_statement,
+Thermococcus waiotapuensis,5.0,thermobase,thermobase_doi,10415170,value_stated,"The range of temperatures allowing growth is from 60 to 90 degrees C; the pH supporting growth ranges from 5 to 8 (optimum, pH 7)."
+Thermococcus thioreducens,5.0,thermobase,name_search,18182861,no_ph_statement,
+Thermococcus stetteri,5.7,thermobase,none,,no_source_found,
+Thermococcus siculi,5.0,thermobase,name_search,10086845,value_stated,"The pH range for growth is 5.0-9.0, with an optimum around 7.0."
+Thermococcus radiotolerans,5.5,thermobase,thermobase_doi,14991422,no_ph_statement,
+Thermococcus profundus,4.5,thermobase,none,,no_source_found,
+Thermococcus prieurii,4.0,thermobase,name_search,23355695,value_stated,"A novel hyperthermophilic, anaerobic archaeon, strain Bio-pl-0405IT2(T), was isolated from a hydrothermal chimney sample collected from the East Pacific Rise at 2700 m depth in the 'Sarah Spring' area (7° 25' 24"" S 107° 47' 66"" W)."
+Thermococcus piezophilus,5.5,thermobase,name_search,27638197,no_ph_statement,
+Thermococcus peptonophilus,4.0,thermobase,none,,no_source_found,
+Thermococcus paralvinellae,5.0,thermobase,thermobase_doi,25082851,no_ph_statement,
+Thermococcus pacificus,6.0,thermobase,name_search,9542072,no_ph_statement,
+Thermoplasma volcanium,1.0,thermobase,none,,no_source_found,
+Thermoproteus tenax,2.5,thermobase,none,,no_source_found,
+Pyrobaculum ferrireducens,5.5,thermobase,name_search,25510975,value_not_in_source,"The isolate, strain 1860(T), grew optimally at 90-95 °C and pH 6.0-7.0."
+Thermoproteus uzoniensis,4.6,thermobase,none,,no_source_found,
+Vulcanithermus mediatlanticus,5.5,thermobase,name_search,12892142,range_only,The organism grew in the temperature range 37-80 degrees C with an optimum at 70 degrees C and at pH 5.5-8.4 with an optimum around 6.7.
+Vulcanisaeta souniana,3.5,thermobase,name_search,12148613,value_not_in_source,They grew optimally at 85-90 degrees C and at pH 4.0-4.5.
+Vulcanisaeta moutnovskia,3.5,thermobase,none,,no_source_found,
+Vulcanisaeta distributa,3.5,thermobase,name_search,12148613,value_not_in_source,They grew optimally at 85-90 degrees C and at pH 4.0-4.5.
+Venenivibrio stagnispumantis,4.8,thermobase,name_search,18218938,value_stated,"Microbial growth occurred under microaerophilic conditions in 1.0-10.0 % (v/v) O(2) [optimum 4-8 % (v/v) O(2)], between 45 and 75 degrees C (optimum 70 degrees C) and at pH values of 4.8-5.8 (optimum pH 5.4)."
+Thermus thermophilus,5.1,thermobase,none,,no_source_found,
+Thermus islandicus,5.5,thermobase,name_search,19628590,range_only,"The strains grew at 45-79 degrees C (optimum, 65 degrees C) and pH 5.5-10.5 (optimum, pH 6.0-7.0)."
+Thermus igniterrae,5.5,thermobase,none,,no_source_found,
+Thermus composti,5.0,thermobase,name_search,21856987,range_only,"The strain grew at 40-80 °C (optimum, 65-75 °C), at pH 5-9 (optimum, pH 7), in media containing up to 1.5% (w/v) NaCl."
+Thermococcus onnurineus,5.0,thermobase,none,,no_source_found,
+Thermus antranikianii,5.0,thermobase,name_search,10826806,no_ph_statement,
+Thermovibrio ammonificans,5.0,thermobase,name_search,14742477,range_only,"Growth occurred between 60 and 80 degrees C (optimum at 75 degrees C), 0.5 and 4.5% (w/v) NaCl (optimum at 2%) and pH 5 and 7 (optimum at 5.5)."
+Thermotoga petrophila,5.2,thermobase,name_search,11594624,no_ph_statement,
+Thermotoga neapolitana,5.5,thermobase,none,,no_source_found,
+Thermotoga maritima,5.5,thermobase,none,,no_source_found,
+Thermosulfurimonas dismutans,5.5,thermobase,name_search,22199218,value_stated,"The pH range for growth was 5.5-8.0, with an optimum at pH 7.0."
+Thermosulfidibacter takaii,5.0,thermobase,name_search,18319474,range_only,"Growth was observed at 55-78 degrees C (optimum, 70 degrees C), pH 5.0-7.5 (optimum, pH 5.5-6.0) and 0.5-4.5 % NaCl (optimum, 3.0 % NaCl)."
+Thermosporothrix hazakensis,5.4,thermobase,thermobase_doi,19767365,verified_measured,"The pH range for growth was 5.4-8.7, with optimum growth at pH 7.0, while no growth was observed below pH 5.0 or above pH 9.1."
+Thermosphaera aggregans,5.0,thermobase,name_search,9542073,range_only,"Growth is observed between 65 and 90 degrees C (optimum: 85 degrees C), from pH 5.0 to 7.0 (optimum: 6.5) and up to 0.7% NaCl."
+Thermosipho melanesiensis,3.5,thermobase,name_search,9336917,no_ph_statement,
+Thermovibrio ruber,5.0,thermobase,thermobase_doi,12361298,no_ph_statement,
+Thermococcus nautili,4.0,thermobase,name_search,24556637,range_only,"The micro-organism grew optimally at 87.5 °C (range 55-95 °C), at pH 7 (range pH 4-9) and with 2% NaCl (range 1-4%)."
+Thermoproteus thermophilus,4.0,thermobase,name_search,25933622,range_only,"The organism grew at 75-90°C and pH 4.0-6.0 and in the presence of 0-0.5% (w/v) NaCl, with optimal growth at 85°C and pH 5.0."
+Thermococcus litoralis,4.0,thermobase,none,,no_source_found,
+Sulfolobus acidocaldarius,1.0,thermobase,none,,no_source_found,
+Stetteria hydrogenophila,4.5,thermobase,none,,no_source_found,
+Staphylothermus marinus,4.5,thermobase,none,,no_source_found,
+Staphylothermus hellenicus,4.5,thermobase,name_search,11155985,no_ph_statement,
+Saccharolobus solfataricus,3.5,thermobase,name_search,29485400,no_ph_statement,
+Saccharolobus caldissimus,1.5,thermobase,name_search,29485400,no_ph_statement,
+Rhodothermus marinus,5.5,thermobase,none,,no_source_found,
+Pyrolobus fumarii,4.0,thermobase,none,,no_source_found,
+Pyrodictium occultum,4.5,thermobase,none,,no_source_found,
+Sulfolobus metallicus,1.0,thermobase,none,,no_source_found,
+Pyrodictium delaneyi,5.0,thermobase,name_search,27260263,no_ph_statement,
+Pyrodictium abyssi,4.7,thermobase,none,,no_source_found,
+Pyrococcus kukulkanii,3.5,thermobase,thermobase_doi,27189596,range_only,Growth was observed at pH 3.5-8.5 (optimum pH 7) and with 1.5-7 % NaCl (optimum at 2.5-3 %).
+Pyrococcus horikoshii,5.0,thermobase,thermobase_doi,9672687,no_ph_statement,
+Pyrococcus furiosus,5.0,thermobase,none,,no_source_found,
+Pyrococcus abyssi,4.0,thermobase,none,,no_source_found,
+Pyrobaculum organotrophum,5.0,thermobase,none,,no_source_found,
+Pyrobaculum oguniense,5.4,thermobase,name_search,11321074,value_not_in_source,Isolate TE7T grew optimally at 90-94 degrees C and pH 7.0-7.5 (adjusted at 25 degrees C) under atmospheric air with vigorous shaking.
+Pyrobaculum neutrophilum,6.0,thermobase,none,,no_source_found,
+Thermococcus marinus,4.0,thermobase,thermobase_doi,14991422,no_ph_statement,
+Pyrodictium brockii,4.5,thermobase,none,,no_source_found,
+Sulfolobus tengchongensis,1.7,thermobase,thermobase_doi,12955604,no_ph_statement,
+Saccharolobus shibatae,1.5,thermobase,name_search,29485400,no_ph_statement,
+Sulfurihydrogenibium azorense,5.5,thermobase,none,,no_source_found,
+Thermococcus kodakarensis,5.0,thermobase,none,,no_source_found,
+Thermococcus indicus,5.4,thermobase,name_search,32239454,range_only,"Growth was at 70-82°C (optimum 80°C), pH 5.4-8.0 (optimum pH 6.0) with 2-4% (optimum 3%) NaCl."
+Thermococcus gammatolerans,4.0,thermobase,none,,no_source_found,
+Sulfolobus tokodaii,2.0,thermobase,name_search,11878560,value_not_in_source,This isolate is an obligate aerobe and grows optimally at 80 degrees C and pH2.5-3 under aerobic and chemoheterotrophic growth conditions by aerobic respiration rather than simple fermentation.
+Thermococcus eurythermalis,4.0,thermobase,name_search,25288278,range_only,Cells of strain A501(T) grew at pH 4-9 (optimum pH 7.0) and a NaCl concentration of 1.0-5.0 % (w/v) (optimum concentration 2.5 % NaCl).
+Thermococcus coalescens,5.2,thermobase,name_search,16280518,range_only,"The cells grew at 57-90 degrees C, pH 5.2-8.7 and at NaCl concentrations of 1.5-4.5 %, with the optima being 87 degrees C, pH 6.5 and 2.5 % NaCl."
+Thermococcus camini,5.0,thermobase,thermobase_doi,34236955,range_only,"Cells of strain Iri35c T grew at NaCl concentrations ranging from 1-5 % (w/v) (optimum 2.0 %), from pH 5.0 to 9.0 (optimum 7.0-7.5), at temperatures between 50 and 90 °C (optimum 75-80 °C) and at pressures from 0.1 to at least 50 MPa (optimum: 10-30 MPa)."
+Thermococcus barossii,3.0,thermobase,name_search,9741109,no_ph_statement,
+Thermococcus barophilus,4.5,thermobase,none,,no_source_found,
+Thermococcus atlanticus,5.0,thermobase,name_search,12664262,no_ph_statement,
+Thermococcus fumicolans,4.5,thermobase,name_search,8863444,no_ph_statement,
+Thermoanaerobacterium saccharolyticum,5.0,thermobase,none,,no_source_found,
+Thermoanaerobacterium xylanolyticum,5.0,thermobase,none,,no_source_found,
+Thermaerobacter marianensis,5.4,thermobase,none,,no_source_found,
+Thermoanaerobacter kivui,5.3,thermobase,none,,no_source_found,
+Thermoanaerobacter mathranii,4.7,thermobase,name_search,9238102,value_stated,"The pH range for growth was 4.7-8.8, with an optimum at pH 7.0."
+Thermoanaerobacter ethanolicus,4.4,thermobase,none,,no_source_found,
+Thermoanaerobacter siderophilus,4.8,thermobase,name_search,10555328,value_stated,"The pH range for growth was 4.8-8.2, with an optimum at 6.3-6.5."
+Thermoanaerobacter thermohydrosulfuricus,5.5,thermobase,none,,no_source_found,
+Thermoanaerobacter uzonensis,4.2,thermobase,none,,no_source_found,
+Thermoanaerobacter pseudethanolicus,5.0,thermobase,name_search,17911280,no_ph_statement,
+Acidianus copahuensis,1.0,acidb,none,,no_source_found,
+Acidomonas methanolica,2.0,acidb,none,,no_source_found,
+Acidithiobacillus albertensis,3.23,acidb,none,,no_source_found,
+Granulicella pectinivorans,3.0,acidb,name_search,20118293,range_only,"Cells of all five strains were acidophilic and psychrotolerant, capable of growth at pH 3.0-7.5 (optimum pH 3.8-4.5) and at 2-33°C (optimum 15-22°C)."
+Rhodopila globiformis,4.35,acidb,none,,no_source_found,
+Methylacidimicrobium cyclopophantes,0.6,acidb,none,,no_source_found,
+Ferrovum myxofaciens,2.0,acidb,none,,no_source_found,
+Acidibacillus sulfuroxidans,1.3,acidb,none,,no_source_found,
+Acidithiobacillus ferrivorans,1.6749999999999998,acidb,name_search,19787416,no_ph_statement,
+Methylacidimicrobium tartarophylax,0.5,acidb,none,,no_source_found,
+Acidibacillus ferrooxidans,1.9,acidb,none,,no_source_found,
+Acidiferrobacter thiooxydans,1.0,acidb,name_search,21311931,value_stated,"Phylogenetically, strain m-1 is a gammaproteobacterium, most closely related to alkaliphilic Ectothiorhodospira spp."
+Acidithrix ferrooxidans,2.0,acidb,none,,no_source_found,
+Gluconacetobacter entanii,2.09,acidb,none,,no_source_found,
+Ferrithrix thermotolerans,1.44,acidb,none,,no_source_found,
+Methylacidiphilum fumariolicum,1.4,acidb,none,,no_source_found,
+Acidiphilium cryptum,2.1,acidb,none,,no_source_found,
+Acidiphilium rubrum,1.95,acidb,none,,no_source_found,
+Acidiphilium angustum,1.95,acidb,none,,no_source_found,
+Acidiphilium multivorum,1.9,acidb,none,,no_source_found,
+Thiomonas arsenitoxydans,2.95,acidb,none,,no_source_found,
+Acidithiobacillus ferridurans,1.15,acidb,name_search,23710060,no_ph_statement,
+Acidithiobacillus ferrooxidans,1.36,acidb,none,,no_source_found,
+Cuniculiplasma divulgatum,0.5,acidb,name_search,26518885,no_ph_statement,
+Acidimicrobium ferrooxidans,1.45,acidb,none,,no_source_found,
+Sulfobacillus acidophilus,1.5,acidb,name_search,8936305,no_ph_statement,
+Leptospirillum ferriphilum,1.05,acidb,name_search,11823226,no_ph_statement,
+Acidocella facilis,2.5,acidb,none,,no_source_found,
+Nitrosotalea okcheonensis,4.45,acidb,none,,no_source_found,
+Methyloferula stellata,3.5,acidb,name_search,21097638,range_only,"Strains AR4(T), SOP9 and LAY were moderately acidophilic, mesophilic organisms capable of growth between pH 3.5 and 7.2 (optimum pH 4.8-5.2) and at 4-33 °C (optimum 20-23 °C)."
+Sulfobacillus thermosulfidooxidans,1.15,acidb,none,,no_source_found,
+Acetobacter nitrogenifigens,3.95,acidb,none,,no_source_found,
+Leptospirillum ferrooxidans,1.21,acidb,name_search,10758852,no_ph_statement,
+Streptococcus gallolyticus,4.8,bacdive,none,,no_source_found,
+Streptococcus chenjunshii,7.0,bacdive,name_search,30785389,no_ph_statement,
+Streptococcus penaeicida,4.0,bacdive,name_search,29533175,no_ph_statement,
+Streptococcus caviae,4.5,bacdive,name_search,28008820,range_only,The strain gr at 25-40 °C (optimum 37 °C) and pH 4.5-9.5 (optimum 8.0).
+Streptococcus oralis subsp. dentisani,6.0,bacdive,none,,no_source_found,
+Gluconobacter japonicus,3.0,bacdive,name_search,19244423,no_ph_statement,
+Sulfobacillus thermotolerans,1.2,bacdive,name_search,16627651,no_ph_statement,
+Acidocella aluminiidurans,3.0,bacdive,name_search,19656936,value_stated,"An aluminium-tolerant bacterium, strain AL46(T), was isolated from a waterweed, Panicum repens, grown in a highly acidic swamp (pH 3) at an actual acid sulfate soil area of Vietnam."
+Acidocella aquatica,3.0,bacdive,name_search,28950932,value_stated,The pH range for growth was 3.0-6.2 with an optimum pH of 4.5.
+Acidobacterium capsulatum,3.0,bacdive,none,,no_source_found,
+Acidithiobacillus sulfuriphilus,1.8,bacdive,name_search,31274405,no_ph_statement,
+Acidihalobacter aeolianus,1.5,bacdive,name_search,30835194,no_ph_statement,
+Acidihalobacter ferrooxydans,1.0,bacdive,name_search,30835194,no_ph_statement,
+Ferrimicrobium acidiphilum,1.4,bacdive,name_search,19406797,no_ph_statement,
+Thiomonas bhubaneswarensis,6.0,bacdive,name_search,19605731,range_only,Mixotrophic growth was observed at pH 6.0-8.5 and 25-45 degrees C; optimum growth occurred at pH 7.5-8.0 and 30-37 degrees C.

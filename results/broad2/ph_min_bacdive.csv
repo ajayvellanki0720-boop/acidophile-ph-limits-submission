@@ -1,0 +1,3003 @@
+species,ph_min,stored_bound,bacdive_verdict,bacdive_evidence,n_obs
+Acetobacter oryzoeni,3.5,measured,no_bacdive_record,,0
+Metallosphaera cuprina,2.5,measured,no_bacdive_record,,0
+Acidovorax monticola,4.5,measured,no_bacdive_record,,0
+Singulisphaera acidiphila,4.2,measured,range_only,growth range from pH 4.2,2
+Fervidicoccus fontis,4.5,measured,range_only,growth range from pH 4.5,4
+Schlesneria paludicola,4.2,measured,range_only,growth range from pH 4.2,2
+Zavarzinella formosa,3.8,measured,range_only,growth range from pH 3.8,2
+Methylocapsa acidiphila,4.2,measured,range_only,growth range from pH 4.2,2
+Methylovirgula ligni,3.1,measured,range_only,growth range from pH 3.1,2
+Pyrinomonas methylaliphatogenes,4.1,measured,no_bacdive_record,,0
+Paludibaculum fermentans,4.0,measured,no_bacdive_record,,0
+Planctomicrobium piriforme,4.2,measured,no_bacdive_record,,0
+Athalassotoga saccharophila,4.5,measured,range_only,growth range from pH 4.5,2
+Actinocrinis puniceicyclus,3.5,measured,range_only,growth range from pH 3.5,2
+Lichenicoccus roseus,3.5,measured,no_bacdive_record,,0
+Lichenifustis flavocetrariae,4.0,measured,no_bacdive_record,,0
+Thermocladium modestius,2.6,measured,no_bacdive_record,,0
+Caldivirga maquilingensis,2.3,measured,no_bacdive_record,,0
+Fodinisporobacter ferrooxydans,3.5,measured,no_bacdive_record,,0
+Oxyplasma meridianum,0.5,measured,no_bacdive_record,,0
+Thermogymnomonas acidicola,1.8,measured,no_bacdive_record,,0
+Telmatobacter bradus,3.0,measured,curator_minimum,BacDive minimum pH 3,3
+Bryocella elongata,3.2,measured,curator_minimum,BacDive minimum pH 3.2,3
+Acidibrevibacterium fodinaquatile,2.5,measured,range_only,growth range from pH 2.5,2
+Ferroplasma acidiphilum,1.3,measured,no_bacdive_record,,0
+Halarchaeum acidiphilum,4.0,measured,range_only,growth range from pH 4,2
+Acididesulfobacillus acetoxydans,3.8,measured,no_bacdive_record,,0
+Granulicella tundricola,3.5,measured,range_only,growth range from pH 3.5,4
+Kyrpidia tusciae,4.2,measured,no_bacdive_record,,0
+Actinospica durhamensis,4.0,measured,no_bacdive_record,,0
+Caenibacillus caldisaponilyticus,4.8,measured,range_only,growth range from pH 4.8,2
+Methanobacterium paludis,4.7,measured,no_bacdive_record,,0
+Burkholderia dabaoshanensis,4.0,measured,no_bacdive_record,,0
+Desulfurella amilsii,3.0,measured,range_only,growth range from pH 3,2
+Alicyclobacillus ferrooxydans,2.0,measured,range_only,growth range from pH 2,2
+Ferroplasma cupricumulans,0.4,lowest_tested,no_bacdive_record,,0
+Alicyclobacillus herbarius,3.5,measured,no_bacdive_record,,0
+Clostridium uliginosum,4.0,measured,no_bacdive_record,,0
+Alicyclobacillus pomorum,3.0,measured,record_without_growth_ph,,1
+Alicyclobacillus acidiphilus,2.5,measured,range_only,growth range from pH 2.5,3
+Mesoaciditoga lauensis,4.1,measured,range_only,growth range from pH 4.1,2
+Acidisoma cladoniae,4.0,measured,no_bacdive_record,,0
+Aciditerrimonas ferrireducens,2.0,measured,no_bacdive_record,,0
+Methylocystis bryophila,4.2,measured,range_only,growth range from pH 4.2,2
+Thiomonas islandica,4.0,measured,record_without_growth_ph,,1
+Acidicapsa dinghuensis,4.0,measured,range_only,growth range from pH 4,2
+Bryobacter aggregatus,4.5,measured,range_only,growth range from pH 4.5,2
+Sulfodiicoccus acidiphilus,1.4,measured,range_only,growth range from pH 1.4,2
+Alicyclobacillus sendaiensis,2.5,measured,no_bacdive_record,,0
+Rhizosaccharibacter radicis,3.5,measured,no_bacdive_record,,0
+Endosaccharibacter trunci,3.0,measured,no_bacdive_record,,0
+Marinobacter subterrani,5.0,measured,no_bacdive_record,,0
+Limnoglobus roseus,5.0,measured,no_bacdive_record,,0
+Frigoriglobus tundricola,4.2,measured,range_only,growth range from pH 4.2,2
+Herminiimonas arsenitoxidans,3.0,measured,no_bacdive_record,,0
+Methylomonas paludis,3.8,measured,range_only,growth range from pH 3.8,2
+Caldisphaera lagunensis,2.3,measured,range_only,growth range from pH 2.3,2
+Methylocystis silviterrae,4.5,measured,no_bacdive_record,,0
+Vulcanisaeta thermophila,4.0,measured,no_bacdive_record,,0
+Edaphobacter acidisoli,3.0,measured,range_only,growth range from pH 3,2
+Desulfovibrio bastinii,5.2,measured,no_bacdive_record,,0
+Desulfosporosinus paludis,4.0,measured,no_bacdive_record,,0
+Desulfosporosinus metallidurans,4.0,measured,no_bacdive_record,,0
+Desulfosporosinus acidiphilus,3.6,measured,no_bacdive_record,,0
+Burkholderia heleia,3.0,lowest_tested,no_bacdive_record,,0
+Burkholderia bannensis,4.0,lowest_tested,no_bacdive_record,,0
+Burkholderia acidipaludis,3.0,lowest_tested,no_bacdive_record,,0
+Asticcacaulis benevestitus,4.5,measured,no_bacdive_record,,0
+Amycolatopsis acidiphila,4.5,lowest_tested,no_bacdive_record,,0
+Alicyclobacillus vulcanalis,2.0,measured,range_only,growth range from pH 2,2
+Alicyclobacillus pohliae,4.5,measured,no_bacdive_record,,0
+Alicyclobacillus fodiniaquatilis,2.5,measured,no_bacdive_record,,0
+Alicyclobacillus dauci,3.0,measured,no_bacdive_record,,0
+Alicyclobacillus curvatus,2.5,measured,no_bacdive_record,,0
+Alicyclobacillus mengziensis,2.0,measured,no_bacdive_record,,0
+Alicyclobacillus cellulosilyticus,3.5,measured,no_bacdive_record,,0
+Acidithiobacillus sibiricus,0.4,measured,no_bacdive_record,,0
+Acidithiobacillus acidisediminis,2.0,measured,no_bacdive_record,,0
+Acidiplasma aeolicum,0.0,measured,no_bacdive_record,,0
+Acidiphilium iwatense,2.0,measured,no_bacdive_record,,0
+Acidicapsa acidisoli,4.0,measured,range_only,growth range from pH 4,2
+Acidianus sulfidivorans,0.35,measured,no_bacdive_record,,0
+Acidianus manzaensis,1.0,measured,no_bacdive_record,,0
+Edaphobacter dinghuensis,3.5,measured,range_only,growth range from pH 3.5,2
+Edaphobacter paludis,3.6,measured,no_bacdive_record,,0
+Acidobacterium ailaaui,4.5,measured,range_only,growth range from pH 4.5,2
+Granulicella sibirica,3.5,measured,range_only,growth range from pH 3.5,2
+Terriglobus aquaticus,6.0,measured,range_only,growth range from pH 6,2
+Effusibacillus dendaii,4.0,measured,no_bacdive_record,,0
+Terriglobus tenax,3.5,measured,no_bacdive_record,,0
+Terriglobus saanensis,4.5,measured,range_only,growth range from pH 4.5,2
+Sulfurisphaera javensis,2.5,measured,range_only,growth range from pH 2.5,2
+Sulfuriferula thiophila,4.6,measured,range_only,growth range from pH 4.6,2
+Sulfuracidifex tepidarius,0.4,measured,no_bacdive_record,,0
+Sulfobacillus harzensis,1.5,measured,no_bacdive_record,,0
+Stygiolobus caldivivus,1.0,measured,no_bacdive_record,,0
+Streptomyces rubrisoli,4.0,measured,no_bacdive_record,,0
+Streptomyces fodineus,4.0,measured,no_bacdive_record,,0
+Streptococcus mobilis,5.0,measured,no_bacdive_record,,0
+Singulisphaera rosea,3.2,measured,range_only,growth range from pH 3.2,2
+Sulfuriferula nivalis,4.3,measured,no_bacdive_record,,0
+Hydrogenothermus marinus,5.0,measured,no_bacdive_record,,0
+Rhodoblastus sphagnicola,4.8,measured,record_without_growth_ph,,1
+Paraburkholderia yinzeri,3.9,measured,no_bacdive_record,,0
+Paenibacillus albilobatus,4.0,measured,no_bacdive_record,,0
+Methylocella tundrae,4.2,measured,curator_minimum,BacDive minimum pH 4.2,2
+Methylocella silvestris,4.5,measured,range_only,growth range from pH 4.5,2
+Methylacidiphilum kamchatkense,1.0,measured,no_bacdive_record,,0
+Metallosphaera tengchongensis,1.5,measured,no_bacdive_record,,0
+Halarchaeum nitratireducens,4.5,measured,range_disagrees,BacDive lowest growth pH 4.2 vs stored 4.5,2
+Halarchaeum salinum,4.5,measured,range_only,growth range from pH 4.5,2
+Halarchaeum rubridurum,4.5,measured,range_only,growth range from pH 4.5,2
+Halarchaeum grantii,4.5,measured,no_bacdive_record,,0
+Salinisphaera japonica,3.8,measured,range_only,growth range from pH 3.8,2
+Luteimicrobium xylanilyticum,4.5,measured,no_bacdive_record,,0
+Halorubrum halophilum,7.0,measured,no_bacdive_record,,0
+Taibaiella koreensis,6.5,measured,no_bacdive_record,,0
+Roseibium aquae,6.5,measured,no_bacdive_record,,0
+Acinetobacter apis,6.0,measured,no_bacdive_record,,0
+Halolamina rubra,6.0,measured,no_bacdive_record,,0
+Saccharopolyspora ghardaiensis,6.0,measured,no_bacdive_record,,0
+Parvularcula oceani,4.0,measured,no_bacdive_record,,0
+Roseomonas alkaliterrae,8.0,measured,no_bacdive_record,,0
+Mucilaginibacter koreensis,6.0,measured,no_bacdive_record,,0
+Aquimarina pacifica,7.0,measured,no_bacdive_record,,0
+Aquimarina amphilecti,6.0,measured,no_bacdive_record,,0
+Gordonia jinhuaensis,6.0,measured,no_bacdive_record,,0
+Promicromonospora iranensis,6.0,measured,no_bacdive_record,,0
+Flavobacterium lacus,6.5,measured,no_bacdive_record,,0
+Dyella jejuensis,5.0,measured,no_bacdive_record,,0
+Actinomyces haliotis,7.0,measured,no_bacdive_record,,0
+Sphingobacterium yanglingense,5.0,measured,no_bacdive_record,,0
+Halococcus sediminicola,6.0,measured,no_bacdive_record,,0
+Altererythrobacter xiamenensis,6.0,measured,no_bacdive_record,,0
+Kordia jejudonensis,7.0,measured,no_bacdive_record,,0
+Geodermatophilus amargosae,6.0,measured,no_bacdive_record,,0
+Marinobacterium mangrovicola,5.5,measured,no_bacdive_record,,0
+Simiduia curdlanivorans,7.0,measured,no_bacdive_record,,0
+Brevundimonas denitrificans,6.0,measured,no_bacdive_record,,0
+Alkalibacillus almallahensis,7.0,measured,no_bacdive_record,,0
+Roseovarius azorensis,7.0,measured,no_bacdive_record,,0
+Geobacter anodireducens,6.0,measured,no_bacdive_record,,0
+Photobacterium panuliri,5.5,measured,no_bacdive_record,,0
+Zunongwangia mangrovi,7.0,measured,record_without_growth_ph,,3
+Chitinophaga costaii,5.5,measured,curator_minimum,BacDive minimum pH 5.5,3
+Solirubrobacter phytolaccae,7.0,measured,no_bacdive_record,,0
+Sphingobacterium arenae,7.0,measured,no_bacdive_record,,0
+Vitellibacter soesokkakensis,7.0,measured,no_bacdive_record,,0
+Jannaschia faecimaris,7.0,measured,no_bacdive_record,,0
+Winogradskyella wandonensis,7.0,measured,no_bacdive_record,,0
+Sphingomonas yantingensis,6.0,measured,no_bacdive_record,,0
+Litoreibacter ascidiaceicola,7.0,measured,no_bacdive_record,,0
+Tessaracoccus lapidicaptus,6.0,measured,no_bacdive_record,,0
+Ornithinibacillus halotolerans,7.0,measured,no_bacdive_record,,0
+Paracoccus lutimaris,7.0,measured,no_bacdive_record,,0
+Methyloversatilis thermotolerans,6.5,measured,no_bacdive_record,,0
+Paludibacter jiangxiensis,5.0,measured,no_bacdive_record,,0
+Defluviimonas aquaemixtae,7.0,measured,no_bacdive_record,,0
+Halapricum salinum,7.0,measured,no_bacdive_record,,0
+Altererythrobacter aestiaquae,7.0,measured,no_bacdive_record,,0
+Amphritea ceti,7.0,measured,no_bacdive_record,,0
+Litoreibacter ponti,7.0,measured,no_bacdive_record,,0
+Pseudoruegeria sabulilitoris,7.0,measured,no_bacdive_record,,0
+Erythrobacter lutimaris,7.0,measured,no_bacdive_record,,0
+Octadecabacter jejudonensis,7.0,measured,no_bacdive_record,,0
+Chryseobacterium oleae,5.0,measured,no_bacdive_record,,0
+Loktanella ponticola,7.0,measured,no_bacdive_record,,0
+Chitinimonas viridis,5.0,measured,no_bacdive_record,,0
+Cecembia rubra,4.0,measured,no_bacdive_record,,0
+Maritimibacter lacisalsi,6.5,measured,no_bacdive_record,,0
+Oceanisphaera psychrotolerans,5.0,measured,no_bacdive_record,,0
+Sphingomonas hengshuiensis,5.0,measured,no_bacdive_record,,0
+Vogesella amnigena,7.0,measured,no_bacdive_record,,0
+Nocardioides deserti,7.0,measured,no_bacdive_record,,0
+Celeribacter manganoxidans,6.5,measured,no_bacdive_record,,0
+Brenneria populi,4.0,measured,no_bacdive_record,,0
+Sporosarcina siberiensis,7.0,measured,no_bacdive_record,,0
+Stackebrandtia endophytica,6.0,measured,no_bacdive_record,,0
+Gracilibacillus alcaliphilus,7.0,measured,no_bacdive_record,,0
+Sulfurisoma sediminicola,6.8,measured,no_bacdive_record,,0
+Aestuariispira insulae,7.0,measured,no_bacdive_record,,0
+Mariniluteicoccus flavus,6.0,measured,no_bacdive_record,,0
+Cribrihabitans marinus,6.5,measured,no_bacdive_record,,0
+Melaminivora alkalimesophila,7.0,measured,no_bacdive_record,,0
+Thermoflexus hugenholtzii,6.5,measured,range_only,growth range from pH 6.5,2
+Bacterioplanes sanyensis,6.0,measured,no_bacdive_record,,0
+Acetobacteroides hydrogenigenes,5.7,measured,no_bacdive_record,,0
+Salinispirillum marinum,7.5,measured,no_bacdive_record,,0
+Motiliproteus sediminis,6.2,measured,no_bacdive_record,,0
+Seonamhaeicola aphaedonensis,7.0,measured,no_bacdive_record,,0
+Boseongicola aestuarii,7.0,measured,no_bacdive_record,,0
+Pseudopelagicola gijangensis,7.0,measured,no_bacdive_record,,0
+Aestuariivita boseongensis,7.0,measured,no_bacdive_record,,0
+Ascidiaceihabitans donghaensis,7.0,measured,no_bacdive_record,,0
+Lactivibrio alcoholicus,6.0,measured,no_bacdive_record,,0
+Aliicoccus persicus,7.0,measured,no_bacdive_record,,0
+Terrimicrobium sacchariphilum,5.5,measured,no_bacdive_record,,0
+Polymorphobacter multimanifer,6.0,measured,no_bacdive_record,,0
+Thalassotalea piscium,7.0,measured,no_bacdive_record,,0
+Wenxinia saemankumensis,7.0,measured,no_bacdive_record,,0
+Streptomyces hokutonensis,5.0,measured,no_bacdive_record,,0
+Hydrogenophaga electricum,7.0,measured,no_bacdive_record,,0
+Brumimicrobium mesophilum,6.5,measured,range_only,growth range from pH 6.5,2
+Mucilaginibacter ginsenosidivorax,5.5,measured,no_bacdive_record,,0
+Roseovarius sediminilitoris,7.0,measured,no_bacdive_record,,0
+Marinobacter nanhaiticus,7.0,measured,no_bacdive_record,,0
+Defluviimonas aestuarii,6.5,measured,no_bacdive_record,,0
+Natronoarchaeum philippinense,6.5,measured,range_only,growth range from pH 6.5,2
+Geodermatophilus africanus,6.0,measured,no_bacdive_record,,0
+Actinopolyspora saharensis,6.0,measured,no_bacdive_record,,0
+Flavobacterium aciduliphilum,5.0,measured,range_only,growth range from pH 5,2
+Pseudomonas zhaodongensis,7.0,measured,no_bacdive_record,,0
+Rheinheimera tilapiae,7.0,measured,range_only,growth range from pH 7,2
+Geodermatophilus normandii,6.0,measured,range_only,growth range from pH 6,1
+Brevundimonas abyssalis,6.5,measured,range_only,growth range from pH 6.5,2
+Maribacter aestuarii,6.5,measured,range_only,growth range from pH 6.5,2
+Azoarcus olearius,7.0,measured,no_bacdive_record,,0
+Flavobacterium ginsengisoli,5.0,measured,no_bacdive_record,,0
+Halopelagius fulvigenes,6.0,measured,range_only,growth range from pH 6,2
+Roseovarius lutimaris,6.5,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6.5,2
+Flaviramulus ichthyoenteri,7.0,measured,no_bacdive_record,,0
+Gemmobacter tilapiae,6.0,measured,range_only,growth range from pH 6,2
+Tepidimonas fonticaldi,7.0,measured,range_only,growth range from pH 7,2
+Haloferax chudinovii,5.5,measured,no_bacdive_record,,0
+Geodermatophilus telluris,6.0,measured,range_only,growth range from pH 6,1
+Rhizobium tarimense,7.0,measured,no_bacdive_record,,0
+Winogradskyella pulchriflava,6.5,measured,range_only,growth range from pH 6.5,2
+Bizionia hallyeonensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Phycicoccus badiiscoriae,5.1,measured,no_bacdive_record,,0
+Loktanella litorea,7.0,measured,no_bacdive_record,,0
+Salinicola peritrichatus,4.5,measured,curator_minimum,BacDive minimum pH 4.5,3
+Amphibacillus indicireducens,9.0,measured,range_only,growth range from pH 9,2
+Orbus sasakiae,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Pleomorphomonas diazotrophica,6.0,measured,range_only,growth range from pH 6,2
+Mesotoga infera,6.2,measured,record_without_growth_ph,,1
+Microbacterium oryzae,5.0,measured,no_bacdive_record,,0
+Litoreibacter halocynthiae,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Hirschia litorea,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Reyranella soli,6.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 6,2
+Dyella kyungheensis,6.0,measured,record_without_growth_ph,,1
+Ferrimonas sediminum,7.0,measured,range_only,growth range from pH 7,2
+Olleya namhaensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Bacillus sediminis,7.0,measured,no_bacdive_record,,0
+Phaeobacter leonis,6.5,measured,no_bacdive_record,,0
+Pseudorhodobacter wandonensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Jeongeupia chitinilytica,6.0,measured,range_only,growth range from pH 6,2
+Dokdonella immobilis,5.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 5,2
+Aliidiomarina sanyensis,7.0,measured,no_bacdive_record,,0
+Geodermatophilus saharensis,6.0,measured,no_bacdive_record,,0
+Arcobacter anaerophilus,7.0,measured,range_only,growth range from pH 7,2
+Anoxybacillus suryakundensis,5.5,measured,no_bacdive_record,,0
+Hoeflea halophila,6.0,measured,no_bacdive_record,,0
+Glaciecola aquimarina,7.0,measured,no_bacdive_record,,0
+Amorphus suaedae,6.5,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6.5,2
+Formosa undariae,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Rothia endophytica,5.0,measured,range_only,growth range from pH 5,2
+Halomonas zincidurans,5.0,measured,no_bacdive_record,,0
+Oceanobacillus indicireducens,7.0,measured,range_only,growth range from pH 7,2
+Algibacter miyuki,7.0,measured,no_bacdive_record,,0
+Hyphomicrobium nitrativorans,7.0,measured,range_only,growth range from pH 7,2
+Natronococcus roseus,8.0,measured,range_only,growth range from pH 8,2
+Sulfurimonas gotlandica,6.6,measured,range_only,growth range from pH 6.7,2
+Chryseobacterium hispalense,5.0,measured,range_only,growth range from pH 5,1
+Hoeflea suaedae,6.5,measured,no_bacdive_record,,0
+Ferrimonas pelagia,7.0,measured,range_only,growth range from pH 7,2
+Tenacibaculum caenipelagi,7.0,measured,no_bacdive_record,,0
+Oceanobacillus polygoni,7.0,measured,range_only,growth range from pH 7,2
+Loktanella sediminilitoris,7.0,measured,no_bacdive_record,,0
+Natronobacterium texcoconense,6.5,measured,range_only,growth range from pH 6.5,2
+Aminivibrio pyruvatiphilus,6.4,measured,range_only,growth range from pH 6.4,2
+Pontimonas salivibrio,7.0,measured,range_only,growth range from pH 7,2
+Chryseobacterium gwangjuense,7.0,measured,no_bacdive_record,,0
+Algivirga pacifica,5.0,measured,no_bacdive_record,,0
+Planktomarina temperata,7.0,measured,range_only,growth range from pH 7,2
+Nibribacter koreensis,6.5,measured,range_only,growth range from pH 6.5,2
+Mangrovimonas yunxiaonensis,6.0,measured,range_only,growth range from pH 6,2
+Fontimonas thermophila,6.5,measured,range_only,growth range from pH 6.5,2
+Profundibacterium mesophilum,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Dehalococcoides mccartyi,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Halanaerobium sehlinense,5.2,measured,range_only,growth range from pH 5.2,2
+Pelagimonas varians,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Pseudofulvibacter geojedonensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Litorilituus sediminis,8.0,measured,no_bacdive_record,,0
+Litorilinea aerophila,6.5,measured,range_only,growth range from pH 6.5,2
+Sabulilitoribacter multivorans,7.0,measured,no_bacdive_record,,0
+Aureivirga marina,6.0,measured,range_only,growth range from pH 6,1
+Rehaibacterium terrae,7.0,measured,range_only,growth range from pH 7,2
+Oligosphaera ethanolica,6.5,measured,range_only,growth range from pH 6.5,2
+Pustulibacterium marinum,6.0,measured,range_only,growth range from pH 6,2
+Hwangdonia seohaensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Pedobacter ginsenosidimutans,5.5,measured,range_only,growth range from pH 5.5,2
+Pseudoxanthomonas sangjuensis,5.0,measured,no_bacdive_record,,0
+Alteromonas confluentis,7.0,measured,no_bacdive_record,,0
+Muriicola marianensis,6.5,measured,no_bacdive_record,,0
+Halanaeroarchaeum sulfurireducens,6.7,measured,range_only,growth range from pH 6.7,2
+Sediminivirga luteola,8.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 8,2
+Woeseia oceani,6.0,measured,range_only,growth range from pH 6,2
+Chania multitudinisentens,5.0,measured,record_without_growth_ph,,1
+Mongoliibacter ruber,8.0,measured,range_disagrees,BacDive lowest growth pH 7.5 vs stored 8,2
+Oceanobacillus longus,6.0,measured,range_only,growth range from pH 6,2
+Lentibacillus populi,6.0,measured,range_only,growth range from pH 6,2
+Polaribacter marinaquae,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Egibacter rhizosphaerae,7.0,measured,range_only,growth range from pH 7,2
+Mobilisporobacter senegalensis,6.5,measured,range_only,growth range from pH 6.5,2
+Inmirania thermothiophila,5.5,measured,range_only,growth range from pH 5.5,2
+Paludifilum halophilum,8.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 8,2
+Panacibacter ginsenosidivorans,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Thermostilla marina,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Serpentinicella alkaliphila,7.8,measured,range_only,growth range from pH 7.8,2
+Dissulfurirhabdus thermomarina,5.0,measured,range_only,growth range from pH 5,2
+Lentimicrobium saccharophilum,6.5,measured,range_only,growth range from pH 6.5,2
+Marinibaculum pumilum,6.0,measured,range_only,growth range from pH 6,2
+Silicimonas algicola,6.5,measured,verified_measured,no growth recorded at pH 5.5,4
+Terracidiphilus gabretensis,3.0,measured,no_bacdive_record,,0
+Lysinibacillus xyleni,7.0,measured,no_bacdive_record,,0
+Rothia aerolata,5.5,measured,verified_measured,no growth recorded at pH 4.5,3
+Marinobacterium aestuariivivens,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Cellulosimicrobium marinum,6.0,measured,no_bacdive_record,,0
+Lactococcus nasutitermitis,5.0,measured,no_bacdive_record,,0
+Roseomonas chloroacetimidivorans,6.0,measured,no_bacdive_record,,0
+Microbulbifer rhizosphaerae,6.0,measured,range_only,growth range from pH 6,2
+Altererythrobacter estronivorus,5.5,measured,no_bacdive_record,,0
+Streptomyces lonarensis,7.0,measured,no_bacdive_record,,0
+Mariniluteicoccus endophyticus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Streptomyces daqingensis,5.0,measured,no_bacdive_record,,0
+Streptomyces alfalfae,6.0,measured,no_bacdive_record,,0
+Nocardiopsis mwathae,7.0,measured,no_bacdive_record,,0
+Variovorax humicola,4.0,measured,range_only,growth range from pH 4,2
+Aliidiomarina iranensis,7.0,measured,range_only,growth range from pH 7,2
+Orenia metallireducens,6.0,measured,no_bacdive_record,,0
+Aliifodinibius halophilus,7.0,measured,no_bacdive_record,,0
+Arenimonas aestuarii,7.0,measured,range_only,growth range from pH 7,2
+Pontibacillus salipaludis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Aquimarina hainanensis,7.0,measured,range_only,growth range from pH 7,2
+Rhizobium ipomoeae,7.0,measured,no_bacdive_record,,0
+Halostella salina,7.0,measured,range_only,growth range from pH 7,2
+Desulfotomaculum ferrireducens,6.5,measured,no_bacdive_record,,0
+Maliponia aquimaris,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Terrilactibacillus laevilacticus,5.0,measured,range_only,growth range from pH 5,1
+Nocardioides gilvus,8.0,measured,no_bacdive_record,,0
+Streptomyces phyllanthi,5.0,measured,no_bacdive_record,,0
+Catenovulum sediminis,6.0,measured,range_only,growth range from pH 6,2
+Kushneria konosiri,4.5,measured,range_only,growth range from pH 4.5,2
+Algoriphagus marinus,6.5,measured,range_only,growth range from pH 6.5,2
+Seonamhaeicola marinus,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Phreatobacter stygius,6.0,measured,range_only,growth range from pH 6,2
+Algoriphagus resistens,5.5,measured,range_only,growth range from pH 5.5,2
+Thalassotalea sediminis,7.5,measured,no_bacdive_record,,0
+Idiomarina andamanensis,6.0,measured,no_bacdive_record,,0
+Franconibacter daqui,5.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 5,2
+Aquimarina rubra,6.5,measured,range_only,growth range from pH 6.5,2
+Roseovarius confluentis,6.5,measured,range_only,growth range from pH 6.5,2
+Desulfonatronum parangueonense,8.3,measured,range_only,growth range from pH 8.3,2
+Parapedobacter lycopersici,7.0,measured,range_only,growth range from pH 7,2
+Polaribacter litorisediminis,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Novosphingobium guangzhouense,6.0,measured,range_only,growth range from pH 6,1
+Flavobacterium hibisci,6.5,measured,no_bacdive_record,,0
+Colwellia agarivorans,6.5,measured,no_bacdive_record,,0
+Pontibacter litorisediminis,7.0,measured,verified_measured,no growth recorded at pH 5,3
+Marinococcus salis,7.5,measured,no_bacdive_record,,0
+Demequina litorisediminis,6.5,measured,verified_measured,no growth recorded at pH 4.5,3
+Populibacterium corticicola,6.0,measured,range_only,growth range from pH 6,2
+Marivivens donghaensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Wenyingzhuangia fucanilytica,5.5,measured,range_only,growth range from pH 5.5,2
+Sulfuricaulis limicola,6.1,measured,range_only,growth range from pH 6.1,1
+Blastococcus capsensis,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,1
+Kordiimonas lipolytica,5.5,measured,range_only,growth range from pH 5.5,2
+Flavobacterium panacis,6.5,measured,no_bacdive_record,,0
+Paracoccus aestuariivivens,6.5,measured,verified_measured,no growth recorded at pH 4.5,3
+Altererythrobacter confluentis,7.0,measured,no_bacdive_record,,0
+Ornithinicoccus halotolerans,7.0,measured,range_only,growth range from pH 7,2
+Oceanobacillus halophilus,6.5,measured,range_only,growth range from pH 6.5,2
+Geodermatophilus pulveris,5.5,measured,no_bacdive_record,,0
+Halomonas urumqiensis,6.0,measured,no_bacdive_record,,0
+Pseudoalteromonas neustonica,7.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7.5,2
+Yimella radicis,6.0,measured,range_only,growth range from pH 6,2
+Arcobacter acticola,7.0,measured,no_bacdive_record,,0
+Idiomarina tyrosinivorans,6.0,measured,range_only,growth range from pH 6,2
+Sphingobacterium chuzhouense,6.0,measured,range_only,growth range from pH 6,2
+Skermanella rosea,6.1,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 6.1,2
+Pseudoroseicyclus aestuarii,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Spongiibacter taiwanensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Pseudoxanthomonas helianthi,7.0,measured,range_only,growth range from pH 7,2
+Sulfitobacter faviae,6.0,measured,range_only,growth range from pH 6,2
+Belliella aquatica,7.0,measured,record_without_growth_ph,,2
+Paenibacillus kyungheensis,4.0,measured,no_bacdive_record,,0
+Geodermatophilus sabuli,6.5,measured,no_bacdive_record,,0
+Hymenobacter mucosus,5.0,measured,no_bacdive_record,,0
+Geodermatophilus aquaeductus,6.0,measured,no_bacdive_record,,0
+Pedobacter nanyangensis,6.0,measured,no_bacdive_record,,0
+Tepidisphaera mucosa,4.5,measured,no_bacdive_record,,0
+Frigidibacter albus,6.0,measured,no_bacdive_record,,0
+Marinobacter halophilus,6.5,measured,no_bacdive_record,,0
+Pseudobacteriovorax antillogorgiicola,6.0,measured,no_bacdive_record,,0
+Emcibacter nanhaiensis,6.0,measured,no_bacdive_record,,0
+Nioella nitratireducens,6.0,measured,no_bacdive_record,,0
+Aquabacterium olei,7.0,measured,no_bacdive_record,,0
+Georgenia subflava,6.0,measured,no_bacdive_record,,0
+Sphingomicrobium aestuariivivum,7.0,measured,no_bacdive_record,,0
+Aureibacillus halotolerans,7.0,measured,no_bacdive_record,,0
+Terasakiispira papahanaumokuakeensis,5.0,measured,no_bacdive_record,,0
+Pontivivens insulae,7.0,measured,no_bacdive_record,,0
+Acuticoccus yangtzensis,6.0,measured,no_bacdive_record,,0
+Phaeodactylibacter luteus,5.0,measured,no_bacdive_record,,0
+Pseudomonas salina,6.5,measured,no_bacdive_record,,0
+Erythrobacter luteus,5.0,measured,no_bacdive_record,,0
+Demequina activiva,7.0,measured,no_bacdive_record,,0
+Mucilaginibacter aquaedulcis,6.0,measured,no_bacdive_record,,0
+Phenylobacterium kunshanense,6.0,measured,no_bacdive_record,,0
+Thermocrinis jamiesonii,6.5,measured,no_bacdive_record,,0
+Nitrosospira lacus,5.0,measured,no_bacdive_record,,0
+Sulfitobacter undariae,7.0,measured,no_bacdive_record,,0
+Bacillus polymachus,4.0,measured,no_bacdive_record,,0
+Tumebacillus lipolyticus,6.0,measured,no_bacdive_record,,0
+Deinococcus puniceus,7.0,measured,no_bacdive_record,,0
+Desulfuromonas carbonis,6.5,measured,no_bacdive_record,,0
+Geodermatophilus bullaregiensis,7.0,measured,no_bacdive_record,,0
+Loktanella sediminum,7.0,measured,no_bacdive_record,,0
+Microbacterium shaanxiense,5.0,measured,no_bacdive_record,,0
+Okibacterium endophyticum,6.0,measured,no_bacdive_record,,0
+Streptomyces alkaliphilus,8.0,measured,no_bacdive_record,,0
+Sulfitobacter pseudonitzschiae,6.0,measured,no_bacdive_record,,0
+Belliella kenyensis,7.0,measured,record_without_growth_ph,,2
+Rhizobium alvei,7.0,measured,no_bacdive_record,,0
+Mangrovibacter yixingensis,7.0,measured,no_bacdive_record,,0
+Aestuariivivens insulae,7.0,measured,no_bacdive_record,,0
+Caproiciproducens galactitolivorans,6.0,measured,no_bacdive_record,,0
+Crassaminicella profunda,6.7,measured,no_bacdive_record,,0
+Hypnocyclicus thermotrophus,5.3,measured,no_bacdive_record,,0
+Caloranaerobacter ferrireducens,4.5,measured,no_bacdive_record,,0
+Chitinophaga dinghuensis,6.5,measured,no_bacdive_record,,0
+Halocynthiibacter arcticus,5.5,measured,no_bacdive_record,,0
+Halomonas salicampi,7.0,measured,no_bacdive_record,,0
+Thermus parvatiensis,7.0,measured,no_bacdive_record,,0
+Lutimaribacter marinistellae,6.5,measured,range_only,growth range from pH 6.5,2
+Halopiger thermotolerans,6.5,measured,range_only,growth range from pH 6.5,2
+Deinococcus arenae,7.0,measured,no_bacdive_record,,0
+Mucilaginibacter antarcticus,7.0,measured,range_only,growth range from pH 7,2
+Paludibacterium purpuratum,6.0,measured,range_only,growth range from pH 6,2
+Halomarina salina,6.5,measured,no_bacdive_record,,0
+Thalassotalea euphylliae,7.5,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 7.5,2
+Altererythrobacter sediminis,6.5,measured,no_bacdive_record,,0
+Tepidibacillus infernus,5.6,measured,range_only,growth range from pH 5.6,2
+Shinella curvata,6.1,measured,range_only,growth range from pH 6.1,2
+Hymenobacter nivis,5.3,measured,range_only,growth range from pH 5.3,2
+Psychrobacter pocilloporae,6.5,measured,range_only,growth range from pH 6.5,2
+Algoriphagus confluentis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Octadecabacter ascidiaceicola,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Spirosoma aerolatum,6.5,measured,no_bacdive_record,,0
+Formosa haliotis,6.0,measured,no_bacdive_record,,0
+Nesterenkonia alkaliphila,7.0,measured,no_bacdive_record,,0
+Bacillus oleivorans,7.0,measured,no_bacdive_record,,0
+Pseudohalocynthiibacter aestuariivivens,7.0,measured,no_bacdive_record,,0
+Litorivivens lipolytica,7.0,measured,no_bacdive_record,,0
+Lacimonas salitolerans,6.5,measured,no_bacdive_record,,0
+Longimonas halophila,6.5,measured,no_bacdive_record,,0
+Alkalimarinus sediminis,7.0,measured,no_bacdive_record,,0
+Hydromonas duriensis,6.0,measured,no_bacdive_record,,0
+Hoeflea olei,7.0,measured,no_bacdive_record,,0
+Halolamina sediminis,6.5,measured,no_bacdive_record,,0
+Roseomonas oryzicola,7.0,measured,no_bacdive_record,,0
+Primorskyibacter insulae,7.0,measured,no_bacdive_record,,0
+Geodermatophilus arenarius,6.0,measured,no_bacdive_record,,0
+Halobacillus andaensis,7.0,measured,range_only,growth range from pH 7,2
+Maribacter confluentis,7.0,measured,no_bacdive_record,,0
+Kangiella profundi,6.5,measured,no_bacdive_record,,0
+Marinobacter confluentis,7.0,measured,no_bacdive_record,,0
+Gramella aquimixticola,7.0,measured,no_bacdive_record,,0
+Amycolatopsis stemonae,6.0,measured,no_bacdive_record,,0
+Actinokineospora guangxiensis,6.0,measured,no_bacdive_record,,0
+Undibacterium aquatile,6.0,measured,no_bacdive_record,,0
+Virgibacillus oceani,6.0,measured,no_bacdive_record,,0
+Winogradskyella jejuensis,6.5,measured,no_bacdive_record,,0
+Nocardioides iriomotensis,6.0,measured,no_bacdive_record,,0
+Gracilibacillus kekensis,6.0,measured,range_only,growth range from pH 6,2
+Clostridiisalibacter paucivorans,5.5,measured,range_only,growth range from pH 5.5,2
+Natronobacillus azotifigens,7.5,measured,no_bacdive_record,,0
+Humibacter albus,5.5,measured,range_only,growth range from pH 5.5,2
+Haloactinospora alba,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Spongiibacter marinus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,4
+Nocardiopsis quinghaiensis,6.0,measured,range_only,growth range from pH 6,2
+Marinobacter goseongensis,5.3,measured,range_only,growth range from pH 5.3,2
+Proteiniborus ethanoligenes,6.4,measured,range_only,growth range from pH 6.4,2
+Thiohalorhabdus denitrificans,6.5,measured,range_only,growth range from pH 6.5,2
+Salinivibrio proteolyticus,5.0,measured,range_only,growth range from pH 5,2
+Microbulbifer halophilus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Bacillus alkalitelluris,7.0,measured,no_bacdive_record,,0
+Mucilaginibacter kameinonensis,5.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 5,2
+Virgibacillus kekensis,6.0,measured,range_only,growth range from pH 6,3
+Ornithinimicrobium pekingense,6.0,measured,range_only,growth range from pH 6,2
+Rhodovulum kholense,6.0,measured,range_only,growth range from pH 6,2
+Lysobacter capsici,5.5,measured,range_only,growth range from pH 5.5,2
+Rheinheimera tangshanensis,6.0,measured,range_only,growth range from pH 6,2
+Halomonas nitroreducens,5.0,measured,range_only,growth range from pH 5,2
+Eudoraea adriatica,6.5,measured,range_only,growth range from pH 6.5,2
+Tamlana agarivorans,7.0,measured,no_bacdive_record,,0
+Muricauda lutimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Pseudomonas duriflava,7.0,measured,no_bacdive_record,,0
+Nesterenkonia flava,9.0,measured,range_disagrees,BacDive lowest growth pH 8 vs stored 9,2
+Leifsonia bigeumensis,6.0,measured,no_bacdive_record,,0
+Sphingobacterium siyangense,6.0,measured,range_disagrees,BacDive lowest growth pH 3 vs stored 6,2
+Agromyces terreus,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Halomonas salifodinae,6.0,measured,no_bacdive_record,,0
+Gracilibacillus halophilus,6.0,measured,range_only,growth range from pH 6,2
+Roseovarius aestuarii,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Sporosarcina antarctica,6.0,measured,no_bacdive_record,,0
+Nocardiopsis valliformis,8.0,measured,range_only,growth range from pH 8,2
+Phenylobacterium composti,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Niabella soli,5.0,measured,range_only,growth range from pH 5,2
+Marinobacter psychrophilus,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Rheinheimera soli,6.5,measured,range_only,growth range from pH 6.5,2
+Nautilia profundicola,6.0,measured,range_only,growth range from pH 6,2
+Rubellimicrobium mesophilum,7.0,measured,range_only,growth range from pH 7,2
+Phaeobacter arcticus,6.0,measured,no_bacdive_record,,0
+Bacillus aurantiacus,9.0,measured,no_bacdive_record,,0
+Sphingobacterium anhuiense,6.0,measured,range_only,growth range from pH 6,2
+Pseudomonas sabulinigri,5.5,measured,no_bacdive_record,,0
+Salegentibacter salinarum,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Micrococcus endophyticus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Nesterenkonia alba,9.0,measured,range_disagrees,BacDive lowest growth pH 8 vs stored 9,2
+Spirochaeta dissipatitropha,7.8,measured,range_only,growth range from pH 7.8,2
+Hirschia maritima,8.1,measured,range_disagrees,BacDive lowest growth pH 6.1 vs stored 8.1,2
+Lutimaribacter saemankumensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Spongiibacter tropicus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Sediminimonas qiaohouensis,6.5,measured,range_only,growth range from pH 6.5,2
+Salinihabitans flavidus,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Seohaeicola saemankumensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Pelagibius litoralis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Marinobacter santoriniensis,5.5,measured,curator_minimum,BacDive minimum pH 5.5,3
+Algoriphagus aquatilis,5.5,measured,range_only,growth range from pH 5.5,2
+Jejuia pallidilutea,6.5,measured,range_only,growth range from pH 6.5,2
+Nitriliruptor alkaliphilus,8.4,measured,range_only,growth range from pH 8.2,2
+Roseibaca ekhonensis,7.0,measured,no_bacdive_record,,0
+Arthrobacter psychrochitiniphilus,6.0,measured,range_only,growth range from pH 6,2
+Salisaeta longa,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Thiobacillus thiophilus,6.3,measured,range_only,growth range from pH 6.3,2
+Methanolobus profundi,6.1,measured,no_bacdive_record,,0
+Psychroflexus salinarum,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Proteocatella sphenisci,6.7,measured,range_only,growth range from pH 6.7,2
+Filomicrobium insigne,6.0,measured,range_only,growth range from pH 6,2
+Paenibacillus pectinilyticus,6.0,measured,no_bacdive_record,,0
+Streptomyces xinghaiensis,6.0,measured,no_bacdive_record,,0
+Aquitalea denitrificans,6.0,measured,range_disagrees,BacDive lowest growth pH 7.5 vs stored 6,2
+Marinobacterium maritimum,5.5,measured,range_only,growth range from pH 5.5,2
+Leucobacter chironomi,4.0,measured,range_only,growth range from pH 4,2
+Marinimicrobium locisalis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Nocardioides caeni,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Lysinibacillus parviboronicapiens,6.0,measured,range_only,growth range from pH 6,2
+Salimicrobium flavidum,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Alishewanella jeotgali,6.5,measured,range_only,growth range from pH 6.5,2
+Halomonas fontilapidosi,6.0,measured,no_bacdive_record,,0
+Methanofollis ethanolicus,6.5,measured,no_bacdive_record,,0
+Carnobacterium jeotgali,5.5,measured,range_only,growth range from pH 5.5,2
+Saccharibacillus kuerlensis,5.0,measured,range_only,growth range from pH 5,2
+Desulfoluna spongiiphila,7.0,measured,range_only,growth range from pH 7,2
+Niabella yanshanensis,6.0,measured,range_only,growth range from pH 6,1
+Arthrobacter halodurans,6.0,measured,no_bacdive_record,,0
+Bacillus neizhouensis,6.5,measured,no_bacdive_record,,0
+Cellulophaga tyrosinoxydans,6.5,measured,range_only,growth range from pH 6.5,2
+Jeotgalicoccus marinus,6.0,measured,range_only,growth range from pH 6,2
+Pontibacillus halophilus,6.0,measured,range_only,growth range from pH 6,2
+Zhihengliuella alba,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Paenibacillus filicis,5.5,measured,no_bacdive_record,,0
+Marinobacter pelagius,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Nevskia soli,6.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 6,2
+Anaerovirgula multivorans,6.7,measured,no_bacdive_record,,0
+Rubritalea marina,6.8,measured,no_bacdive_record,,0
+Flaviramulus basaltis,6.5,measured,no_bacdive_record,,0
+Lutibacter litoralis,7.0,measured,range_only,growth range from pH 7,2
+Oceanobacillus profundus,6.5,measured,range_only,growth range from pH 6.5,2
+Paenibacillus humicus,5.5,measured,no_bacdive_record,,0
+Rheinheimera aquimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Sulfitobacter marinus,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Gaetbulimicrobium brevivitae,7.0,measured,no_bacdive_record,,0
+Exiguobacterium profundum,5.5,measured,range_only,growth range from pH 5.5,2
+Devosia insulae,6.5,measured,range_only,growth range from pH 6.5,2
+Halococcus thailandensis,6.0,measured,no_bacdive_record,,0
+Chryseobacterium daeguense,6.5,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6.5,2
+Pedobacter insulae,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Phaeobacter daeponensis,7.0,measured,no_bacdive_record,,0
+Jannaschia donghaensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Halobacillus campisalis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Terrabacter aerolatus,7.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 7,2
+Loktanella maricola,7.0,measured,no_bacdive_record,,0
+Donghaeana dokdonensis,7.0,measured,no_bacdive_record,,0
+Citreimonas salinaria,6.0,measured,no_bacdive_record,,0
+Shimia marina,6.0,measured,range_only,growth range from pH 6,2
+Luteibacter rhizovicinus,6.0,measured,range_only,growth range from pH 6,2
+Dyella japonica,5.6,measured,range_only,growth range from pH 5.6,2
+Thioclava pacifica,6.5,measured,range_only,growth range from pH 6.5,2
+Nitrincola lacisaponensis,7.5,measured,range_only,growth range from pH 7.5,2
+Paracoccus sulfuroxidans,5.0,measured,no_bacdive_record,,0
+Desulfovibrio alkalitolerans,6.9,measured,no_bacdive_record,,0
+Isoptericola dokdonensis,7.0,measured,no_bacdive_record,,0
+Variovorax soli,5.0,measured,range_only,growth range from pH 5,2
+Nocardioides kongjuensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Photobacterium halotolerans,5.0,measured,range_only,growth range from pH 5,2
+Glaciecola psychrophila,6.0,measured,no_bacdive_record,,0
+Jannaschia seosinensis,7.0,measured,range_only,growth range from pH 7,2
+Bacillus okhensis,7.0,measured,no_bacdive_record,,0
+Halomonas alkaliphila,7.5,measured,no_bacdive_record,,0
+Sporacetigenium mesophilum,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Ethanoligenens harbinense,3.5,measured,range_only,growth range from pH 3.5,2
+Desulfitibacter alkalitolerans,7.6,measured,no_bacdive_record,,0
+Sinococcus qinghaiensis,7.5,measured,no_bacdive_record,,0
+Tepidanaerobacter syntrophicus,5.5,measured,range_only,growth range from pH 5.5,2
+Alkalibacillus silvisoli,7.0,measured,range_only,growth range from pH 7,2
+Halobacillus seohaensis,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Marinobacterium halophilum,5.3,measured,range_only,growth range from pH 5.3,1
+Flavobacterium defluvii,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Microbulbifer celer,7.0,measured,record_without_growth_ph,,1
+Gracilibacillus boraciitolerans,7.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7.5,2
+Alkalilimnicola ehrlichii,7.3,measured,range_only,growth range from pH 7.3,2
+Idiomarina salinarum,7.0,measured,no_bacdive_record,,0
+Vibrio litoralis,4.1,measured,range_only,growth range from pH 4.1,2
+Tindallia texcoconensis,7.5,measured,no_bacdive_record,,0
+Salegentibacter salarius,7.0,measured,range_only,growth range from pH 7,2
+Micrococcus flavus,5.0,measured,range_only,growth range from pH 5,2
+Rhodovulum imhoffii,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Methylobacterium platani,6.0,measured,no_bacdive_record,,0
+Salinicoccus jeotgali,6.5,measured,range_only,growth range from pH 6.5,2
+Modestobacter versicolor,5.0,measured,range_only,growth range from pH 5,2
+Natronococcus jeotgali,7.0,measured,no_bacdive_record,,0
+Halolactibacillus alkaliphilus,7.5,measured,range_only,growth range from pH 7.5,2
+Pseudoalteromonas arctica,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Phycicoccus dokdonensis,6.5,measured,no_bacdive_record,,0
+Hydrogenophaga bisanensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Variovorax boronicumulans,5.0,measured,verified_measured,no growth recorded at pH 4,4
+Prevotella paludivivens,5.7,measured,no_bacdive_record,,0
+Nocardioides marinus,6.0,measured,range_only,growth range from pH 6,2
+Salinicoccus kunmingensis,6.0,measured,range_only,growth range from pH 6,2
+Methylobacterium jeotgali,6.0,measured,no_bacdive_record,,0
+Deinococcus peraridilitoris,6.5,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6.5,2
+Halomonas gudaonensis,8.0,measured,range_only,growth range from pH 8,2
+Skermanella aerolata,6.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 6,2
+Agromyces allii,6.5,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6.5,2
+Chimaereicella boritolerans,8.0,measured,no_bacdive_record,,0
+Halomonas shengliensis,8.0,measured,range_only,growth range from pH 8,2
+Haloferax prahovense,6.0,measured,no_bacdive_record,,0
+Streptomyces gulbargensis,6.0,measured,no_bacdive_record,,0
+Bacillus kribbensis,5.5,measured,no_bacdive_record,,0
+Dasania marina,7.0,measured,no_bacdive_record,,0
+Desulfurispora thermophila,6.4,measured,range_only,growth range from pH 6.4,2
+Andreprevotia chitinilytica,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Caenispirillum bisanense,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Pseudoruegeria aquimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Donghicola eburneus,7.0,measured,range_only,growth range from pH 7,2
+Lutimonas vermicola,5.0,measured,range_only,growth range from pH 5,2
+Salirhabdus euzebyi,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Niabella aurantiaca,5.0,measured,range_only,growth range from pH 5,2
+Thermococcus celericrescens,5.6,measured,no_bacdive_record,,0
+Marinobacter salicampi,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Pseudomonas pelagia,6.5,measured,no_bacdive_record,,0
+Mucilaginibacter ximonensis,5.0,measured,range_only,growth range from pH 5,2
+Methanolobus zinderi,7.0,measured,no_bacdive_record,,0
+Flavobacterium macrobrachii,7.0,measured,no_bacdive_record,,0
+Caldicoprobacter algeriensis,6.2,measured,no_bacdive_record,,0
+Thermosipho affectus,5.6,measured,no_bacdive_record,,0
+Methanobacterium kanagiense,6.5,measured,no_bacdive_record,,0
+Pseudomonas toyotomiensis,6.0,measured,no_bacdive_record,,0
+Ruegeria marina,6.5,measured,range_only,growth range from pH 6.5,2
+Sphingomonas aquatica,6.0,measured,no_bacdive_record,,0
+Thalassomonas agariperforans,7.0,measured,no_bacdive_record,,0
+Shewanella indica,6.5,measured,no_bacdive_record,,0
+Pedobacter arcticus,6.0,measured,range_only,growth range from pH 6,2
+Thioalkalivibrio sulfidiphilus,8.0,measured,range_only,growth range from pH 8,2
+Rheinheimera longhuensis,6.5,measured,range_only,growth range from pH 6.5,2
+Tropicimonas aquimaris,7.0,measured,record_without_growth_ph,,1
+Herbiconiux moechotypicola,5.0,measured,range_only,growth range from pH 5,1
+Mariniflexile aquimaris,7.0,measured,record_without_growth_ph,,1
+Mucilaginibacter angelicae,5.0,measured,range_only,growth range from pH 5,2
+Thermosyntropha tengcongensis,7.0,measured,range_only,growth range from pH 7,2
+Spongiibacter borealis,6.6,measured,no_bacdive_record,,0
+Solirubrobacter ginsenosidimutans,6.0,measured,no_bacdive_record,,0
+Thermosipho globiformans,5.0,measured,no_bacdive_record,,0
+Sporosalibacterium faouarense,6.2,measured,range_only,growth range from pH 6.2,2
+Chitinophaga eiseniae,6.5,measured,no_bacdive_record,,0
+Fibrella aestuarina,6.0,measured,range_only,growth range from pH 6,2
+Halomarina oriensis,7.0,measured,no_bacdive_record,,0
+Spinactinospora alkalitolerans,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Chitinolyticbacter meiyuanensis,3.5,measured,no_bacdive_record,,0
+Gangjinia marincola,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Celerinatantimonas diazotrophica,3.5,measured,range_only,growth range from pH 3.5,2
+Pisciglobus halotolerans,5.0,measured,no_bacdive_record,,0
+Pseudoteredinibacter isoporae,7.0,measured,no_bacdive_record,,0
+Sunxiuqinia elliptica,5.0,measured,no_bacdive_record,,0
+Tahibacter aquaticus,5.0,measured,no_bacdive_record,,0
+Natronoflexus pectinivorans,8.0,measured,no_bacdive_record,,0
+Propioniciclava tarda,5.3,measured,no_bacdive_record,,0
+Mucilaginibacter boryungensis,6.0,measured,no_bacdive_record,,0
+Kroppenstedtia eburnea,5.0,measured,no_bacdive_record,,0
+Deinobacterium chartae,6.0,measured,range_only,growth range from pH 6,1
+Haloferula luteola,6.5,measured,no_bacdive_record,,0
+Ruegeria faecimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Roseovarius halocynthiae,7.0,measured,no_bacdive_record,,0
+Roseovarius marinus,7.0,measured,no_bacdive_record,,0
+Ruegeria halocynthiae,7.0,measured,record_without_growth_ph,,1
+Pseudorhodobacter aquimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Postechiella marina,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Salisediminibacterium halotolerans,5.0,measured,range_only,growth range from pH 5,2
+Maricurvus nonylphenolicus,7.0,measured,no_bacdive_record,,0
+Oceanibacterium hippocampi,5.0,measured,no_bacdive_record,,0
+Fuchsiella alkaliacetigena,8.5,measured,range_only,growth range from pH 8.5,2
+Desulfosoma profundi,6.3,measured,no_bacdive_record,,0
+Natrinema salaciae,7.0,measured,no_bacdive_record,,0
+Chitinivorax tropicus,7.0,measured,range_only,growth range from pH 7,2
+Pseudahrensia aquimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Loktanella tamlensis,7.1,measured,no_bacdive_record,,0
+Pseudonocardia xishanensis,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Actinoplanes rishiriensis,5.0,measured,no_bacdive_record,,0
+Neptunomonas concharum,7.0,measured,record_without_growth_ph,,1
+Jannaschia aquimarina,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Nonomuraea soli,7.0,measured,range_only,growth range from pH 7,2
+Chitinophaga oryziterrae,5.0,measured,range_disagrees,BacDive lowest growth pH 4.5 vs stored 5,1
+Ruegeria arenilitoris,7.0,measured,no_bacdive_record,,0
+Microbacterium marinum,5.0,measured,no_bacdive_record,,0
+Marinomonas hwangdonensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Haloarchaeobius iranensis,6.0,measured,range_only,growth range from pH 6,2
+Natribacillus halophilus,6.5,measured,range_only,growth range from pH 6.5,2
+Planktotalea frisia,7.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7.5,2
+Aliidiomarina haloalkalitolerans,7.0,measured,no_bacdive_record,,0
+Sphingobacterium nematocida,6.0,measured,range_only,growth range from pH 6,1
+Methylophaga lonarensis,9.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 9,2
+Idiomarina aquimaris,7.0,measured,no_bacdive_record,,0
+Erythrobacter pelagi,8.0,measured,no_bacdive_record,,0
+Terrimonas rubra,5.0,measured,range_only,growth range from pH 5,2
+Pedobacter kyungheensis,4.0,measured,no_bacdive_record,,0
+Tropicimonas sediminicola,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Algoriphagus jejuensis,5.5,measured,range_only,growth range from pH 5.5,1
+Psychroflexus halocasei,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Burkholderia denitrificans,5.0,measured,no_bacdive_record,,0
+Planococcus halocryophilus,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Salinisphaera orenii,5.0,measured,range_only,growth range from pH 5,2
+Erythrobacter marinus,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Defluviitoga tunisiensis,6.5,measured,range_only,growth range from pH 6.5,2
+Rhodovulum tesquicola,7.5,measured,range_only,growth range from pH 7.5,2
+Desulfuribacillus alkaliarsenatis,9.0,measured,no_bacdive_record,,0
+Salinactinospora qingdaonensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Knoellia locipacati,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Virgibacillus alimentarius,7.0,measured,range_only,growth range from pH 7,2
+Hydrogenophilus islandicus,6.0,measured,record_without_growth_ph,,1
+Bacillus hunanensis,6.5,measured,no_bacdive_record,,0
+Leisingera nanhaiensis,7.0,measured,no_bacdive_record,,0
+Kocuria atrinae,8.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 8,2
+Deefgea chitinilytica,6.0,measured,range_only,growth range from pH 6,2
+Pontibacillus litoralis,6.0,measured,range_only,growth range from pH 6,2
+Lutibacter maritimus,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Cobetia crustatorum,5.0,measured,range_only,growth range from pH 5,2
+Mesonia phycicola,6.1,measured,range_only,growth range from pH 6.1,2
+Aeromicrobium halocynthiae,5.0,measured,range_only,growth range from pH 5,2
+Rubellimicrobium roseum,6.5,measured,no_bacdive_record,,0
+Paenibacillus residui,7.0,measured,no_bacdive_record,,0
+Colwellia asteriadis,4.0,measured,range_only,growth range from pH 4,2
+Cohnella luojiensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Jeotgalibacillus soli,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,2
+Chelatococcus sambhunathii,6.0,measured,curator_minimum,BacDive minimum pH 6,3
+Roseovarius nanhaiticus,7.8,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7.8,2
+Loktanella pyoseonensis,5.0,measured,no_bacdive_record,,0
+Methylocapsa aurea,5.2,measured,range_only,growth range from pH 5.2,2
+Wandonia haliotis,6.5,measured,no_bacdive_record,,0
+Brevundimonas basaltis,6.5,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6.5,2
+Vibrio atypicus,7.0,measured,range_only,growth range from pH 7,2
+Nocardioides daedukensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Terribacillus aidingensis,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Caloramator australicus,5.0,measured,range_only,growth range from pH 5,2
+Paraliobacillus quinghaiensis,6.0,measured,range_only,growth range from pH 6,2
+Bacillus persepolensis,7.0,measured,no_bacdive_record,,0
+Corynebacterium maris,7.2,measured,no_bacdive_record,,0
+Zhihengliuella salsuginis,6.5,measured,no_bacdive_record,,0
+Virgibacillus byunsanensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Gaetbulibacter jejuensis,6.0,measured,no_bacdive_record,,0
+Halomonas jeotgali,5.0,measured,no_bacdive_record,,0
+Rhizobium soli,7.0,measured,no_bacdive_record,,0
+Agromyces atrinae,6.0,measured,range_only,growth range from pH 6,2
+Pseudomonas taeanensis,6.0,measured,no_bacdive_record,,0
+Planococcus salinarum,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Haladaptatus cibarius,6.0,measured,range_only,growth range from pH 6,2
+Pseudoruegeria lutimaris,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Neptunomonas antarctica,6.0,measured,range_only,growth range from pH 6,2
+Sphingopyxis soli,5.0,measured,range_only,growth range from pH 5,2
+Sphingosinicella vermicomposti,6.5,measured,no_bacdive_record,,0
+Kocuria koreensis,5.0,measured,no_bacdive_record,,0
+Jannaschia seohaensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Muriicola jejuensis,6.5,measured,range_only,growth range from pH 6.5,2
+Syntrophaceticus schinkii,6.0,measured,no_bacdive_record,,0
+Hyunsoonleella jejuensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 7,2
+Natronoarchaeum mannanilyticum,8.0,measured,range_disagrees,BacDive lowest growth pH 5.8 vs stored 8,2
+Bacillus graminis,6.0,measured,no_bacdive_record,,0
+Planosporangium mesophilum,6.0,measured,no_bacdive_record,,0
+Flavobacterium ponti,7.0,measured,no_bacdive_record,,0
+Phycicoccus ginsenosidimutans,6.5,measured,no_bacdive_record,,0
+Kangiella spongicola,4.5,measured,range_only,growth range from pH 4.5,2
+Reichenbachiella faecimaris,5.5,measured,no_bacdive_record,,0
+Flavobacterium ginsenosidimutans,6.0,measured,no_bacdive_record,,0
+Zhihengliuella aestuarii,8.0,measured,no_bacdive_record,,0
+Alkalibacterium subtropicum,7.5,measured,no_bacdive_record,,0
+Flavobacterium chungbukense,5.0,measured,no_bacdive_record,,0
+Methylopila jiangsuensis,6.5,measured,no_bacdive_record,,0
+Kocuria salsicia,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Cellulomonas phragmiteti,8.0,measured,no_bacdive_record,,0
+Paracoccus isoporae,9.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 9,2
+Leucobacter salsicius,7.0,measured,range_only,growth range from pH 7,2
+Frateuria terrea,5.0,measured,range_only,growth range from pH 5,2
+Marinobacter daqiaonensis,5.0,measured,no_bacdive_record,,0
+Caldilinea tarbellica,6.8,measured,no_bacdive_record,,0
+Rhizobium pseudoryzae,7.0,measured,no_bacdive_record,,0
+Leucobacter celer,5.0,measured,no_bacdive_record,,0
+Salinicoccus qingdaonensis,6.0,measured,range_only,growth range from pH 6,2
+Leifsonia psychrotolerans,4.5,measured,no_bacdive_record,,0
+Dethiosulfovibrio salsuginis,5.5,measured,range_only,growth range from pH 5.5,2
+Marisediminicola antarctica,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Jeongeupia naejangsanensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Rhizomicrobium palustre,5.5,measured,no_bacdive_record,,0
+Caldinitratiruptor microaerophilus,6.3,measured,no_bacdive_record,,0
+Thiohalobacter thiocyanaticus,6.3,measured,range_only,growth range from pH 6.3,2
+Bacillus marmarensis,8.0,measured,no_bacdive_record,,0
+Fervidicella metallireducens,5.0,measured,range_only,growth range from pH 5,2
+Amphibacillus jilinensis,7.5,measured,verified_measured,no growth recorded at pH 7,4
+Desulfosalsimonas propionicica,6.0,measured,range_only,growth range from pH 6,2
+Tateyamaria pelophila,6.0,measured,range_only,growth range from pH 6,1
+Natronorubrum sediminis,8.0,measured,range_only,growth range from pH 8,2
+Halosarcina limi,6.5,measured,no_bacdive_record,,0
+Oceanobacillus kimchii,7.0,measured,no_bacdive_record,,0
+Vibrio hippocampi,5.0,measured,no_bacdive_record,,0
+Oceanobacillus neutriphilus,6.0,measured,verified_measured,no growth recorded at pH 5.5,4
+Thermovenabulum gondwanense,6.0,measured,range_only,growth range from pH 6,2
+Natronomonas moolapensis,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,2
+Gracilibacillus ureilyticus,6.5,measured,range_only,growth range from pH 6.5,2
+Rhodovulum steppense,7.5,measured,range_only,growth range from pH 7.5,2
+Rhodothermus profundi,6.0,measured,range_only,growth range from pH 6,2
+Colwellia mytili,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Motilimonas eburnea,6.5,measured,range_only,growth range from pH 6.5,2
+Microbulbifer aestuariivivens,6.5,measured,verified_measured,no growth recorded at pH 4,3
+Marinobacter mangrovi,6.0,measured,no_bacdive_record,,0
+Micromonospora humida,5.0,measured,no_bacdive_record,,0
+Xanthobacter dioxanivorans,5.0,measured,no_bacdive_record,,0
+Rhodococcus spelaei,5.0,measured,no_bacdive_record,,0
+Pontibacter aquaedesilientis,5.0,measured,no_bacdive_record,,0
+Paracoccus shandongensis,7.0,measured,no_bacdive_record,,0
+Thermosipho ferrireducens,6.0,measured,no_bacdive_record,,0
+Microbacterium karelineae,6.0,measured,no_bacdive_record,,0
+Methylobacterium ajmalii,6.0,measured,no_bacdive_record,,0
+Nakamurella leprariae,6.0,measured,no_bacdive_record,,0
+Fusibacter ferrireducens,7.0,measured,no_bacdive_record,,0
+Paenibacillus silvestris,6.0,measured,no_bacdive_record,,0
+Streptomyces acidipaludis,5.0,measured,no_bacdive_record,,0
+Pseudovibrio flavus,7.0,measured,no_bacdive_record,,0
+Sphingopyxis yananensis,7.0,measured,no_bacdive_record,,0
+Raoultibacter phocaeensis,6.5,measured,no_bacdive_record,,0
+Aequorivita iocasae,6.0,measured,no_bacdive_record,,0
+Haloterrigena gelatinilytica,6.5,measured,no_bacdive_record,,0
+Desulfovibrio subterraneus,6.3,measured,no_bacdive_record,,0
+Nesterenkonia ebinurensis,7.0,measured,no_bacdive_record,,0
+Alkanindiges hydrocarboniclasticus,6.5,measured,no_bacdive_record,,0
+Actinomadura violacea,6.0,measured,no_bacdive_record,,0
+Gephyromycinifex aptenodytis,6.0,measured,no_bacdive_record,,0
+Saccharobesus litoralis,7.0,measured,no_bacdive_record,,0
+Paraneptunicella aestuarii,5.0,measured,no_bacdive_record,,0
+Glacieibacterium frigidum,6.0,measured,no_bacdive_record,,0
+Metallococcus carri,5.0,measured,no_bacdive_record,,0
+Curvivirga aplysinae,6.0,measured,no_bacdive_record,,0
+Alkalicella caledoniensis,8.2,measured,no_bacdive_record,,0
+Mariniplasma anaerobium,6.2,measured,no_bacdive_record,,0
+Phytoactinopolyspora limicola,8.0,measured,no_bacdive_record,,0
+Pseudoprevotella muciniphila,6.5,measured,no_bacdive_record,,0
+Thermogemmata fonticola,5.0,measured,no_bacdive_record,,0
+Pseudooceanicola endophyticus,6.0,measured,no_bacdive_record,,0
+Rhodohalobacter mucosus,7.0,measured,no_bacdive_record,,0
+Secundilactobacillus folii,3.5,measured,no_bacdive_record,,0
+Alcanivorax limicola,6.5,measured,no_bacdive_record,,0
+Schlegelella koreensis,5.5,measured,no_bacdive_record,,0
+Pararhizobium mangrovi,5.0,measured,no_bacdive_record,,0
+Amycolatopsis dendrobii,5.0,measured,no_bacdive_record,,0
+Noviherbaspirillum pedocola,5.5,measured,no_bacdive_record,,0
+Microvirga puerhi,5.0,measured,no_bacdive_record,,0
+Pinibacter aurantiacus,6.0,measured,no_bacdive_record,,0
+Pseudomonas oryzagri,5.5,measured,no_bacdive_record,,0
+Lysobacter antarcticus,9.0,measured,no_bacdive_record,,0
+Algoriphagus algorifonticola,6.5,measured,no_bacdive_record,,0
+Moraxella tetraodonis,6.5,measured,no_bacdive_record,,0
+Subtercola endophyticus,5.0,measured,no_bacdive_record,,0
+Orrella daihaiensis,6.5,measured,no_bacdive_record,,0
+Aurantiacibacter sediminis,6.0,measured,no_bacdive_record,,0
+Paenibacillus oleatilyticus,6.0,measured,no_bacdive_record,,0
+Pseudomonas rustica,6.0,measured,no_bacdive_record,,0
+Lysobacter chinensis,6.5,measured,no_bacdive_record,,0
+Aeromicrobium stalagmiti,6.0,measured,no_bacdive_record,,0
+Panacibacter microcysteis,6.0,measured,no_bacdive_record,,0
+Stieleria sedimenti,6.5,measured,no_bacdive_record,,0
+Neiella litorisoli,7.0,measured,no_bacdive_record,,0
+Acinetobacter tibetensis,5.0,measured,no_bacdive_record,,0
+Halorubrum salinarum,6.5,measured,no_bacdive_record,,0
+Vibrio salinus,7.0,measured,no_bacdive_record,,0
+Rubinisphaera margarita,6.0,measured,no_bacdive_record,,0
+Alkalibacter rhizosphaerae,6.0,measured,no_bacdive_record,,0
+Hydrogenophilus thiooxidans,6.0,measured,no_bacdive_record,,0
+Flavobacterium litorale,6.5,measured,no_bacdive_record,,0
+Actinomycetospora soli,4.0,measured,no_bacdive_record,,0
+Streptomyces plumbidurans,6.0,measured,no_bacdive_record,,0
+Pseudohalioglobus sediminis,6.5,measured,no_bacdive_record,,0
+Caldalkalibacillus salinus,7.0,measured,no_bacdive_record,,0
+Desulfofustis limnaeus,6.8,measured,no_bacdive_record,,0
+Nitratireductor rhodophyticola,7.0,measured,no_bacdive_record,,0
+Streptomyces barringtoniae,5.0,measured,no_bacdive_record,,0
+Fructobacillus cardui,4.0,measured,no_bacdive_record,,0
+Limnobacter parvus,7.0,measured,no_bacdive_record,,0
+Kaistella soli,6.0,measured,no_bacdive_record,,0
+Sutcliffiella deserti,8.0,measured,no_bacdive_record,,0
+Proteiniclasticum aestuarii,6.5,measured,no_bacdive_record,,0
+Nocardioides coralli,5.0,measured,no_bacdive_record,,0
+Pseudomonas marianensis,5.0,measured,no_bacdive_record,,0
+Marinifilum caeruleilacunae,6.0,measured,no_bacdive_record,,0
+Aliidiomarina halalkaliphila,7.5,measured,no_bacdive_record,,0
+Oceanobacter mangrovi,6.0,measured,no_bacdive_record,,0
+Paenibacillus arenosi,6.5,measured,no_bacdive_record,,0
+Metabacillus dongyingensis,7.0,measured,no_bacdive_record,,0
+Oceanospirillum sediminis,7.0,measured,no_bacdive_record,,0
+Natronococcus pandeyae,7.0,measured,no_bacdive_record,,0
+Rhodohalobacter sulfatireducens,7.0,measured,no_bacdive_record,,0
+Erythrobacter aurantius,6.0,measured,no_bacdive_record,,0
+Methanobacterium alkalithermotolerans,7.3,measured,no_bacdive_record,,0
+Zophobihabitans entericus,9.0,measured,no_bacdive_record,,0
+Chryseobacterium endalhagicum,6.0,measured,no_bacdive_record,,0
+Chitinophaga agri,5.0,measured,no_bacdive_record,,0
+Shewanella nanhaiensis,6.0,measured,no_bacdive_record,,0
+Nocardioides acrostichi,7.0,measured,no_bacdive_record,,0
+Brevibacillus marinus,6.0,measured,no_bacdive_record,,0
+Maricaulis alexandrii,5.0,measured,no_bacdive_record,,0
+Vibrio ulleungensis,5.0,measured,no_bacdive_record,,0
+Chitinophaga rhizophila,6.0,measured,no_bacdive_record,,0
+Marixanthomonas spongiae,6.0,measured,no_bacdive_record,,0
+Mesobacillus harenae,6.0,measured,no_bacdive_record,,0
+Lujinxingia vulgaris,6.5,measured,no_bacdive_record,,0
+Frateuria flava,5.0,measured,no_bacdive_record,,0
+Hoyosella suaedae,6.0,measured,no_bacdive_record,,0
+Rheinheimera lutimaris,6.0,measured,no_bacdive_record,,0
+Paenibacillus tianjinensis,6.0,measured,no_bacdive_record,,0
+Devosia beringensis,7.0,measured,no_bacdive_record,,0
+Mongoliitalea daihaiensis,6.5,measured,no_bacdive_record,,0
+Aminipila terrae,7.0,measured,no_bacdive_record,,0
+Sporosarcina beigongshangi,6.0,measured,no_bacdive_record,,0
+Bacillus salipaludis,6.5,measured,no_bacdive_record,,0
+Arachidicoccus soli,6.0,measured,no_bacdive_record,,0
+Pontibacter flavimaris,5.0,measured,no_bacdive_record,,0
+Ottowia caeni,5.0,measured,no_bacdive_record,,0
+Dokdonia sinensis,6.0,measured,range_only,growth range from pH 6,2
+Gracilibacillus salitolerans,6.5,measured,no_bacdive_record,,0
+Herbaspirillum camelliae,5.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 5,2
+Antarcticibacterium arcticum,7.0,measured,no_bacdive_record,,0
+Terrilactibacillus tamarindi,3.5,measured,no_bacdive_record,,0
+Methanohalophilus profundi,6.5,measured,range_only,growth range from pH 6.5,2
+Flavobacterium cellulosilyticum,6.0,measured,no_bacdive_record,,0
+Nakamurella flava,6.0,measured,verified_measured,no growth recorded at pH 4,4
+Sphingomonas chungangi,5.0,measured,no_bacdive_record,,0
+Lentibacillus cibarius,5.5,measured,no_bacdive_record,,0
+Gemmobacter serpentinus,5.0,measured,no_bacdive_record,,0
+Soehngenia longivitae,6.7,measured,no_bacdive_record,,0
+Methylomonas rhizoryzae,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,2
+Gimesia benthica,5.5,measured,no_bacdive_record,,0
+Pseudooceanicola aestuarii,7.0,measured,no_bacdive_record,,0
+Aliiroseovarius marinus,6.0,measured,range_only,growth range from pH 6,2
+Sphingomonas changnyeongensis,6.0,measured,no_bacdive_record,,0
+Leeuwenhoekiella aestuarii,5.5,measured,no_bacdive_record,,0
+Rectinema subterraneum,4.8,measured,no_bacdive_record,,0
+Shimia sediminis,7.0,measured,no_bacdive_record,,0
+Litoribacterium kuwaitense,7.0,measured,no_bacdive_record,,0
+Viridibacillus soli,7.0,measured,no_bacdive_record,,0
+Nakamurella aerolata,6.0,measured,no_bacdive_record,,0
+Aureimonas mangrovi,7.0,measured,no_bacdive_record,,0
+Paracoccus binzhouensis,7.0,measured,no_bacdive_record,,0
+Niastella soli,5.0,measured,no_bacdive_record,,0
+Pontivivens ytuae,8.0,measured,no_bacdive_record,,0
+Faecalibacter rhinopitheci,7.0,measured,no_bacdive_record,,0
+Marisediminicola senii,7.0,measured,no_bacdive_record,,0
+Pseudomonas eucalypticola,3.0,measured,no_bacdive_record,,0
+Vibrio nitrifigilis,7.0,measured,no_bacdive_record,,0
+Halomonas populi,6.0,measured,no_bacdive_record,,0
+Koleobacter methoxysyntrophicus,6.0,measured,no_bacdive_record,,0
+Halalkalirubrum salinum,7.0,measured,no_bacdive_record,,0
+Alkalicaulis satelles,7.3,measured,no_bacdive_record,,0
+Algibacillus agarilyticus,7.0,measured,no_bacdive_record,,0
+Heminiphilus faecis,6.5,measured,no_bacdive_record,,0
+Ostreibacterium oceani,7.0,measured,no_bacdive_record,,0
+Pelorhabdus rhamnosifermentans,4.0,measured,no_bacdive_record,,0
+Hongsoonwoonella zoysiae,6.0,measured,no_bacdive_record,,0
+Pikeienuella piscinae,5.0,measured,no_bacdive_record,,0
+Nesterenkonia sedimenti,7.0,measured,no_bacdive_record,,0
+Ruania rhizosphaerae,6.0,measured,no_bacdive_record,,0
+Nocardia huaxiensis,5.0,measured,no_bacdive_record,,0
+Aestuariimicrobium ganziense,7.0,measured,no_bacdive_record,,0
+Kineobactrum salinum,5.5,measured,no_bacdive_record,,0
+Photobacterium arenosum,6.5,measured,no_bacdive_record,,0
+Flavobacterium difficile,6.0,measured,no_bacdive_record,,0
+Massilia rhizosphaerae,4.0,measured,no_bacdive_record,,0
+Fluviispira sanaruensis,7.0,measured,no_bacdive_record,,0
+Corynebacterium anserum,7.0,measured,no_bacdive_record,,0
+Luteimonas wenzhouensis,7.0,measured,no_bacdive_record,,0
+Lentibacillus saliphilus,6.0,measured,no_bacdive_record,,0
+Adhaeribacter radiodurans,7.0,measured,no_bacdive_record,,0
+Parvularcula mediterranea,5.0,measured,no_bacdive_record,,0
+Bacillus fonticola,7.0,measured,no_bacdive_record,,0
+Anaerosporobacter faecicola,7.0,measured,no_bacdive_record,,0
+Ferrimonas lipolytica,7.0,measured,no_bacdive_record,,0
+Xylanimonas oleitrophica,6.5,measured,no_bacdive_record,,0
+Agrobacterium leguminum,5.0,measured,no_bacdive_record,,0
+Massilia aromaticivorans,6.0,measured,no_bacdive_record,,0
+Sulfurimonas indica,4.5,measured,no_bacdive_record,,0
+Rhodobacter ruber,6.5,measured,no_bacdive_record,,0
+Pontibaca salina,6.5,measured,no_bacdive_record,,0
+Nitrosopumilus zosterae,6.1,measured,no_bacdive_record,,0
+Halalkalibacterium roseum,6.0,measured,no_bacdive_record,,0
+Zavarzinia marina,6.0,measured,no_bacdive_record,,0
+Fibrivirga algicola,6.0,measured,no_bacdive_record,,0
+Acidovorax bellezanensis,5.5,measured,no_bacdive_record,,0
+Chryseobacterium fluminis,6.0,measured,no_bacdive_record,,0
+Shewanella goraebulensis,7.0,measured,no_bacdive_record,,0
+Clostridium aquiflavi,6.0,measured,no_bacdive_record,,0
+Catenovulum adriaticum,6.0,measured,no_bacdive_record,,0
+Sinomonas terricola,6.0,measured,no_bacdive_record,,0
+Solibacillus palustris,6.0,measured,no_bacdive_record,,0
+Enterococcus montenegrensis,5.0,measured,no_bacdive_record,,0
+Saccharopolyspora ipomoeae,7.0,measured,no_bacdive_record,,0
+Bengtsoniella intestinalis,7.1,measured,no_bacdive_record,,0
+Arvimicrobium flavum,5.0,measured,no_bacdive_record,,0
+Sorlinia euscelidii,6.0,measured,no_bacdive_record,,0
+Halostreptopolyspora alba,7.0,measured,no_bacdive_record,,0
+Ferviditalea candida,7.0,measured,no_bacdive_record,,0
+Ruixingdingia sedimenti,5.0,measured,no_bacdive_record,,0
+Atrimonas thermophila,6.5,measured,no_bacdive_record,,0
+Rhodobacter flavimaris,7.0,measured,no_bacdive_record,,0
+Aquibaculum sediminis,7.0,measured,no_bacdive_record,,0
+Alteromonas arenosi,7.0,measured,no_bacdive_record,,0
+Fuscovulum ytuae,7.0,measured,no_bacdive_record,,0
+Marinobacter qingdaonensis,6.5,measured,no_bacdive_record,,0
+Jeotgalibaca caeni,7.0,measured,no_bacdive_record,,0
+Streptomyces marispadix,6.0,measured,no_bacdive_record,,0
+Moraxella haemolytica,6.0,measured,no_bacdive_record,,0
+Salipaludibacillus daqingensis,7.5,measured,no_bacdive_record,,0
+Paracoccus onchidii,7.0,measured,no_bacdive_record,,0
+Marinobacter azerbaijanicus,7.0,measured,no_bacdive_record,,0
+Lutimonas zeaxanthinifaciens,6.5,measured,no_bacdive_record,,0
+Microbacterium dauci,5.0,measured,no_bacdive_record,,0
+Hwangdonia lutea,7.0,measured,no_bacdive_record,,0
+Paenalcaligenes faecalis,6.0,measured,no_bacdive_record,,0
+Salinicola avicenniae,4.0,measured,no_bacdive_record,,0
+Deinococcus arenicola,7.0,measured,no_bacdive_record,,0
+Flavobacterium rivulicola,6.0,measured,no_bacdive_record,,0
+Janibacter alittae,6.0,measured,no_bacdive_record,,0
+Pseudomonas hefeiensis,6.0,measured,no_bacdive_record,,0
+Solibacillus ferritrahens,7.0,measured,no_bacdive_record,,0
+Aquincola agrisoli,5.5,measured,no_bacdive_record,,0
+Chitiniphilus purpureus,7.0,measured,no_bacdive_record,,0
+Sphingomonas flavescens,6.0,measured,no_bacdive_record,,0
+Ignisphaera cupida,5.4,measured,no_bacdive_record,,0
+Pontibacter harenae,6.5,measured,no_bacdive_record,,0
+Mesorhizobium koreense,5.0,measured,no_bacdive_record,,0
+Saxibacter everestensis,4.0,measured,no_bacdive_record,,0
+Furfurilactobacillus entadae,4.0,measured,no_bacdive_record,,0
+Antrihabitans auranticaus,5.0,measured,no_bacdive_record,,0
+Astrobacterium formosum,4.5,measured,no_bacdive_record,,0
+Liberiplasma polymorphum,8.0,measured,no_bacdive_record,,0
+Flavisericum labens,7.0,measured,no_bacdive_record,,0
+Gracilibacillus pellucidus,7.0,measured,no_bacdive_record,,0
+Shewanella mytili,5.0,measured,no_bacdive_record,,0
+Methanobacterium nebraskense,6.5,measured,no_bacdive_record,,0
+Pseudoxanthomonas fibrivorans,7.0,measured,no_bacdive_record,,0
+Clostridium zhoujianii,7.0,measured,no_bacdive_record,,0
+Pollutimonas rozaliensis,6.5,measured,no_bacdive_record,,0
+Sabulicella flocculans,6.0,measured,no_bacdive_record,,0
+Gordonia marina,4.0,measured,no_bacdive_record,,0
+Jiella soli,5.5,measured,no_bacdive_record,,0
+Stenotrophomonas oleivorans,6.0,measured,no_bacdive_record,,0
+Kamagatella elastica,6.0,measured,no_bacdive_record,,0
+Eximiradius proteiniborus,6.0,measured,no_bacdive_record,,0
+Virgibacillus aidingensis,6.5,measured,no_bacdive_record,,0
+Pilosibacter rotomagensis,5.7,measured,no_bacdive_record,,0
+Vibrio iocasae,6.0,measured,no_bacdive_record,,0
+Phenylobacterium ferrooxidans,6.0,measured,no_bacdive_record,,0
+Dechloromonas aquae,7.0,measured,no_bacdive_record,,0
+Cerasicoccus fimbriatus,6.0,measured,no_bacdive_record,,0
+Altererythrobacter arenosus,6.0,measured,no_bacdive_record,,0
+Cognatishimia coralii,5.0,measured,no_bacdive_record,,0
+Isoalcanivorax beigongshangi,6.0,measured,no_bacdive_record,,0
+Chryseobacterium gotjawalense,5.0,measured,no_bacdive_record,,0
+Patulibacter defluvii,5.0,measured,no_bacdive_record,,0
+Kosakonia calanthes,4.0,measured,no_bacdive_record,,0
+Blastococcus montanus,5.0,measured,no_bacdive_record,,0
+Sphaerotilus uruguayifluvii,6.0,measured,no_bacdive_record,,0
+Microbacterium memoriense,6.0,measured,no_bacdive_record,,0
+Rufibacter psychrotolerans,5.0,measured,no_bacdive_record,,0
+Chitinibacter mangrovi,7.0,measured,no_bacdive_record,,0
+Tenuifilum osseticum,6.1,measured,no_bacdive_record,,0
+Opacimonas immobilis,6.0,measured,no_bacdive_record,,0
+Idiomarina aminovorans,6.0,measured,no_bacdive_record,,0
+Thioclava kandeliae,6.0,measured,no_bacdive_record,,0
+Lentilactobacillus terminaliae,4.0,measured,no_bacdive_record,,0
+Tabrizicola caldifontis,6.5,measured,no_bacdive_record,,0
+Comamonas squillarum,6.0,measured,no_bacdive_record,,0
+Paenibacillus gyeongsangnamensis,5.0,measured,no_bacdive_record,,0
+Marinobacter iranensis,6.0,measured,no_bacdive_record,,0
+Rheinheimera faecalis,6.0,measured,no_bacdive_record,,0
+Streptomyces zingiberis,6.0,measured,no_bacdive_record,,0
+Tabrizicola rongguiensis,6.5,measured,no_bacdive_record,,0
+Deefgea salmonis,5.0,measured,no_bacdive_record,,0
+Fundidesulfovibrio magnetotacticus,6.5,measured,no_bacdive_record,,0
+Evansella halocellulosilytica,6.5,measured,no_bacdive_record,,0
+Paenibacillus sabuli,7.0,measured,no_bacdive_record,,0
+Marinobacter panjinensis,6.0,measured,no_bacdive_record,,0
+Granulicatella seriolae,8.0,measured,no_bacdive_record,,0
+Parerythrobacter aestuarii,5.5,measured,no_bacdive_record,,0
+Rhodopirellula aestuarii,6.5,measured,no_bacdive_record,,0
+Lysobacter changpingensis,5.0,measured,no_bacdive_record,,0
+Ruegeria spongiae,5.5,measured,no_bacdive_record,,0
+Devosia lacusdianchii,5.0,measured,no_bacdive_record,,0
+Aliidiomarina quisquiliarum,6.5,measured,no_bacdive_record,,0
+Alcanivorax xiamenensis,6.0,measured,no_bacdive_record,,0
+Agromyces larvae,6.0,measured,no_bacdive_record,,0
+Parabacteroides leei,6.0,measured,no_bacdive_record,,0
+Oricola nitratireducens,6.5,measured,no_bacdive_record,,0
+Brevibacillus humidisoli,7.0,measured,no_bacdive_record,,0
+Rheinheimera oceanensis,5.5,measured,no_bacdive_record,,0
+Robiginitalea marina,7.0,measured,no_bacdive_record,,0
+Paenibacillus arenilitoris,7.0,measured,no_bacdive_record,,0
+Alteribacter keqinensis,8.0,measured,no_bacdive_record,,0
+Undibacter mobilis,5.0,measured,no_bacdive_record,,0
+Tannockella kyphosi,6.9,measured,no_bacdive_record,,0
+Faunimonas pinastri,6.0,measured,no_bacdive_record,,0
+Cellulosimicrobium protaetiae,6.5,measured,no_bacdive_record,,0
+Shumkonia mesophila,7.1,measured,no_bacdive_record,,0
+Fontivita pretiosa,5.1,measured,no_bacdive_record,,0
+Rasiella rasia,5.0,measured,no_bacdive_record,,0
+Hominibacterium faecale,6.0,measured,no_bacdive_record,,0
+Microvenator marinus,6.5,measured,no_bacdive_record,,0
+Sphingomonas baiyangensis,7.0,measured,no_bacdive_record,,0
+Pinirhizobacter soli,5.0,measured,no_bacdive_record,,0
+Paeniglutamicibacter quisquiliarum,6.0,measured,no_bacdive_record,,0
+Zunongwangia pacifica,6.0,measured,no_bacdive_record,,0
+Tumebacillus amylolyticus,6.0,measured,no_bacdive_record,,0
+Clostridium weizhouense,4.0,measured,no_bacdive_record,,0
+Neorhizobium xiangyangii,6.0,measured,no_bacdive_record,,0
+Oceanisphaera pacifica,7.0,measured,no_bacdive_record,,0
+Vibrio ostreae,6.0,measured,no_bacdive_record,,0
+Dethiosulfovibrio faecalis,6.0,measured,no_bacdive_record,,0
+Sporolactobacillus mangiferae,4.0,measured,no_bacdive_record,,0
+Sphingomicrobium sediminis,7.0,measured,no_bacdive_record,,0
+Halothiobacillus diazotrophicus,5.0,measured,no_bacdive_record,,0
+Isoptericola croceus,7.0,measured,no_bacdive_record,,0
+Methylacidiphilum caldifontis,2.0,measured,no_bacdive_record,,0
+Methanovulcanius yangii,6.02,measured,no_bacdive_record,,0
+Fontisphaera persica,5.1,measured,no_bacdive_record,,0
+Polycladospora coralii,8.0,measured,no_bacdive_record,,0
+Pacificoceanicola onchidii,7.0,measured,no_bacdive_record,,0
+Oryzibacter oryziterrae,5.0,measured,no_bacdive_record,,0
+Methanomethylophilus alvi,6.9,measured,no_bacdive_record,,0
+Sulfurovum mangrovi,5.0,measured,no_bacdive_record,,0
+Thermospira aquatica,6.5,measured,no_bacdive_record,,0
+Robbsia betulipollinis,6.0,measured,no_bacdive_record,,0
+Marinihelvus fidelis,6.5,measured,no_bacdive_record,,0
+Lentibacillus daqui,6.0,measured,no_bacdive_record,,0
+Pontibacter kalidii,5.0,measured,no_bacdive_record,,0
+Ectothiorhodospira lacustris,7.5,measured,no_bacdive_record,,0
+Vallitalea longa,5.5,measured,no_bacdive_record,,0
+Sinisalibacter aestuarii,6.0,measured,no_bacdive_record,,0
+Mariniradius sediminis,7.0,measured,no_bacdive_record,,0
+Paenibacillus agricola,6.5,measured,no_bacdive_record,,0
+Tenacibaculum tangerinum,7.0,measured,no_bacdive_record,,0
+Halonatronomonas betaini,7.1,measured,no_bacdive_record,,0
+Nitratireductor alexandrii,5.0,measured,no_bacdive_record,,0
+Thermococcus thermotolerans,5.5,measured,no_bacdive_record,,0
+Solibacillus daqui,6.0,measured,no_bacdive_record,,0
+Gordonia aquimaris,6.0,measured,no_bacdive_record,,0
+Paenibacillus mangrovi,5.5,measured,no_bacdive_record,,0
+Mucilaginibacter straminoryzae,5.5,measured,no_bacdive_record,,0
+Sphingobium lignivorans,7.0,measured,no_bacdive_record,,0
+Solitalea lacus,7.0,measured,no_bacdive_record,,0
+Kingella pumchi,6.0,measured,no_bacdive_record,,0
+Sneathiella marina,6.0,measured,no_bacdive_record,,0
+Aquiflexum gelatinilyticum,7.0,measured,no_bacdive_record,,0
+Halomonas dongshanensis,6.0,measured,no_bacdive_record,,0
+Shouchella tritolerans,7.0,measured,no_bacdive_record,,0
+Ramlibacter paludis,6.0,measured,no_bacdive_record,,0
+Geothrix oryzisoli,6.5,measured,no_bacdive_record,,0
+Alkalihalobacillus deserti,8.0,measured,no_bacdive_record,,0
+Parerythrobacter lacustris,6.5,measured,no_bacdive_record,,0
+Cryobacterium zhongshanensis,7.0,measured,no_bacdive_record,,0
+Micromonospora solifontis,5.0,measured,no_bacdive_record,,0
+Nocardioides okcheonensis,7.0,measured,no_bacdive_record,,0
+Solitalea agri,6.0,measured,no_bacdive_record,,0
+Georgenia halotolerans,7.0,measured,no_bacdive_record,,0
+Arthrobacter vasquezii,7.0,measured,no_bacdive_record,,0
+Psychrobacillus vulpis,6.0,measured,no_bacdive_record,,0
+Pseudomonas yangonensis,6.0,measured,no_bacdive_record,,0
+Pseudoalteromonas rhizosphaerae,5.0,measured,no_bacdive_record,,0
+Sphingomonas oleivorans,6.0,measured,no_bacdive_record,,0
+Fictibacillus iocasae,6.0,measured,no_bacdive_record,,0
+Robiginitalea sediminis,6.5,measured,no_bacdive_record,,0
+Parvibium lacunae,6.5,measured,range_only,growth range from pH 6.5,2
+Vicingus serpentipes,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Hyphobacterium indicum,5.0,measured,range_only,growth range from pH 5,2
+Uliginosibacterium sediminicola,6.0,measured,range_only,growth range from pH 6,2
+Colwellia echini,7.0,measured,range_only,growth range from pH 7,2
+Streptomyces geranii,6.0,measured,no_bacdive_record,,0
+Oceanimonas marisflavi,7.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 7,2
+Paenibacillus paeoniae,7.0,measured,no_bacdive_record,,0
+Deinococcus irradiatisoli,6.0,measured,no_bacdive_record,,0
+Dyella halodurans,4.0,measured,range_only,growth range from pH 4,2
+Arboriscoccus pini,6.0,measured,no_bacdive_record,,0
+Neptunicella marina,6.0,measured,range_only,growth range from pH 6,2
+Ahniella affigens,6.5,measured,range_only,growth range from pH 6.5,2
+Tardibacter chloracetimidivorans,6.0,measured,no_bacdive_record,,0
+Flavipsychrobacter stenotrophus,6.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 6,1
+Planococcus halotolerans,6.5,measured,range_only,growth range from pH 6.5,2
+Streptomyces populi,6.0,measured,no_bacdive_record,,0
+Pseudodesulfovibrio hydrargyri,6.0,measured,record_without_growth_ph,,1
+Solitalea longa,7.0,measured,range_only,growth range from pH 7,1
+Winogradskyella aurantiaca,7.0,measured,range_only,growth range from pH 7,2
+Sphingomonas tabacisoli,6.0,measured,no_bacdive_record,,0
+Paracoccus salipaludis,6.5,measured,no_bacdive_record,,0
+Euzebya rosea,6.0,measured,range_only,growth range from pH 6,2
+Nocardioides astragali,5.0,measured,no_bacdive_record,,0
+Pseudomonas abyssi,4.0,measured,no_bacdive_record,,0
+Paracoccus fontiphilus,6.0,measured,no_bacdive_record,,0
+Hymenobacter agri,6.0,measured,no_bacdive_record,,0
+Litoribrevibacter euphylliae,6.0,measured,range_only,growth range from pH 6,2
+Paraburkholderia azotifigens,6.0,measured,range_only,growth range from pH 6,2
+Thalassotalea coralli,7.0,measured,range_only,growth range from pH 7,2
+Glycomyces tritici,6.0,measured,no_bacdive_record,,0
+Phytoactinopolyspora halotolerans,7.0,measured,no_bacdive_record,,0
+Sandarakinorhabdus cyanobacteriorum,5.0,measured,range_only,growth range from pH 5,2
+Planococcus salinus,7.0,measured,range_only,growth range from pH 7,2
+Bacillus lacus,7.0,measured,verified_measured,no growth recorded at pH 7,2
+Winogradskyella tangerina,6.5,measured,range_only,growth range from pH 6.5,2
+Aquimarina celericrescens,6.5,measured,range_only,growth range from pH 6.5,2
+Paenibacillus yanchengensis,7.0,measured,no_bacdive_record,,0
+Abyssibacter profundi,7.0,measured,range_only,growth range from pH 7,2
+Mucilaginibacter panaciglaebae,6.0,measured,range_only,growth range from pH 6,2
+Ferrigenium kumadai,5.2,measured,range_only,growth range from pH 5.2,2
+Salicibibacter kimchii,6.5,measured,no_bacdive_record,,0
+Sphingopyxis lindanitolerans,8.0,measured,range_only,growth range from pH 8,1
+Agaribacter flavus,6.0,measured,range_only,growth range from pH 6,2
+Marinobacter bohaiensis,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Sneathiella limimaris,6.0,measured,range_only,growth range from pH 6,2
+Nocardioides zhouii,7.0,measured,no_bacdive_record,,0
+Methylobacterium oryzihabitans,6.0,measured,no_bacdive_record,,0
+Neptunomonas marina,6.5,measured,no_bacdive_record,,0
+Emticicia agri,6.0,measured,range_only,growth range from pH 6,1
+Virgibacillus phasianinus,6.0,measured,range_only,growth range from pH 6,2
+Ramlibacter humi,6.0,measured,range_only,growth range from pH 6,2
+Azospirillum ramasamyi,6.0,measured,range_only,growth range from pH 6,2
+Alteromonas sediminis,6.5,measured,range_only,growth range from pH 6.5,2
+Amycolatopsis suaedae,6.0,measured,no_bacdive_record,,0
+Jannaschia formosa,6.0,measured,range_only,growth range from pH 6,2
+Amphritea opalescens,4.0,measured,range_only,growth range from pH 4,2
+Taibaiella helva,6.0,measured,no_bacdive_record,,0
+Sinomicrobium soli,6.0,measured,no_bacdive_record,,0
+Acuticoccus sediminis,6.0,measured,range_only,growth range from pH 6,2
+Sphingobium terrigena,6.0,measured,range_only,growth range from pH 6,2
+Bacillus spongiae,6.0,measured,no_bacdive_record,,0
+Emcibacter congregatus,6.0,measured,no_bacdive_record,,0
+Simplicispira suum,7.0,measured,range_only,growth range from pH 7,2
+Litorivita pollutaquae,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Antarcticibacterium flavum,7.0,measured,range_only,growth range from pH 7,2
+Mangrovicella endophytica,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Sphingobacterium haloxyli,7.0,measured,range_only,growth range from pH 7,2
+Thauera hydrothermalis,5.5,measured,no_bacdive_record,,0
+Bacillus tamaricis,8.0,measured,range_only,growth range from pH 8,2
+Pannonibacter carbonis,3.5,measured,range_only,growth range from pH 3.5,2
+Thalassotalea insulae,7.0,measured,verified_measured,no growth recorded at pH 5,3
+Roseovarius salinarum,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,3
+Roseovarius nitratireducens,6.5,measured,range_only,growth range from pH 6.5,2
+Pseudomonas profundi,7.0,measured,no_bacdive_record,,0
+Kaistia algarum,6.0,measured,range_only,growth range from pH 6,2
+Alteromonas oceani,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Chryseolinea flava,5.0,measured,range_only,growth range from pH 5,2
+Thalassospira marina,5.0,measured,range_only,growth range from pH 5,2
+Solimonas fluminis,7.0,measured,range_only,growth range from pH 7,1
+Brachybacterium endophyticum,5.0,measured,verified_measured,no growth recorded at pH 4,4
+Blastococcus litoris,4.0,measured,range_only,growth range from pH 4,2
+Confluentibacter flavum,6.0,measured,no_bacdive_record,,0
+Indioceanicola profundi,7.0,measured,range_only,growth range from pH 7,2
+Gracilimonas amylolytica,6.5,measured,range_only,growth range from pH 6.5,2
+Phenylobacterium hankyongense,6.0,measured,range_only,growth range from pH 6,2
+Carboxylicivirga sediminis,6.0,measured,range_only,growth range from pH 6,2
+Planococcus versutus,6.0,measured,range_only,growth range from pH 6,2
+Zunongwangia endophytica,6.0,measured,curator_minimum,BacDive minimum pH 6,5
+Nitratireductor aestuarii,5.0,measured,range_only,growth range from pH 5,2
+Planococcus ruber,5.0,measured,range_only,growth range from pH 5,2
+Caulobacter hibisci,6.5,measured,range_only,growth range from pH 6.5,2
+Actinomyces liubingyangii,6.0,measured,no_bacdive_record,,0
+Larkinella ripae,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Geofilum rhodophaeum,6.5,measured,range_only,growth range from pH 6.5,2
+Bacillus notoginsengisoli,7.0,measured,no_bacdive_record,,0
+Spirosoma litoris,6.5,measured,range_only,growth range from pH 6.5,2
+Parapedobacter deserti,7.0,measured,range_only,growth range from pH 7,2
+Aliidiomarina sedimenti,7.0,measured,range_only,growth range from pH 7,2
+Bombella apis,4.0,measured,record_without_growth_ph,,1
+Paraglaciecola hydrolytica,7.0,measured,range_only,growth range from pH 7,2
+Haloplanus salinarum,6.5,measured,range_only,growth range from pH 6.5,2
+Paenibacillus aceris,6.0,measured,no_bacdive_record,,0
+Actinophytocola xanthii,6.5,measured,range_only,growth range from pH 6.5,2
+Psychromicrobium silvestre,6.0,measured,range_only,growth range from pH 6,2
+Anoxynatronum buryatiense,7.4,measured,range_only,growth range from pH 7.4,2
+Nesterenkonia pannonica,9.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 9,2
+Hymenobacter cavernae,5.0,measured,range_only,growth range from pH 5,2
+Mucilaginibacter rubeus,5.0,measured,range_only,growth range from pH 5,1
+Skermanella mucosa,6.0,measured,no_bacdive_record,,0
+Mangrovimonas xylaniphaga,6.0,measured,no_bacdive_record,,0
+Streptomyces fuscichromogenes,5.0,measured,no_bacdive_record,,0
+Perlucidibaca aquatica,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Pseudoalteromonas piratica,5.5,measured,verified_measured,no growth recorded at pH 5,3
+Bacillus kiskunsagensis,9.0,measured,no_bacdive_record,,0
+Actinomyces vulturis,6.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 6,1
+Brevundimonas balnearis,8.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 8,2
+Altererythrobacter soli,6.5,measured,no_bacdive_record,,0
+Pseudomonas versuta,4.0,measured,no_bacdive_record,,0
+Rhizobium rhizosphaerae,5.0,measured,no_bacdive_record,,0
+Geodermatophilus daqingensis,6.0,measured,no_bacdive_record,,0
+Cyclobacterium sediminis,7.0,measured,no_bacdive_record,,0
+Phaeobacter porticola,6.5,measured,range_only,growth range from pH 6.5,2
+Bacillus mangrovi,6.0,measured,range_only,growth range from pH 6,2
+Halorubrum trueperi,7.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7.5,2
+Aurantimonas aggregata,6.0,measured,range_only,growth range from pH 6,2
+Gracilimonas halophila,7.0,measured,range_only,growth range from pH 7,2
+Rhodohalobacter halophilus,7.0,measured,range_only,growth range from pH 7,2
+Corticicoccus populi,6.0,measured,verified_measured,no growth recorded at pH 5,4
+Flavobacterium limi,6.0,measured,no_bacdive_record,,0
+Dictyobacter aurantiacus,3.5,measured,range_only,growth range from pH 3.5,2
+Arenibacter antarcticus,6.3,measured,range_only,growth range from pH 6.3,2
+Sabulilitoribacter arenilitoris,7.0,measured,no_bacdive_record,,0
+Spirosoma lacussanchae,6.5,measured,no_bacdive_record,,0
+Paracoccus litorisediminis,7.0,measured,no_bacdive_record,,0
+Paraglaciecola aestuariivivens,7.0,measured,verified_measured,no growth recorded at pH 6,3
+Amylibacter cionae,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Aureimonas endophytica,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Nocardioides currus,6.5,measured,no_bacdive_record,,0
+Leucothrix arctica,7.5,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7.5,2
+Muricauda iocasae,6.0,measured,range_only,growth range from pH 6,2
+Marinicella sediminis,6.5,measured,range_only,growth range from pH 6.5,2
+Marinobacter fuscus,5.5,measured,range_only,growth range from pH 5.5,2
+Aestuariimicrobium soli,6.5,measured,range_only,growth range from pH 6.5,2
+Megasphaera stantonii,5.0,measured,range_only,growth range from pH 5,2
+Actinomyces tangfeifanii,6.0,measured,no_bacdive_record,,0
+Tabrizicola fusiformis,6.0,measured,range_only,growth range from pH 6,2
+Aestuariibaculum marinum,7.0,measured,no_bacdive_record,,0
+Oceanisphaera avium,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Ornithinibacillus salinisoli,7.0,measured,range_only,growth range from pH 7,2
+Croceitalea marina,8.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 8,2
+Prosthecochloris marina,6.3,measured,no_bacdive_record,,0
+Alteromonas aestuariivivens,7.0,measured,verified_measured,no growth recorded at pH 5,3
+Roseobacter ponti,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Marivibrio halodurans,6.0,measured,range_only,growth range from pH 6,2
+Aestuarium zhoushanense,6.0,measured,no_bacdive_record,,0
+Marimonas arenosa,6.5,measured,range_only,growth range from pH 6.5,2
+Natronospira proteinivora,8.5,measured,range_only,growth range from pH 8.5,2
+Salinirussus salinus,5.0,measured,no_bacdive_record,,0
+Agarilytica rhodophyticola,6.5,measured,range_only,growth range from pH 6.5,2
+Anaeromicrobium sediminis,6.5,measured,range_only,growth range from pH 6.5,2
+Oceaniglobus indicus,5.0,measured,range_only,growth range from pH 5,2
+Gellertiella hungarica,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,2
+Salibacter halophilus,6.5,measured,range_only,growth range from pH 6.5,2
+Salinimonas chungwhensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Sanguibacter gelidistatuariae,6.2,measured,range_only,growth range from pH 6,2
+Altererythrobacter aquiaggeris,7.0,measured,no_bacdive_record,,0
+Angustibacter speluncae,6.0,measured,range_only,growth range from pH 6,2
+Puniceibacterium confluentis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Altererythrobacter aquaemixtae,7.0,measured,no_bacdive_record,,0
+Megasphaera hexanoica,5.5,measured,range_only,growth range from pH 5.5,2
+Erythrobacter aquimixticola,7.0,measured,verified_measured,no growth recorded at pH 5.5,3
+Dyella lipolytica,4.0,measured,range_only,growth range from pH 4,2
+Thioclava arenosa,6.0,measured,no_bacdive_record,,0
+Roseovarius aestuariivivens,7.0,measured,verified_measured,no growth recorded at pH 5,3
+Sinorhodobacter populi,5.0,measured,range_only,growth range from pH 5,2
+Sphingomonas flavalba,6.0,measured,no_bacdive_record,,0
+Psychroflexus aurantiacus,6.0,measured,no_bacdive_record,,0
+Methylobacterium segetis,5.0,measured,no_bacdive_record,,0
+Halalkalibacillus sediminis,6.5,measured,no_bacdive_record,,0
+Marimonas lutisalis,6.0,measured,range_only,growth range from pH 6,3
+Flavobacterium macacae,7.0,measured,no_bacdive_record,,0
+Nocardioides guangzhouensis,6.0,measured,no_bacdive_record,,0
+Brevundimonas fluminis,6.0,measured,no_bacdive_record,,0
+Lysobacter segetis,7.0,measured,range_only,growth range from pH 7,1
+Roseomonas bella,6.5,measured,no_bacdive_record,,0
+Pseudidiomarina gelatinasegens,7.0,measured,range_only,growth range from pH 7,2
+Amycolatopsis nivea,6.0,measured,no_bacdive_record,,0
+Marinobacter vulgaris,6.5,measured,range_only,growth range from pH 6.5,2
+Arenimonas terrae,7.0,measured,range_only,growth range from pH 7,1
+Algoriphagus lacus,7.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 7,2
+Marinobacter denitrificans,7.0,measured,no_bacdive_record,,0
+Thermus thermamylovorans,6.0,measured,range_only,growth range from pH 6,1
+Amycolatopsis acidicola,5.0,measured,no_bacdive_record,,0
+Rheinheimera sediminis,6.0,measured,no_bacdive_record,,0
+Sinirhodobacter hankyongi,6.0,measured,range_only,growth range from pH 6,2
+Methylotenera oryzisoli,6.0,measured,no_bacdive_record,,0
+Algibacter marinivivus,6.5,measured,no_bacdive_record,,0
+Halomonas lysinitropha,7.0,measured,no_bacdive_record,,0
+Lutibacter citreus,6.5,measured,no_bacdive_record,,0
+Arthrobacter sedimenti,6.0,measured,no_bacdive_record,,0
+Maribacter luteus,6.5,measured,no_bacdive_record,,0
+Ramlibacter pinisoli,5.0,measured,no_bacdive_record,,0
+Sneathiella aquimaris,7.0,measured,no_bacdive_record,,0
+Natrialba swarupiae,8.0,measured,no_bacdive_record,,0
+Actinokineospora pegani,6.0,measured,no_bacdive_record,,0
+Rahnella aceris,4.0,measured,range_only,growth range from pH 4,2
+Pseudomonas haemolytica,5.5,measured,no_bacdive_record,,0
+Aidingimonas lacisalsi,6.0,measured,no_bacdive_record,,0
+Massilia arenae,6.0,measured,no_bacdive_record,,0
+Microbacterium algeriense,6.0,measured,no_bacdive_record,,0
+Cellulomonas telluris,6.0,measured,range_only,growth range from pH 6,2
+Pseudomonas xionganensis,7.0,measured,no_bacdive_record,,0
+Vibrio algicola,4.5,measured,no_bacdive_record,,0
+Adhaeribacter rhizoryzae,5.0,measured,no_bacdive_record,,0
+Hymenobacter lutimineralis,6.0,measured,range_only,growth range from pH 6,2
+Jeotgalibaca ciconiae,7.0,measured,no_bacdive_record,,0
+Deinococcus terrestris,5.5,measured,no_bacdive_record,,0
+Chryseobacterium binzhouense,6.5,measured,no_bacdive_record,,0
+Nioella ostreopsis,5.0,measured,range_only,growth range from pH 5,2
+Luteimonas cellulosilyticus,6.0,measured,range_only,growth range from pH 6,2
+Flagellimonas algicola,6.5,measured,range_only,growth range from pH 6.5,2
+Pelagihabitans pacificus,7.0,measured,no_bacdive_record,,0
+Fluviibacter phosphoraccumulans,6.0,measured,no_bacdive_record,,0
+Chryseotalea sanaruensis,7.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 7,2
+Caproicibacter fermentans,5.0,measured,no_bacdive_record,,0
+Pukyongiella litopenaei,5.0,measured,no_bacdive_record,,0
+Mesohalobacter halotolerans,6.5,measured,no_bacdive_record,,0
+Kangsaoukella pontilimi,7.0,measured,no_bacdive_record,,0
+Caldichromatium japonicum,7.0,measured,no_bacdive_record,,0
+Lacipirellula parvula,5.5,measured,no_bacdive_record,,0
+Aerosticca soli,4.3,measured,range_only,growth range from pH 4.3,2
+Tepidiforma bonchosmolovskayae,6.5,measured,no_bacdive_record,,0
+Paucihalobacter ruber,6.5,measured,no_bacdive_record,,0
+Radiobacillus deserti,6.0,measured,no_bacdive_record,,0
+Methanolobus halotolerans,7.2,measured,no_bacdive_record,,0
+Tenuifilum thalassicum,4.0,measured,range_only,growth range from pH 4,2
+Streptococcus downii,4.5,measured,no_bacdive_record,,0
+Pelomicrobium methylotrophicum,6.5,measured,range_only,growth range from pH 6.5,2
+Natronomonas salsuginis,6.5,measured,no_bacdive_record,,0
+Oceanipulchritudo coccoides,6.5,measured,no_bacdive_record,,0
+Natronospirillum operosum,7.3,measured,range_only,growth range from pH 7.3,2
+Putridiphycobacter roseus,6.0,measured,no_bacdive_record,,0
+Hankyongella ginsenosidimutans,6.0,measured,range_only,growth range from pH 6,2
+Flavicella sediminum,4.0,measured,no_bacdive_record,,0
+Tepidiphilus olei,6.0,measured,no_bacdive_record,,0
+Polaribacter septentrionalilitoris,7.0,measured,no_bacdive_record,,0
+Nocardioides sambongensis,5.0,measured,no_bacdive_record,,0
+Flagellimonas maritima,6.0,measured,no_bacdive_record,,0
+Bacillus natronophilus,8.0,measured,no_bacdive_record,,0
+Muricauda ochracea,6.0,measured,no_bacdive_record,,0
+Arenibacter aquaticus,5.0,measured,no_bacdive_record,,0
+Rhizobium ruizarguesonis,5.5,measured,no_bacdive_record,,0
+Tamlana fucoidanivorans,5.0,measured,no_bacdive_record,,0
+Novosphingobium umbonatum,5.5,measured,range_only,growth range from pH 5.5,2
+Amycolatopsis anabasis,6.0,measured,no_bacdive_record,,0
+Alienimonas chondri,5.5,measured,range_only,growth range from pH 5.5,1
+Agromyces protaetiae,7.0,measured,no_bacdive_record,,0
+Auraticoccus cholistanensis,7.0,measured,no_bacdive_record,,0
+Maioricimonas rarisocia,6.5,measured,range_only,growth range from pH 6.5,2
+Georhizobium profundi,6.5,measured,range_only,growth range from pH 6.5,2
+Aestuariirhabdus litorea,5.0,measured,no_bacdive_record,,0
+Pseudorivibacter rhizosphaerae,6.0,measured,no_bacdive_record,,0
+Deinococcus detaillensis,6.0,measured,no_bacdive_record,,0
+Paenibacillus luteus,6.0,measured,no_bacdive_record,,0
+Brevundimonas lutea,5.5,measured,no_bacdive_record,,0
+Pseudomonas ovata,5.0,measured,no_bacdive_record,,0
+Bacillus salidurans,7.0,measured,no_bacdive_record,,0
+Aliidiomarina celeris,6.5,measured,range_only,growth range from pH 6.5,2
+Cohaesibacter celericrescens,6.5,measured,no_bacdive_record,,0
+Nitrincola tibetensis,7.0,measured,no_bacdive_record,,0
+Thalassococcus profundi,7.0,measured,range_only,growth range from pH 7,2
+Mucilaginibacter terrigena,6.0,measured,no_bacdive_record,,0
+Tamlana carrageenivorans,6.5,measured,no_bacdive_record,,0
+Gordonia oryzae,4.0,measured,no_bacdive_record,,0
+Sphingorhabdus pulchriflava,6.0,measured,range_only,growth range from pH 6,2
+Marinomonas shanghaiensis,5.0,measured,no_bacdive_record,,0
+Halobacteriovorax vibrionivorans,7.0,measured,range_only,growth range from pH 7,2
+Frateuria defendens,6.5,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 6.5,2
+Haloarcula sebkhae,6.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 6,2
+Paeniglutamicibacter terrestris,7.0,measured,no_bacdive_record,,0
+Thiomicrorhabdus aquaedulcis,6.2,measured,range_only,growth range from pH 6.2,2
+Spirosoma utsteinense,6.5,measured,no_bacdive_record,,0
+Nesterenkonia natronophila,7.5,measured,range_only,growth range from pH 7.5,2
+Vibrio albus,6.0,measured,no_bacdive_record,,0
+Lactobacillus salitolerans,5.0,measured,no_bacdive_record,,0
+Mesorhizobium composti,5.0,measured,no_bacdive_record,,0
+Mesorhizobium denitrificans,6.0,measured,no_bacdive_record,,0
+Paracoccus indicus,5.0,measured,no_bacdive_record,,0
+Martelella lutilitoris,5.0,measured,no_bacdive_record,,0
+Nakamurella antarctica,5.0,measured,range_only,growth range from pH 5,2
+Flavisolibacter nicotianae,6.0,measured,range_only,growth range from pH 6,2
+Rubellimicrobium rubrum,6.5,measured,no_bacdive_record,,0
+Rhodosalinus halophilus,7.0,measured,range_only,growth range from pH 7,2
+Dyella tabacisoli,5.0,measured,no_bacdive_record,,0
+Pararhodobacter oceanensis,6.5,measured,range_only,growth range from pH 6.5,2
+Photobacterium chitinilyticum,5.0,measured,range_only,growth range from pH 5,2
+Phytoactinopolyspora halophila,7.0,measured,no_bacdive_record,,0
+Flavobacterium piscinae,8.0,measured,no_bacdive_record,,0
+Pontibacter arcticus,6.5,measured,range_only,growth range from pH 6.5,2
+Anaerobacillus alkaliphilus,9.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 9,2
+Bosea psychrotolerans,5.5,measured,no_bacdive_record,,0
+Flavitalea flava,5.0,measured,no_bacdive_record,,0
+Jiangella anatolica,7.0,measured,no_bacdive_record,,0
+Hymenobacter persicinus,6.0,measured,no_bacdive_record,,0
+Marinactinospora rubrisoli,7.0,measured,no_bacdive_record,,0
+Crenobacter cavernae,7.0,measured,range_only,growth range from pH 7,2
+Quadrisphaera oryzae,6.0,measured,no_bacdive_record,,0
+Cellulomonas algicola,6.0,measured,range_only,growth range from pH 6,2
+Paenibacillus psychroresistens,6.0,measured,no_bacdive_record,,0
+Pseudomonas mangiferae,6.0,measured,no_bacdive_record,,0
+Oceanibium sediminis,6.5,measured,no_bacdive_record,,0
+Paraburkholderia telluris,4.0,measured,no_bacdive_record,,0
+Alteromonas fortis,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,2
+Paracoccus suum,6.0,measured,no_bacdive_record,,0
+Phenylobacterium parvum,7.0,measured,no_bacdive_record,,0
+Flavobacterium ustbae,7.0,measured,no_bacdive_record,,0
+Algoriphagus sanaruensis,6.5,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 6.5,2
+Falsibacillus albus,6.0,measured,range_only,growth range from pH 6,2
+Pusillimonas thiosulfatoxidans,5.5,measured,range_only,growth range from pH 5.5,2
+Nocardioides ferulae,5.0,measured,no_bacdive_record,,0
+Kocuria soli,6.0,measured,no_bacdive_record,,0
+Serinicoccus sediminis,4.0,measured,range_only,growth range from pH 4,2
+Fulvimarina endophytica,6.0,measured,no_bacdive_record,,0
+Halonotius aquaticus,6.0,measured,range_only,growth range from pH 6,2
+Syntrophotalea acetylenivorans,6.3,measured,no_bacdive_record,,0
+Pseudomonas juntendi,6.0,measured,no_bacdive_record,,0
+Sphingomonas ginkgonis,7.0,measured,no_bacdive_record,,0
+Haloactinobacterium glacieicola,7.0,measured,no_bacdive_record,,0
+Chitinophaga deserti,6.0,measured,range_only,growth range from pH 6,2
+Ancylomarina salipaludis,7.0,measured,verified_measured,no growth recorded at pH 5,3
+Aureimonas flava,7.0,measured,range_disagrees,BacDive lowest growth pH 5 vs stored 7,3
+Flavobacterium sangjuense,7.0,measured,no_bacdive_record,,0
+Pseudomonas urumqiensis,4.0,measured,no_bacdive_record,,0
+Flavobacterium cerinum,6.0,measured,no_bacdive_record,,0
+Stagnimonas aquatica,5.0,measured,range_only,growth range from pH 5,2
+Roseicella frigidaeris,5.5,measured,range_only,growth range from pH 5.5,2
+Rhodophyticola porphyridii,5.0,measured,range_only,growth range from pH 5,2
+Paraburkholderia phosphatilytica,4.0,measured,no_bacdive_record,,0
+Oceaniradius stylonematis,6.0,measured,range_only,growth range from pH 6,2
+Acerihabitans arboris,6.0,measured,no_bacdive_record,,0
+Thalassorhabdomicrobium marinisediminis,6.0,measured,range_only,growth range from pH 6,2
+Pseudopuniceibacterium sediminis,5.5,measured,range_only,growth range from pH 5.5,2
+Biomaibacter acetigenes,6.0,measured,range_only,growth range from pH 6,2
+Amnimonas aquatica,7.0,measured,no_bacdive_record,,0
+Capillibacterium thermochitinicola,6.5,measured,no_bacdive_record,,0
+Longirhabdus pacifica,6.0,measured,range_only,growth range from pH 6,2
+Pelagibaculum spongiae,7.0,measured,verified_measured,no growth recorded at pH 6,4
+Hydrocarboniclastica marina,5.0,measured,range_only,growth range from pH 5,2
+Aggregatilinea lenta,5.5,measured,range_only,growth range from pH 5.5,2
+Alkalilacustris brevis,7.0,measured,range_only,growth range from pH 7,2
+Ephemeroptericola cinctiostellae,6.0,measured,range_only,growth range from pH 6,1
+Dyella amyloliquefaciens,4.5,measured,record_without_growth_ph,,1
+Amnibacterium flavum,7.0,measured,verified_measured,no growth recorded at pH 5,4
+Pseudomonas qingdaonensis,5.0,measured,no_bacdive_record,,0
+Citreicella thiooxidans,6.5,measured,no_bacdive_record,,0
+Caloranaerobacter azorensis,5.5,measured,no_bacdive_record,,0
+Methylosarcina lacus,5.5,measured,no_bacdive_record,,0
+Bacterioplanoides pacificum,6.0,measured,range_only,growth range from pH 6,2
+Deferrisoma palaeochoriense,5.5,measured,range_only,growth range from pH 5.5,2
+Piscinibacterium candidicorallinum,5.0,measured,range_only,growth range from pH 5,2
+Bacillus nakamurai,5.5,measured,no_bacdive_record,,0
+Phycicoccus endophyticus,6.0,measured,range_only,growth range from pH 6,2
+Phytoactinopolyspora alkaliphila,6.0,measured,range_only,growth range from pH 6,2
+Pseudodesulfovibrio indicus,5.0,measured,range_only,growth range from pH 5,2
+Mucilaginibacter yixingensis,6.0,measured,range_only,growth range from pH 6,2
+Agromyces binzhouensis,5.0,measured,no_bacdive_record,,0
+Larsenimonas suaedae,5.0,measured,range_only,growth range from pH 5,2
+Bacillus gobiensis,5.0,measured,no_bacdive_record,,0
+Tepidibacillus decaturensis,5.0,measured,range_only,growth range from pH 5,2
+Clostridium liquoris,5.5,measured,no_bacdive_record,,0
+Sulfurovum riftiae,5.0,measured,range_only,growth range from pH 5,2
+Flavisolibacter tropicus,6.0,measured,range_only,growth range from pH 6,2
+Raineyella antarctica,4.0,measured,range_only,growth range from pH 4,2
+Varunaivibrio sulfuroxidans,4.5,measured,range_only,growth range from pH 4.5,2
+Balneicella halophila,5.5,measured,range_only,growth range from pH 5.5,2
+Dyella humi,4.0,measured,record_without_growth_ph,,1
+Marinitoga arctica,5.0,measured,range_only,growth range from pH 5,2
+Methanomicrobium antiquum,5.9,measured,no_bacdive_record,,0
+Lacimicrobium alkaliphilum,6.0,measured,range_only,growth range from pH 6,2
+Haloimpatiens lingqiaonensis,5.5,measured,range_only,growth range from pH 5.5,2
+Fluviicoccus keumensis,6.0,measured,range_only,growth range from pH 6,1
+Membranicola marinus,6.0,measured,no_bacdive_record,,0
+Aquisalinus flavus,6.0,measured,range_only,growth range from pH 6,2
+Gelatiniphilus marinus,6.0,measured,range_only,growth range from pH 6,2
+Leeuwenhoekiella nanhaiensis,6.0,measured,range_only,growth range from pH 6,2
+Telluribacter humicola,6.0,measured,no_bacdive_record,,0
+Haoranjiania flava,6.0,measured,range_only,growth range from pH 6,2
+Sulfurirhabdus autotrophica,5.2,measured,range_only,growth range from pH 5.2,2
+Halobium palmae,6.0,measured,no_bacdive_record,,0
+Flexilinea flocculi,6.0,measured,range_only,growth range from pH 6,2
+Halomonas lutescens,6.0,measured,no_bacdive_record,,0
+Spirosoma aerophilum,6.0,measured,range_only,growth range from pH 6,2
+Sedimentibacter acidaminivorans,6.0,measured,range_only,growth range from pH 6,2
+Lutibacter profundi,5.5,measured,range_only,growth range from pH 5.5,2
+Larkinella soli,4.0,measured,range_only,growth range from pH 4,2
+Defluviimonas nitratireducens,6.0,measured,no_bacdive_record,,0
+Virgibacillus ainsalahensis,6.0,measured,no_bacdive_record,,0
+Propioniciclava sinopodophylli,6.0,measured,range_only,growth range from pH 6,2
+Thioclava nitratireducens,6.0,measured,range_only,growth range from pH 6,2
+Roseibium sediminis,5.0,measured,range_only,growth range from pH 5,2
+Cellvibrio fontiphilus,6.0,measured,range_only,growth range from pH 6,2
+Thauera phenolivorans,5.0,measured,no_bacdive_record,,0
+Mariprofundus micogutta,5.8,measured,no_bacdive_record,,0
+Streptomyces capparidis,6.0,measured,no_bacdive_record,,0
+Pseudoruegeria marinistellae,6.0,measured,no_bacdive_record,,0
+Spirosoma flavum,6.0,measured,range_only,growth range from pH 6,2
+Microbacterium hibisci,5.0,measured,no_bacdive_record,,0
+Leucobacter ruminantium,5.5,measured,range_only,growth range from pH 5.5,2
+Flavobacterium amniphilum,6.0,measured,no_bacdive_record,,0
+Cellvibrio zantedeschiae,6.0,measured,no_bacdive_record,,0
+Sphingobacterium humi,5.5,measured,range_only,growth range from pH 5.5,2
+Ideonella sakaiensis,5.5,measured,range_only,growth range from pH 5.5,2
+Paracoccus mangrovi,5.5,measured,range_only,growth range from pH 5.5,2
+Hymenobacter gummosus,6.0,measured,range_only,growth range from pH 6,2
+Parasphingopyxis algicola,6.0,measured,range_only,growth range from pH 6,2
+Altererythrobacter mangrovi,6.0,measured,range_only,growth range from pH 6,2
+Flavitalea antarctica,5.0,measured,range_only,growth range from pH 5,2
+Photobacterium alginatilyticum,5.0,measured,range_only,growth range from pH 5,2
+Novosphingobium humi,6.0,measured,range_only,growth range from pH 6,2
+Oceanibaculum nanhaiense,6.0,measured,no_bacdive_record,,0
+Marinicauda algicola,6.0,measured,no_bacdive_record,,0
+Pararhizobium antarcticum,4.0,measured,range_only,growth range from pH 4,2
+Paracoccus aerius,4.5,measured,range_only,growth range from pH 4.5,2
+Sphingomonas crusticola,5.0,measured,no_bacdive_record,,0
+Spirosoma areae,6.0,measured,no_bacdive_record,,0
+Phenylobacterium deserti,5.0,measured,range_only,growth range from pH 5,2
+Thermodesulfatator autotrophicus,5.5,measured,range_only,growth range from pH 5.5,2
+Pseudorhodobacter psychrotolerans,5.5,measured,no_bacdive_record,,0
+Nocardioides pakistanensis,6.0,measured,no_bacdive_record,,0
+Novosphingobium piscinae,4.0,measured,range_only,growth range from pH 4,2
+Halovulum dunhuangense,6.0,measured,no_bacdive_record,,0
+Crenobacter luteus,6.0,measured,no_bacdive_record,,0
+Halocalculus aciditolerans,4.5,measured,no_bacdive_record,,0
+Thiopseudomonas denitrificans,6.0,measured,no_bacdive_record,,0
+Catenisphaera adipataccumulans,5.5,measured,no_bacdive_record,,0
+Sinimarinibacterium flocculans,6.0,measured,no_bacdive_record,,0
+Anoxybacter fermentans,5.0,measured,no_bacdive_record,,0
+Fodinicurvata halophila,5.0,measured,no_bacdive_record,,0
+Pontibacillus salicampi,6.0,measured,no_bacdive_record,,0
+Paradevosia shaoguanensis,6.0,measured,no_bacdive_record,,0
+Aminobacterium thunnarium,6.0,measured,no_bacdive_record,,0
+Halovenus salina,5.0,measured,no_bacdive_record,,0
+Idiomarina halophila,3.5,measured,no_bacdive_record,,0
+Thermus amyloliquefaciens,6.0,measured,no_bacdive_record,,0
+Sphingobium subterraneum,6.0,measured,no_bacdive_record,,0
+Litoribaculum gwangyangense,6.0,measured,no_bacdive_record,,0
+Negadavirga shengliensis,4.0,measured,no_bacdive_record,,0
+Garicola koreensis,6.0,measured,no_bacdive_record,,0
+Luteolibacter arcticus,5.0,measured,no_bacdive_record,,0
+Neptunomonas phycophila,5.0,measured,no_bacdive_record,,0
+Vibrio salilacus,6.0,measured,no_bacdive_record,,0
+Tamlana nanhaiensis,6.0,measured,no_bacdive_record,,0
+Phaeocystidibacter marisrubri,5.0,measured,no_bacdive_record,,0
+Amphritea spongicola,5.0,measured,no_bacdive_record,,0
+Haloarchaeobius salinus,6.0,measured,no_bacdive_record,,0
+Myceligenerans cantabricum,6.0,measured,no_bacdive_record,,0
+Microbacterium nanhaiense,5.0,measured,no_bacdive_record,,0
+Bacillus glycinifermentans,5.0,measured,no_bacdive_record,,0
+Burkholderia dipogonis,4.0,measured,no_bacdive_record,,0
+Bacillus paralicheniformis,6.0,measured,no_bacdive_record,,0
+Lysinibacillus acetophenoni,6.0,measured,no_bacdive_record,,0
+Methylocapsa palsarum,4.1,measured,no_bacdive_record,,0
+Streptomyces sasae,5.0,measured,no_bacdive_record,,0
+Planococcus dechangensis,6.0,measured,no_bacdive_record,,0
+Thermoactinomyces guangxiensis,6.0,measured,no_bacdive_record,,0
+Bacillus wuyishanensis,5.0,measured,no_bacdive_record,,0
+Bacillus taiwanensis,6.0,measured,no_bacdive_record,,0
+Deinococcus seoulensis,4.0,measured,no_bacdive_record,,0
+Marinobacterium zhoushanense,5.5,measured,range_only,growth range from pH 5.5,2
+Chitinibacter fontanus,6.0,measured,range_only,growth range from pH 6,2
+Burkholderia jirisanensis,5.0,measured,no_bacdive_record,,0
+Vogesella facilis,6.0,measured,range_only,growth range from pH 6,2
+Duganella ginsengisoli,6.0,measured,range_only,growth range from pH 6,2
+Hymenobacter rubidus,6.0,measured,no_bacdive_record,,0
+Rheinheimera gaetbuli,6.0,measured,no_bacdive_record,,0
+Halomonas garicola,5.5,measured,no_bacdive_record,,0
+Novosphingobium colocasiae,3.0,measured,range_only,growth range from pH 3,2
+Sphingoaurantiacus capsulatus,6.0,measured,range_only,growth range from pH 6,2
+Paenibacillus nasutitermitis,5.5,measured,no_bacdive_record,,0
+Ideonella paludis,6.0,measured,range_only,growth range from pH 6,2
+Lysobacter aestuarii,5.5,measured,range_only,growth range from pH 5.5,2
+Mucilaginibacter roseus,6.0,measured,range_only,growth range from pH 6,2
+Deinococcus budaensis,6.0,measured,range_only,growth range from pH 6,2
+Altererythrobacter deserti,5.0,measured,range_only,growth range from pH 5,2
+Scopulibacillus daqui,4.0,measured,range_only,growth range from pH 4,2
+Novosphingobium bradum,5.0,measured,range_only,growth range from pH 5,2
+Bacillus solani,6.0,measured,no_bacdive_record,,0
+Kocuria dechangensis,6.0,measured,no_bacdive_record,,0
+Spiribacter curvatus,5.0,measured,no_bacdive_record,,0
+Kordia zhangzhouensis,6.0,measured,no_bacdive_record,,0
+Confluentimicrobium naphthalenivorans,6.0,measured,no_bacdive_record,,0
+Aquisalimonas lutea,6.0,measured,no_bacdive_record,,0
+Belliella marina,5.5,measured,no_bacdive_record,,0
+Fusibacter fontis,5.5,measured,no_bacdive_record,,0
+Methanosarcina subterranea,5.9,measured,no_bacdive_record,,0
+Uliginosibacterium paludis,6.0,measured,range_only,growth range from pH 6,2
+Pandoraea terrae,4.0,measured,range_only,growth range from pH 4,2
+Marinicella pacifica,6.0,measured,range_only,growth range from pH 6,2
+Domibacillus iocasae,6.0,measured,range_only,growth range from pH 6,2
+Aurantimonas endophytica,6.0,measured,range_only,growth range from pH 6,2
+Piscinibacter defluvii,6.0,measured,range_only,growth range from pH 6,2
+Pseudoalteromonas gelatinilytica,5.5,measured,range_only,growth range from pH 5.5,2
+Aeromicrobium camelliae,5.5,measured,no_bacdive_record,,0
+Ramlibacter rhizophilus,6.0,measured,range_only,growth range from pH 6,2
+Nioella sediminis,6.0,measured,range_only,growth range from pH 6,2
+Acuticoccus kandeliae,6.0,measured,range_only,growth range from pH 6,2
+Zobellella endophytica,6.0,measured,range_only,growth range from pH 6,2
+Hymenobacter profundi,6.0,measured,range_only,growth range from pH 6,2
+Herbaspirillum robiniae,5.0,measured,range_only,growth range from pH 5,2
+Methylobacterium frigidaeris,4.0,measured,no_bacdive_record,,0
+Siphonobacter curvatus,6.0,measured,range_only,growth range from pH 6,2
+Coralloluteibacterium stylophorae,6.0,measured,no_bacdive_record,,0
+Halomonas saliphila,6.0,measured,no_bacdive_record,,0
+Deinococcus aluminii,6.0,measured,no_bacdive_record,,0
+Zhouia spongiae,6.0,measured,range_only,growth range from pH 6,2
+Pedobacter quisquiliarum,5.0,measured,range_only,growth range from pH 5,2
+Adhaeribacter swui,6.0,measured,range_only,growth range from pH 6,2
+Pedobacter changchengzhani,6.0,measured,no_bacdive_record,,0
+Sphingomonas panacisoli,6.0,measured,no_bacdive_record,,0
+Phreatobacter cathodiphilus,6.0,measured,range_only,growth range from pH 6,2
+Pelagivirga sediminicola,6.0,measured,range_only,growth range from pH 6,2
+Aliibacillus thermotolerans,5.0,measured,no_bacdive_record,,0
+Minwuia thermotolerans,6.0,measured,range_only,growth range from pH 6,2
+Scopulibacillus cellulosilyticus,6.0,measured,no_bacdive_record,,0
+Hymenobacter rubripertinctus,6.0,measured,range_only,growth range from pH 6,2
+Paraburkholderia aromaticivorans,3.0,measured,range_only,growth range from pH 3,2
+Photobacterium carnosum,5.0,measured,no_bacdive_record,,0
+Roseovarius ramblicola,6.0,measured,range_only,growth range from pH 6,2
+Eubacterium maltosivorans,5.0,measured,no_bacdive_record,,0
+Methylobacterium currus,4.0,measured,no_bacdive_record,,0
+Alcanivorax indicus,5.5,measured,range_only,growth range from pH 5.5,2
+Mesorhizobium ephedrae,6.0,measured,no_bacdive_record,,0
+Microvirga rosea,5.0,measured,no_bacdive_record,,0
+Aquicoccus porphyridii,6.0,measured,range_only,growth range from pH 6,2
+Hoeflea prorocentri,6.0,measured,no_bacdive_record,,0
+Neptunicoccus sediminis,6.0,measured,range_only,growth range from pH 6,2
+Camelliibacillus cellulosilyticus,6.0,measured,range_only,growth range from pH 6,2
+Mangrovicoccus ximenensis,6.0,measured,range_only,growth range from pH 6,2
+Bacillus antri,6.0,measured,no_bacdive_record,,0
+Paenibacillus shunpengii,6.0,measured,no_bacdive_record,,0
+Paracoccus jeotgali,6.0,measured,no_bacdive_record,,0
+Winogradskyella ouciana,6.0,measured,no_bacdive_record,,0
+Lysobacter penaei,5.0,measured,no_bacdive_record,,0
+Paracoccus amoyensis,5.0,measured,no_bacdive_record,,0
+Clostridium fermenticellae,4.5,measured,no_bacdive_record,,0
+Alteromonas alba,5.5,measured,no_bacdive_record,,0
+Cupriavidus lacunae,5.0,measured,no_bacdive_record,,0
+Halalkalicoccus subterraneus,6.0,measured,no_bacdive_record,,0
+Ottowia flava,6.0,measured,no_bacdive_record,,0
+Sphingomonas deserti,6.0,measured,no_bacdive_record,,0
+Zavarzinia aquatilis,6.0,measured,range_only,growth range from pH 6,2
+Paraburkholderia lacunae,5.0,measured,no_bacdive_record,,0
+Flavobacterium tibetense,6.0,measured,no_bacdive_record,,0
+Hymenobacter crusticola,6.0,measured,no_bacdive_record,,0
+Idiomarina mangrovi,6.0,measured,range_only,growth range from pH 6,2
+Vallitalea okinawensis,6.0,measured,range_only,growth range from pH 6,2
+Alcanivorax profundi,6.0,measured,no_bacdive_record,,0
+Phyllobacterium phragmitis,5.0,measured,no_bacdive_record,,0
+Marinobacter profundi,5.0,measured,no_bacdive_record,,0
+Trichococcus shcherbakoviae,6.0,measured,no_bacdive_record,,0
+Neobacillus endophyticus,6.0,measured,no_bacdive_record,,0
+Pleionea sediminis,5.0,measured,range_only,growth range from pH 5,2
+Rheinheimera riviphila,6.0,measured,no_bacdive_record,,0
+Cohnella abietis,6.0,measured,no_bacdive_record,,0
+Corallincola luteus,6.0,measured,no_bacdive_record,,0
+Serratia microhaemolytica,6.0,measured,no_bacdive_record,,0
+Flavobacterium humi,6.0,measured,no_bacdive_record,,0
+Pedobacter chinensis,6.0,measured,no_bacdive_record,,0
+Thauera lacus,4.0,measured,no_bacdive_record,,0
+Aquabacter cavernae,5.0,measured,range_only,growth range from pH 5,2
+Sulfurovum indicum,5.0,measured,no_bacdive_record,,0
+Flavivirga rizhaonensis,5.5,measured,no_bacdive_record,,0
+Lysinibacillus capsici,5.0,measured,no_bacdive_record,,0
+Rhizobium album,5.0,measured,no_bacdive_record,,0
+Gramella fulva,6.0,measured,no_bacdive_record,,0
+Erythrobacter zhengii,5.5,measured,no_bacdive_record,,0
+Marinobacterium aestuarii,5.0,measured,range_only,growth range from pH 5,2
+Melaminivora jejuensis,6.0,measured,verified_measured,no growth recorded at pH 5,4
+Nocardioides pelophilus,6.0,measured,no_bacdive_record,,0
+Planctobacterium marinum,5.0,measured,range_only,growth range from pH 5,2
+Microbaculum marinum,5.0,measured,range_only,growth range from pH 5,2
+Arsenicibacter rosenii,6.0,measured,no_bacdive_record,,0
+Mongoliimonas terrestris,6.0,measured,range_only,growth range from pH 6,2
+Euzebyella marina,5.0,measured,range_only,growth range from pH 5,2
+Croceivirga radicis,6.0,measured,range_only,growth range from pH 6,2
+Ruficoccus amylovorans,6.0,measured,range_only,growth range from pH 6,1
+Psychromarinibacter halotolerans,6.0,measured,no_bacdive_record,,0
+Caldovatus sediminis,6.0,measured,range_only,growth range from pH 6,2
+Saliphagus infecundisoli,6.0,measured,range_only,growth range from pH 6,2
+Rubricella aquisinus,6.0,measured,no_bacdive_record,,0
+Desulfocucumis palustris,5.8,measured,range_only,growth range from pH 5.8,2
+Notoacmeibacter marinus,6.0,measured,range_only,growth range from pH 6,2
+Pontibacterium granulatum,6.0,measured,range_only,growth range from pH 6,2
+Mangrovitalea sediminis,5.0,measured,verified_measured,no growth recorded at pH 5,3
+Oryzomicrobium terrae,5.0,measured,range_only,growth range from pH 5,2
+Phaeobacter piscinae,6.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 6,2
+Chitinophaga sedimenti,6.0,measured,range_only,growth range from pH 6,2
+Marinobacter halotolerans,6.0,measured,range_only,growth range from pH 6,2
+Oleiagrimonas citrea,4.0,measured,range_only,growth range from pH 4,2
+Echinicola strongylocentroti,6.0,measured,range_only,growth range from pH 6,2
+Algoriphagus iocasae,6.0,measured,range_only,growth range from pH 6,2
+Paracoccus hibiscisoli,5.0,measured,range_only,growth range from pH 5,2
+Winogradskyella aurantia,6.0,measured,no_bacdive_record,,0
+Bacillus praedii,5.0,measured,no_bacdive_record,,0
+Nocardioides thalensis,5.5,measured,no_bacdive_record,,0
+Algoriphagus aestuariicola,6.0,measured,range_only,growth range from pH 6,2
+Parahaliea aestuarii,5.5,measured,range_only,growth range from pH 5.5,2
+Desulfovibrio senegalensis,5.5,measured,no_bacdive_record,,0
+Bacillus capparidis,6.0,measured,no_bacdive_record,,0
+Lebetimonas natsushimae,5.5,measured,no_bacdive_record,,0
+Proteiniphilum acetatigenes,6.0,measured,range_only,growth range from pH 6,2
+Mucilaginibacter ginsenosidivorans,5.5,measured,no_bacdive_record,,0
+Cohnella algarum,5.0,measured,range_only,growth range from pH 5,2
+Flavobacterium quisquiliarum,5.0,measured,no_bacdive_record,,0
+Kiloniella antarctica,5.5,measured,range_only,growth range from pH 5.5,2
+Spirosoma luteolum,5.0,measured,no_bacdive_record,,0
+Flavobacterium sediminis,5.0,measured,no_bacdive_record,,0
+Flavobacterium alvei,5.0,measured,no_bacdive_record,,0
+Paenibacillus xerothermodurans,6.0,measured,range_only,growth range from pH 6,2
+Chryseobacterium aurantiacum,5.0,measured,no_bacdive_record,,0
+Bacillus shivajii,6.0,measured,no_bacdive_record,,0
+Actinorectispora metalli,6.0,measured,range_only,growth range from pH 6,2
+Ruegeria kandeliae,5.0,measured,no_bacdive_record,,0
+Flavobacterium commune,6.0,measured,no_bacdive_record,,0
+Salibacterium lacus,5.5,measured,range_only,growth range from pH 5.5,2
+Litorimonas haliclonae,4.5,measured,verified_measured,no growth recorded at pH 4,4
+Sphingomonas rhizophila,5.0,measured,no_bacdive_record,,0
+Actinotalea solisilvae,6.0,measured,range_only,growth range from pH 6,2
+Acinetobacter piscicola,5.0,measured,no_bacdive_record,,0
+Halorubrum aethiopicum,6.0,measured,range_only,growth range from pH 6,2
+Arenibacter catalasegens,6.0,measured,range_only,growth range from pH 6,2
+Novosphingobium arvoryzae,5.0,measured,range_only,growth range from pH 5,2
+Flexivirga oryzae,5.0,measured,range_only,growth range from pH 5,2
+Bhargavaea changchunensis,6.0,measured,no_bacdive_record,,0
+Gemmobacter straminiformis,5.5,measured,range_only,growth range from pH 5.5,2
+Achromobacter aloeverae,6.0,measured,range_only,growth range from pH 6,2
+Arthrobacter silviterrae,5.0,measured,no_bacdive_record,,0
+Polycladomyces subterraneus,6.0,measured,record_without_growth_ph,,1
+Paenibacillus albidus,6.0,measured,no_bacdive_record,,0
+Oryzihumus soli,5.0,measured,range_only,growth range from pH 5,2
+Desulfurobacterium indicum,5.0,measured,range_only,growth range from pH 5,2
+Prauserella oleivorans,6.0,measured,range_only,growth range from pH 6,2
+Marmoricola endophyticus,6.0,measured,range_only,growth range from pH 6,2
+Flavobacterium keumense,6.0,measured,no_bacdive_record,,0
+Flavobacterium ardleyense,6.0,measured,no_bacdive_record,,0
+Maribacter cobaltidurans,5.5,measured,range_only,growth range from pH 5.5,2
+Aliifodinibius salicampi,6.0,measured,no_bacdive_record,,0
+Reyranella aquatilis,6.0,measured,range_only,growth range from pH 6,1
+Psychrobacillus lasiicapitis,6.0,measured,verified_measured,no growth recorded at pH 6,2
+Winogradskyella haliclonae,5.5,measured,range_only,growth range from pH 5.5,2
+Marivivens niveibacter,6.0,measured,range_only,growth range from pH 6,2
+Thalassotalea mangrovi,6.0,measured,range_disagrees,BacDive lowest growth pH 3 vs stored 6,2
+Delftia deserti,6.0,measured,no_bacdive_record,,0
+Kushneria pakistanensis,6.0,measured,no_bacdive_record,,0
+Luteimonas lutimaris,5.5,measured,no_bacdive_record,,0
+Pusillimonas harenae,5.0,measured,range_only,growth range from pH 5,2
+Citreicella aestuarii,5.0,measured,no_bacdive_record,,0
+Halorubrum aquaticum,6.0,measured,no_bacdive_record,,0
+Vibrio stylophorae,6.0,measured,no_bacdive_record,,0
+Spirochaeta perfilievii,6.0,measured,no_bacdive_record,,0
+Pseudoxanthomonas jiangsuensis,5.0,measured,no_bacdive_record,,0
+Salimicrobium salexigens,5.0,measured,no_bacdive_record,,0
+Henriciella litoralis,6.0,measured,range_only,growth range from pH 6,2
+Halomonas vilamensis,5.0,measured,range_only,growth range from pH 5,2
+Phycicoccus cremeus,4.1,measured,no_bacdive_record,,0
+Bacillus nanhaiensis,6.0,measured,no_bacdive_record,,0
+Salinarchaeum laminariae,5.5,measured,no_bacdive_record,,0
+Salarchaeum japonicum,5.0,measured,no_bacdive_record,,0
+Bacillus xiaoxiensis,6.0,measured,no_bacdive_record,,0
+Altererythrobacter dongtanensis,6.0,measured,no_bacdive_record,,0
+Kushneria sinocarnis,4.5,measured,range_only,growth range from pH 4.5,2
+Bacillus oceanisediminis,6.0,measured,no_bacdive_record,,0
+Haladaptatus litoreus,6.0,measured,range_only,growth range from pH 6,2
+Psychroflexus lacisalsi,6.0,measured,no_bacdive_record,,0
+Flavobacterium caeni,5.5,measured,no_bacdive_record,,0
+Halomonas xinjiangensis,6.0,measured,no_bacdive_record,,0
+Gracilibacillus thailandensis,6.0,measured,range_only,growth range from pH 6,2
+Niastella populi,5.0,measured,range_only,growth range from pH 5,2
+Thermus arciformis,6.0,measured,range_only,growth range from pH 6,2
+Thermodesulfatator atlanticus,5.5,measured,range_only,growth range from pH 5.5,2
+Salsuginibacillus halophilus,5.0,measured,range_only,growth range from pH 5,2
+Halogranum rubrum,6.0,measured,range_only,growth range from pH 6,2
+Hwanghaeicola aestuarii,6.0,measured,no_bacdive_record,,0
+Methanocella arvoryzae,6.0,measured,range_only,growth range from pH 6,2
+Geomicrobium halophilum,6.0,measured,range_only,growth range from pH 6,2
+Salinisphaera dokdonensis,5.2,measured,range_only,growth range from pH 5.2,2
+Nocardiopsis terrae,6.0,measured,no_bacdive_record,,0
+Phytomonospora endophytica,6.0,measured,no_bacdive_record,,0
+Sphingomonas changbaiensis,5.0,measured,range_only,growth range from pH 5,2
+Halolamina pelagica,5.5,measured,no_bacdive_record,,0
+Litorimonas taeanensis,6.0,measured,no_bacdive_record,,0
+Kordiimonas aestuarii,5.0,measured,range_only,growth range from pH 5,2
+Sphingobium jiangsuense,5.5,measured,range_only,growth range from pH 5.5,2
+Deinococcus reticulitermitis,6.0,measured,range_only,growth range from pH 6,2
+Actinomyces naturae,4.5,measured,no_bacdive_record,,0
+Halanaerobacter jeridensis,5.5,measured,range_only,growth range from pH 5.5,2
+Telmatocola sphagniphila,4.0,measured,no_bacdive_record,,0
+Alishewanella tabrizica,6.0,measured,range_only,growth range from pH 6,2
+Halomonas beimenensis,5.5,measured,no_bacdive_record,,0
+Lihuaxuella thermophila,6.0,measured,no_bacdive_record,,0
+Thermotomaculum hydrothermale,5.5,measured,no_bacdive_record,,0
+Anaerosalibacter bizertensis,6.0,measured,range_only,growth range from pH 6,2
+Brassicibacter mesophilus,6.0,measured,range_only,growth range from pH 6,2
+Marininema mesophilum,5.0,measured,range_only,growth range from pH 5,2
+Macellibacteroides fermentans,5.0,measured,range_only,growth range from pH 5,2
+Galenea microaerophila,4.5,measured,range_only,growth range from pH 4.5,2
+Pedobacter boryungensis,6.0,measured,record_without_growth_ph,,1
+Burkholderia symbiotica,4.0,measured,no_bacdive_record,,0
+Sphingomonas endophytica,6.0,measured,record_without_growth_ph,,1
+Thalassobacillus pellis,5.0,measured,range_only,growth range from pH 5,2
+Myceligenerans halotolerans,6.0,measured,no_bacdive_record,,0
+Methanosarcina horonobensis,6.0,measured,no_bacdive_record,,0
+Pyrococcus yayanosii,6.0,measured,no_bacdive_record,,0
+Paracoccus stylophorae,6.0,measured,no_bacdive_record,,0
+Olivibacter oleidegradans,6.0,measured,no_bacdive_record,,0
+Acinetobacter oleivorans,6.0,measured,no_bacdive_record,,0
+Halomonas rifensis,5.0,measured,no_bacdive_record,,0
+Lysobacter ruishenii,6.0,measured,range_only,growth range from pH 6,2
+Desulfovibrio piezophilus,5.4,measured,no_bacdive_record,,0
+Hydrocarboniphaga daqingensis,5.5,measured,range_only,growth range from pH 5.5,2
+Paenibacillus xylaniclasticus,6.0,measured,no_bacdive_record,,0
+Fusibacter tunisiensis,5.8,measured,range_only,growth range from pH 5.8,2
+Sphingobacterium wenxiniae,5.0,measured,range_only,growth range from pH 5,2
+Halomonas xianhensis,5.5,measured,no_bacdive_record,,0
+Rhabdothermus arcticus,6.0,measured,no_bacdive_record,,0
+Marinobacterium lutimaris,6.0,measured,range_only,growth range from pH 6,2
+Yaniella soli,6.0,measured,no_bacdive_record,,0
+Sporolactobacillus putidus,3.5,measured,range_disagrees,BacDive lowest growth pH 4.5 vs stored 3.5,2
+Flavobacterium filum,6.0,measured,range_only,growth range from pH 6,2
+Halomonas avicenniae,5.0,measured,no_bacdive_record,,0
+Aquisalimonas asiatica,6.0,measured,range_only,growth range from pH 6,2
+Bacillus chagannorensis,5.8,measured,no_bacdive_record,,0
+Desulfothermus okinawensis,5.4,measured,range_only,growth range from pH 5.4,2
+Halalkalibacillus halophilus,5.5,measured,range_only,growth range from pH 5.5,2
+Brevundimonas aveniformis,6.0,measured,range_only,growth range from pH 6,2
+Geosporobacter subterraneus,5.6,measured,range_only,growth range from pH 5.6,2
+Marinobacterium rhizophilum,6.0,measured,range_only,growth range from pH 6,2
+Devosia geojensis,6.0,measured,range_disagrees,BacDive lowest growth pH 7.5 vs stored 6,2
+Halomonas sabkhae,6.0,measured,range_only,growth range from pH 6,2
+Hydrogenivirga okinawensis,5.8,measured,range_only,growth range from pH 5.8,2
+Flavobacterium resistens,6.0,measured,range_only,growth range from pH 6,2
+Nocardioides hankookensis,6.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 6,2
+Burkholderia soli,6.0,measured,no_bacdive_record,,0
+Methylocystis heyeri,4.4,measured,range_only,growth range from pH 4.4,2
+Methylotenera mobilis,5.0,measured,no_bacdive_record,,0
+Sulfurivirga caldicuralii,5.5,measured,range_only,growth range from pH 5.5,2
+Thiobacter subterraneus,5.2,measured,no_bacdive_record,,0
+Silanimonas lenta,6.0,measured,no_bacdive_record,,0
+Thioreductor micantisoli,5.0,measured,range_only,growth range from pH 5,2
+Sulfurihydrogenibium yellowstonense,6.0,measured,no_bacdive_record,,0
+Caminibacter mediatlanticus,4.5,measured,range_only,growth range from pH 4.5,2
+Psychroserpens mesophilus,6.0,measured,range_only,growth range from pH 6,2
+Paracoccus homiensis,5.0,measured,no_bacdive_record,,0
+Flavobacterium croceum,5.0,measured,no_bacdive_record,,0
+Shewanella spongiae,5.0,measured,no_bacdive_record,,0
+Bacillus macauensis,6.0,measured,no_bacdive_record,,0
+Thermaerobacter litoralis,5.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 5,2
+Stenotrophomonas dokdonensis,6.0,measured,no_bacdive_record,,0
+Clostridium lundense,5.0,measured,no_bacdive_record,,0
+Gracilibacillus orientalis,5.0,measured,range_only,growth range from pH 5,2
+Trichococcus patagoniensis,6.0,measured,no_bacdive_record,,0
+Nocardioides salarius,6.0,measured,range_only,growth range from pH 5.5,4
+Salinimicrobium terrae,6.0,measured,range_only,growth range from pH 6,2
+Roseomonas aerilata,5.0,measured,no_bacdive_record,,0
+Exilispira thermophila,6.0,measured,range_only,growth range from pH 6,2
+Salinicoccus albus,6.0,measured,range_only,growth range from pH 6,2
+Marinococcus luteus,6.0,measured,range_only,growth range from pH 6,2
+Clostridium tagluense,6.0,measured,no_bacdive_record,,0
+Desulfocurvus vexinensis,5.0,measured,range_only,growth range from pH 5,2
+Zoogloea caeni,6.0,measured,range_disagrees,BacDive lowest growth pH 6.5 vs stored 6,2
+Planobacterium taklimakanense,6.0,measured,no_bacdive_record,,0
+Salinisphaera hydrothermalis,5.0,measured,range_only,growth range from pH 5,2
+Paracoccus saliphilus,6.0,measured,range_only,growth range from pH 6,2
+Paracoccus chinensis,6.0,measured,range_only,growth range from pH 6,2
+Tepidimicrobium xylanilyticum,5.8,measured,range_only,growth range from pH 5.8,2
+Desulfovibrio tunisiensis,4.5,measured,no_bacdive_record,,0
+Lysobacter oryzae,5.5,measured,range_only,growth range from pH 5.5,2
+Anoxybacillus thermarum,6.0,measured,no_bacdive_record,,0
+Gracilibacillus saliphilus,6.0,measured,range_only,growth range from pH 6,2
+Nautilia abyssi,5.0,measured,range_only,growth range from pH 5,2
+Flavobacterium sasangense,6.0,measured,range_only,growth range from pH 6,2
+Methylomonas koyamae,5.5,measured,range_only,growth range from pH 5.5,2
+Psychroflexus sediminis,6.0,measured,range_only,growth range from pH 6,2
+Virgibacillus sediminis,6.0,measured,range_only,growth range from pH 6,3
+Amphritea atlantica,4.6,measured,range_only,growth range from pH 4.6,2
+Rudanella lutea,6.0,measured,range_only,growth range from pH 6,2
+Caenimonas koreensis,6.0,measured,range_disagrees,BacDive lowest growth pH 7 vs stored 6,2
+Paracoccus halophilus,5.0,measured,range_only,growth range from pH 5,2
+Gracilibacillus lacisalsi,5.5,measured,range_only,growth range from pH 5.5,2
+Ammonifex thiophilus,6.0,measured,range_only,growth range from pH 6,2
+Selenomonas bovis,4.2,measured,range_only,growth range from pH 4.2,2
+Nocardioides terrae,5.5,measured,range_only,growth range from pH 5.5,2
+Pedobacter oryzae,6.0,measured,no_bacdive_record,,0
+Halomonas zhanjiangensis,6.0,measured,range_only,growth range from pH 6,2
+Mucilaginibacter oryzae,5.0,measured,range_only,growth range from pH 5,2
+Saccharospirillum salsuginis,6.0,measured,curator_minimum,BacDive minimum pH 6,5
+Adhaeribacter terreus,6.0,measured,range_only,growth range from pH 6,2
+Pigmentiphaga litoralis,5.0,measured,range_only,growth range from pH 5,2
+Marinobacter zhanjiangensis,6.0,measured,no_bacdive_record,,0
+Dyella marensis,5.1,measured,range_only,growth range from pH 5.1,2
+Arthrobacter endophyticus,5.0,measured,no_bacdive_record,,0
+Rhizobium halophytocola,6.0,measured,no_bacdive_record,,0
+Pedobacter jeongneungensis,5.0,measured,no_bacdive_record,,0
+Roseomonas rhizosphaerae,5.0,measured,no_bacdive_record,,0
+Halomonas olivaria,5.0,measured,no_bacdive_record,,0
+Cellulomonas pakistanensis,6.0,measured,no_bacdive_record,,0
+Comamonas faecalis,5.0,measured,no_bacdive_record,,0
+Sphingomonas oligoaromativorans,6.0,measured,no_bacdive_record,,0
+Novosphingobium aquiterrae,6.0,measured,no_bacdive_record,,0
+Halomonas huangheensis,5.0,measured,no_bacdive_record,,0
+Streptomyces panaciradicis,6.0,measured,no_bacdive_record,,0
+Wenyingzhuangia marina,5.5,measured,no_bacdive_record,,0
+Draconibacterium orientale,5.5,measured,no_bacdive_record,,0
+Marinomonas fungiae,5.5,measured,no_bacdive_record,,0
+Larsenia salina,4.0,measured,no_bacdive_record,,0
+Phaeodactylibacter xiamenensis,5.0,measured,no_bacdive_record,,0
+Mizugakiibacter sediminis,5.0,measured,no_bacdive_record,,0
+Pelolinea submarina,5.5,measured,no_bacdive_record,,0
+Paludibacterium paludis,5.0,measured,no_bacdive_record,,0
+Defluviimonas indica,5.0,measured,no_bacdive_record,,0
+Oryzihumus terrae,5.0,measured,no_bacdive_record,,0
+Salimicrobium jeotgali,6.0,measured,no_bacdive_record,,0
+Undibacterium squillarum,5.0,measured,no_bacdive_record,,0
+Pseudomonas sihuiensis,5.0,measured,no_bacdive_record,,0
+Plasticicumulans lactativorans,6.0,measured,range_only,growth range from pH 6,2
+Paracoccus pacificus,6.0,measured,no_bacdive_record,,0
+Labrenzia suaedae,5.0,measured,no_bacdive_record,,0
+Meiothermus terrae,6.0,measured,no_bacdive_record,,0
+Arthrobacter gyeryongensis,4.0,measured,no_bacdive_record,,0
+Roseivivax marinus,6.0,measured,no_bacdive_record,,0
+Cyclobacterium xiamenense,6.0,measured,no_bacdive_record,,0
+Halomonas qiaohouensis,6.0,measured,no_bacdive_record,,0
+Flavihumibacter solisilvae,5.5,measured,no_bacdive_record,,0
+Ramlibacter solisilvae,5.0,measured,no_bacdive_record,,0
+Undibacterium macrobrachii,6.0,measured,no_bacdive_record,,0
+Idiomarina planktonica,6.0,measured,no_bacdive_record,,0
+Ferriphaselus amnicola,5.6,measured,no_bacdive_record,,0
+Epilithonimonas xixisoli,6.0,measured,no_bacdive_record,,0
+Amphiplicatus metriothermophilus,6.0,measured,no_bacdive_record,,0
+Salinithrix halophila,6.0,measured,no_bacdive_record,,0
+Fusibacter bizertensis,5.5,measured,no_bacdive_record,,0
+Maribacter flavus,6.0,measured,no_bacdive_record,,0
+Kiloniella litopenaei,6.0,measured,no_bacdive_record,,0
+Alteromonas naphthalenivorans,6.0,measured,no_bacdive_record,,0
+Zoogloea oleivorans,6.0,measured,no_bacdive_record,,0
+Tumebacillus algifaecis,5.0,measured,no_bacdive_record,,0
+Aliiglaciecola aliphaticivorans,5.5,measured,no_bacdive_record,,0
+Halomonas heilongjiangensis,5.0,measured,no_bacdive_record,,0
+Idiomarina atlantica,6.0,measured,no_bacdive_record,,0
+Tahibacter caeni,4.0,measured,no_bacdive_record,,0
+Gryllotalpicola reticulitermitis,4.0,measured,no_bacdive_record,,0
+Caldicellulosiruptor changbaiensis,5.6,measured,no_bacdive_record,,0
+Flavobacterium palustre,6.0,measured,no_bacdive_record,,0
+Kiloniella spongiae,6.0,measured,no_bacdive_record,,0
+Pullulanibacillus pueri,4.0,measured,no_bacdive_record,,0
+Pseudomaricurvus alcaniphilus,6.0,measured,no_bacdive_record,,0
+Alcanivorax gelatiniphagus,6.0,measured,no_bacdive_record,,0
+Winogradskyella eckloniae,6.0,measured,no_bacdive_record,,0
+Halomonas songnenensis,5.0,measured,no_bacdive_record,,0
+Rivicola pingtungensis,6.0,measured,no_bacdive_record,,0
+Hydrogenispora ethanolica,5.0,measured,no_bacdive_record,,0
+Vallitalea pronyensis,5.8,measured,no_bacdive_record,,0
+Solimonas terrae,5.0,measured,no_bacdive_record,,0
+Halomonas shantousis,4.0,measured,no_bacdive_record,,0
+Spirosoma oryzae,5.0,measured,no_bacdive_record,,0
+Domibacillus indicus,6.0,measured,no_bacdive_record,,0
+Asticcacaulis endophyticus,6.0,measured,no_bacdive_record,,0
+Bacillus mesonae,5.7,measured,no_bacdive_record,,0
+Methanospirillum stamsii,6.0,measured,range_only,growth range from pH 6,2
+Bacillus cihuensis,5.7,measured,no_bacdive_record,,0
+Diaphorobacter aerolatus,5.0,measured,no_bacdive_record,,0
+Alcanivorax xenomutans,4.0,measured,no_bacdive_record,,0
+Tenacibaculum holothuriorum,6.0,measured,no_bacdive_record,,0
+Sulfurovum aggregans,5.4,measured,no_bacdive_record,,0
+Altererythrobacter oceanensis,6.0,measured,no_bacdive_record,,0
+Sphingobacterium paludis,5.0,measured,no_bacdive_record,,0
+Virgibacillus natechei,6.0,measured,no_bacdive_record,,0
+Arenibacter hampyeongensis,6.0,measured,range_only,growth range from pH 6,2
+Pseudorhodoferax aquiterrae,6.0,measured,range_only,growth range from pH 6,2
+Flavobacterium noncentrifugens,6.0,measured,no_bacdive_record,,0
+Chryseobacterium taihuense,5.0,measured,range_only,growth range from pH 5,2
+Altererythrobacter gangjinensis,6.0,measured,no_bacdive_record,,0
+Kordiimonas aquimaris,5.0,measured,range_only,growth range from pH 5,2
+Methylopila musalis,5.5,measured,range_only,growth range from pH 5.5,2
+Alcanivorax marinus,6.0,measured,range_only,growth range from pH 6,2
+Azospirillum humicireducens,5.5,measured,range_only,growth range from pH 5.5,2
+Pseudomonas oryzae,5.5,measured,no_bacdive_record,,0
+Paenibacillus taihuensis,5.0,measured,no_bacdive_record,,0
+Allokutzneria multivorans,6.0,measured,range_only,growth range from pH 6,2
+Desulfocurvus thunnarius,5.0,measured,range_only,growth range from pH 5,2
+Halomonas cibimaris,5.5,measured,no_bacdive_record,,0
+Arcicella rigui,6.0,measured,range_only,growth range from pH 6,2
+Thauera humireducens,6.0,measured,range_only,growth range from pH 6,2
+Halomonas zhaodongensis,6.0,measured,no_bacdive_record,,0
+Marinoscillum luteum,5.5,measured,range_only,growth range from pH 5.5,2
+Vogesella fluminis,6.0,measured,range_only,growth range from pH 6,2
+Halopiger salifodinae,6.0,measured,range_only,growth range from pH 6,2
+Gramella aestuarii,5.5,measured,range_only,growth range from pH 5.5,2
+Undibacterium terreum,5.0,measured,no_bacdive_record,,0
+Bacillus thermocopriae,6.0,measured,range_only,growth range from pH 6,2
+Brevibacterium jeotgali,6.0,measured,range_only,growth range from pH 6,2
+Martelella endophytica,5.0,measured,range_only,growth range from pH 5,2
+Gemmobacter lanyuensis,6.0,measured,range_only,growth range from pH 6,2
+Burkholderia diazotrophica,4.0,measured,no_bacdive_record,,0
+Shewanella aestuarii,5.0,measured,range_only,growth range from pH 5,2
+Geomicrobium sediminis,6.0,measured,no_bacdive_record,,0
+Halalkalicoccus paucihalophilus,6.0,measured,no_bacdive_record,,0
+Thermus tengchongensis,6.0,measured,no_bacdive_record,,0
+Derxia lacustris,6.0,measured,range_only,growth range from pH 6,2
+Anoxybacillus vitaminiphilus,6.0,measured,no_bacdive_record,,0
+Parapedobacter pyrenivorans,6.0,measured,range_only,growth range from pH 6,2
+Methanothermobacter tenebrarum,5.8,measured,range_only,growth range from pH 5.8,2
+Aestuariibaculum suncheonense,6.0,measured,range_only,growth range from pH 6,2
+Mucilaginibacter gynuensis,5.0,measured,range_only,growth range from pH 5,2
+Flavobacterium marinum,5.5,measured,no_bacdive_record,,0
+Sphingobacterium thermophilum,5.9,measured,range_only,growth range from pH 5.9,4
+Paracoccus zhejiangensis,6.0,measured,no_bacdive_record,,0
+Desulfosporosinus burensis,6.0,measured,range_only,growth range from pH 6,2
+Methanoculleus horonobensis,5.8,measured,range_only,growth range from pH 5.8,2
+Gordonia alkaliphila,6.0,measured,no_bacdive_record,,0
+Microbacterium saccharophilum,6.0,measured,no_bacdive_record,,0
+Nocardioides soli,6.0,measured,no_bacdive_record,,0
+Haladaptatus pallidirubidus,6.0,measured,no_bacdive_record,,0
+Bizionia psychrotolerans,6.0,measured,no_bacdive_record,,0
+Haloarchaeobius litoreus,5.5,measured,no_bacdive_record,,0
+Mycobacterium hippocampi,5.0,measured,no_bacdive_record,,0
+Brachybacterium ginsengisoli,5.0,measured,no_bacdive_record,,0
+Aquamicrobium terrae,6.0,measured,no_bacdive_record,,0
+Brevibacterium ammoniilyticum,6.0,measured,range_only,growth range from pH 6,2
+Virgibacillus albus,4.0,measured,no_bacdive_record,,0
+Lactobacillus kimchiensis,5.0,measured,no_bacdive_record,,0
+Ornithinimicrobium tianjinense,5.5,measured,range_only,growth range from pH 5.5,2
+Limimonas halophila,6.0,measured,range_only,growth range from pH 6,2
+Desulfotomaculum peckii,5.9,measured,no_bacdive_record,,0
+Euryhalocaulis caribicus,5.0,measured,no_bacdive_record,,0
+Sinorhodobacter ferrireducens,6.0,measured,no_bacdive_record,,0
+Halomicroarcula pellucida,6.0,measured,range_only,growth range from pH 6,2
+Lacibacterium aquatile,6.0,measured,range_only,growth range from pH 6,2
+Extensimonas vulgaris,5.5,measured,range_only,growth range from pH 5.5,2
+Chryseolinea serpens,5.6,measured,range_only,growth range from pH 5.6,1
+Vallitalea guaymasensis,6.0,measured,range_only,growth range from pH 6,2
+Niabella terrae,5.0,measured,no_bacdive_record,,0
+Tabrizicola aquatica,6.0,measured,curator_minimum,BacDive minimum pH 6,3
+Tumebacillus flagellatus,4.5,measured,range_only,growth range from pH 4.5,2
+Rhizobium halotolerans,6.0,measured,no_bacdive_record,,0
+Aequorivita viscosa,6.0,measured,range_only,growth range from pH 6,2
+Caldicoprobacter guelmensis,5.0,measured,range_only,growth range from pH 5,2
+Idiomarina indica,6.0,measured,range_only,growth range from pH 6,2
+Tabrizicola alkalilacus,6.0,measured,range_only,growth range from pH 6,2
+Parapedobacter defluvii,5.5,measured,range_only,growth range from pH 5.5,2
+Aureibaculum marinum,6.0,measured,no_bacdive_record,,0
+Alteriqipengyuania flavescens,6.0,measured,no_bacdive_record,,0
+Spirosoma oryzicola,6.0,measured,no_bacdive_record,,0
+Cytobacillus spongiae,5.5,measured,no_bacdive_record,,0
+Akkermansia biwaensis,5.5,measured,no_bacdive_record,,0
+Selenomonas caprae,6.0,measured,no_bacdive_record,,0
+Sinomonas terrae,5.5,measured,no_bacdive_record,,0
+Gracilimonas sediminicola,6.0,measured,no_bacdive_record,,0
+Roseomonas populi,4.0,measured,no_bacdive_record,,0
+Neorhizobium turbinariae,5.0,measured,no_bacdive_record,,0
+Pseudomonas benzopyrenica,6.0,measured,no_bacdive_record,,0
+Hydrogenimonas cancrithermarum,5.3,measured,no_bacdive_record,,0
+Desulfovibrio mangrovi,6.0,measured,no_bacdive_record,,0
+Pontibacterium sinense,6.0,measured,no_bacdive_record,,0
+Defluviimonas sediminis,5.0,measured,no_bacdive_record,,0
+Methylococcus mesophilus,5.0,measured,no_bacdive_record,,0
+Pseudomonas hormoni,5.0,measured,no_bacdive_record,,0
+Ochrobactrum chromiisoli,5.0,measured,no_bacdive_record,,0
+Cytobacillus citreus,6.0,measured,no_bacdive_record,,0
+Kaistella yananensis,6.0,measured,no_bacdive_record,,0
+Thermocaproicibacter melissae,5.0,measured,no_bacdive_record,,0
+Paenimyroides aestuarii,6.0,measured,no_bacdive_record,,0
+Flavimaribacter sediminis,6.0,measured,no_bacdive_record,,0
+Danxiaibacter flavus,6.0,measured,no_bacdive_record,,0
+Gaoshiqia sediminis,6.0,measured,no_bacdive_record,,0
+Mariluticola halotolerans,5.5,measured,no_bacdive_record,,0
+Cerina litoralis,6.0,measured,no_bacdive_record,,0
+Massilia agrisoli,6.0,measured,no_bacdive_record,,0
+Shiella aurantiaca,6.0,measured,no_bacdive_record,,0
+Aquibacillus rhizosphaerae,6.0,measured,no_bacdive_record,,0
+Abyssibius alkaniclasticus,6.0,measured,no_bacdive_record,,0
+Aerococcus agrisoli,6.0,measured,no_bacdive_record,,0
+Lysinibacillus irui,6.0,measured,no_bacdive_record,,0
+Fluviispira vulneris,6.0,measured,no_bacdive_record,,0
+Pseudophaeobacter profundi,6.0,measured,no_bacdive_record,,0
+Pyrofollis japonicus,4.9,measured,no_bacdive_record,,0
+Tepidibacter hydrothermalis,5.5,measured,no_bacdive_record,,0
+Nesterenkonia marinintestina,4.5,measured,no_bacdive_record,,0
+Fictibacillus fluitans,5.0,measured,no_bacdive_record,,0
+Rhodoligotrophos defluvii,4.0,measured,range_only,growth range from pH 4,2
+Nocardioides imazamoxiresistens,5.0,measured,no_bacdive_record,,0
+Phocaeicola acetigenes,6.0,measured,no_bacdive_record,,0
+Paenibacillus baimaensis,6.0,measured,no_bacdive_record,,0
+Oerskovia flava,3.0,measured,no_bacdive_record,,0
+Microbulbifer litoralis,6.0,measured,no_bacdive_record,,0
+Peptostreptococcus equinus,6.0,measured,no_bacdive_record,,0
+Polycladomyces zharkentensis,5.5,measured,no_bacdive_record,,0
+Marinobacter albus,5.5,measured,no_bacdive_record,,0
+Paenibacillus lacisoli,5.0,measured,no_bacdive_record,,0
+Pengzhenrongella phosphoraccumulans,6.0,measured,no_bacdive_record,,0
+Microbulbifer magnicolonia,5.5,measured,no_bacdive_record,,0
+Sanguibacter biliveldensis,5.5,measured,no_bacdive_record,,0
+Paucibacter sediminis,5.5,measured,no_bacdive_record,,0
+Jatrophihabitans cynanchi,5.0,measured,no_bacdive_record,,0
+Deinococcus rhizophilus,6.0,measured,no_bacdive_record,,0
+Crenobacter oryzisoli,5.0,measured,no_bacdive_record,,0
+Thioclava litoralis,4.0,measured,no_bacdive_record,,0
+Terrihabitans rhizophilus,6.0,measured,no_bacdive_record,,0
+Paenarthrobacter aromaticivorans,4.0,measured,no_bacdive_record,,0
+Photobacterium pectinilyticum,1.0,measured,no_bacdive_record,,0
+Pedobacter deserti,5.0,measured,no_bacdive_record,,0
+Salinibacterium soli,6.0,measured,no_bacdive_record,,0
+Sphingobacterium oryzagri,6.0,measured,no_bacdive_record,,0
+Bacillus multifaciens,5.0,measured,no_bacdive_record,,0
+Aliirhizobium terrae,6.0,measured,no_bacdive_record,,0
+Tessaracoccus lacteus,3.0,measured,no_bacdive_record,,0
+Jeotgalibacillus haloalkalitolerans,6.0,measured,no_bacdive_record,,0
+Pseudohoeflea coraliihabitans,6.0,measured,no_bacdive_record,,0
+Actinotalea lenta,4.0,measured,no_bacdive_record,,0
+Nocardioides jiangxiensis,5.0,measured,no_bacdive_record,,0
+Paenibacillus glufosinatiresistens,4.0,measured,no_bacdive_record,,0
+Methylobacterium nigriterrae,6.0,measured,no_bacdive_record,,0
+Leifsonia stereocauli,6.0,measured,no_bacdive_record,,0
+Sporanaerobium hydrogeniformans,5.0,measured,no_bacdive_record,,0
+Gimibacter soli,6.0,measured,no_bacdive_record,,0
+Pseudodesulfovibrio thermohalotolerans,6.0,measured,no_bacdive_record,,0
+Atopomonas sediminilitoris,6.0,measured,no_bacdive_record,,0
+Rhodococcus antarcticus,6.0,measured,no_bacdive_record,,0
+Falsirhodobacter algicola,6.0,measured,no_bacdive_record,,0
+Tractidigestivibacter montrealensis,6.0,measured,no_bacdive_record,,0
+Rubellimicrobium arenae,6.0,measured,no_bacdive_record,,0
+Brumimicrobium oceani,6.0,measured,no_bacdive_record,,0
+Metabacillus arenae,6.0,measured,no_bacdive_record,,0
+Nocardioides jiangsuensis,6.0,measured,no_bacdive_record,,0
+Roseomonas acroporae,4.0,measured,no_bacdive_record,,0
+Pseudomonas paralcaligenes,6.0,measured,no_bacdive_record,,0
+Streptomyces guryensis,6.0,measured,no_bacdive_record,,0
+Vibrio methylphosphonaticus,6.0,measured,no_bacdive_record,,0
+Caproiciproducens faecalis,6.0,measured,no_bacdive_record,,0
+Cutibacterium equinum,6.0,measured,no_bacdive_record,,0
+Tropicibacter oceani,4.0,measured,no_bacdive_record,,0
+Flavobacterium potami,5.0,measured,no_bacdive_record,,0
+Winogradskyella bathintestinalis,5.5,measured,no_bacdive_record,,0
+Moraxella nasovis,6.0,measured,no_bacdive_record,,0
+Pelagibius marinus,6.0,measured,no_bacdive_record,,0
+Sinomicrobium kalidii,6.0,measured,no_bacdive_record,,0
+Metabacillus rhizolycopersici,4.0,measured,no_bacdive_record,,0
+Nitrosophilus kaiyonis,5.0,measured,no_bacdive_record,,0
+Neobacillus kokaensis,5.5,measured,no_bacdive_record,,0
+Sphingomonas cannabina,5.5,measured,no_bacdive_record,,0
+Spirosoma rhododendri,5.0,measured,no_bacdive_record,,0
+Rhizorhabdus phycosphaerae,5.0,measured,no_bacdive_record,,0
+Hyunsoonleella ulvae,6.0,measured,no_bacdive_record,,0
+Dongia deserti,4.0,measured,no_bacdive_record,,0
+Corynebacterium kalidii,5.0,measured,no_bacdive_record,,0
+Ignatzschineria rhizosphaerae,6.0,measured,no_bacdive_record,,0
+Acinetobacter sedimenti,6.0,measured,no_bacdive_record,,0
+Lysobacter selenitireducens,5.0,measured,no_bacdive_record,,0
+Mangrovimonas aestuarii,6.0,measured,no_bacdive_record,,0
+Tessaracoccus caeni,5.5,measured,no_bacdive_record,,0
+Shimia ponticola,5.0,measured,no_bacdive_record,,0
+Thermomonas paludicola,6.0,measured,no_bacdive_record,,0
+Alcanivorax quisquiliarum,6.0,measured,no_bacdive_record,,0
+Alishewanella maricola,6.0,measured,no_bacdive_record,,0
+Thermococcus argininiproducens,4.5,measured,no_bacdive_record,,0
+Sphingomonas caeni,6.0,measured,no_bacdive_record,,0
+Stakelama marina,5.0,measured,no_bacdive_record,,0
+Phocaeicola oris,3.0,measured,no_bacdive_record,,0
+Paenibacillus jiangxiensis,5.0,measured,no_bacdive_record,,0
+Pseudarthrobacter humi,5.0,measured,no_bacdive_record,,0
+Hoeflea poritis,6.0,measured,no_bacdive_record,,0
+Nesterenkonia aerolata,5.0,measured,no_bacdive_record,,0
+Paraflavisolibacter caeni,6.0,measured,no_bacdive_record,,0
+Aridibaculum aurantiacum,6.0,measured,no_bacdive_record,,0
+Insulambacter thermoxylanivorax,4.0,measured,no_bacdive_record,,0
+Neobacillus terrae,6.0,measured,no_bacdive_record,,0
+Limimaricola litoreus,5.5,measured,no_bacdive_record,,0
+Chitinophaga horti,6.0,measured,no_bacdive_record,,0
+Chitinolyticbacter albus,6.0,measured,no_bacdive_record,,0
+Novosphingobium kaempferiae,6.0,measured,no_bacdive_record,,0
+Larsenimonas rhizosphaerae,4.0,measured,no_bacdive_record,,0
+Flavihumibacter fluminis,6.0,measured,no_bacdive_record,,0
+Telluribacter roseus,6.0,measured,no_bacdive_record,,0
+Salipiger pentaromativorans,4.0,measured,no_bacdive_record,,0
+Zeimonas sediminis,6.0,measured,no_bacdive_record,,0
+Sulfurospirillum oryzae,6.0,measured,no_bacdive_record,,0
+Methylomonas rapida,5.5,measured,no_bacdive_record,,0
+Vibrio sinus,4.0,measured,no_bacdive_record,,0
+Luteimonas galliterrae,6.0,measured,no_bacdive_record,,0
+Pseudomonas nunensis,5.0,measured,no_bacdive_record,,0
+Aestuariibaculum lutulentum,5.5,measured,no_bacdive_record,,0
+Tsuneonella litorea,6.0,measured,no_bacdive_record,,0
+Pseudodesulfovibrio nedwellii,6.0,measured,no_bacdive_record,,0
+Clostridium caldaquaticum,5.0,measured,no_bacdive_record,,0
+Paenibacillus rhizolycopersici,5.0,measured,no_bacdive_record,,0
+Arthrobacter horti,6.0,measured,no_bacdive_record,,0
+Lysinibacillus pinottii,5.0,measured,no_bacdive_record,,0
+Fontisubflavum oceani,5.0,measured,no_bacdive_record,,0
+Alkalispirillum mobile,9.0,measured,no_bacdive_record,,0
+Azospirillum doebereinerae,6.0,measured,no_bacdive_record,,0
+Alkaliphilus transvaalensis,8.5,measured,no_bacdive_record,,0
+Anaerobranca gottschalkii,6.0,measured,no_bacdive_record,,0
+Oceanobacillus iheyensis,7.5,measured,verified_measured,no growth recorded at pH 6,1
+Methanosarcina baltica,6.5,measured,no_bacdive_record,,0
+Flavobacterium frigidarium,5.6,measured,no_bacdive_record,,0
+Thermaerobacter nagasakiensis,5.0,measured,no_bacdive_record,,0
+Rhodopseudomonas faecalis,6.5,measured,no_bacdive_record,,0
+Bacillus subterraneus,7.0,measured,no_bacdive_record,,0
+Marinospirillum alkaliphilum,7.0,measured,no_bacdive_record,,0
+Paenibacillus daejeonensis,7.0,measured,no_bacdive_record,,0
+Salinicoccus alkaliphilus,6.5,measured,no_bacdive_record,,0
+Caminicella sporogenes,4.5,measured,no_bacdive_record,,0
+Geobacillus toebii,6.0,measured,no_bacdive_record,,0
+Vibrio aerogenes,6.0,measured,no_bacdive_record,,0
+Rhodobaca bogoriensis,7.5,measured,no_bacdive_record,,0
+Thermosipho japonicus,5.3,measured,no_bacdive_record,,0
+Chitinimonas violaceus,5.0,measured,no_bacdive_record,,0
+Rhodovulum strictum,7.5,measured,no_bacdive_record,,0
+Natroniella acetigena,8.1,measured,no_bacdive_record,,0
+Anaerobaculum thermoterrenum,5.5,measured,no_bacdive_record,,0
+Bogoriella caseilytica,9.0,measured,no_bacdive_record,,0
+Spirochaeta smaragdinae,5.5,measured,no_bacdive_record,,0
+Propionibacterium cyclohexanicum,3.2,measured,no_bacdive_record,,0
+Bacillus horti,8.0,measured,no_bacdive_record,,0
+Shewanella amazonensis,7.0,measured,no_bacdive_record,,0
+Lactobacillus manihotivorans,5.0,measured,no_bacdive_record,,0
+Methanobacterium subterraneum,7.8,measured,no_bacdive_record,,0
+Roseobacter gallaeciensis,7.0,measured,no_bacdive_record,,0
+Shewanella pealeana,6.5,measured,no_bacdive_record,,0
+Thiomicrospira chilensis,5.3,measured,no_bacdive_record,,0
+Halomonas campisalis,6.0,measured,no_bacdive_record,,0
+Nautilia lithotrophica,6.4,measured,no_bacdive_record,,0
+Planococcus circulans,6.0,measured,no_bacdive_record,,0
+Carboxydocella thermautotrophica,6.5,measured,no_bacdive_record,,0
+Tindallia californiensis,8.0,measured,no_bacdive_record,,0
+Acetanaerobacterium elongatum,5.0,measured,range_only,growth range from pH 5,2
+Cerasibacillus quisquiliarum,8.0,measured,range_disagrees,BacDive lowest growth pH 7.5 vs stored 8,2
+Sulfurovum lithotrophicum,5.0,measured,range_disagrees,BacDive lowest growth pH 4.5 vs stored 5,2
+Bacillus saliphilus,7.0,measured,no_bacdive_record,,0
+Carnobacterium pleistocenium,6.5,measured,no_bacdive_record,,0
+Lactovum miscens,3.5,measured,no_bacdive_record,,0
+Cellulomonas bogoriensis,9.0,measured,range_disagrees,BacDive lowest growth pH 6 vs stored 9,2
+Winogradskyella poriferorum,6.0,measured,range_only,growth range from pH 6,2
+Citricoccus alkalitolerans,8.0,measured,range_disagrees,BacDive lowest growth pH 5.5 vs stored 8,2
+Bacillus patagoniensis,7.0,measured,no_bacdive_record,,0
+Marinobacter alkaliphilus,6.5,measured,no_bacdive_record,,0
+Pseudoalteromonas spongiae,5.0,measured,range_only,growth range from pH 5,2
+Nocardioides dubius,7.0,measured,range_only,growth range from pH 6,4
+Methylophilus quaylei,6.5,measured,no_bacdive_record,,0
+Chitinimonas taiwanensis,6.0,measured,no_bacdive_record,,0
+Loktanella hongkongensis,5.0,measured,no_bacdive_record,,0
+Thialkalivibrio halophilus,7.5,measured,no_bacdive_record,,0
+Spirochaeta americana,8.0,measured,no_bacdive_record,,0
+Alkaliphilus crotonatoxidans,5.5,measured,no_bacdive_record,,0
+Arthrobacter koreensis,7.0,measured,no_bacdive_record,,0
+Sulfurimonas autotrophica,4.5,measured,no_bacdive_record,,0
+Halobacillus karajensis,6.0,measured,range_only,growth range from pH 6,2
+Vibrio ruber,6.0,measured,no_bacdive_record,,0
+Sulfurihydrogenibium subterraneum,6.4,measured,no_bacdive_record,,0
+Marinithermus hydrothermalis,6.25,measured,no_bacdive_record,,0
+Pseudoalteromonas phenolica,7.5,measured,no_bacdive_record,,0
+Thermosipho atlanticus,5.0,measured,range_only,growth range from pH 5,2
+Aeropyrum camini,6.5,measured,range_only,growth range from pH 6.5,2
+Methanotorris formicicus,6.0,measured,no_bacdive_record,,0
+Polaromonas naphthalenivorans,6.0,measured,record_without_growth_ph,,1
+Tepidibacter formicigenes,5.0,measured,range_only,growth range from pH 5,2
+Methanogenium marinum,5.5,measured,no_bacdive_record,,0
+Nasibacterium caprae,6.0,measured,no_bacdive_record,,0
+Pseudoalteromonas nanhaiensis,6.0,measured,no_bacdive_record,,0
+Phyllobacterium humicola,5.0,measured,no_bacdive_record,,0
+Streptomyces cathayae,6.0,measured,no_bacdive_record,,0
+Brooklawnia propionicigenes,5.3,measured,no_bacdive_record,,0
+Massilia orientalis,6.0,measured,no_bacdive_record,,0
+Hydrogenimonas leucolamina,5.0,measured,no_bacdive_record,,0
+Azospirillum isscasi,5.0,measured,no_bacdive_record,,0
+Leeuwenhoekiella obamensis,5.5,measured,no_bacdive_record,,0
+Coraliomargarita algicola,6.0,measured,no_bacdive_record,,0
+Leuconostoc aquikimchii,5.0,measured,no_bacdive_record,,0
+Peteryoungia algae,5.0,measured,no_bacdive_record,,0
+Pleionea litopenaei,5.5,measured,no_bacdive_record,,0
+Paracoccus spongiarum,5.0,measured,no_bacdive_record,,0
+Paenibacillus mesotrionivorans,6.0,measured,no_bacdive_record,,0
+Sedimentitalea sediminis,5.5,measured,no_bacdive_record,,0
+Paenibacillus wuxiensis,5.0,measured,no_bacdive_record,,0
+Microbacterium horticulturae,5.0,measured,no_bacdive_record,,0
+Thiobacillus sedimenti,5.0,measured,no_bacdive_record,,0
+Paracoccus benzoatiresistens,5.0,measured,no_bacdive_record,,0
+Methylomonas defluvii,4.5,measured,no_bacdive_record,,0
+Ruicaihuangia caeni,5.0,measured,no_bacdive_record,,0
+Keguizhuia sedimenti,5.0,measured,no_bacdive_record,,0
+Yunchengibacter salinarum,6.0,measured,no_bacdive_record,,0
+Peiella sedimenti,5.0,measured,no_bacdive_record,,0
+Yanghanlia caeni,6.0,measured,no_bacdive_record,,0
+Rubellicoccus peritrichatus,6.0,measured,no_bacdive_record,,0
+Helicovermis profundi,4.8,measured,no_bacdive_record,,0
+Actomonas aquatica,5.0,measured,no_bacdive_record,,0
+Polluticaenibacter yanchengensis,5.0,measured,no_bacdive_record,,0
+Salmonirosea aquatica,5.0,measured,no_bacdive_record,,0
+Jannaschia ovalis,6.0,measured,no_bacdive_record,,0
+Azotosporobacter soli,6.0,measured,no_bacdive_record,,0
+Spartinivicinus poritis,6.0,measured,no_bacdive_record,,0
+Luteipulveratus flavus,6.0,measured,no_bacdive_record,,0
+Paracraurococcus lichenis,5.0,measured,no_bacdive_record,,0
+Ornithinibacillus xuwenensis,6.0,measured,no_bacdive_record,,0
+Maribacter luteocoastalis,5.5,measured,no_bacdive_record,,0
+Erwinia aeris,4.0,measured,no_bacdive_record,,0
+Tersicoccus mangrovi,6.0,measured,no_bacdive_record,,0
+Anaeroselena agilis,4.0,measured,no_bacdive_record,,0
+Pseudochrobactrum albidum,5.0,measured,no_bacdive_record,,0
+Paenibacillus nanchangensis,6.0,measured,no_bacdive_record,,0
+Pseudoduganella rhizocola,6.0,measured,no_bacdive_record,,0
+Agromyces aerolatus,6.0,measured,no_bacdive_record,,0
+Christiangramia qingdaonensis,6.0,measured,no_bacdive_record,,0
+Oryzobacter faecalis,6.0,measured,no_bacdive_record,,0
+Metabacillus mesotrionivorans,6.0,measured,no_bacdive_record,,0
+Pseudomonas eutrophicaquae,6.0,measured,no_bacdive_record,,0
+Shimia fortis,6.0,measured,no_bacdive_record,,0
+Autumnicola aciditolerans,5.0,measured,no_bacdive_record,,0
+Litchfieldia stipae,6.0,measured,no_bacdive_record,,0
+Dyella stictolepturae,4.0,measured,no_bacdive_record,,0
+Bernardetia aquimarina,6.0,measured,no_bacdive_record,,0
+Bordetella saccharivorans,5.0,measured,no_bacdive_record,,0
+Methyloraptor flagellatus,4.5,measured,no_bacdive_record,,0
+Paenalcaligenes niemegkensis,6.0,measured,no_bacdive_record,,0
+Dethiothermospora halolimnae,6.0,measured,no_bacdive_record,,0
+Lotipaludicoccus stagni,6.0,measured,no_bacdive_record,,0
+Devosia alba,5.0,measured,no_bacdive_record,,0
+Intrasporangium zincisolvens,6.0,measured,no_bacdive_record,,0
+Comamonas trifloxystrobinivorans,5.0,measured,no_bacdive_record,,0
+Terrimonas alba,6.0,measured,no_bacdive_record,,0
+Polaribacter uvawellassae,5.0,measured,no_bacdive_record,,0
+Dyella aluminiiresistens,4.5,measured,no_bacdive_record,,0
+Uliginosibacterium silvisoli,6.0,measured,no_bacdive_record,,0
+Limnobacter olei,4.0,measured,no_bacdive_record,,0
+Frateuria hangzhouensis,4.0,measured,no_bacdive_record,,0
+Paracoccus yibinensis,5.0,measured,no_bacdive_record,,0
+Nocardioides epinepheli,6.0,measured,no_bacdive_record,,0
+Paludibacillus litoralis,5.0,measured,no_bacdive_record,,0
+Flavobacterium aerium,6.0,measured,no_bacdive_record,,0
+Ammoniphilus soli,5.0,measured,no_bacdive_record,,0
+Fulverythrobacter ferritrahens,6.0,measured,no_bacdive_record,,0
+Aurantibrevibacter litoralis,5.5,measured,no_bacdive_record,,0
+Marinilactibacillus kalidii,6.0,measured,no_bacdive_record,,0
+Caproicibacterium argilliputei,4.0,measured,no_bacdive_record,,0
+Paracoccus marinaquae,5.0,measured,no_bacdive_record,,0
+Salinibius halmophilus,6.0,measured,range_disagrees,BacDive lowest growth pH 7.5 vs stored 6,2
+Pseudolysobacter antarcticus,6.0,measured,no_bacdive_record,,0
+Pukyongia salina,5.5,measured,range_only,growth range from pH 5.5,2
+Pseudopontixanthobacter vadosimaris,5.0,measured,no_bacdive_record,,0
+Vallicoccus soli,6.0,measured,range_only,growth range from pH 6,1
+Rhabdaerophilum calidifontis,5.0,measured,no_bacdive_record,,0
+Phytohalomonas tamaricis,5.0,measured,range_only,growth range from pH 5,2
+Chryseobacterium salivictor,5.0,measured,no_bacdive_record,,0
+Pseudomonas khazarica,3.0,measured,no_bacdive_record,,0
+Nitrosophilus alvini,5.4,measured,no_bacdive_record,,0
+Marinobacter halodurans,5.0,measured,no_bacdive_record,,0
+Roseovarius bejariae,6.0,measured,no_bacdive_record,,0
+Aureimonas leprariae,6.0,measured,range_only,growth range from pH 6,2
+Flammeovirga agarivorans,6.0,measured,no_bacdive_record,,0
+Marinomonas profundi,5.5,measured,no_bacdive_record,,0
+Jejubacter calystegiae,5.0,measured,no_bacdive_record,,0
+Sandaracinomonas limnophila,6.0,measured,range_only,growth range from pH 6,2
+Lewinella aurantiaca,6.0,measured,no_bacdive_record,,0
+Shewanella maritima,6.0,measured,no_bacdive_record,,0
+Lampropedia aestuarii,6.0,measured,range_only,growth range from pH 6,2
+Parvibaculum sedimenti,5.0,measured,range_disagrees,BacDive lowest growth pH 4 vs stored 5,2
+Altererythrobacter rhizovicinus,6.0,measured,no_bacdive_record,,0
+Sediminibacillus terrae,5.5,measured,no_bacdive_record,,0
+Sphingosinithalassobacter tenebrarum,6.0,measured,no_bacdive_record,,0
+Methylococcus geothermalis,4.8,measured,no_bacdive_record,,0
+Novosphingobium ovatum,5.0,measured,no_bacdive_record,,0
+Saccharibacillus brassicae,6.0,measured,range_only,growth range from pH 6,2
+Nocardioides flavescens,5.0,measured,no_bacdive_record,,0
+Pseudarthrobacter psychrotolerans,5.0,measured,no_bacdive_record,,0
+Microbacterium excoecariae,6.0,measured,no_bacdive_record,,0
+Sulfurimonas crateris,5.5,measured,no_bacdive_record,,0
+Azohydromonas aeria,4.0,measured,no_bacdive_record,,0
+Roseomonas selenitidurans,5.0,measured,no_bacdive_record,,0
+Nocardioides vastitatis,6.0,measured,no_bacdive_record,,0
+Cohnella fermenti,6.0,measured,no_bacdive_record,,0
+Paenibacillus tepidiphilus,6.0,measured,no_bacdive_record,,0
+Methylobacterium crusticola,6.0,measured,no_bacdive_record,,0
+Aestuariibaculum sediminum,6.0,measured,no_bacdive_record,,0
+Leucobacter chromiisoli,6.0,measured,no_bacdive_record,,0
+Marinomonas vulgaris,5.5,measured,no_bacdive_record,,0
+Chachezhania sediminis,4.0,measured,no_bacdive_record,,0
+Maribacter hydrothermalis,5.0,measured,no_bacdive_record,,0
+Hymenobacter puniceus,6.0,measured,no_bacdive_record,,0
+Winogradskyella marina,6.0,measured,no_bacdive_record,,0
+Pedobacter riviphilus,6.0,measured,no_bacdive_record,,0
+Proteiniclasticum sediminis,6.0,measured,no_bacdive_record,,0
+Mesorhizobium xinjiangense,6.0,measured,no_bacdive_record,,0
+Adhaeribacter soli,6.0,measured,no_bacdive_record,,0
+Actinokineospora xionganensis,6.0,measured,no_bacdive_record,,0
+Paenibacillus roseus,6.0,measured,no_bacdive_record,,0
+Roseomonas coralli,4.5,measured,no_bacdive_record,,0
+Phycicoccus flavus,6.0,measured,no_bacdive_record,,0
+Paenibacillus agri,6.0,measured,no_bacdive_record,,0
+Ramlibacter algicola,6.0,measured,no_bacdive_record,,0
+Sanguibacter suaedae,6.0,measured,no_bacdive_record,,0
+Bacillus dafuensis,6.0,measured,no_bacdive_record,,0
+Aliifodinibius saliphilus,6.0,measured,no_bacdive_record,,0
+Dictyobacter vulcani,5.0,measured,no_bacdive_record,,0
+Bacillus tepidiphilus,6.0,measured,range_only,growth range from pH 6,2
+Pseudooceanicola onchidii,5.5,measured,range_only,growth range from pH 5.5,2
+Marinobacter salinexigens,6.0,measured,no_bacdive_record,,0
+Deinococcus kurensis,4.5,measured,no_bacdive_record,,0
+Lysinibacillus antri,5.0,measured,no_bacdive_record,,0
+Echinicola soli,5.0,measured,no_bacdive_record,,0
+Sphingomonas suaedae,5.0,measured,no_bacdive_record,,0
+Dyadobacter bucti,6.0,measured,no_bacdive_record,,0
+Pontibacter mangrovi,6.0,measured,no_bacdive_record,,0
+Bacillus taxi,6.0,measured,no_bacdive_record,,0
+Nocardia aurantiaca,6.0,measured,no_bacdive_record,,0
+Lysobacter alkalisoli,5.0,measured,no_bacdive_record,,0
+Tessaracoccus antarcticus,6.0,measured,range_only,growth range from pH 4,4
+Flexivirga caeni,5.0,measured,range_only,growth range from pH 5,2
+Marinobacter fonticola,5.0,measured,no_bacdive_record,,0
+Croceicoccus sediminis,6.0,measured,no_bacdive_record,,0
+Actinomadura litoris,6.0,measured,no_bacdive_record,,0
+Chryseolinea soli,5.5,measured,no_bacdive_record,,0
+Parabacteroides acidifaciens,6.0,measured,no_bacdive_record,,0
+Dyella solisilvae,4.5,measured,no_bacdive_record,,0
+Chitinophaga flava,6.0,measured,no_bacdive_record,,0
+Zhongshania marina,5.5,measured,no_bacdive_record,,0
+Bacillus salacetis,6.0,measured,no_bacdive_record,,0
+Marinimicrobium alkaliphilum,5.5,measured,range_only,growth range from pH 5.5,2
+Pseudomonas mangrovi,5.5,measured,no_bacdive_record,,0
+Peribacillus faecalis,3.0,measured,no_bacdive_record,,0
+Cohnella endophytica,6.0,measured,range_only,growth range from pH 6,2
+Flavobacterium phycosphaerae,5.0,measured,no_bacdive_record,,0
+Kaistella gelatinilytica,6.0,measured,no_bacdive_record,,0
+Anaerotignum faecicola,5.1,measured,no_bacdive_record,,0
+Marinitoga lauensis,5.0,measured,no_bacdive_record,,0
+Paenibacillus thalictri,5.0,measured,no_bacdive_record,,0
+Halegenticoccus soli,6.0,measured,no_bacdive_record,,0
+Mucilaginibacter limnophilus,5.5,measured,no_bacdive_record,,0
+Edaphocola aurantiacus,6.0,measured,no_bacdive_record,,0
+Pulveribacter suum,6.0,measured,range_only,growth range from pH 6,2
+Criibacterium bergeronii,5.5,measured,no_bacdive_record,,0
+Tsuneonella suprasediminis,5.0,measured,no_bacdive_record,,0
+Notoacmeibacter ruber,5.0,measured,no_bacdive_record,,0
+Amniculibacterium aquaticum,6.0,measured,no_bacdive_record,,0
+Nibricoccus aquaticus,5.5,measured,no_bacdive_record,,0
+Hwanghaeella grinnelliae,6.0,measured,range_only,growth range from pH 6,2
+Profundibacter amoris,5.5,measured,no_bacdive_record,,0
+Aerophototrophica crusticola,6.0,measured,no_bacdive_record,,0
+Sphingosinithalassobacter portus,6.0,measured,range_only,growth range from pH 6,2
+Qingshengfaniella alkalisoli,5.0,measured,no_bacdive_record,,0
+Pleomorphovibrio marinus,5.0,measured,range_only,growth range from pH 5,2
+Marinicauda salina,6.0,measured,range_only,growth range from pH 6,2
+Streptomyces montanisoli,5.0,measured,no_bacdive_record,,0
+Serratia inhibens,6.0,measured,no_bacdive_record,,0
+Caenimonas sedimenti,6.0,measured,range_only,growth range from pH 6,2
+Rudanella paleaurantiibacter,6.0,measured,range_only,growth range from pH 6,2
+Raineyella fluvialis,6.0,measured,no_bacdive_record,,0
+Bacillus yapensis,6.0,measured,no_bacdive_record,,0
+Yeosuana marina,3.0,measured,no_bacdive_record,,0
+Clostridium prolinivorans,5.5,measured,no_bacdive_record,,0
+Pelagivirga dicentrarchi,6.0,measured,range_only,growth range from pH 6,2
+Halobellus captivus,6.0,measured,range_only,growth range from pH 6,2
+Flavobacterium microcysteis,6.0,measured,no_bacdive_record,,0
+Algoriphagus kandeliae,5.5,measured,verified_measured,no growth recorded at pH 5,4
+Edaphocola flava,6.0,measured,range_only,growth range from pH 6,2
+Fluviicola chungangensis,6.0,measured,range_only,growth range from pH 6,2
+Halomonas urmiana,6.0,measured,no_bacdive_record,,0
+Mucilaginibacter corticis,6.0,measured,range_only,growth range from pH 6,2
+Lysinibacillus cavernae,6.0,measured,range_only,growth range from pH 6,2
+Sphingobacterium olei,6.0,measured,no_bacdive_record,,0
+Azospirillum thermophilum,5.0,measured,range_only,growth range from pH 5,2
+Blastopirellula retiformator,6.0,measured,range_only,growth range from pH 6,2
+Bacillus salinus,6.0,measured,no_bacdive_record,,0
+Novosphingobium aureum,6.0,measured,no_bacdive_record,,0
+Microbacterium protaetiae,6.0,measured,no_bacdive_record,,0
+Roseomonas algicola,5.0,measured,no_bacdive_record,,0
+Flavobacterium ajazii,6.0,measured,no_bacdive_record,,0
+Erythrobacter mangrovi,5.5,measured,range_only,growth range from pH 5.5,2
+Frigidibacter oleivorans,6.0,measured,no_bacdive_record,,0
+Elioraea rosea,5.0,measured,no_bacdive_record,,0
+Halomonas piezotolerans,5.0,measured,no_bacdive_record,,0
+Anaerosphaera multitolerans,5.5,measured,no_bacdive_record,,0
+Saccharospirillum alexandrii,5.0,measured,range_only,growth range from pH 5,2
+Paracoccus xiamenensis,5.0,measured,no_bacdive_record,,0
+Bacillus aquiflavi,6.0,measured,no_bacdive_record,,0
+Bacillus rugosus,6.0,measured,no_bacdive_record,,0
+Thiomicrorhabdus indica,5.0,measured,range_disagrees,BacDive lowest growth pH 4.5 vs stored 5,2
+Hymenobacter artigasi,6.0,measured,no_bacdive_record,,0
+Halomonas pellis,6.0,measured,no_bacdive_record,,0
+Ketobacter nezhaii,6.0,measured,no_bacdive_record,,0
+Azoarcus halotolerans,5.5,measured,no_bacdive_record,,0
+Chitiniphilus eburneus,6.0,measured,no_bacdive_record,,0
+Halobellus ruber,5.0,measured,no_bacdive_record,,0
+Pseudomethylobacillus aquaticus,6.0,measured,range_only,growth range from pH 6,2
+Parasphingorhabdus halotolerans,5.0,measured,no_bacdive_record,,0
+Rhizobium setariae,5.0,measured,no_bacdive_record,,0
+Neobacillus paridis,6.0,measured,no_bacdive_record,,0
+Roseococcus pinisoli,6.0,measured,no_bacdive_record,,0
+Paraconexibacter antarcticus,6.0,measured,no_bacdive_record,,0
+Sphingomonas arenae,6.0,measured,no_bacdive_record,,0
+Nocardioides lacusdianchii,4.0,measured,no_bacdive_record,,0
+Bacillus pinisoli,5.0,measured,no_bacdive_record,,0
+Shewanella jiangmenensis,4.0,measured,no_bacdive_record,,0
+Massilia soli,5.0,measured,no_bacdive_record,,0
+Caproicibacterium lactatifermentans,4.5,measured,no_bacdive_record,,0
+Clostridium thailandense,6.0,measured,no_bacdive_record,,0
+Kangiella shandongensis,6.0,measured,no_bacdive_record,,0
+Sediminibacillus dalangtanensis,5.5,measured,no_bacdive_record,,0
+Metabacillus bambusae,4.0,measured,no_bacdive_record,,0
+Maritimibacter dapengensis,6.0,measured,no_bacdive_record,,0
+Flavobacterium coralii,6.0,measured,no_bacdive_record,,0
+Thermus brevis,6.0,measured,no_bacdive_record,,0
+Croceicoccus hydrothermalis,5.0,measured,no_bacdive_record,,0
+Rheinheimera maricola,6.0,measured,no_bacdive_record,,0
+Sphingomicrobium nitratireducens,6.0,measured,no_bacdive_record,,0
+Rhodococcus oxybenzonivorans,6.0,measured,no_bacdive_record,,0
+Anatilimnocola floriformis,5.0,measured,no_bacdive_record,,0
+Siccirubricoccus soli,6.0,measured,no_bacdive_record,,0
+Leucobacter chinensis,6.0,measured,no_bacdive_record,,0
+Metabacillus kandeliae,5.0,measured,no_bacdive_record,,0
+Bacillus arachidis,4.0,measured,no_bacdive_record,,0
+Hyphomonas sediminis,6.0,measured,no_bacdive_record,,0
+Stakelama flava,5.0,measured,no_bacdive_record,,0
+Dyella sedimenti,5.0,measured,no_bacdive_record,,0
+Zobellella iuensis,6.0,measured,no_bacdive_record,,0
+Halomonas profundi,5.5,measured,no_bacdive_record,,0
+Succinivibrio faecicola,6.0,measured,no_bacdive_record,,0
+Microvirga terrae,6.0,measured,no_bacdive_record,,0
+Fulvivirga lutea,6.0,measured,no_bacdive_record,,0
+Pontibacter cellulosilyticus,5.0,measured,no_bacdive_record,,0
+Thauera sedimentorum,5.5,measured,no_bacdive_record,,0
+Pontibacter qinzhouensis,6.0,measured,no_bacdive_record,,0
+Constantimarinum furrinae,6.0,measured,no_bacdive_record,,0
+Pseudaquidulcibacter saccharophilus,5.5,measured,no_bacdive_record,,0
+Abyssalbus ytuae,5.0,measured,no_bacdive_record,,0
+Thiosulfatihalobacter marinus,6.0,measured,no_bacdive_record,,0
+Sideroxyarcus emersonii,5.5,measured,no_bacdive_record,,0
+Horticoccus luteus,5.0,measured,no_bacdive_record,,0
+Sulfuriroseicoccus oceanibius,6.0,measured,no_bacdive_record,,0
+Desulfovulcanus ferrireducens,5.0,measured,no_bacdive_record,,0
+Roseovarius carneus,6.0,measured,no_bacdive_record,,0
+Acuticoccus kalidii,5.0,measured,no_bacdive_record,,0
+Flavobacterium selenitireducens,4.0,measured,no_bacdive_record,,0
+Halomonas getboli,5.0,measured,no_bacdive_record,,0
+Halomonas binhaiensis,6.0,measured,no_bacdive_record,,0
+Echinicola arenosa,5.5,measured,no_bacdive_record,,0
+Acinetobacter faecalis,6.0,measured,no_bacdive_record,,0
+Moorella sulfitireducens,5.5,measured,no_bacdive_record,,0
+Actinotalea soli,6.0,measured,no_bacdive_record,,0
+Massilia phyllostachyos,6.0,measured,no_bacdive_record,,0
+Flavobacterium endoglycinae,5.0,measured,no_bacdive_record,,0
+Nocardioides mangrovi,5.0,measured,no_bacdive_record,,0
+Ancylobacter gelatini,5.5,measured,no_bacdive_record,,0
+Halomonas antri,6.0,measured,no_bacdive_record,,0
+Sphingomonas quercus,5.0,measured,no_bacdive_record,,0
+Advenella mandrilli,6.0,measured,no_bacdive_record,,0
+Celeribacter litoreus,6.0,measured,no_bacdive_record,,0
+Pusillimonas minor,6.0,measured,no_bacdive_record,,0
+Sulfurimonas marina,4.5,measured,no_bacdive_record,,0
+Aquibacillus saliphilus,6.0,measured,no_bacdive_record,,0
+Nocardiopsis eucommiae,5.0,measured,no_bacdive_record,,0
+Halomonas salinarum,6.0,measured,no_bacdive_record,,0
+Jiella avicenniae,5.0,measured,no_bacdive_record,,0
+Paenibacillus vietnamensis,6.0,measured,no_bacdive_record,,0
+Aquimarina acroporae,4.5,measured,no_bacdive_record,,0
+Arsenicicoccus cauae,6.0,measured,no_bacdive_record,,0
+Gracilibacillus suaedae,6.0,measured,no_bacdive_record,,0
+Copranaerobaculum intestinale,6.0,measured,no_bacdive_record,,0
+Niveibacterium microcysteis,5.5,measured,no_bacdive_record,,0
+Flavimobilis rhizosphaerae,5.0,measured,no_bacdive_record,,0
+Aquabacterium terrae,5.0,measured,no_bacdive_record,,0
+Sulfurimonas sediminis,5.0,measured,no_bacdive_record,,0
+Halomonas maris,5.0,measured,no_bacdive_record,,0
+Limnohabitans radicicola,5.5,measured,no_bacdive_record,,0
+Psychrosphaera ytuae,6.0,measured,no_bacdive_record,,0
+Cohnella zeiphila,5.0,measured,no_bacdive_record,,0
+Hydrogenimonas urashimensis,5.3,measured,no_bacdive_record,,0
+Elizabethkingia argenteiflava,5.0,measured,no_bacdive_record,,0
+Siccirubricoccus phaeus,6.0,measured,no_bacdive_record,,0
+Planococcus soli,6.0,measured,no_bacdive_record,,0
+Paracoccus onubensis,5.0,measured,no_bacdive_record,,0
+Foetidibacter luteolus,5.5,measured,no_bacdive_record,,0
+Oceanomicrobium pacificus,6.0,measured,no_bacdive_record,,0
+Caproicibacterium amylolyticum,4.5,measured,no_bacdive_record,,0
+Novosphingopyxis iocasae,5.0,measured,no_bacdive_record,,0
+Thermaurantiacus tibetensis,6.0,measured,no_bacdive_record,,0
+Halomonas sedimenti,5.0,measured,no_bacdive_record,,0
+Oricola thermophila,5.0,measured,no_bacdive_record,,0
+Sphingomonas sabuli,5.0,measured,no_bacdive_record,,0
+Phocaeicola faecicola,6.0,measured,no_bacdive_record,,0
+Halomonas bachuensis,5.0,measured,no_bacdive_record,,0
+Marivivens aquimaris,6.0,measured,no_bacdive_record,,0
+Kushneria phosphatilytica,4.0,measured,no_bacdive_record,,0
+Lysobacter telluris,6.0,measured,no_bacdive_record,,0
+Mangrovicoccus algicola,6.0,measured,no_bacdive_record,,0
+Achromobacter aestuarii,5.5,measured,no_bacdive_record,,0
+Vibrio agarilyticus,6.0,measured,no_bacdive_record,,0
+Croceicoccus bisphenolivorans,5.5,measured,no_bacdive_record,,0
+Nocardioides cynanchi,5.0,measured,no_bacdive_record,,0
+Sphingomonas xanthus,6.0,measured,no_bacdive_record,,0
+Paracoccus lichenicola,4.0,measured,no_bacdive_record,,0
+Hymenobacter caeli,6.0,measured,no_bacdive_record,,0
+Hymenobacter citatus,6.0,measured,no_bacdive_record,,0
+Halomonas diversa,6.0,measured,no_bacdive_record,,0
+Novisyntrophococcus fermenticellae,5.0,measured,no_bacdive_record,,0
+Nonlabens ponticola,6.0,measured,no_bacdive_record,,0
+Luteirhabdus pelagi,6.0,measured,no_bacdive_record,,0
+Ruania alkalisoli,6.0,measured,no_bacdive_record,,0
+Geothermobacter hydrogeniphilus,5.5,measured,no_bacdive_record,,0
+Chryseobacterium caseinilyticum,6.0,measured,no_bacdive_record,,0
+Muriicola soli,6.0,measured,no_bacdive_record,,0
+Snuella sedimenti,6.0,measured,no_bacdive_record,,0
+Chitinophaga oryzae,5.0,measured,no_bacdive_record,,0
+Roseomonas oleicola,5.0,measured,no_bacdive_record,,0
+Blautia intestinalis,6.0,measured,no_bacdive_record,,0
+Algibacter onchidii,5.5,measured,no_bacdive_record,,0
+Alkalibacter mobilis,5.5,measured,no_bacdive_record,,0
+Echinicola salinicaeni,4.0,measured,no_bacdive_record,,0
+Aquibacillus kalidii,6.0,measured,no_bacdive_record,,0
+Sphingomonas horti,5.0,measured,no_bacdive_record,,0
+Sediminihaliea albiluteola,6.0,measured,no_bacdive_record,,0
+Paraliobacillus salinarum,6.0,measured,no_bacdive_record,,0
+Jiella mangrovi,6.0,measured,no_bacdive_record,,0
+Luteimonas deserti,6.0,measured,no_bacdive_record,,0
+Paenibacillus oceani,5.0,measured,no_bacdive_record,,0
+Mangrovivirga cuniculi,6.0,measured,no_bacdive_record,,0
+Lentilactobacillus fungorum,4.0,measured,no_bacdive_record,,0
+Thermococcus aciditolerans,4.0,measured,no_bacdive_record,,0
+Thermohalobaculum xanthum,6.0,measured,no_bacdive_record,,0
+Sandaracinobacteroides hominis,6.0,measured,no_bacdive_record,,0
+Pigmentibacter ruber,6.0,measured,no_bacdive_record,,0
+Roseitranquillus sediminis,6.0,measured,no_bacdive_record,,0
+Sabulicella rubraurantiaca,4.0,measured,no_bacdive_record,,0
+Frigoriflavimonas asaccharolytica,5.0,measured,no_bacdive_record,,0
+Rhodocaloribacter litoris,6.0,measured,no_bacdive_record,,0
+Puerhibacterium puerhi,6.0,measured,no_bacdive_record,,0
+Sulfurimicrobium lacus,5.1,measured,no_bacdive_record,,0
+Limnovirga soli,6.0,measured,no_bacdive_record,,0
+Aegicerativicinus sediminis,6.0,measured,no_bacdive_record,,0
+Desulfomarina profundi,5.5,measured,no_bacdive_record,,0
+Pararhodonellum marinum,5.0,measured,no_bacdive_record,,0
+Ignicoccus pacificus,4.5,unknown,range_only,growth range from pH 4.5,2
+Meiothermus silvanus,5.5,unknown,no_bacdive_record,,0
+Marinitoga piezophila,5.0,unknown,no_bacdive_record,,0
+Marinitoga litoralis,5.5,unknown,range_only,growth range from pH 5.5,2
+Marinitoga hydrogenitolerans,4.5,unknown,range_disagrees,BacDive lowest growth pH 4.8 vs stored 4.5,2
+Mahella australiensis,5.5,unknown,range_only,growth range from pH 5.5,2
+Metallosphaera hakonensis,1.0,unknown,no_bacdive_record,,0
+Kosmotoga pacifica,5.5,unknown,no_bacdive_record,,0
+Kosmotoga olearia,5.5,unknown,range_only,growth range from pH 5.5,2
+Kallotenue papyrolyticum,5.0,unknown,range_disagrees,BacDive lowest growth pH 5.6 vs stored 5,2
+Ignisphaera aggregans,5.4,unknown,range_only,growth range from pH 5.4,2
+Meiothermus timidus,5.5,unknown,no_bacdive_record,,0
+Marinitoga okinawensis,5.0,unknown,range_only,growth range from pH 5,2
+Halothermothrix orenii,5.5,unknown,no_bacdive_record,,0
+Ignicoccus hospitalis,4.5,unknown,range_only,growth range from pH 4.5,2
+Hydrogenobaculum acidophilum,2.0,unknown,no_bacdive_record,,0
+Hydrogenobacter subterraneus,5.5,unknown,no_bacdive_record,,0
+Hydrogenivirga caldilitoris,5.5,unknown,range_only,growth range from pH 5.5,2
+Hippea maritima,5.4,unknown,no_bacdive_record,,0
+Halorhabdus utahensis,5.5,unknown,no_bacdive_record,,0
+Halorhabdus tiamatea,5.5,unknown,range_only,growth range from pH 5.5,2
+Halorhabdus rudnickae,5.5,unknown,no_bacdive_record,,0
+Halobellus limi,5.5,unknown,range_only,growth range from pH 5.5,2
+Halobaculum magnesiiphilum,5.5,unknown,range_only,growth range from pH 5.5,2
+Halobacterium noricense,5.2,unknown,no_bacdive_record,,0
+Metallosphaera sedula,1.0,unknown,no_bacdive_record,,0
+Haloarcula hispanica,5.0,unknown,no_bacdive_record,,0
+Halobacterium jilantaiense,5.5,unknown,no_bacdive_record,,0
+Ignicoccus islandicus,3.8,unknown,range_only,growth range from pH 3.8,2
+Metallosphaera yellowstonensis,2.0,unknown,no_bacdive_record,,0
+Methanothermus sociabilis,5.5,unknown,no_bacdive_record,,0
+Methanocaldococcus fervens,5.5,unknown,no_bacdive_record,,0
+Picrophilus oshimae,0.0,unknown,no_bacdive_record,,0
+Phorcysia thermohydrogeniphila,4.5,unknown,range_only,growth range from pH 4.5,2
+Petrotoga mobilis,5.5,unknown,no_bacdive_record,,0
+Persephonella marina,4.7,unknown,range_only,growth range from pH 4.7,2
+Persephonella hydrogeniphila,5.5,unknown,no_bacdive_record,,0
+Parageobacillus thermoglucosidasius,6.5,unknown,verified_measured,no growth recorded at pH 6,6
+Palaeococcus pacificus,5.0,unknown,range_only,growth range from pH 5,2
+Palaeococcus helgesonii,5.0,unknown,no_bacdive_record,,0
+Palaeococcus ferrophilus,4.0,unknown,no_bacdive_record,,0
+Oceanotoga teriensis,5.5,unknown,range_only,growth range from pH 5.5,2
+Oceanithermus profundus,5.5,unknown,no_bacdive_record,,0
+Natronomonas gomsonensis,5.5,unknown,no_bacdive_record,,0
+Nanoarchaeum equitans,5.0,unknown,no_bacdive_record,,0
+Methanocaldococcus bathoardescens,4.5,unknown,no_bacdive_record,,0
+Methanotorris igneus,5.0,unknown,no_bacdive_record,,0
+Methanothermococcus thermolithotrophicus,5.1,unknown,no_bacdive_record,,0
+Methanothermococcus okinawensis,4.5,unknown,no_bacdive_record,,0
+Methanothermobacter marburgensis,5.0,unknown,no_bacdive_record,,0
+Methanosarcina thermophila,5.5,unknown,no_bacdive_record,,0
+Methanosarcina flavescens,5.0,unknown,range_only,growth range from pH 5,2
+Methanopyrus kandleri,5.5,unknown,no_bacdive_record,,0
+Methanomethylovorans thermophila,5.0,unknown,no_bacdive_record,,0
+Methanoculleus submarinus,5.0,unknown,no_bacdive_record,,0
+Methanocaldococcus vulcanius,5.25,unknown,no_bacdive_record,,0
+Methanocaldococcus villosus,5.5,unknown,no_bacdive_record,,0
+Methanocaldococcus jannaschii,5.25,unknown,no_bacdive_record,,0
+Methanocaldococcus infernus,5.25,unknown,no_bacdive_record,,0
+Methanocaldococcus indicus,5.5,unknown,no_bacdive_record,,0
+Methanothrix thermoacetophila,6.0,unknown,no_bacdive_record,,0
+Haloarchaeobius baliensis,5.5,unknown,range_only,growth range from pH 5.5,2
+Archaeoglobus profundus,4.6,unknown,no_bacdive_record,,0
+Geoglobus ahangari,5.0,unknown,no_bacdive_record,,0
+Aquifex pyrophilus,5.4,unknown,no_bacdive_record,,0
+Aquifex aeolicus,5.4,unknown,no_bacdive_record,,0
+Anoxybacillus flavithermus,5.0,unknown,no_bacdive_record,,0
+Ammonifex degensii,5.0,unknown,no_bacdive_record,,0
+Alicyclobacillus shizuokensis,3.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 3,2
+Alicyclobacillus sacchari,2.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 2,2
+Alicyclobacillus macrosporangiidus,3.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 3,2
+Alicyclobacillus kakegawensis,3.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 3,2
+Alicyclobacillus hesperidum,2.0,unknown,no_bacdive_record,,0
+Alicyclobacillus fastidiosus,2.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 2,2
+Alicyclobacillus cycloheptanicus,3.0,unknown,no_bacdive_record,,0
+Alicyclobacillus contaminans,3.0,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 3,2
+Alicyclobacillus acidoterrestris,2.2,unknown,record_without_growth_ph,,1
+Ardenticatena maritima,5.5,unknown,range_only,growth range from pH 5.5,2
+Alicyclobacillus acidocaldarius,2.0,unknown,no_bacdive_record,,0
+Aciduliprofundum boonei,3.3,unknown,no_bacdive_record,,0
+Acidothermus cellulolyticus,3.5,unknown,range_disagrees,BacDive lowest growth pH 4 vs stored 3.5,2
+Acidithiobacillus caldus,1.0,unknown,no_bacdive_record,,0
+Acidilobus saccharovorans,3.5,unknown,no_bacdive_record,,0
+Acidilobus aceticus,2.0,unknown,no_bacdive_record,,0
+Acidianus infernus,1.0,unknown,no_bacdive_record,,0
+Acidianus hospitalis,2.0,unknown,no_bacdive_record,,0
+Acidianus brierleyi,1.0,unknown,no_bacdive_record,,0
+Acidianus ambivalens,1.0,unknown,no_bacdive_record,,0
+Pseudothermotoga elfii,5.5,unknown,no_bacdive_record,,0
+Acetomicrobium mobile,5.4,unknown,range_only,growth range from pH 5.4,4
+Aeropyrum pernix,5.0,unknown,range_only,growth range from pH 5,2
+Haladaptatus paucihalophilus,5.0,unknown,no_bacdive_record,,0
+Balnearium lithotrophicum,5.0,unknown,range_only,growth range from pH 4.9,2
+Caldicellulosiruptor saccharolyticus,5.5,unknown,no_bacdive_record,,0
+Geoglobus acetivorans,5.0,unknown,no_bacdive_record,,0
+Geobacillus zalihae,5.0,unknown,no_bacdive_record,,0
+Geobacillus vulcani,5.5,unknown,range_only,growth range from pH 5.5,3
+Geobacillus thermantarcticus,5.5,unknown,no_bacdive_record,,0
+Geobacillus icigianus,5.0,unknown,no_bacdive_record,,0
+Fervidobacterium pennivorans,5.5,unknown,no_bacdive_record,,0
+Ferroplasma acidarmanus,0.35,unknown,no_bacdive_record,,0
+Dictyoglomus thermophilum,5.4,unknown,curator_minimum,BacDive minimum pH 5.4,3
+Desulfurococcus mucosus,4.5,unknown,record_without_growth_ph,,1
+Desulfurococcus amylolyticus,5.7,unknown,range_only,growth range from pH 4.8,4
+Desulfurobacterium thermolithotrophum,4.4,unknown,no_bacdive_record,,0
+Desulfurobacterium pacificum,5.5,unknown,no_bacdive_record,,0
+Desulfurobacterium crinifex,5.0,unknown,no_bacdive_record,,0
+Caldicellulosiruptor owensensis,5.5,unknown,range_only,growth range from pH 5.5,2
+Desulfurobacterium atlanticum,5.0,unknown,no_bacdive_record,,0
+Deinococcus murrayi,5.1,unknown,verified_measured,no growth recorded at pH 5,2
+Deinococcus geothermalis,4.1,unknown,verified_measured,no growth recorded at pH 4,4
+Deferribacter desulfuricans,5.0,unknown,range_only,growth range from pH 5,2
+Coprothermobacter proteolyticus,5.0,unknown,no_bacdive_record,,0
+Coprothermobacter platensis,4.3,unknown,no_bacdive_record,,0
+Clostridium fervidus,5.5,unknown,no_bacdive_record,,0
+Clostridium caenicola,6.0,unknown,no_bacdive_record,,0
+Chthonomonas calidirosea,4.7,unknown,verified_measured,no growth recorded at pH 4.5,4
+Chloroflexus aurantiacus,5.5,unknown,no_bacdive_record,,0
+Chloracidobacterium thermophilum,5.5,unknown,no_bacdive_record,,0
+Calditerrivibrio nitroreducens,5.5,unknown,range_only,growth range from pH 5.5,2
+Caldisericum exile,5.5,unknown,range_only,growth range from pH 5.5,2
+Desulfurella acetivorans,4.3,unknown,no_bacdive_record,,0
+Pyrobaculum calidifontis,5.5,unknown,no_bacdive_record,,0
+Thermofilum uzonense,5.5,unknown,no_bacdive_record,,0
+Pyrobaculum islandicum,5.0,unknown,no_bacdive_record,,0
+Thermoplasma acidophilum,0.5,unknown,no_bacdive_record,,0
+Thermogemmatispora onikobensis,4.6,unknown,range_only,growth range from pH 4.6,2
+Thermogemmatispora carboxidivorans,4.1,unknown,range_only,growth range from pH 4.1,2
+Thermofilum pendens,4.0,unknown,no_bacdive_record,,0
+Thermodesulfobium narugense,4.0,unknown,no_bacdive_record,,0
+Thermodesulfatator indicus,6.0,unknown,range_only,growth range from pH 6,2
+Thermocrinis minervae,4.8,unknown,curator_minimum,BacDive minimum pH 4.8,4
+Thermococcus zilligii,5.4,unknown,no_bacdive_record,,0
+Thermococcus waiotapuensis,5.0,unknown,no_bacdive_record,,0
+Thermococcus thioreducens,5.0,unknown,no_bacdive_record,,0
+Thermococcus stetteri,5.7,unknown,no_bacdive_record,,0
+Thermococcus siculi,5.0,unknown,no_bacdive_record,,0
+Thermococcus radiotolerans,5.5,unknown,no_bacdive_record,,0
+Thermococcus profundus,4.5,unknown,no_bacdive_record,,0
+Thermococcus prieurii,4.0,unknown,range_only,growth range from pH 4,2
+Thermococcus piezophilus,5.5,unknown,no_bacdive_record,,0
+Thermococcus peptonophilus,4.0,unknown,no_bacdive_record,,0
+Thermococcus paralvinellae,5.0,unknown,no_bacdive_record,,0
+Thermococcus pacificus,6.0,unknown,no_bacdive_record,,0
+Thermoplasma volcanium,1.0,unknown,no_bacdive_record,,0
+Thermoproteus tenax,2.5,unknown,no_bacdive_record,,0
+Pyrobaculum ferrireducens,5.5,unknown,no_bacdive_record,,0
+Thermoproteus uzoniensis,4.6,unknown,no_bacdive_record,,0
+Vulcanithermus mediatlanticus,5.5,unknown,no_bacdive_record,,0
+Vulcanisaeta souniana,3.5,unknown,no_bacdive_record,,0
+Vulcanisaeta moutnovskia,3.5,unknown,no_bacdive_record,,0
+Vulcanisaeta distributa,3.5,unknown,no_bacdive_record,,0
+Venenivibrio stagnispumantis,4.8,unknown,range_only,growth range from pH 4.8,2
+Thermus thermophilus,5.1,unknown,no_bacdive_record,,0
+Thermus islandicus,5.5,unknown,range_only,growth range from pH 5.5,2
+Thermus igniterrae,5.5,unknown,no_bacdive_record,,0
+Thermus composti,5.0,unknown,range_only,growth range from pH 5,2
+Thermococcus onnurineus,5.0,unknown,no_bacdive_record,,0
+Thermus antranikianii,5.0,unknown,no_bacdive_record,,0
+Thermovibrio ammonificans,5.0,unknown,range_only,growth range from pH 5,2
+Thermotoga petrophila,5.2,unknown,verified_measured,no growth recorded at pH 5,4
+Thermotoga neapolitana,5.5,unknown,no_bacdive_record,,0
+Thermotoga maritima,5.5,unknown,no_bacdive_record,,0
+Thermosulfurimonas dismutans,5.5,unknown,range_only,growth range from pH 5.5,2
+Thermosulfidibacter takaii,5.0,unknown,range_only,growth range from pH 5,2
+Thermosporothrix hazakensis,5.4,unknown,range_only,growth range from pH 5.4,2
+Thermosphaera aggregans,5.0,unknown,range_only,growth range from pH 5,2
+Thermosipho melanesiensis,3.5,unknown,no_bacdive_record,,0
+Thermovibrio ruber,5.0,unknown,no_bacdive_record,,0
+Thermococcus nautili,4.0,unknown,no_bacdive_record,,0
+Thermoproteus thermophilus,4.0,unknown,no_bacdive_record,,0
+Thermococcus litoralis,4.0,unknown,no_bacdive_record,,0
+Sulfolobus acidocaldarius,1.0,unknown,no_bacdive_record,,0
+Stetteria hydrogenophila,4.5,unknown,no_bacdive_record,,0
+Staphylothermus marinus,4.5,unknown,no_bacdive_record,,0
+Staphylothermus hellenicus,4.5,unknown,range_only,growth range from pH 4.5,2
+Saccharolobus solfataricus,3.5,unknown,no_bacdive_record,,0
+Saccharolobus caldissimus,1.5,unknown,range_only,growth range from pH 1.5,2
+Rhodothermus marinus,5.5,unknown,no_bacdive_record,,0
+Pyrolobus fumarii,4.0,unknown,no_bacdive_record,,0
+Pyrodictium occultum,4.5,unknown,no_bacdive_record,,0
+Sulfolobus metallicus,1.0,unknown,no_bacdive_record,,0
+Pyrodictium delaneyi,5.0,unknown,range_only,growth range from pH 5,2
+Pyrodictium abyssi,4.7,unknown,no_bacdive_record,,0
+Pyrococcus kukulkanii,3.5,unknown,range_only,growth range from pH 3.5,2
+Pyrococcus horikoshii,5.0,unknown,no_bacdive_record,,0
+Pyrococcus furiosus,5.0,unknown,no_bacdive_record,,0
+Pyrococcus abyssi,4.0,unknown,no_bacdive_record,,0
+Pyrobaculum organotrophum,5.0,unknown,no_bacdive_record,,0
+Pyrobaculum oguniense,5.4,unknown,no_bacdive_record,,0
+Pyrobaculum neutrophilum,6.0,unknown,no_bacdive_record,,0
+Thermococcus marinus,4.0,unknown,no_bacdive_record,,0
+Pyrodictium brockii,4.5,unknown,no_bacdive_record,,0
+Sulfolobus tengchongensis,1.7,unknown,no_bacdive_record,,0
+Saccharolobus shibatae,1.5,unknown,no_bacdive_record,,0
+Sulfurihydrogenibium azorense,5.5,unknown,range_only,growth range from pH 5.5,2
+Thermococcus kodakarensis,5.0,unknown,no_bacdive_record,,0
+Thermococcus indicus,5.4,unknown,no_bacdive_record,,0
+Thermococcus gammatolerans,4.0,unknown,no_bacdive_record,,0
+Sulfolobus tokodaii,2.0,unknown,no_bacdive_record,,0
+Thermococcus eurythermalis,4.0,unknown,no_bacdive_record,,0
+Thermococcus coalescens,5.2,unknown,no_bacdive_record,,0
+Thermococcus camini,5.0,unknown,no_bacdive_record,,0
+Thermococcus barossii,3.0,unknown,no_bacdive_record,,0
+Thermococcus barophilus,4.5,unknown,no_bacdive_record,,0
+Thermococcus atlanticus,5.0,unknown,no_bacdive_record,,0
+Thermococcus fumicolans,4.5,unknown,no_bacdive_record,,0
+Thermoanaerobacterium saccharolyticum,5.0,unknown,no_bacdive_record,,0
+Thermoanaerobacterium xylanolyticum,5.0,unknown,range_only,growth range from pH 5,2
+Thermaerobacter marianensis,5.4,unknown,range_only,growth range from pH 5.4,2
+Thermoanaerobacter kivui,5.3,unknown,no_bacdive_record,,0
+Thermoanaerobacter mathranii,4.7,unknown,no_bacdive_record,,0
+Thermoanaerobacter ethanolicus,4.4,unknown,no_bacdive_record,,0
+Thermoanaerobacter siderophilus,4.8,unknown,no_bacdive_record,,0
+Thermoanaerobacter thermohydrosulfuricus,5.5,unknown,no_bacdive_record,,0
+Thermoanaerobacter uzonensis,4.2,unknown,range_only,growth range from pH 4.2,2
+Thermoanaerobacter pseudethanolicus,5.0,unknown,no_bacdive_record,,0
+Acidianus copahuensis,1.0,unknown,no_bacdive_record,,0
+Acidomonas methanolica,2.0,unknown,no_bacdive_record,,0
+Acidithiobacillus albertensis,3.23,unknown,no_bacdive_record,,0
+Granulicella pectinivorans,3.0,unknown,range_only,growth range from pH 3,2
+Rhodopila globiformis,4.35,unknown,no_bacdive_record,,0
+Methylacidimicrobium cyclopophantes,0.6,unknown,no_bacdive_record,,0
+Ferrovum myxofaciens,2.0,unknown,no_bacdive_record,,0
+Acidibacillus sulfuroxidans,1.3,unknown,no_bacdive_record,,0
+Acidithiobacillus ferrivorans,1.6749999999999998,unknown,no_bacdive_record,,0
+Methylacidimicrobium tartarophylax,0.5,unknown,no_bacdive_record,,0
+Acidibacillus ferrooxidans,1.9,unknown,no_bacdive_record,,0
+Acidiferrobacter thiooxydans,1.0,unknown,no_bacdive_record,,0
+Acidithrix ferrooxidans,2.0,unknown,no_bacdive_record,,0
+Gluconacetobacter entanii,2.09,unknown,no_bacdive_record,,0
+Ferrithrix thermotolerans,1.44,unknown,curator_minimum,BacDive minimum pH 1.6,2
+Methylacidiphilum fumariolicum,1.4,unknown,no_bacdive_record,,0
+Acidiphilium cryptum,2.1,unknown,range_only,growth range from pH 1.9,2
+Acidiphilium rubrum,1.95,unknown,no_bacdive_record,,0
+Acidiphilium angustum,1.95,unknown,no_bacdive_record,,0
+Acidiphilium multivorum,1.9,unknown,no_bacdive_record,,0
+Thiomonas arsenitoxydans,2.95,unknown,no_bacdive_record,,0
+Acidithiobacillus ferridurans,1.15,unknown,record_without_growth_ph,,1
+Acidithiobacillus ferrooxidans,1.36,unknown,no_bacdive_record,,0
+Cuniculiplasma divulgatum,0.5,unknown,range_only,growth range from pH 0.5,2
+Acidimicrobium ferrooxidans,1.45,unknown,record_without_growth_ph,,1
+Sulfobacillus acidophilus,1.5,unknown,no_bacdive_record,,0
+Leptospirillum ferriphilum,1.05,unknown,no_bacdive_record,,0
+Acidocella facilis,2.5,unknown,no_bacdive_record,,0
+Nitrosotalea okcheonensis,4.45,unknown,no_bacdive_record,,0
+Methyloferula stellata,3.5,unknown,no_bacdive_record,,0
+Sulfobacillus thermosulfidooxidans,1.15,unknown,no_bacdive_record,,0
+Acetobacter nitrogenifigens,3.95,unknown,no_bacdive_record,,0
+Leptospirillum ferrooxidans,1.21,unknown,no_bacdive_record,,0
+Streptococcus gallolyticus,4.8,unknown,range_only,growth range from pH 4.8,2
+Streptococcus chenjunshii,7.0,unknown,no_bacdive_record,,0
+Streptococcus penaeicida,4.0,unknown,no_bacdive_record,,0
+Streptococcus caviae,4.5,unknown,no_bacdive_record,,0
+Streptococcus oralis subsp. dentisani,6.0,unknown,no_bacdive_record,,0
+Gluconobacter japonicus,3.0,unknown,range_only,growth range from pH 3,2
+Sulfobacillus thermotolerans,1.2,unknown,range_only,growth range from pH 1.2,2
+Acidocella aluminiidurans,3.0,unknown,range_only,growth range from pH 3,2
+Acidocella aquatica,3.0,unknown,range_only,growth range from pH 3,2
+Acidobacterium capsulatum,3.0,unknown,curator_minimum,BacDive minimum pH 3,2
+Acidithiobacillus sulfuriphilus,1.8,unknown,range_only,growth range from pH 1.8,2
+Acidihalobacter aeolianus,1.5,unknown,range_only,growth range from pH 1.5,2
+Acidihalobacter ferrooxydans,1.0,unknown,range_only,growth range from pH 1,2
+Ferrimicrobium acidiphilum,1.4,unknown,curator_minimum,BacDive minimum pH 1.4,2
+Thiomonas bhubaneswarensis,6.0,unknown,range_only,growth range from pH 6,2

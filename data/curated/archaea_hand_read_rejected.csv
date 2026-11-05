@@ -1,0 +1,28 @@
+species,reason
+Methanobrevibacter filiformis,optimum only (7.0-7.2)
+Methanosarcina semesiae,"range given is for fastest growth, not growth limits"
+Methanobacterium aarhusense,"only no-growth bounds (below 5, above 9) and two growth points; minimum not determinable"
+Halalkalicoccus tibetensis,optimum only
+Methanofollis formosanus,fastest-growth range only
+Methanobacterium beijingense,"fastest-growth values only, two strains"
+Methermicoccus shengliensis,optimum only
+Natronorubrum sulfidifaciens,optimum only
+Methanoculleus receptaculi,growth conditions/optimum only
+Methanoregula formicica,range 7.0-7.6 is under 1 pH unit; likely limited by the tested range
+Methanolinea mesophila,range 6.5-7.4 is under 1 pH unit; likely test-limited
+Methanobrevibacter boviskoreani,optimum ranges only
+Methanohalophilus levihalophilus,optimum only
+Pyrobaculum igneiluti,pH 5.5-7.3 attached to optimal growth; ambiguous
+Nitrosopumilus adriaticus,optimum only
+Haloterrigena salifodinae,optimum only
+Halostella pelagica,"optimum only, two species"
+Methanofollis fontis,optimum only
+Haloferax litoreum,pH 7.0-8.0 given as culture condition for three species
+Halegenticoccus tardaugens,optimum only
+Halorubrum salipaludis,optimum only
+Halocatena marina,optimum only
+Natronorarus salvus,one range for four species with different optima; not assignable
+Nitrosarchaeum haohaiensis,optimum only
+Halorubrum marinum,one range for five species with different optima; not assignable
+Halomicrobium halophilum,optimum only
+Natronorubrum marinum,optimal-growth range for four species

@@ -1,0 +1,16 @@
+part,effect,delta_ph,alpha_basis,alpha,sd_assay,n_per_group,achieved_power,mde_ph,note,mde_at_20,conservative_delta,shortfall_factor,n_required_conservative,delta_small,delta_large,n_for_0.05,n_for_0.16,n_positions,per_reversal_ph,required_pilot
+required n,32-reference scaling (conservative),-0.05,"0.05, one pre-specified primary test",0.05,0.1,64.0,0.80145955792871,,,,,,,,,,,,,
+required n,32-reference scaling (conservative),-0.05,0.05/17 Bonferroni across every declared arm,0.0029411764705882353,0.1,119.0,0.8014510762395918,,,,,,,,,,,,,
+required n,7-reference scaling (design's primary figure),-0.16,"0.05, one pre-specified primary test",0.05,0.1,8.0,0.8447931990663254,,,,,,,,,,,,,
+required n,7-reference scaling (design's primary figure),-0.16,0.05/17 Bonferroni across every declared arm,0.0029411764705882353,0.1,14.0,0.8148299383533268,,,,,,,,,,,,,
+mde at design n,,,"0.05, one pre-specified primary test",0.05,0.1,20.0,,0.09091290326820792,,,,,,,,,,,,
+mde at design n,,,0.05/17 Bonferroni across every declared arm,0.0029411764705882353,0.1,20.0,,0.12816139031761176,,,,,,,,,,,,
+verdict,,,,,,,,,design floor n=20 against the conservative prediction,0.09091290326820792,-0.05,1.8182580653641582,64.0,,,,,,,
+sd sensitivity,,,,,0.05,,,,,0.04545645163410396,,,,-0.05,-0.16,17.0,3.0,,,
+sd sensitivity,,,,,0.075,,,,,0.06818467745115592,,,,-0.05,-0.16,37.0,5.0,,,
+sd sensitivity,,,,,0.1,,,,,0.09091290326820792,,,,-0.05,-0.16,64.0,8.0,,,
+sd sensitivity,,,,,0.15,,,,,0.13636935490231183,,,,-0.05,-0.16,143.0,15.0,,,
+sd sensitivity,,,,,0.2,,,,,0.18182580653641583,,,,-0.05,-0.16,253.0,26.0,,,
+per reversal,32-reference scaling (conservative),-0.05,,,,,,,,,,,,,,,,14.0,-0.0035714285714285718,
+per reversal,7-reference scaling (design's primary figure),-0.16,,,,,,,,,,,,,,,,14.0,-0.011428571428571429,
+pooled assay,,,,,,,,,not powerable without a measured fitness-per-pH-unit slope,,,,,,,,,,,regress log relative fitness on independently measured pH_min differences across a spike-in ladder

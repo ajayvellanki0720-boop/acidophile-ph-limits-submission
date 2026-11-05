@@ -1,0 +1,16 @@
+part,measure,n,beta_per_sd,se,p,beta_periplasmic,share_of_original,beta_tm,p_tm,beta_peri,ratio_tm_to_peri,move_in_se,verdict
+fact,transmembrane on salinity-measured,669.0,-0.14814920317697555,0.04957107582791045,0.0029060262267875648,0.14183837153271553,,,,,,,
+a,growth-wide composition only (as scripts/98),669.0,-0.14814920317697555,0.04957107582791045,0.0029060262267875648,,1.0,,,,,,
+a,+ genome size and GC,669.0,-0.14828276200960597,0.049449001943643996,0.0028131723857993686,,1.0009015157001613,,,,,,
+a,+ assembly completeness,669.0,-0.14829639901299474,0.049489042498981554,0.0028329770098956997,,1.0009935648175128,,,,,,
+b,salinity-measured (the anomaly),669.0,,,,,,-0.14814920317697555,0.0029060262267875648,0.14183837153271553,1.0444931197112934,,
+b,growth-optimum-known,1655.0,,,,,,-0.02256907644641845,0.44355826799866904,0.2123234655728476,0.10629572376999029,,
+b,optimum-known but NOT salinity-measured,1307.0,,,,,,-0.01064213993405297,0.7430472668816774,0.18003666645318792,0.05911095858254006,,
+b,neither,792.0,,,,,,-0.03709101577322125,0.38237797825858166,0.2297357904770528,0.16145075043031265,,
+c,drop Lipopolysaccharide biosynthesis protein WzxC,,-0.11042444226335746,,0.02305675995652745,,,,,,,0.7610236470271962,
+c,drop Multidrug export protein EmrB,,-0.1114127254252247,,0.02669364161269501,,,,,,,0.7410869572265119,
+c,drop Aromatic amino acid exporter YddG,,-0.13094053712270962,,0.008594649033846546,,,,,,,0.347151353220718,
+c,drop Ammonium transporter AmtB,,-0.1632735075140774,,0.0009680861678285575,,,,,,,0.30510341130394186,
+d,salinity maximum <= 5.0% NaCl,349.0,-0.062183002315196356,0.06438434902980984,0.33482007569449046,,,,,,,,
+d,salinity maximum >  5.0% NaCl,320.0,-0.21177914077880075,0.06588451304496531,0.0014431098993665256,,,,,,,,
+verdict,,669.0,,,,,,,,,,,"SALT ADAPTATION, which was the one account I did not expect. The signal is confined to the salt-tolerant half: -0.21178 (p 1.44e-03) above 5.0% NaCl against -0.06218 (p 3.35e-01) below it, a factor of 3.4. Well-studiedness is ruled out by an independently-defined characterised subset that does NOT reproduce it (optimum-known, n=1,655, p 0.44); measured composition is ruled out because holding genome size, GC and assembly completeness fixed leaves 100% of it; and no single reference moves it more than 0.76 SE. This is the reassuring answer rather than the alarming one: halotolerant membranes are compositionally distinct, which is a known biological fact and is exactly what scripts/43 found inside archaeal halophiles, where the transmembrane class also turns non-null and specificity fails. The control is not broken; it is responding to salt in the organisms that tolerate salt."

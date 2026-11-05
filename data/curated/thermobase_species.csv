@@ -1,0 +1,301 @@
+species,n_rows,taxid,domain,phylum,order,family,ph_min,ph_opt,ph_max,ph_min_spread,temp_opt_c,sources,conflict
+Acetomicrobium mobile,1,2509601011,Bacteria,Synergistetes,Synergistales,Synergistaceae,5.4,6.95,8.7,0.0,57.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-1-157,False
+Acetomicrobium thermoterrenum,1,1120986,Bacteria,Synergistetes,Synergistales,Synergistaceae,5.5,7.3,8.6,0.0,55.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-47-1-150,False
+Acidianus ambivalens,1,2283,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,2.5,3.5,0.0,80.0,http://web2.uwindsor.ca/courses/biology/fackrell/Microbes/35100.htm,False
+Acidianus brierleyi,1,41673,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,1.75,6.0,0.0,70.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-36-4-559,False
+Acidianus hospitalis,1,650716001,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,,4.0,0.0,,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3119797/,False
+Acidianus infernus,1,12915,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,2.0,5.5,0.0,90.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-36-4-559,False
+Acidianus manzaensis,2,282676,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,1.65,3.5,0.0,72.5,https://link.springer.com/article/10.1007%2Fs00284-006-0151-1 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3769825/,False
+Acidianus sulfidivorans,1,312539,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,0.35,1.1,3.0,0.0,74.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64846-0,False
+Acidianus tengchongensis,1,146920,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,1.75,5.5,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/15057486/,False
+Acidilobus aceticus,1,105851,Archaea,Crenarchaeota,Acidilobales,Acidilobaceae,2.0,3.8,6.0,0.0,85.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-50-6-2001#tab2,False
+Acidilobus saccharovorans,1,648028003,Archaea,Crenarchaeota,Acidilobales,Acidilobaceae,3.5,3.75,4.0,0.0,82.5,https://pubmed.ncbi.nlm.nih.gov/19643887/,False
+Acidilobus sulfurireducens,1,411357,Archaea,Crenarchaeota,Acidilobales,Acidilobaceae,2.2,3.0,5.5,0.0,81.0,https://pubmed.ncbi.nlm.nih.gov/17720836/,False
+Acidiplasma aeolicum,1,507754,Archaea,Euryarchaeota,Thermoplasmatales,Ferroplasmaceae,0.0,1.5,4.0,0.0,45.0,https://pubmed.ncbi.nlm.nih.gov/19628615/,False
+Acidiplasma cupricumulans,1,312540,Archaea,Euryarchaeota,Thermoplasmatales,Ferroplasmaceae,0.4,1.1,,0.0,53.6,https://pubmed.ncbi.nlm.nih.gov/16721487/,False
+Acidithiobacillus caldus,1,650716003,Bacteria,Proteobacteria,Acidithiobacillales,Acidithiobacillaceae,1.0,2.25,3.5,0.0,45.0,https://www.microbiologyresearch.org/docserver/fulltext/micro/140/12/mic-140-12-3451.pdf?expires=1623640707&id=id&accname=guest&checksum=7A67C2B1E84B5BB7D972CAADE7C821A0,False
+Acidothermus cellulolyticus,1,639633001,Bacteria,Actinobacteria,Actinomycetales,Acidothermaceae,3.5,5.0,7.0,0.0,55.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/36/3/ijs-36-3-435.pdf?expires=1623697641&id=id&accname=guest&checksum=499AB8C381D0CD58AE949C6B53963B30,False
+Aciduliprofundum boonei,1,646564501,Archaea,Euryarchaeota,unclassified,unclassified,3.3,4.5,5.8,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/19643887/,False
+Aciduliprofundum sp,1,2508501109,Archaea,Euryarchaeota,unclassified,unclassified,4.4,5.0,5.5,0.0,65.0,https://ediss.sub.uni-hamburg.de/volltexte/2019/8452/pdf/Dissertation.pdf,False
+Aeropyrum pernix,1,56636,Archaea,Crenarchaeota,Desulfurococcales,‎Desulfurococcaceae,5.0,7.0,9.0,0.0,95.0,https://www.jbc.org/content/early/2003/03/21/jbc.M210288200.full.pdf,False
+Alicyclobacillus acidiphilus,1,182455,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.5,3.0,5.5,0.0,50.0,https://pubmed.ncbi.nlm.nih.gov/12361274/,False
+Alicyclobacillus acidocaldarius,1,644736325,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,3.5,6.0,0.0,62.5,https://www.sciencedirect.com/science/article/abs/pii/S0740002008001378?via%3Dihub,False
+Alicyclobacillus acidoterrestris,1,1450,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.2,4.0,5.8,0.0,47.5,https://www.sciencedirect.com/science/article/abs/pii/S0740002008001378?via%3Dihub,False
+Alicyclobacillus cellulosilyticus,1,1003997,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.5,4.8,6.5,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/24711593/,False
+Alicyclobacillus contaminans,1,392016,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.0,4.25,6.0,0.0,52.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus cycloheptanicus,1,1457,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.0,4.0,5.5,0.0,48.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/42/2/ijs-42-2-263.pdf?expires=1622840554&id=id&accname=guest&checksum=64C7CC3A7D46CF24C3DA154BC5BB7670,False
+Alicyclobacillus fastidiosus,1,392011,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,4.25,5.5,0.0,42.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus herbarius,1,122960,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.5,4.75,6.0,0.0,57.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-1-109#tab2,False
+Alicyclobacillus hesperidum,1,89784,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,3.75,6.0,0.0,61.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-50-2-451#tab2,False
+Alicyclobacillus kakegawensis,1,392012,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.0,4.25,6.5,0.0,52.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus macrosporangiidus,1,392015,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.0,4.25,6.5,0.0,52.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus montanus,1,1830138,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,1.5,3.5,4.5,0.0,45.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002718#tab2,False
+Alicyclobacillus pomorum,1,204470,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.5,4.75,6.5,0.0,47.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02546-0#tab2,False
+Alicyclobacillus sacchari,1,392010,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,4.25,6.0,0.0,47.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus sendaiensis,1,192387,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.5,5.5,6.5,0.0,55.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02409-0#tab2,False
+Alicyclobacillus shizuokensis,1,392014,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.0,4.25,6.5,0.0,47.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64692-0#tab2,False
+Alicyclobacillus tengchongensis,1,368812,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,3.2,6.0,0.0,45.0,https://link.springer.com/article/10.1007%2Fs12275-014-3625-z,False
+Alicyclobacillus vulcanalis,1, 252246,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,2.0,4.0,6.0,0.0,55.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.03012-0#tab2,False
+Ammonifex degensii,1,646311904,Bacteria,Firmicutes,Thermoanaerobacterales,Thermoanaerobacteraceae,5.0,7.5,8.0,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/11539844/,False
+Anoxybacillus flavithermus,1,643348508,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.0,7.0,9.0,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/11155986/,False
+Aquifex aeolicus,1,637000010,Bacteria,Aquificae,Aquificales,Aquificaceae,5.4,6.8,7.5,0.0,85.0,https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001010,False
+Aquifex pyrophilus,1, 2714,Bacteria,Aquificae,Aquificales,Aquificaceae,5.4,6.8,7.5,0.0,85.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202011802067,False
+Archaeoglobus infectus,1,403219,Archaea,Euryarchaeota,Archaeoglobales,Archaeoglobaceae,6.5,6.5,7.0,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/18398174/,False
+Archaeoglobus profundus,1,646311906,Archaea,Euryarchaeota,Archaeoglobales,Archaeoglobaceae,4.6,6.05,7.5,0.0,85.0,"https://bacdive.dsmz.de/strain/18097#:~:text=Archaeoglobus%20profundus%20AV18%20is%20an,from%20deep%20sea%20hydrothermal%20vents.",False
+Ardenticatena maritima,1,872965,Bacteria,Chloroflexi,Ardenticatenales,Ardenticatenaceae,5.5,6.75,8.0,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/23378114/,False
+Athalassotoga saccharophila,1,1441386,Bacteria,Thermotogae,Mesoaciditogales,Mesoaciditogaceae,4.5,5.75,7.5,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/26651491/,False
+Balnearium lithotrophicum,1, 223788,Bacteria,Aquificae,Aquificales,Desulfurobacteriaceae,5.0,5.4,7.0,0.0,72.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02773-0,False
+Caldanaerobacter uzonensis,1,447594,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.8,6.8,8.0,0.0,69.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.012328-0#tab2,False
+Caldicellulosiruptor owensensis,1,649633025,Bacteria,Firmicutes,Thermoanaerobacterales,Thermoanaerobacterales Family III,5.5,7.5,9.0,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/9542080/,False
+Caldicellulosiruptor saccharolyticus,1,640427106,Bacteria,Firmicutes,Thermoanaerobacterales,Thermoanaerobacterales Family III,5.5,7.0,8.0,0.0,70.0,https://academic.oup.com/femsle/article/120/3/263/520853,False
+Caldisericum exile,1,2513237181,Bacteria,Caldiserica,Caldisericales,Caldisericaceae,5.5,6.5,7.5,0.0,65.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.010033-0,False
+Caldisphaera draconis,1,411358,Archaea,Crenarchaeota,Acidilobales,Caldiphaeraceae,2.0,3.0,5.5,0.0,81.0,https://pubmed.ncbi.nlm.nih.gov/17720836/,False
+Caldisphaera lagunensis,1,2510065009,Archaea,Crenarchaeota,Acidilobales,Caldiphaeraceae,2.3,3.75,5.4,0.0,72.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02580-0,False
+Calditerrivibrio nitroreducens,1,649633026,Bacteria,Deferribacteres,Deferribacterales,Deferribacteraceae,5.5,7.25,8.0,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/18599715/,False
+Caldivirga maquilingensis,1,641228483,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,2.3,3.95,6.4,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/49/3/ijs-49-3-1157.pdf?expires=1603575162&id=id&accname=guest&checksum=7DCE0FF70117CF137A60C064CC9B3E16,False
+Chloracidobacterium thermophilum,1,2512047033,Bacteria,Acidobacteria,Acidobacteriales,Acidobacteriaceae,5.5,7.0,9.5,0.0,51.0,https://pubmed.ncbi.nlm.nih.gov/25667398/,False
+Chloroflexus aurantiacus,1,641228485,Bacteria,Chloroflexi,Chloroflexales,Chloroflexaceae,5.5,8.0,8.5,0.0,56.0,https://link.springer.com/article/10.1007/BF00446302,False
+Chthonomonas calidirosea,1,2524614646,Bacteria,Armatimonadetes,Chthonomonadales,Chthonomonadaceae,4.7,5.3,5.8,0.0,68.0,https://pubmed.ncbi.nlm.nih.gov/21097641/,False
+Clostridium caenicola,1,659425,Bacteria,Firmicutes,Clostridales,Clostridiaceae,6.0,6.5,8.0,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/19542130/,False
+Clostridium fervidus,1,29344,Bacteria,Firmicutes,Clostridales,Clostridiaceae,5.5,7.25,9.0,0.0,68.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-37-2-123,False
+Clostridium thermoautotrophicum,1,1560,Bacteria,Firmicutes,Clostridales,Clostridiaceae,4.5,5.7,7.6,0.0,56.5,https://link.springer.com/article/10.1007/BF01571158,False
+Coprothermobacter platensis,1,1259795,Bacteria,Coprothermobacterota,Coprothermobacterales,Coprothermobacteraceae,4.3,7.0,8.3,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/9828430/,False
+Coprothermobacter proteolyticus,1,643348530,Bacteria,Coprothermobacterota,Coprothermobacterales,Coprothermobacteraceae,5.0,7.1,9.4,0.0,67.5,https://www.sciencedirect.com/science/article/abs/pii/S0723202011800214?via%3Dihub,False
+Cyanidium caldarium,1,2771,Eukaryota,Rhodophyta,Cyanidiales,Cyanidiaceae,0.05,2.5,5.0,0.0,45.0,https://www.microbiologyresearch.org/content/journal/micro/10.1099/00221287-67-1-17,False
+Deferribacter desulfuricans,1,646564525,Bacteria,Deferribacteres,Deferribacterales,Deferribacteraceae,5.0,6.5,7.5,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/12807210/,False
+Deinococcus geothermalis,1,641228488,Bacteria,Deinococcus-Thermus, Deinococcales,Deinococcaceae,4.1,6.5,8.9,0.0,47.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-47-4-939,False
+Deinococcus murrayi,1,68910,Bacteria,Deinococcus-Thermus, Deinococcales,Deinococcaceae,5.1,8.0,10.4,0.0,47.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-47-4-939,False
+Desulfurella acetivorans,1,2512564091,Bacteria,Proteobacteria,Desulfurellales,Desulfurellaceae,4.3,6.9,7.3,0.0,54.5,https://link.springer.com/article/10.1007/BF00247813,False
+Desulfurobacterium atlanticum,1,240169,Bacteria,Aquificae,Aquificales,Desulfurobacteriaceae,5.0,6.1,7.5,0.0,72.5,https://pubmed.ncbi.nlm.nih.gov/17158986/,False
+Desulfurobacterium crinifex,1, 206249,Bacteria,Aquificae,Aquificales,Desulfurobacteriaceae,5.0,6.25,7.5,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/12743834/,False
+Desulfurobacterium pacificum,1, 240166 (,Bacteria,Aquificae,Aquificales,Desulfurobacteriaceae,5.5,6.1,7.5,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/17158986/,False
+Desulfurobacterium thermolithotrophum,1,64160,Bacteria,Aquificae,Aquificales,Desulfurobacteriaceae,4.4,6.0,8.0,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/9734024/,False
+Desulfurococcus amylolyticus,1,94694,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,5.7,6.4,7.5,0.0,91.0,https://www.uniprot.org/proteomes/UP000006903,False
+Desulfurococcus fermentans,1,2513020047,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.8,6.0,6.8,0.0,81.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63378-0,False
+Desulfurococcus kamchatkensis,1,643348540,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.0,7.0,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2655497/,False
+Desulfurococcus mobilis,1,2275,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,2.2,5.75,6.5,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4711178/,False
+Desulfurococcus mucosus,1,649633040,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.0,7.0,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4711178/,False
+Desulfurococcus saccharovorans,1,54257,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,2.2,5.75,6.5,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4711178/,False
+Dictyoglomus thermophilum,1,643348542,Bacteria,Dictyoglomi,Dictyoglomales,Dictyoglomaceae,5.4,7.0,8.9,0.0,75.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-35-3-253,False
+Ferroplasma acidarmanus,3,97393,Archaea,Euryarchaeota,Thermoplasmatales,Ferroplasmaceae,0.35,1.2,3.0,0.14999999999999997,42.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC383147/,False
+Ferroplasma cupricumulans,1,312540,Archaea,Euryarchaeota,Thermoplasmatales,Ferroplasmaceae,0.4,1.1,1.9,0.0,53.6,https://pubmed.ncbi.nlm.nih.gov/16721487/,False
+Ferroplasma thermophilum,1,424696,Archaea,Euryarchaeota,Thermoplasmatales,Ferroplasmaceae,0.2,1.0,2.5,0.0,45.0,https://pubmed.ncbi.nlm.nih.gov/18422958/,False
+Fervidicoccus fontis,1,2513237177,Archaea,Crenarchaeota,Desulfurococcales,Fervidicoccaceae,4.5,5.75,7.5,0.0,67.5,https://bacdive.dsmz.de/strain/17820,False
+Fervidobacterium pennivorans,1,2507149014,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.5,6.5,8.0,0.0,70.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1388917/,False
+Geobacillus icigianus,1,1430331,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.0,6.75,9.0,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/25514918/,False
+Geobacillus sp,1,649633048,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.5,7.5,8.0,0.0,65.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4617443/#MOESM1,False
+Geobacillus thermantarcticus,1,186116,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.5,6.0,9.0,0.0,63.0,https://link.springer.com/article/10.1007/s003000050034,False
+Geobacillus vulcani,1,135517,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.5,6.0,9.0,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/11155974/,False
+Geobacillus zalihae,1,213419,Bacteria,Firmicutes,Bacillales,Bacillaceae,5.0,6.5,9.0,0.0,65.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2000885/,False
+Geoglobus acetivorans,1,2634166507,Archaea,Euryarchaeota,Archaeoglobales,Archaeoglobaceae,5.0,6.8,7.5,0.0,81.0,https://pubmed.ncbi.nlm.nih.gov/19628601/,False
+Geoglobus ahangari,1,113653,Archaea,Euryarchaeota,Archaeoglobales,Archaeoglobaceae,5.0,7.0,7.6,0.0,88.0,https://pubmed.ncbi.nlm.nih.gov/12054231/,False
+Haladaptatus paucihalophilus,1,367189,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,5.0,6.25,7.5,0.0,40.0,https://pubmed.ncbi.nlm.nih.gov/17220434/,False
+Halarchaeum grantii,1,1193105,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,4.5,5.25,6.5,0.0,45.0,https://pubmed.ncbi.nlm.nih.gov/28875923/,False
+Halarchaeum nitratireducens,2,489913,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,4.35,5.3,6.1,0.2999999999999998,45.0,https://pubmed.ncbi.nlm.nih.gov/23771625/,False
+Halarchaeum rubridurum,1,489911,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,4.4,5.5,6.8,0.0,42.5,https://pubmed.ncbi.nlm.nih.gov/23435243/,False
+Halarchaeum salinum,1,489912,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,4.5,5.3,7.2,0.0,42.0,https://pubmed.ncbi.nlm.nih.gov/22753525/,False
+Haloarchaeobius baliensis,1,1670458,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,5.5,6.75,9.0,0.0,43.0,https://pubmed.ncbi.nlm.nih.gov/26449644/,False
+Haloarcula hispanica,1,51589,Archaea,Euryarchaeota,Halobacteriales,Haloarculaceae,5.0,6.5,,0.0,40.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202086801527,False
+Halobacterium jilantaiense,1,355548,Archaea,Euryarchaeota, Halobacteriales,Halobacteriaceae,5.5,,8.5,0.0,45.0, https://pubmed.ncbi.nlm.nih.gov/17012561/,False
+Halobacterium noricense,1,223182,Archaea,Euryarchaeota, Halobacteriales,Halobacteriaceae,5.2,,7.0,0.0,50.0,https://pubmed.ncbi.nlm.nih.gov/15290323/,False
+Halobaculum magnesiiphilum,1,1017351,Archaea,Euryarchaeota,Haloferacales,Halorubraceae,5.5,6.5,9.5,0.0,45.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.037432-0,False
+Halobellus limi,1,699433,Archaea,Euryarchaeota,Haloferacales,Haloferacaceae,5.5,7.25,9.5,0.0,45.0,https://pubmed.ncbi.nlm.nih.gov/22661071/,False
+Halorhabdus rudnickae,1,1775544,Archaea,Euryarchaeota, Halobacteriales,Halobacteriaceae,5.5,7.0,9.0,0.0,40.0,https://pubmed.ncbi.nlm.nih.gov/26749115/,False
+Halorhabdus tiamatea,1,2654588040,Archaea,Euryarchaeota, Halobacteriales,Halobacteriaceae,5.5,6.8,8.5,0.0,45.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4257568/,False
+Halorhabdus utahensis,1,146826,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,5.5,6.9,8.5,0.0,50.0,https://pubmed.ncbi.nlm.nih.gov/10826803/,False
+Halothermothrix orenii,1,643348557,Bacteria,Firmicutes,Halanaerobiales,Halanaerobiaceae,5.5,6.75,8.2,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/7520742/,False
+Hippea maritima,1,2504136000,Bacteria,Proteobacteria,Desulfurellales,Desulfurellaceae,5.4,6.0,6.5,0.0,53.0,https://pubmed.ncbi.nlm.nih.gov/10425760/,False
+Hydrogenivirga caldilitoris,1,246264,Bacteria,Aquificae,Aquificales,Aquificaceae,5.5,6.75,8.3,0.0,75.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.03031-0,False
+Hydrogenobacter subterraneus,1,92642,Bacteria,Aquificae,Aquificales,Aquificaceae,5.5,7.5,9.0,0.0,78.0,https://pubmed.ncbi.nlm.nih.gov/11491342/,False
+Hydrogenobaculum acidophilum,1,34092,Bacteria,Aquificae,Aquificales,Aquificaceae,2.0,3.5,6.0,0.0,65.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-4-703,False
+Hydrogenothermus marinus,1,133270,Bacteria,Aquificae,Aquificales,Aquificaceae,5.0,6.8,7.0,0.0,65.0,https://pubmed.ncbi.nlm.nih.gov/11594618/,False
+Hyperthermus hephaesti,1,1227648,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,5.0,8.0,9.0,0.0,91.0,https://scholarworks.umass.edu/dissertations_2/110/,False
+Ignicoccus hospitalis,1,640753029,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,5.5,7.0,0.0,90.0,https://www.researchgate.net/publication/51376657_Ignicoccus_hospitalis_sp_nov_the_host_of_'Nanoarchaeum_equitans',False
+Ignicoccus islandicus,1,54259,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,3.8,5.8,6.5,0.0,90.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/50/6/0502093a.pdf?expires=1603943547&id=id&accname=guest&checksum=3559688C9FBC8668B73C51848D8933EA,False
+Ignicoccus pacificus,1,114376,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.0,7.0,0.0,90.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/50/6/0502093a.pdf?expires=1603943547&id=id&accname=guest&checksum=3559688C9FBC8668B73C51848D8933EA,False
+Ignisphaera aggregans,1,648028035,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,5.4,6.4,7.0,0.0,93.5,"https://www.uniprot.org/proteomes/UP000001304#:~:text=Close%20to%20Standard-,Ignisphaera%20aggregans%20(strain%20DSM%2017230%20%2F%20JCM%2013409%20%2F%20AQ1.,Park%2C%20Rotorua%2C%20New%20Zealand",False
+Kallotenue papyrolyticum,1,1325125,Bacteria,Chloroflexi,Kallotenuales,Kallotenuaceae,5.0,7.5,9.0,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/23950149/,False
+Korarchaeum cryptofilum,1,498846 ,Archaea,Proteoarchaeota,,TACK,4.8,,7.9,0.0,,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035964#s3,False
+Kosmotoga olearia,1, 651457,Bacteria,Thermotogae,Kosmotogales,Kosmotogaceae,5.5,6.8,8.0,0.0,65.0,https://pubmed.ncbi.nlm.nih.gov/19643902/,False
+Kosmotoga pacifica,1,1330330,Bacteria,Thermotogae,Kosmotogales,Kosmotogaceae,5.5,,8.5,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/24264736/,False
+Kyrpidia tusciae,1,646564511,Bacteria,Firmicutes,Bacillales,Alicyclobacillaceae,3.5,4.5,6.0,0.0,55.0,https://link.springer.com/article/10.1007%2FBF00408386,False
+Mahella australiensis,1,2503508009,Bacteria,Firmicutes,Thermoanaerobacterales,,5.5,7.5,8.8,0.0,50.0,https://pubmed.ncbi.nlm.nih.gov/15545453/,False
+Marinitoga camini,1,106262,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.0,7.0,9.0,0.0,55.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-51-2-495,False
+Marinitoga hydrogenitolerans,1,16785,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,4.5,6.0,8.5,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/15879258/,False
+Marinitoga litoralis,1,570855,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.5,6.0,7.5,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/19749030/,False
+Marinitoga okinawensis,1,389480,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.0,5.65,7.4,0.0,57.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64640-0,False
+Marinitoga piezophila,1,2508501120,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.0,6.0,8.0,0.0,65.0,"https://pubmed.ncbi.nlm.nih.gov/12148648/#:~:text=Growth%20is%20enhanced%20by%20hydrostatic,20%20min%20at%2040%20MPa).",False
+Meiothermus cateniformans,1, 482825,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,8.25,10.0,0.0,57.5,https://pubmed.ncbi.nlm.nih.gov/19661497/,False
+Meiothermus rosaceus,1,142584,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,4.5,8.5,10.0,0.0,55.0,https://academic.oup.com/femsle/article/216/2/263/484426,False
+Meiothermus silvanus,1,646564546,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,8.25,9.5,0.0,55.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-45-4-633,False
+Meiothermus timidus,1,307124,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,7.5,10.0,0.0,57.5,https://academic.oup.com/femsle/article/245/1/39/483310,False
+Mesoaciditoga lauensis,1,1495039,Bacteria,Thermotogae,Mesoaciditogales,Mesoaciditogaceae,4.1,5.6,6.0,0.0,58.5,https://pubmed.ncbi.nlm.nih.gov/23959829/,False
+Metallosphaera cuprina,1,650716051,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.2,3.5,5.5,0.0,65.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3133273/,False
+Metallosphaera hakonensis,1, 79601,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,3.0,4.0,0.0,70.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/61/10/2395_ijs026591.pdf?expires=1604028805&id=id&accname=guest&checksum=2C9CA2A299037B884924480A4BFE1AE7,False
+Metallosphaera prunae,1,47304,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,,4.5,0.0,75.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/61/10/2395_ijs026591.pdf?expires=1604028805&id=id&accname=guest&checksum=2C9CA2A299037B884924480A4BFE1AE7,False
+Metallosphaera sedula,1,640427120,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,2.0,4.5,0.0,75.0,https://www.sciencedirect.com/science/article/pii/S0723202089800384,False
+Metallosphaera tengchongensis,1,1532350,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.5,3.5,6.5,0.0,70.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.070870-0,False
+Metallosphaera yellowstonensis,1,1111107,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,,3.0,0.0,65.0,https://biocyc.org/organism-summary?object=GCF_000243315,False
+Methanocaldococcus bathoardescens,1,1301915,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,4.5,7.0,9.0,0.0,82.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.000097,False
+Methanocaldococcus fervens,1,644736385,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.5,6.5,6.7,0.0,80.0,https://pubmed.ncbi.nlm.nih.gov/14657125/,False
+Methanocaldococcus indicus,1,213231,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.5,6.5,6.7,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/4/1280_ijs000097.pdf?expires=1609887066&id=id&accname=guest&checksum=272436DE1E080BDD49BFBBC10D6C424F,False
+Methanocaldococcus infernus,1,646564547,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.25,6.5,7.0,0.0,85.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-48-3-913,False
+Methanocaldococcus jannaschii,1,638154505,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.25,6.1,7.0,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/4/1280_ijs000097.pdf?expires=1609887066&id=id&accname=guest&checksum=272436DE1E080BDD49BFBBC10D6C424F,False
+Methanocaldococcus sp,1,644281,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,4.5,,6.5,0.0,90.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/4/1280_ijs000097.pdf?expires=1609887066&id=id&accname=guest&checksum=272436DE1E080BDD49BFBBC10D6C424F,False
+Methanocaldococcus villosus,1,1069083,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.5,6.5,7.0,0.0,80.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/4/1280_ijs000097.pdf?expires=1609887066&id=id&accname=guest&checksum=272436DE1E080BDD49BFBBC10D6C424F,False
+Methanocaldococcus vulcanius,1,646311944,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.25,6.5,7.0,0.0,80.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/4/1280_ijs000097.pdf?expires=1609887066&id=id&accname=guest&checksum=272436DE1E080BDD49BFBBC10D6C424F,False
+Methanococcus aeolicus,2,419665,Archaea,Euryarchaeota,Methanococcales,Methanococcaceae,4.9,7.0,7.5,1.2000000000000002,45.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/56/7/1525.pdf?expires=1603470292&id=id&accname=guest&checksum=244A7EF9549C5A6C242BB772B2C3E050,True
+Methanoculleus submarinus,1,204050,Archaea,Euryarchaeota,Methanomicrobiales,Methanomicrobiaceae,5.0,6.75,8.7,0.0,45.0,https://aem.asm.org/content/69/6/3311,False
+Methanomethylovorans thermophila,1, 286152 ,Archaea,Euryarchaeota,Methanosarcinales,Methanosarcinaceae,5.0,6.5,7.5,0.0,50.0,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.318.1608&rep=rep1&type=pdf,False
+Methanopyrus kandleri,1,638154507,Archaea,Euryarchaeota,Methanopyrales,Methanopyraceae,5.5,6.5,7.0,0.0,98.0,https://link.springer.com/article/10.1007/BF00262992,False
+Methanosarcina flavescens,1,1715806,Archaea,Euryarchaeota,Methanosarcinales,Methanosarcinaceae,5.0,7.0,8.5,0.0,45.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/66/3/1533_ijsem000894.pdf?expires=1612897626&id=id&accname=guest&checksum=71EF3FA4877C840F91C324142F377471,False
+Methanosarcina thermophila,1,2636415612,Archaea,Euryarchaeota,Methanosarcinales,Methanosarcinaceae,5.5,6.0,8.0,0.0,50.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/66/3/1533_ijsem000894.pdf?expires=1612897626&id=id&accname=guest&checksum=71EF3FA4877C840F91C324142F377471,False
+Methanothermobacter marburgensis,1,648028041,Archaea,Euryarchaeota,Methanobacteriales,Methanobacteriaceae,5.0,7.1,8.0,0.0,65.0,https://pubmed.ncbi.nlm.nih.gov/19376257/,False
+Methanothermococcus okinawensis,1,650716055,Archaea,Euryarchaeota,Methanococcales,Methanococcaceae,4.5,6.5,8.5,0.0,62.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/52/4/0521089a.pdf?expires=1612910536&id=id&accname=guest&checksum=036D0D95F8E16C6DA7EF814174366595,False
+Methanothermococcus thermolithotrophicus,1,2186,Archaea,Euryarchaeota,Methanococcales,Methanococcaceae,5.1,5.4,7.5,0.0,65.0,https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-38954-2_410,False
+Methanothermus sociabilis,1,2181 ,Archaea,Euryarchaeota,Methanococcales,Methanococcaceae,5.5,,7.5,0.0,88.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202086801564,False
+Methanothrix thermoacetophila,1,2224,Archaea,Euryarchaeota,Methanosarcinales,Methanosaetaceae,6.0,6.5,8.0,0.0,60.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/42/3/ijs-42-3-463.pdf?expires=1613489299&id=id&accname=guest&checksum=DF35B67180C81AACCAE917933CB5D96C,False
+Methanotorris igneus,1,650716056,Archaea,Euryarchaeota,Methanococcales,Methanocaldococcaceae,5.0,5.7,7.5,0.0,88.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/54/4/1095.pdf?expires=1613492594&id=id&accname=guest&checksum=0FD6787042FA14D1ABC20A0AC1383B43,False
+Nanoarchaeum equitans,1,638154511,Archaea,Nanoarchaeota,,,5.0,5.5,6.5,0.0,87.5,https://jb.asm.org/content/190/5/1743,False
+Nanopusillus acidilobi,1,1577684,Archaea,Nanoarchaeota,Nanopusillaceae,,3.0,,3.5,0.0,82.0,https://www.nature.com/articles/ncomms12115,False
+Natronomonas gomsonensis,1,1046043,Archaea,Euryarchaeota,Halobacteriales,Halobacteriaceae,5.5,7.0,8.0,0.0,40.0,https://pubmed.ncbi.nlm.nih.gov/23851717/,False
+Oceanithermus profundus,1,649633077,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,7.5,8.4,0.0,60.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02367-0,False
+Oceanotoga teriensis,1,515440,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.5,7.55,9.0,0.0,56.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.018036-0,False
+Palaeococcus ferrophilus,1,83868,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,6.0,8.0,0.0,83.0,https://pubmed.ncbi.nlm.nih.gov/10758851/,False
+Palaeococcus helgesonii,1,207243,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,6.5,8.0,0.0,80.0,https://link.springer.com/article/10.1007%2Fs00203-003-0542-7,False
+Palaeococcus pacificus,1,2588253738,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,8.0,0.0,80.0, https://pubmed.ncbi.nlm.nih.gov/23104364/,False
+Parageobacillus thermoglucosidasius,1,650716039,Bacteria,Firmicutes,Bacillales,Bacillaceae,6.5,6.5,8.5,0.0,62.0,https://pubmed.ncbi.nlm.nih.gov/23194806/,False
+Persephonella guaymasensis,1, 182900,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,4.7,6.0,7.5,0.0,70.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-4-1349,False
+Persephonella hydrogeniphila,1,198703,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,5.5,7.2,7.6,0.0,70.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.02505-0,False
+Persephonella marina,1,643692030,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,4.7,6.0,7.5,0.0,73.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-4-1349,False
+Petrotoga japonica,1, 665105,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.0,7.5,9.0,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/24604301/,False
+Petrotoga mobilis,1,641228500,Bacteria,Thermotogae,Petrotogales,Petrotogacceae,5.5,6.75,8.5,0.0,59.0,https://pubmed.ncbi.nlm.nih.gov/9734057/,False
+Phorcysia thermohydrogeniphila,1,936138,Bacteria,Aquificae,Desulfurobacteriales, Desulfurobacteriaceae,4.5,6.0,8.5,0.0,75.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.035642-0,False
+Picrophilus oshimae,1,46632 ,Archaea,Euryarchaeota,Thermoplasmatales,Picrophilaceae,0.0,0.7,,0.0,60.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC177581/,False
+Picrophilus torridus,1,638154512,Archaea,Euryarchaeota,Thermoplasmatales,Picrophilaceae,0.0,0.7,3.5,0.0,60.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/46/3/ijs-46-3-814.pdf?expires=1613499598&id=id&accname=guest&checksum=C8169A1FCFB177AD7D6A990E050D3F87,False
+Pseudothermotoga elfii,1,38322 ,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.5,7.5,9.0,0.0,66.0,https://pubmed.ncbi.nlm.nih.gov/7537064/,False
+Pyrobaculum calidifontis,1,640069326,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.5,7.0,8.0,0.0,92.5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685560/,False
+Pyrobaculum ferrireducens,1,2511231117,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.5,6.5,7.5,0.0,92.5,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/3/851_ijs000027.pdf?expires=1613502825&id=id&accname=guest&checksum=C01BC1AED129C2E65D6622895E4F3E38,False
+Pyrobaculum igneiluti,1,1806371,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,4.0,6.4,8.0,0.0,90.0,https://pubmed.ncbi.nlm.nih.gov/28151382/,False
+Pyrobaculum islandicum,1,639633053,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.0,6.0,7.0,0.0,100.0,https://link.springer.com/article/10.1007/BF00425072,False
+Pyrobaculum neutrophilum,1,641522657,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,6.0,6.5,7.0,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/65/3/851_ijs000027.pdf?expires=1613502825&id=id&accname=guest&checksum=C01BC1AED129C2E65D6622895E4F3E38,False
+Pyrobaculum oguniense,1,2512047039,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.4,6.5,7.4,0.0,92.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/51/2/0510303a.pdf?expires=1613507184&id=id&accname=guest&checksum=9CED6B9E7FE04A0352F17B7535B427E8,False
+Pyrobaculum organotrophum,1,2278,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.0,6.0,7.0,0.0,102.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685560/,False
+Pyrobaculum yellowstonensis,1,2636415462,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,3.6,6.1,9.0,0.0,78.0,https://onlinelibrary.wiley.com/doi/epdf/10.1111/gbi.12015,False
+Pyrococcus abyssi,1,638154514,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,6.8,8.5,0.0,96.0,https://link.springer.com/article/10.1007/BF00252219,False
+Pyrococcus chitonophagus,1,2711768646,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,3.5,6.7,9.0,0.0,85.0,https://link.springer.com/article/10.1007/BF02529959,False
+Pyrococcus endeavori,1,39456,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,7.0,8.0,0.0,98.0,https://academic.oup.com/femsec/article/18/1/27/595971,False
+Pyrococcus furiosus,1,638154515,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,9.0,0.0,100.0,https://link.springer.com/article/10.1007/BF00413027,False
+Pyrococcus horikoshii,1,53953,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,8.0,0.0,98.0,https://link.springer.com/article/10.1007/s007920050051,False
+Pyrococcus kukulkanii,1,2687453501,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,3.5,7.0,8.5,0.0,105.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001160,False
+Pyrococcus sp,1,650716079,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,9.0,0.0,93.0,https://jb.asm.org/content/jb/193/14/3666.full.pdf,False
+Pyrodictium abyssi,1,54256,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,4.7,5.5,7.1,0.0,97.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001201#tab2,False
+Pyrodictium brockii,1,35616,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,4.5,5.5,7.2,0.0,105.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001201#tab2,False
+Pyrodictium delaneyi,1,1273541,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,5.0,5.0,9.0,0.0,91.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001201#tab2,False
+Pyrodictium occultum,1,2309,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,4.5,5.5,7.2,0.0,105.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001201#tab2,False
+Pyrolobus fumarii,1,2505679005,Archaea,Crenarchaeota,Desulfurococcales,Pyrodictiaceae,4.0,5.5,6.5,0.0,106.0,https://pubmed.ncbi.nlm.nih.gov/9680332/,False
+Rhodothermus marinus,1,646311949,Bacteria,Bacteroidetes,Incertae sedis,Rhodothermaceae,5.5,7.0,,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/16075163/,False
+Saccharolobus caldissimus,1,1702097,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.5,3.0,6.0,0.0,85.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002665#tab2,False
+Saccharolobus shibatae,1,2286,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.5,3.0,6.0,0.0,81.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/68/4/1271_ijsem002665.pdf?expires=1616712412&id=id&accname=guest&checksum=0BF8253F960FD7CF176D61F41CAE46E2,False
+Saccharolobus solfataricus,1,2287,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,3.5,4.5,5.0,0.0,87.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002665#tab2,False
+Staphylothermus hellenicus,1,646564573,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.0,7.5,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/50/6/0502101a.pdf?expires=1613724193&id=id&accname=guest&checksum=A3E7ADB045ECC47FDFD62C619A4D2313,False
+Staphylothermus marinus,1,640069332,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.5,8.6,0.0,92.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202086801576?via%3Dihub,False
+Stetteria hydrogenophila,1,52001,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,4.5,6.0,7.0,0.0,95.0,https://pubmed.ncbi.nlm.nih.gov/9680304/,False
+Sulfolobus acidocaldarius,3,2524023197,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,2.75,5.0,0.5,75.0,https://www.jstage.jst.go.jp/article/jgam1955/41/1/41_1_43/_pdf/-char/ja | https://www.microbiologyresearch.org/docserver/fulltext/micro/86/1/mic-86-1-156.pdf?expires=1614095601&id=id&accname=guest&checksum=EF64D76F211F4A590BD3BCEE9F333B8B | https://www.sciencedirect.com/science/article/abs/pii/S0723202011804169?via%3Dihub,False
+Sulfolobus metallicus,1,47303,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.0,2.5,4.5,0.0,65.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.003981#tab2,False
+Sulfolobus solfataricus,7,2287,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,3.375,4.5,2.0,80.0,https://jb.asm.org/content/jb/171/12/6710.full.pdf | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC176616/pdf/1770482.pdf | https://aem.asm.org/content/82/3/857,True
+Sulfolobus sp,1,2728369534,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,4.0,4.5,0.0,80.0,https://www.frontiersin.org/articles/10.3389/fmicb.2016.01902/full?utm_source=newsletter&utm_medium=email&utm_campaign=Microbiology-w49-2016,False
+Sulfolobus tengchongensis,1,207809,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,1.7,3.5,6.5,0.0,85.0,https://link.springer.com/article/10.1007/s00792-003-0355-2,False
+Sulfolobus tokodaii,1,638154519,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,2.75,3.0,0.0,80.0,https://www.researchgate.net/publication/11483415_Sulfolobus_tokodaii_sp_nov_f_Sulfolobus_sp_strain_7_a_new_member_of_the_genus_Sulfolobus_isolated_from_Beppu_Hot_Springs_Japan,False
+Sulfolobus yangmingensis,1,73007,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.0,4.0,6.0,0.0,80.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/49/4/ijs-49-4-1809.pdf?expires=1614094745&id=id&accname=guest&checksum=4146CDB7D78FC54041324E9EA87250AD,False
+Sulfuracidifex tepidarius,2,1294262,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,0.45,3.5,5.5,0.09999999999999998,65.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/70/3/1837_ijsem003981.pdf?expires=1615919377&id=id&accname=guest&checksum=AF74EE19A063B558019D9A97371BC220,False
+Sulfurihydrogenibium azorense,1,643692050,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,5.5,6.0,7.0,0.0,68.0,https://pubmed.ncbi.nlm.nih.gov/14742456/,False
+Sulfurihydrogenibium kristjanssonii,1,460873,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,5.3,6.6,7.8,0.0,68.0,https://pubmed.ncbi.nlm.nih.gov/18450705/,False
+Sulfurihydrogenibium rodmanii,1,380763,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,5.0,6.15,7.2,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/18450704/,False
+Sulfurisphaera javensis,1,2049879,Archaea,Crenarchaeota,Sulfolobales,Sulfolobaceae,2.5,3.75,6.0,0.0,82.5,https://pubmed.ncbi.nlm.nih.gov/29671720/,False
+Thermaerobacter marianensis,1,649633101,Bacteria,Firmicutes,Clostridales, Clostridiales Family XVII,5.4,7.25,9.5,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/10319484/,False
+Thermoanaerobacter acetoethylicus,1,2704,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.5,,8.5,0.0,65.0,https://link.springer.com/article/10.1007/BF00405914,False
+Thermoanaerobacter ethanolicus,1,1757,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.4,,9.9,0.0,,link.springer.com/article/10.1007/BF00405910,False
+Thermoanaerobacter kivui,1,2627853919,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.3,6.4,7.3,0.0,66.0,https://link.springer.com/article/10.1007/BF00414697,False
+Thermoanaerobacter mathranii,1,646564580,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.7,7.3,8.8,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/9238102/,False
+Thermoanaerobacter pentosaceus,1,694059 ,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.36,7.0,8.5,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/23178727/,False
+Thermoanaerobacter pseudethanolicus,1,641522655,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.0,,9.0,0.0,68.0,https://pubmed.ncbi.nlm.nih.gov/17911280/,False
+Thermoanaerobacter siderophilus,1,106578,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.8,6.4,8.2,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/10555328/,False
+Thermoanaerobacter sulfurigignens,1,120958,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.0,5.75,8.0,0.0,65.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64748-0,False
+Thermoanaerobacter sulfurophilus,1,74714 ,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.5,6.8,7.2,0.0,66.5,https://www.semanticscholar.org/paper/Reduction-of-Elemental-Sulfur-by-Moderately-and-the-Bonch-Osmolovskaya-Miroshnichenko/8dedf4f35488192cd922f631a7a7aa3b83627686,False
+Thermoanaerobacter tengcongensis,1,,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.5,7.25,9.0,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/11491330/,False
+Thermoanaerobacter thermohydrosulfuricus,1,1198630,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,5.5,7.05,9.2,0.0,68.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-1-41,False
+Thermoanaerobacter uzonensis,1,447593,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacteraceae,4.2,7.1,8.9,0.0,61.0,https://pubmed.ncbi.nlm.nih.gov/18984694/,False
+Thermoanaerobacterium saccharolyticum,1,2519103102,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacterales Family III,5.0,6.0,7.5,0.0,60.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-1-41,False
+Thermoanaerobacterium thermosulfirigenes,1,33950,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacterales Family III,4.0,6.0,7.6,0.0,60.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-1-41,False
+Thermoanaerobacterium xylanolyticum,1,650716095,Bacteria,Firmicutes,Thermoanaerobacterales, Thermoanaerobacterales Family III,5.0,6.0,7.5,0.0,60.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-43-1-41,False
+Thermococcus acidaminovorans,1,71280,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,9.0,9.5,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/9672685/,False
+Thermococcus aegaeicus,1,84597,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.5,6.0,7.5,0.0,90.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/50/6/0502101a.pdf?expires=1613724193&id=id&accname=guest&checksum=A3E7ADB045ECC47FDFD62C619A4D2313,False
+Thermococcus atlanticus,1,155321,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,8.0,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/12664262/,False
+Thermococcus barophilus,1,650716096,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.5,7.0,9.5,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/10319455/,False
+Thermococcus barossii,1,2758568026,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,3.0,7.0,9.0,0.0,82.5,https://www.sciencedirect.com/science/article/abs/pii/S0723202098800076?via%3Dihub,False
+Thermococcus camini,1,2016373,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.25,9.0,0.0,77.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004853,False
+Thermococcus coalescens,1,227597,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.2,6.5,8.7,0.0,87.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/55/6/2507.pdf?expires=1616713504&id=id&accname=guest&checksum=C7256865280DD27F45610137CAEC5F2D,False
+Thermococcus eurythermalis,1,2636415503,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,7.0,9.0,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/25288278/,False
+Thermococcus fumicolans,1,46540,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.5,8.5,9.5,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/8863444/,False
+Thermococcus gammatolerans,1,644736411,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,6.0,8.5,0.0,88.0,https://pubmed.ncbi.nlm.nih.gov/12807211/,False
+Thermococcus hydrothermalis,1,46539,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,3.5,6.0,9.5,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/47/3/ijs-47-3-622.pdf?expires=1614705724&id=id&accname=guest&checksum=AD92F6CDC5BB32CB683CC87051E09652,False
+Thermococcus indicus,1,2586643,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.4,6.0,8.0,0.0,80.0,https://pubmed.ncbi.nlm.nih.gov/32239454/,False
+Thermococcus kodakarensis,1,638154520,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,6.5,9.0,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685570/,False
+Thermococcus litoralis,1,2513237398,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,7.2,8.5,0.0,88.0,https://www.nature.com/articles/377223a0,False
+Thermococcus marinus,1,187879,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,6.0,8.5,0.0,88.0,https://link.springer.com/article/10.1007/s00792-004-0380-9 ,False
+Thermococcus nautili,1,2565956587,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,7.0,9.0,0.0,87.5,https://pubmed.ncbi.nlm.nih.gov/24556637/,False
+Thermococcus onnurineus,1,643348580,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,8.5,9.0,0.0,80.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358123/,False
+Thermococcus pacificus,1,2758568025,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,6.0,6.5,8.0,0.0,84.0,https://pubmed.ncbi.nlm.nih.gov/9542072/,False
+Thermococcus paralvinellae,1,2558860254,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,8.0,8.3,0.0,82.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066100-0,False
+Thermococcus peptonophilus,1,2687453162,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,6.0,8.0,0.0,87.5,https://pubmed.ncbi.nlm.nih.gov/7545383/,False
+Thermococcus piezophilus,1,2687453428,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.5,6.0,9.0,0.0,75.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202016300753?via%3Dihub,False
+Thermococcus prieurii,1,1128108,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.0,7.0,8.0,0.0,80.0,https://pubmed.ncbi.nlm.nih.gov/23355695/,False
+Thermococcus profundus,1,2758568027,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,4.5,7.5,8.5,0.0,80.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202011800135,False
+Thermococcus radiotolerans,1,2758568021,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.5,6.0,8.5,0.0,88.0,https://link.springer.com/article/10.1007/s00792-004-0380-9 ,False
+Thermococcus siculi,1,2758568024,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,9.0,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/10086845/,False
+Thermococcus stetteri,1,49900,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.7,6.5,7.2,0.0,75.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202089800712,False
+Thermococcus thioreducens,1,277988,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,8.5,0.0,84.0,https://pubmed.ncbi.nlm.nih.gov/17625204/,False
+Thermococcus waiotapuensis,1,90909 ,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.0,7.0,8.0,0.0,85.0,https://link.springer.com/article/10.1007/s002030050745,False
+Thermococcus zilligii,1,54076,Archaea,Euryarchaeota,Thermococcales,Thermococcaceae,5.4,7.4,9.2,0.0,77.5,https://pubmed.ncbi.nlm.nih.gov/9382704/,False
+Thermocrinis minervae,1, 381751,Bacteria,Aquificae,Aquificales,Aquificaceae,4.8,6.2,7.8,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/19651724/,False
+Thermodesulfatator indicus,1,2505119042,Bacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,6.0,6.25,6.7,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/14742485/,False
+Thermodesulfobium narugense,1,2504756006,Bacteria,Firmicutes,Thermoanaerobacterales, Thermodesulfobiaceae,4.0,5.75,6.5,0.0,52.5,https://pubmed.ncbi.nlm.nih.gov/12910388/,False
+Thermofilum adornatus,1,2554235458,Archaea,Crenarchaeota,Thermoproteales,Thermofilaceae,5.3,5.75,8.5,0.0,80.0,https://www.frontiersin.org/articles/10.3389/fmicb.2019.02972/full,False
+Thermofilum pendens,1,639633064,Archaea,Crenarchaeota,Thermoproteales,Thermofilaceae,4.0,5.5,6.5,0.0,87.5,https://www.sciencedirect.com/science/article/abs/pii/S0723202083800356?via%3Dihub,False
+Thermofilum uzonense,1,2639762927,Archaea,Crenarchaeota,Thermoproteales,Thermofilaceae,5.5,6.25,7.0,0.0,85.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4673724/,False
+Thermogemmatispora carboxidivorans,1,1382306,Bacteria,Chloroflexi, Thermogemmatisporales,Thermogemmatisporaceae,4.1,6.0,8.0,0.0,55.0,https://pubmed.ncbi.nlm.nih.gov/24425739/,False
+Thermogemmatispora foliorum,1,732235,Bacteria,Chloroflexi, Thermogemmatisporales,Thermogemmatisporaceae,4.6,7.0,8.0,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/20495028/,False
+Thermogemmatispora onikobensis,1,732234,Bacteria,Chloroflexi, Thermogemmatisporales,Thermogemmatisporaceae,4.6,7.0,8.0,0.0,62.5,https://pubmed.ncbi.nlm.nih.gov/20495028/,False
+Thermogladius shockii,1,477696,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,3.5,5.5,8.5,0.0,84.0,https://pubmed.ncbi.nlm.nih.gov/20978744/,False
+Thermomarinilinea lacunofontalis,1,1081799 ,Bacteria,Chloroflexi, Anaerolineales, Anaerolineaceae,5.5,6.0,7.3,0.0,60.0,https://pubmed.ncbi.nlm.nih.gov/23666537/,False
+Thermoplasma acidophilum,1,638154521,Archaea,Euryarchaeota,Thermoplasmatales,Thermoplasmataceae,0.5,1.5,4.0,0.0,59.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202088800316,False
+Thermoplasma volcanium,1,638154522,Archaea,Euryarchaeota,Thermoplasmatales,Thermoplasmataceae,1.0,2.0,4.0,0.0,60.0,https://www.sciencedirect.com/science/article/abs/pii/S0723202088800316,False
+Thermoproteus neutrophilus,1,70771,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,5.0,6.5,7.5,0.0,85.0,https://genome.jgi.doe.gov/portal/thene/thene.home.html,False
+Thermoproteus tenax,1,2511231093,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,2.5,5.0,6.0,0.0,88.0,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685560/,False
+Thermoproteus thermophilus,1,867916,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,4.0,5.0,6.0,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/25933622/,False
+Thermoproteus uzoniensis,1,650716098,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,4.6,5.6,6.8,0.0,90.0,https://link.springer.com/article/10.1007/BF00248836,False
+Thermosipho melanesiensis,1,640753057,Bacteria,Thermotogae,Thermotogales,Fervidobacteriaceae,3.5,6.5,9.5,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/9336917/,False
+Thermosphaera aggregans,1,646564583,Archaea,Crenarchaeota,Desulfurococcales,Desulfurococcaceae,5.0,6.5,7.0,0.0,85.0,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/48/1/ijs-48-1-31.pdf?expires=1615917016&id=id&accname=guest&checksum=2E7703CF0589318E6376C3683585CBC5,False
+Thermosporothrix hazakensis,1,644383 ,Bacteria,Chloroflexi,Ktedonobacteriales,Thermosporotrichaceae,5.4,7.0,8.7,0.0,50.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.018069-0,False
+Thermosporothrix narukonensis,1,1445971,Bacteria,Chloroflexi,Ktedonobacteriales,Thermosporotrichaceae,4.9,7.0,9.5,0.0,50.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001004,False
+Thermosulfidibacter takaii,1,412593,Bacteria,Aquificae,Aquificales,Aquificaceae,5.0,5.75,7.5,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/18319474/,False
+Thermosulfurimonas dismutans,1,999894,Bacteria,Thermodesulfobacteria,Thermodesulfobacteriales,Thermodesulfobacteriaceae,5.5,7.0,8.0,0.0,74.0,https://pubmed.ncbi.nlm.nih.gov/22199218/,False
+Thermotoga maritima,1,2554235387,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.5,6.5,9.0,0.0,80.0,https://link.springer.com/article/10.1007/BF00409880,False
+Thermotoga naphthophila,1,646311964,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.4,7.0,9.0,0.0,80.0,https://pubmed.ncbi.nlm.nih.gov/11594624/,False
+Thermotoga neapolitana,1,643348584,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.5,7.0,9.0,0.0,80.0,https://link.springer.com/article/10.1007/BF00409725,False
+Thermotoga petrophila,1,640427150,Bacteria,Thermotogae,Thermotogales,Thermotogaceae,5.2,7.0,9.0,0.0,80.0,https://pubmed.ncbi.nlm.nih.gov/11594624/,False
+Thermovibrio ammonificans,1,649633104,Bacteria,Aquificae,Desulfurobacteriales, Desulfurobacteriaceae,5.0,5.5,7.0,0.0,75.0,https://pubmed.ncbi.nlm.nih.gov/14742477/,False
+Thermovibrio ruber,1,171869,Bacteria,Aquificae,Desulfurobacteriales, Desulfurobacteriaceae,5.0,6.0,6.5,0.0,75.0,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-52-5-1859,False
+Thermus antranikianii,1,1123386 ,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.0,8.0,10.0,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/10826806/,False
+Thermus composti,1,532059,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.0,7.0,9.0,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/21856987/,False
+Thermus igniterrae,1,1123388,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,8.0,9.5,0.0,65.0,https://pubmed.ncbi.nlm.nih.gov/10826806/,False
+Thermus islandicus,1,1123389,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,6.75,10.5,0.0,65.0,https://pubmed.ncbi.nlm.nih.gov/19628590/,False
+Thermus rehai,1,153832,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.0,8.0,10.0,0.0,67.5,https://pubmed.ncbi.nlm.nih.gov/12362405/,False
+Thermus thermophilus,1,274,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.1,7.25,9.6,0.0,68.5,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/00207713-24-1-102,False
+Venenivibrio stagnispumantis,1,407998,Bacteria,Aquificae,Aquificales,Hydrogenothermaceae,4.8,5.4,5.8,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/18218938/,False
+Vulcanisaeta distributa,1,648028062,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,3.5,4.25,5.6,0.0,87.5,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/52/4/0521097a.pdf?expires=1615917333&id=id&accname=guest&checksum=F8831378F2EFFBC77265A607778F2001,False
+Vulcanisaeta moutnovskia,1,985052,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,3.5,4.25,6.5,0.0,87.5,https://journals.asm.org/doi/10.1128/jb.00237-11?permanently=true,False
+Vulcanisaeta souniana,1,164452,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,3.5,4.25,5.0,0.0,87.5,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/52/4/0521097a.pdf?expires=1615917333&id=id&accname=guest&checksum=F8831378F2EFFBC77265A607778F2001,False
+Vulcanisaeta thermophila,1,867917,Archaea,Crenarchaeota,Thermoproteales,Thermoproteaceae,4.0,5.0,6.0,0.0,85.0,https://pubmed.ncbi.nlm.nih.gov/25323594/,False
+Vulcanithermus mediatlanticus,1,206045,Bacteria,Deinococcus-Thermus,Thermales,Thermaceae,5.5,6.7,8.4,0.0,70.0,https://pubmed.ncbi.nlm.nih.gov/12892142/,False

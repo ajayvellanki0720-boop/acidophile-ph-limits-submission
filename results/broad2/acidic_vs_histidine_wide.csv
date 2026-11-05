@@ -1,0 +1,10 @@
+part,r_acidic_histidine,beta_acidic_alone,beta_histidine_alone,prediction,beta_acidic_adjusted,p_acidic_adjusted,kept_acidic,beta_histidine_adjusted,p_histidine_adjusted,kept_histidine,direction_as_predicted,specification,beta_sum_per_pt,p_sum,beta_difference_per_pt,se_difference,p_difference,acidic_keeps_one_sidedness,share_retained,verdict,composite,beta_per_pt,se,p,sd_of_composite,beta_per_sd,adopted,relative_change_per_sd
+sign structure,-0.5491726280898117,0.10681245029190164,-0.2988324226112393,holding histidine fixed shrinks the acidic coefficient,,,,,,,,,,,,,,,,,,,,,,,,
+mutual adjustment,,0.10681245029190164,-0.2988324226112393,,0.07830704611751456,3.402149425245119e-09,0.7331265775058404,-0.23084989799147462,5.1369359942522636e-11,0.7725061958614666,True,,,,,,,,,,,,,,,,,
+sidedness,,,,,,,,,,,,"acidic contrast, histidine free",0.053226258428833675,1.626930524165436e-06,0.05359636860294688,0.011504548020226414,3.332722774383527e-06,,,,,,,,,,,
+sidedness,,,,,,,,,,,,"acidic contrast, histidine held fixed",0.03623441854815559,0.001337137118492037,0.04106431265681138,0.01158782504404763,0.0004010353054769894,,,,,,,,,,,
+discriminating verdict,,,,,,,,,,,,,,,,,,True,0.7661771445939632,,,,,,,,,
+reading,,,,,,,,,,,,,,,,,,,,"SEPARATE MECHANISMS THAT CO-VARY. Neither measure displaces the other, both stay significant under mutual adjustment, and the acidic effect keeps the strict one-sidedness that histidine does not have. The 27% is shared variance that the published specification was crediting entirely to the acidic share - an inflation to correct, not a signal to reassign.",,,,,,,,
+composite,,,,,,,,,,,,,,,,,,,,,net D+E-K-R (canonical),0.07623235669979916,0.010700648328584137,1.3311763872465612e-12,3.0718353491763812,0.234173248061466,,
+composite,,,,,,,,,,,,,,,,,,,,,net D+E-K-R-H,0.08383967403954232,0.009434147928057333,1.1098654533709756e-18,3.4870691258208835,0.29235473886217467,,
+composite,,,,,,,,,,,,,,,,,,,,,recommendation,,,,,,False,0.2484548994487925

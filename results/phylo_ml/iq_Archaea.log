@@ -1,0 +1,331 @@
+IQ-TREE version 3.1.4 for MacOS ARM 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    Ajays-MacBook-Neo.local (SSE4.2, 8 GB RAM)
+Command: /Users/ajayvellanki/Downloads/Claude/acidophile-ph-limits/tools/iqtree3 -s results/phylo_ml/Archaea.afa --prefix results/phylo_ml/iq_Archaea -m MFP -mset LG,WAG,JTT,Q.pfam -mrate E,G,R4 -B 1000 -alrt 1000 -wbtl -T 6 --seed 20261024 -redo --quiet
+Seed:    20261024 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Oct 24 10:26:56 2026
+Kernel:  SSE2 - 6 threads (6 CPU cores detected)
+
+Reading alignment file results/phylo_ml/Archaea.afa ... Fasta format detected
+Reading fasta file: done in 0.00339508 secs using 89.01% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00452995 secs using 79.6% CPU
+Alignment has 144 sequences with 3121 columns, 2933 distinct patterns
+2748 parsimony-informative, 110 singleton sites, 263 constant sites
+                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000369072 secs using 266.1% CPU
+   1  GCA_000204925.1    5.83%    failed      0.00%
+   2  GCA_000258425.1    2.44%    failed      0.05%
+   3  GCA_055398215.1    6.50%    passed      8.38%
+   4  GCA_000018305.1    5.45%    failed      3.51%
+   5  GCA_038024865.1    5.00%    failed      0.00%
+   6  GCA_014646795.1    7.95%    passed     10.02%
+   7  GCA_002078355.1    7.63%    failed      0.00%
+   8  GCA_000474235.1    1.92%    failed      0.00%
+   9  GCA_000214725.1    1.19%    passed      5.18%
+  10  GCA_001402935.1    5.29%    failed      0.00%
+  11  GCA_014648235.1    7.53%    failed      0.14%
+  12  GCA_000317795.1    3.88%    failed      0.02%
+  13  GCA_001748385.1    3.72%    failed      0.91%
+  14  GCA_001402945.1    6.31%    failed      0.00%
+  15  GCA_002116695.1    3.56%    failed      0.00%
+  16  GCA_003201765.2    3.56%    failed      0.00%
+  17  GCA_041154675.1    1.73%    failed      0.01%
+  18  GCA_008326425.1    4.10%    failed      0.05%
+  19  GCA_019704315.1    3.68%    failed      1.77%
+  20  GCA_017874695.1    3.65%    failed      0.00%
+  21  GCA_014647455.2    4.29%    failed      0.00%
+  22  GCA_014647115.1    1.86%    failed      0.00%
+  23  GCA_039520965.1    4.52%    failed      0.00%
+  24  GCA_013343295.1    4.07%    failed      0.00%
+  25  GCA_036967215.1    3.36%    failed      0.03%
+  26  GCA_009729515.1    5.93%    failed      0.02%
+  27  GCA_000012285.1    6.02%    failed      0.00%
+  28  GCA_054657575.1    2.98%    failed      0.01%
+  29  GCA_020886315.1    5.38%    failed      0.03%
+  30  GCA_000092465.1    3.94%    failed      2.43%
+  31  GCA_900079115.1    5.67%    failed      0.13%
+  32  GCA_019175345.1    5.67%    failed      0.42%
+  33  GCA_000015945.1    3.72%    failed      3.38%
+  34  GCA_000011205.1    4.10%    failed      0.07%
+  35  GCA_000223395.1    4.87%    failed      0.45%
+  36  GCA_000151105.2    0.70%    passed     14.55%
+  37  GCA_054657855.1    0.83%    passed      6.84%
+  38  GCA_000015805.1    4.20%    failed      0.06%
+  39  GCA_001412615.1    1.89%    failed      1.56%
+  40  GCA_024300825.1    4.01%    failed      0.00%
+  41  GCA_002214465.1    0.83%    passed      8.47%
+  42  GCA_000966265.1    1.35%    passed     35.54%
+  43  GCA_060535945.1    1.28%    passed     59.00%
+  44  GCA_000725425.1    1.35%    passed     54.46%
+  45  GCA_000008265.1    7.08%    failed      0.00%
+  46  GCA_000234805.1    4.17%    failed      0.00%
+  47  GCA_000015205.1    4.04%    failed      1.92%
+  48  GCA_000019805.1    4.23%    failed      0.00%
+  49  GCA_000247545.1    4.36%    failed      0.34%
+  50  GCA_055384425.1    4.33%    failed      1.74%
+  51  GCA_000195935.2    0.74%    passed     30.23%
+  52  GCA_008245085.1    0.83%    passed     44.86%
+  53  GCA_000011105.1    1.19%    passed     10.99%
+  54  GCA_001577775.1    0.80%    passed     36.63%
+  55  GCA_036323395.1    2.02%    failed      0.64%
+  56  GCA_055379715.1    3.52%    failed      0.01%
+  57  GCA_001462395.1    1.86%    failed      0.01%
+  58  GCA_904067545.1    0.80%    passed     22.74%
+  59  GCA_000769655.1    0.83%    passed     17.69%
+  60  GCA_000253055.1    4.58%    failed      1.10%
+  61  GCA_055392855.1    2.34%    failed      0.07%
+  62  GCA_000193375.1    4.20%    failed      0.04%
+  63  GCA_000092185.1    3.72%    passed     24.20%
+  64  GCA_000011185.1    7.40%    failed      0.00%
+  65  GCA_000148385.1    1.76%    failed      2.26%
+  66  GCA_000190315.1    1.60%    failed      3.91%
+  67  GCA_026000775.1    2.85%    failed      0.77%
+  68  GCA_000008085.1    8.72%    failed      0.00%
+  69  GCA_055392585.1    0.74%    passed     19.46%
+  70  GCA_000195915.1    7.11%    failed      0.11%
+  71  GCA_000993805.1    2.34%    passed     29.29%
+  72  GCA_055386755.1    0.83%    passed     29.56%
+  73  GCA_000022365.1    0.61%    passed     16.69%
+  74  GCA_006274605.1    0.77%    passed     19.78%
+  75  GCA_000009965.1    0.87%    passed     23.26%
+  76  GCA_000246985.3    4.71%    passed     38.49%
+  77  GCA_055389025.1    0.83%    passed     17.69%
+  78  GCA_000585495.1    0.64%    passed     25.04%
+  79  GCA_000018365.1    0.83%    passed     16.70%
+  80  GCA_002214485.1    1.03%    passed     18.70%
+  81  GCA_000517445.1    0.80%    passed     11.85%
+  82  GCA_001592435.1    0.87%    passed     22.91%
+  83  GCA_001647085.1    0.83%    passed     28.56%
+  84  GCA_002214585.1    1.03%    passed     21.86%
+  85  GCA_002214565.1    0.87%    passed     17.66%
+  86  GCA_002214505.1    0.77%    passed     13.67%
+  87  GCA_017873335.1    0.87%    passed     19.49%
+  88  GCA_900109425.1    0.96%    passed     13.80%
+  89  GCA_055384795.1    1.09%    passed     21.98%
+  90  GCA_000258515.1    1.19%    passed     24.90%
+  91  GCA_000015225.1    4.42%    failed      4.27%
+  92  GCA_054657655.1    0.64%    passed     21.36%
+  93  GCA_000214415.1    0.54%    failed      0.00%
+  94  GCA_055392295.1    1.41%    failed      0.00%
+  95  GCA_000025285.1    1.51%    failed      0.57%
+  96  GCA_000014945.1    5.19%    failed      0.33%
+  97  GCA_000231015.3    2.15%    passed     10.40%
+  98  GCA_000186365.1    5.03%    failed      0.77%
+  99  GCA_009729015.1    3.81%    failed      2.19%
+ 100  GCA_003201835.2    5.67%    failed      0.00%
+ 101  GCA_000213215.1    3.81%    failed      2.26%
+ 102  GCA_009729545.1    3.78%    failed      3.12%
+ 103  GCA_055392325.1    4.17%    failed      0.10%
+ 104  GCA_000144915.1    3.20%    failed      0.12%
+ 105  GCA_000025665.1    4.13%    passed     15.86%
+ 106  GCA_000011125.1    3.84%    failed      0.04%
+ 107  GCA_003201675.2    5.83%    failed      0.00%
+ 108  GCA_005222525.1    5.74%    failed      0.25%
+ 109  GCA_000243315.1    7.82%    failed      1.78%
+ 110  GCA_000739065.1    4.49%    failed      0.00%
+ 111  GCA_000023985.1    0.80%    failed      0.00%
+ 112  GCA_049554935.1    0.93%    failed      0.00%
+ 113  GCA_000091665.1    0.80%    failed      0.00%
+ 114  GCA_000371805.1    0.87%    failed      0.00%
+ 115  GCA_000024625.1    0.90%    failed      0.00%
+ 116  GCA_025914035.1    4.84%    failed      0.12%
+ 117  GCA_060217065.1    4.26%    failed      0.00%
+ 118  GCA_000007185.1    1.22%    failed      0.00%
+ 119  GCA_001304615.2    3.65%    failed      0.01%
+ 120  GCA_000152265.2    7.63%    failed      0.00%
+ 121  GCA_000145295.1    1.31%    passed     28.90%
+ 122  GCA_000179575.2    1.28%    failed      0.00%
+ 123  GCA_000376965.1    3.49%    failed      0.04%
+ 124  GCA_000092305.1    0.99%    failed      0.00%
+ 125  GCA_000969885.1    4.10%    failed      0.68%
+ 126  GCA_000789255.1    1.76%    passed     77.55%
+ 127  GCA_900142335.1    5.22%    failed      0.00%
+ 128  GCA_052060055.1    4.39%    failed      0.00%
+ 129  GCA_000223905.1    1.95%    failed      0.00%
+ 130  GCA_900110535.1    1.79%    failed      0.00%
+ 131  GCA_021233435.1    4.52%    failed      0.00%
+ 132  GCA_019823105.1    4.49%    failed      0.00%
+ 133  GCA_001006045.1    1.35%    passed     87.19%
+ 134  GCA_900880625.1    5.22%    failed      0.00%
+ 135  GCA_000470655.1    5.93%    failed      0.00%
+ 136  GCA_000023945.1    5.54%    failed      0.00%
+ 137  GCA_000145985.1    5.35%    failed      0.01%
+ 138  GCA_000017945.1    2.31%    passed     12.11%
+ 139  GCA_001481685.1    6.44%    passed     51.35%
+ 140  GCA_025340205.1    3.40%    passed      5.08%
+ 141  GCA_900108165.1    4.36%    failed      0.00%
+ 142  GCA_000632495.1    6.09%    failed      0.00%
+ 143  GCA_900090055.1    8.52%    failed      0.00%
+ 144  GCA_900177045.1    7.15%    failed      0.00%
+****  TOTAL              3.35%  98 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: GCA_055389025.1 is identical to GCA_000769655.1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000503778 secs using 131.4% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.061 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -273145.069
+Optimal log-likelihood: -273144.984
+Proportion of invariable sites: 0.070
+Gamma shape alpha: 1.077
+Parameters optimization took 1 rounds (1.039 sec)
+Time for fast ML tree search: 10.190 seconds
+
+NOTE: ModelFinder requires 274 MB RAM!
+ModelFinder will test up to 24 protein models (sample size: 3121 epsilon: 0.100) ...
+Akaike Information Criterion:           LG+F+R4
+Corrected Akaike Information Criterion: LG+F+R4
+Bayesian Information Criterion:         LG+F+R4
+Best-fit model: LG+F+R4 chosen according to BIC
+
+All model information printed to results/phylo_ml/iq_Archaea.model.gz
+CPU time for ModelFinder: 1593.190 seconds (0h:26m:33s)
+Wall-clock time for ModelFinder: 392.555 seconds (0h:6m:32s)
+Generating 1000 samples for ultrafast bootstrap (seed: 20261024)...
+
+NOTE: 274 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -272811.034
+2. Current log-likelihood: -272808.665
+Optimal log-likelihood: -272808.564
+Site proportion and rates:  (0.223,0.091) (0.324,0.504) (0.303,1.268) (0.150,2.873)
+Parameters optimization took 2 rounds (6.054 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 1.33077 secs using 496.7% CPU
+Computing ML distances took 1.332253 sec (of wall-clock time) 6.612805 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000215054 secs using 293.4% CPU
+Constructing RapidNJ tree: done in 0.0194621 secs using 65.32% CPU
+Computing RapidNJ tree took 0.019728 sec (of wall-clock time) 0.013361 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -273349.302
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 11.827 second
+Computing log-likelihood of 98 initial trees ... 37.442 seconds
+Current best score: -272808.564
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -272794.788
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -272692.759
+Iteration 10 / LogL: -272737.092 / Time: 0h:8m:17s
+Iteration 20 / LogL: -272756.227 / Time: 0h:8m:52s
+Finish initializing candidate tree set (11)
+Current best tree score: -272692.759 / CPU time: 128.650
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -272673.377
+Iteration 30 / LogL: -272713.243 / Time: 0h:10m:11s (0h:11m:56s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -272672.195
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -272647.968
+Iteration 40 / LogL: -272670.951 / Time: 0h:11m:48s (0h:13m:13s left)
+UPDATE BEST LOG-LIKELIHOOD: -272647.967
+Iteration 50 / LogL: -272831.669 / Time: 0h:13m:15s (0h:12m:4s left)
+Log-likelihood cutoff on original alignment: -272847.214
+UFBoot trees printed to results/phylo_ml/iq_Archaea.ufboot
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 57: -272644.571
+Iteration 60 / LogL: -272697.972 / Time: 0h:14m:36s (0h:13m:16s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 63: -272636.558
+Iteration 70 / LogL: -272644.523 / Time: 0h:15m:55s (0h:12m:38s left)
+UPDATE BEST LOG-LIKELIHOOD: -272636.554
+Iteration 80 / LogL: -272997.288 / Time: 0h:17m:11s (0h:11m:11s left)
+Iteration 90 / LogL: -272920.630 / Time: 0h:18m:33s (0h:9m:51s left)
+Iteration 100 / LogL: -272636.612 / Time: 0h:19m:51s (0h:8m:28s left)
+Log-likelihood cutoff on original alignment: -272847.214
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.990
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+UFBoot trees printed to results/phylo_ml/iq_Archaea.ufboot
+Iteration 110 / LogL: -272641.648 / Time: 0h:21m:6s (0h:12m:1s left)
+Iteration 120 / LogL: -272641.682 / Time: 0h:22m:21s (0h:10m:38s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 122: -272633.463
+Iteration 130 / LogL: -272644.577 / Time: 0h:23m:38s (0h:12m:11s left)
+UPDATE BEST LOG-LIKELIHOOD: -272633.459
+Iteration 140 / LogL: -272680.325 / Time: 0h:24m:54s (0h:10m:50s left)
+UPDATE BEST LOG-LIKELIHOOD: -272633.453
+Iteration 150 / LogL: -272633.478 / Time: 0h:26m:16s (0h:9m:32s left)
+Log-likelihood cutoff on original alignment: -272847.214
+UFBoot trees printed to results/phylo_ml/iq_Archaea.ufboot
+Iteration 160 / LogL: -272633.485 / Time: 0h:27m:33s (0h:8m:11s left)
+Iteration 170 / LogL: -272636.708 / Time: 0h:28m:46s (0h:6m:50s left)
+Iteration 180 / LogL: -272825.803 / Time: 0h:30m:2s (0h:5m:30s left)
+Iteration 190 / LogL: -272636.259 / Time: 0h:31m:15s (0h:4m:10s left)
+Iteration 200 / LogL: -272646.249 / Time: 0h:32m:30s (0h:2m:52s left)
+Log-likelihood cutoff on original alignment: -272847.214
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+UFBoot trees printed to results/phylo_ml/iq_Archaea.ufboot
+Iteration 210 / LogL: -272644.791 / Time: 0h:33m:56s (0h:11m:47s left)
+Iteration 220 / LogL: -272975.557 / Time: 0h:35m:15s (0h:10m:29s left)
+TREE SEARCH COMPLETED AFTER 223 ITERATIONS / Time: 0h:35m:40s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -272633.453
+2. Current log-likelihood: -272633.387
+3. Current log-likelihood: -272633.306
+4. Current log-likelihood: -272633.225
+5. Current log-likelihood: -272633.151
+6. Current log-likelihood: -272633.099
+7. Current log-likelihood: -272633.059
+8. Current log-likelihood: -272633.031
+9. Current log-likelihood: -272632.991
+10. Current log-likelihood: -272632.965
+11. Current log-likelihood: -272632.926
+12. Current log-likelihood: -272632.903
+13. Current log-likelihood: -272632.866
+Optimal log-likelihood: -272632.852
+Site proportion and rates:  (0.216,0.085) (0.319,0.488) (0.309,1.235) (0.157,2.837)
+Parameters optimization took 13 rounds (32.965 sec)
+BEST SCORE FOUND : -272632.852
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+2.732 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/phylo_ml/iq_Archaea.splits.nex
+Total tree length: 24.552
+
+Total number of iterations: 223
+CPU time used for tree search: 5799.297 sec (1h:36m:39s)
+Wall-clock time used for tree search: 1737.171 sec (0h:28m:57s)
+Total CPU time used: 7581.834 sec (2h:6m:21s)
+Total wall-clock time used: 2176.702 sec (0h:36m:16s)
+UFBoot trees printed to results/phylo_ml/iq_Archaea.ufboot
+
+Computing bootstrap consensus tree...
+Reading input file results/phylo_ml/iq_Archaea.splits.nex...
+144 taxa and 431 splits.
+Consensus tree written to results/phylo_ml/iq_Archaea.contree
+Reading input trees file results/phylo_ml/iq_Archaea.contree
+Log-likelihood of consensus tree: -272637.363
+
+Analysis results written to: 
+  IQ-TREE report:                results/phylo_ml/iq_Archaea.iqtree
+  Maximum-likelihood tree:       results/phylo_ml/iq_Archaea.treefile
+  Likelihood distances:          results/phylo_ml/iq_Archaea.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/phylo_ml/iq_Archaea.splits.nex
+  Consensus tree:                results/phylo_ml/iq_Archaea.contree
+  UFBoot trees:                  results/phylo_ml/iq_Archaea.ufboot
+  Screen log file:               results/phylo_ml/iq_Archaea.log
+
+Date and Time: Sat Oct 24 11:03:17 2026

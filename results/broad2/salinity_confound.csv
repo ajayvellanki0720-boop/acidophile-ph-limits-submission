@@ -1,0 +1,15 @@
+part,measure,n,n_total,value,value2,beta_per_sd,p,beta_baseline,p_baseline,beta_with_salinity,p_with_salinity,share_kept,beta_by_ph,p_by_ph,beta_by_salinity,p_by_salinity,ordering_ph,ordering_salinity,n_salinity_significant,beta_periplasmic,p_periplasmic,beta_transmembrane,p_transmembrane,n_draws,rate_coefficient,rate_ratio,median_tm,observed_tm,verdict,cond_survives,cond_controls_null,cond_profile_differs
+1,genomes with salinity maximum,669.0,2768.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"mean ph_min, salinity-known vs rest",,,5.911210762331838,5.714676036207718,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,salinity maximum -> ph_min,669.0,,,,-0.04439085239218752,0.3565909164561597,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"r(salinity maximum, periplasmic composite)",669.0,,0.32266965402114856,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,exposed periplasmic,669.0,,,,,,0.14183837153271553,0.02231730618156818,0.13973392260662454,0.024527600864406543,0.9851630492979426,,,,,,,,,,,,,,,,,,,,
+3,exposed cytoplasmic,669.0,,,,,,-0.05375915448923598,0.24412037374972242,-0.054415320783216994,0.23851267804229645,1.0122056661830943,,,,,,,,,,,,,,,,,,,,
+3,transmembrane,669.0,,,,,,-0.14814920317697555,0.0029060262267875648,-0.14768461401944505,0.0030011582684391688,0.9968640455191952,,,,,,,,,,,,,,,,,,,,
+4,compartment composition: secreted (periplasmic-facing),669.0,,,,,,,,,,,0.06330462361893792,0.0036136730695414195,0.0943284103829171,0.0003492799018641835,,,,,,,,,,,,,,,,
+4,compartment composition: cytoplasmic,669.0,,,,,,,,,,,0.0022248176939596897,0.8528378808325758,0.049488491040882404,0.0014121024801978742,,,,,,,,,,,,,,,,
+4,compartment composition: membrane,669.0,,,,,,,,,,,0.04868491833871017,0.0003544148643664407,0.015885950127157378,0.39247970541495614,,,,,,,,,,,,,,,,
+4,ordering identical,,,0.0,,,,,,,,,,,,,secreted (periplasmic-facing) > membrane > cytoplasmic,secreted (periplasmic-facing) > cytoplasmic > membrane,2.0,,,,,,,,,,,,,
+5,halophile split: all genomes,669.0,,,,,,,,,,,,,,,,,,0.14183837153271553,0.02231730618156818,-0.14814920317697555,0.0029060262267875648,,,,,,,,,
+5b,random subsamples reproducing the transmembrane anomaly,669.0,,,,,,,,,,,,,,,,,,,,,,300.0,0.02,0.006666666666666667,-0.05442394218549047,-0.14768461401944505,,,,
+6,verdict,669.0,,,,,,,,,,0.9851630492979426,,,,,,,,,,,,,,,,,"SALINITY DOES NOT ACCOUNT FOR THE ASSOCIATION - it removes 1% of the coefficient and does not predict ph_min at all (p 3.57e-01). The matched transmembrane control does fire on this subsample (-0.14768, p 3.00e-03, 1.06x the periplasmic coefficient against 0.23x on the full sample), and that is NOT ordinary subsample noise (2.0% of random quarters go as far), so genomes with a salinity measurement carry a transmembrane signal that salinity itself does not explain - an open question this script raises and does not settle.",True,False,True

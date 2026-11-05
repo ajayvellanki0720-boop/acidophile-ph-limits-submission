@@ -1,0 +1,7 @@
+part,n,hand_wrong,true_positives,false_positives,missed,correct_passes,flagged,flagged_rate,mean_ph_min_flagged,mean_ph_min_unflagged,subset,beta_per_sd,se,p
+detector check,15,8.0,8.0,0.0,0.0,7.0,,,,,,,,
+prevalence,2536,,,,,,298.0,0.11750788643533124,6.8057046979865765,5.817672028596962,,,,
+sensitivity,2768,,,,,,,,,,all bacteria,0.18483736873503334,0.02898041776861345,2.096127849329498e-10
+sensitivity,2470,,,,,,,,,,drop exactly the flagged rows,0.18861844523996668,0.030140443098256867,4.584947528313248e-10
+sensitivity,298,,,,,,,,,,ONLY the flagged rows,0.08309855423809578,0.04337449139179526,0.056351989393284195
+sensitivity,1671,,,,,,,,,,drop script 60's broader proxy,0.21687830540717815,0.036503903770469436,3.4377551354063465e-09

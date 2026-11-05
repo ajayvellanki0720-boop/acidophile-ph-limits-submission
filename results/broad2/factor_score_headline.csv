@@ -1,0 +1,14 @@
+test,model,predictor,n,value,se,p,improved_folds
+effect size,composition controlled,unweighted mean,2768,0.19840838327907334,0.028863947703149803,7.692681033100113e-12,
+effect size,composition controlled,factor score,2768,0.24373611089060465,0.030495185877968636,1.9227302555303653e-15,
+effect size,composition + growth optimum,unweighted mean,1655,0.11165988308648739,0.03099650416871985,0.00032473195414000006,
+effect size,composition + growth optimum,factor score,1655,0.11724107730564833,0.03303044930053792,0.0003968234654640216,
+out-of-sample R2,optimum alone,,1655,0.5768336783348874,0.001624512734592372,,
+out-of-sample R2,optimum + unweighted mean,,1655,0.584465093280829,0.0019085198843354395,,
+out-of-sample R2,optimum + factor score,,1655,0.5838899176959386,0.0018530178392757216,,
+R2 delta,optimum + unweighted mean,,1655,0.007631414945941462,0.0004417407666366358,,20.0
+R2 delta,optimum + factor score,,1655,0.007056239361051053,0.0003966468326174425,,20.0
+AUC,unweighted mean alone,,1655,0.8438552048265059,1.1102230246251565e-16,,
+AUC,factor score alone,,1655,0.8636412119596013,0.0021560811477710578,,
+AUC gain,factor score over the unweighted mean of the same 19 references,,1655,0.019786007133095418,,,
+AUC gain,"dropping the low-coverage references, 32 refs to the 19 high-coverage",,1655,0.05884012199593358,,,

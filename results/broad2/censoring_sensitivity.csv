@@ -1,0 +1,26 @@
+part,measure,n,note,n_total,rate,beta_per_sd,n_draws,bias_in_se,alpha_ph_per_sd,se,p,displacement_sd,required_r,attainable,mean_z_gap,required_depth_ph,headroom_to_ph0,threatens,physically_possible
+1,rows labelled measured,2620.0,"2534 by parser default, 86 determined by reading",,,,,,,,,,,,,,,,
+1,hand-read rows found censored,4.0,,90.0,0.044444444444444446,,,,,,,,,,,,,,
+2,"row-level agreement: bound = measured vs confidence in (high, medium)",,,,0.9985549132947977,,,,,,,,,,,,,,
+2,row-level agreement: bound = measured vs origin is a literature tier,,,,0.9985549132947977,,,,,,,,,,,,,,
+2,"row-level agreement: confidence in (high, medium) vs origin is a literature tier",,,,0.9971098265895953,,,,,,,,,,,,,,
+3,share of minima on whole numbers,2768.0,,,0.7380780346820809,,,,,,,,,,,,,,
+3,share on a 0.5 grid (whole or half),2768.0,,,0.9309971098265896,,,,,,,,,,,,,,
+3,share at the modal value pH 6.0,2768.0,,,0.3421242774566474,,,,,,,,,,,,,,
+4,"classical outcome noise, mean beta",,,,,0.184675368608094,200.0,-0.005589985908167055,,,,,,,,,,,
+4,same magnitude aligned with the predictor,,,,,0.5278373687350336,,11.8355781734616,,,,,,,,,,,
+5,displacement aligned with predictor,,,,,0.18483736873503334,,,0.0,0.028980417768613466,2.0961278493295514e-10,,,,,,,,
+5,displacement aligned with predictor,,,,,0.1348373687350333,,,-0.05,0.028980417768613445,3.4304629715312464e-06,,,,,,,,
+5,displacement aligned with predictor,,,,,0.08483736873503335,,,-0.1,0.028980417768613456,0.003445993503943839,,,,,,,,
+5,displacement aligned with predictor,,,,,3.7368735033116944e-05,,,-0.1848,0.028980417768613466,0.9989712629716169,,,,,,,,
+5,displacement aligned with predictor,,,,,-0.06516263126496687,,,-0.25,0.028980417768613456,0.024622533410557198,,,,,,,,
+5,displacement aligned with predictor,,,,,-0.11516263126496674,,,-0.3,0.02898041776861346,7.254372269040058e-05,,,,,,,,
+5,required correlation of displacement with predictor,,,,,,,,,,,0.25,0.7393494749401335,True,,,,,
+5,required correlation of displacement with predictor,,,,,,,,,,,0.5,0.36967473747006674,True,,,,,
+5,required correlation of displacement with predictor,,,,,,,,,,,1.0,0.18483736873503337,True,,,,,
+5,required correlation of displacement with predictor,,,,,,,,,,,2.0,0.09241868436751668,True,,,,,
+5,alpha that zeroes the headline,2768.0,,,,0.18483736873503334,,,-0.18483736873503337,,,,,,,,,,
+6,censoring depth that would zero the headline: minimum on a whole number (grid value),2043.0,,,,,,,,,,,,,0.306094130136616,-16.31537184087178,5.836049926578561,False,False
+6,censoring depth that would zero the headline: minimum at or above pH 5 (conventional band),2450.0,,,,,,,,,,,,,0.9433218946725853,8.358524089961978,6.043,False,False
+6,censoring depth that would zero the headline: minimum at the modal value exactly,947.0,,,,,,,,,,,,,0.19665752775891693,16.212288134560797,6.0,False,False
+6,"censoring depth that would zero the headline: from a database row, bound never assessed",144.0,,,,,,,,,,,,,-1.4126967485149868,,4.058715277777777,False,False

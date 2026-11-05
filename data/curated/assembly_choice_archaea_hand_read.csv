@@ -1,0 +1,34 @@
+taxon,n_assemblies,n_rejected_other_species,accession,organism,tax_id,strain,level,refseq_category,type_material,contig_n50,total_length,checkm_completeness,source_database
+Thermococcus acidaminovorans,0,0.0,,,,,,,,,,,
+Thermogladius shockii,0,0.0,,,,,,,,,,,
+Methanomethylovorans uponensis,0,0.0,,,,,,,,,,,
+Thermococcus henrietii,2,,GCA_900198835.1,Thermococcus henrietii,2016361.0,EXT12c,Complete Genome,reference genome,assembly from type material,2155760.0,2155760.0,98.99,SOURCE_DATABASE_GENBANK
+Nanobdella aerobiophila,2,,GCA_023169545.1,Nanobdella aerobiophila,2586965.0,MJ1,Complete Genome,reference genome,assembly from type material,668961.0,668961.0,72.66,SOURCE_DATABASE_GENBANK
+Methanolobus mangrovi,2,,GCA_031312535.1,Methanolobus mangrovi,3072977.0,FTZ2,Complete Genome,reference genome,assembly from type material,2623311.0,2623311.0,88.59,SOURCE_DATABASE_GENBANK
+Methanolobus sediminis,2,,GCA_031312595.1,Methanolobus sediminis,3072978.0,FTZ6,Complete Genome,reference genome,assembly from type material,2794531.0,2798037.0,90.14,SOURCE_DATABASE_GENBANK
+Methanochimaera problematica,2,,GCA_032878975.1,Methanochimaera problematica,2609417.0,FWC-SCC4,Complete Genome,reference genome,assembly from type material,2312530.0,2312530.0,95.78,SOURCE_DATABASE_GENBANK
+Nitrosotalea devaniterrae,3,,GCA_900065925.1,Nitrosotalea devaniterrae,1078905.0,,Complete Genome,,,1805304.0,1805304.0,,SOURCE_DATABASE_GENBANK
+Nitrosotalea sinensis,3,,GCA_900143675.1,Nitrosotalea sinensis,1499975.0,,Contig,reference genome,,284249.0,1598048.0,96.1,SOURCE_DATABASE_GENBANK
+Caldiplasma sukawensis,4,,GCA_052315375.1,Caldiplasma sukawensis,3400343.0,SKW2,Contig,reference genome,assembly from type material,108759.0,1401413.0,85.56,SOURCE_DATABASE_GENBANK
+Cuniculiplasma thermophilum,4,,GCA_052315315.1,Cuniculiplasma thermophilum,3400171.0,SKW4,Contig,,assembly from type material,42623.0,1655840.0,87.28,SOURCE_DATABASE_GENBANK
+Natronobacterium nitratireducens,2,,GCA_000337895.1,Halobiforma nitratireducens JCM 10879,1227454.0,JCM 10879,Contig,reference genome,assembly from type material,47406.0,3688747.0,74.59,SOURCE_DATABASE_GENBANK
+Natrinema ejinorense,2,,GCA_002494345.1,Natrinema ejinorense,373386.0,JCM 13890,Contig,reference genome,assembly from type material,3988345.0,4476324.0,96.45,SOURCE_DATABASE_GENBANK
+Halalkalicoccus jeotgali,6,,GCA_000196895.1,Halalkalicoccus jeotgali B3,795797.0,B3,Complete Genome,reference genome,assembly from type material,2809118.0,3698650.0,96.73,SOURCE_DATABASE_GENBANK
+Halorubrum litoreum,0,17.0,,,,,,,,,,,
+Haloterrigena jeotgali,0,12.0,,,,,,,,,,,
+Haloterrigena daqingensis,0,4.0,,,,,,,,,,,
+Halogranum gelatinilyticum,2,,GCA_900103715.1,Halogranum gelatinilyticum,660521.0,CGMCC 1.10119,Contig,reference genome,assembly from type material,946809.0,3770187.0,99.52,SOURCE_DATABASE_GENBANK
+Halogranum amylolyticum,2,,GCA_900110465.1,Halogranum amylolyticum,660520.0,CGMCC 1.10121,Scaffold,reference genome,assembly from type material,148517.0,5185690.0,99.52,SOURCE_DATABASE_GENBANK
+Halorubellus salinus,2,,GCA_020567525.1,Halorubellus salinus,755309.0,GX3,Contig,reference genome,assembly from type material,583777.0,4065184.0,98.76,SOURCE_DATABASE_GENBANK
+Halorubellus litoreus,6,,GCA_055378595.1,Halorubellus litoreus,755308.0,JCM 17117,Complete Genome,reference genome,assembly from type material,3566981.0,4597159.0,98.76,SOURCE_DATABASE_GENBANK
+Natronorubrum texcoconense,2,,GCA_900100335.1,Natronorubrum texcoconense,1095776.0,"B4,CECT 8067,JCM 17497",Contig,reference genome,,457630.0,4641793.0,85.3,SOURCE_DATABASE_GENBANK
+Halovivax limisalsi,2,,GCA_023093535.1,Halovivax limisalsi,1453760.0,IBRC-M 10022,Complete Genome,reference genome,assembly from type material,3894819.0,3894819.0,97.86,SOURCE_DATABASE_GENBANK
+Halorientalis persicus,3,,GCA_900110215.1,Halorientalis persicus,1367881.0,IBRC-M 10043,Scaffold,reference genome,assembly from type material,149545.0,4869758.0,99.1,SOURCE_DATABASE_GENBANK
+Natribaculum breve,2,,GCA_023008585.1,Natribaculum breve,1419050.0,TRM20010,Complete Genome,,,3337253.0,4352512.0,99.52,SOURCE_DATABASE_GENBANK
+Natribaculum longum,2,,GCA_023008565.1,Natribaculum longum,1419051.0,TRM20345,Complete Genome,,,3395034.0,4394685.0,99.52,SOURCE_DATABASE_GENBANK
+Halovivax cerinus,4,,GCA_024498195.1,Halovivax cerinus,1487865.0,IBRC-M 10256,Complete Genome,reference genome,assembly from type material,3902757.0,3902757.0,98.45,SOURCE_DATABASE_GENBANK
+Halorubrum gandharaense,4,,GCA_054654575.1,Halorubrum gandharaense,1334262.0,JCM 17823,Contig,reference genome,assembly from type material,1884723.0,3156684.0,94.53,SOURCE_DATABASE_GENBANK
+Natronoarchaeum persicum,0,0.0,,,,,,,,,,,
+Haloplanus rallus,0,8.0,,,,,,,,,,,
+Halomicrococcus hydrotolerans,0,0.0,,,,,,,,,,,
+Halorubrum hochsteinianum,2,,GCA_023702125.1,Halorubrum hochsteinianum,2949307.0,1-13-28,Complete Genome,reference genome,assembly from type material,2962044.0,3063422.0,97.48,SOURCE_DATABASE_GENBANK

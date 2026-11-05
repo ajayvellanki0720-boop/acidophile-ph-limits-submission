@@ -1,0 +1,18 @@
+part,class,refs,positions,histidines,share_pct,residue,pka,mean_share_pct,beta_per_pt,se,p,n,lambda,beta_E_per_pt,beta_H_per_pt,p_H,same_sign_as_glutamate,verdict,beta_H_controlled_per_pt,beta_genomewide_His_per_pt,p_genomewide,r_surface_vs_genomewide,survives,share_of_uncontrolled,passes,control_share_of_periplasmic,ratio_E_over_D_per_reference_pooled,ratio_E_over_D_pooled_share,relative_difference,beta_K_per_pt,p_K,H_over_K_magnitude,adopted,why_not
+composition,peri_exp,32.0,3020734.0,51157.0,1.693528791346739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,cyto_exp,32.0,2607945.0,61016.0,2.3396198922906732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,peri_bur,32.0,3280329.0,47139.0,1.437020493980939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,cyto_bur,32.0,2696716.0,45403.0,1.6836403981731856,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,TM,32.0,14532157.0,109615.0,0.7542927041044216,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,surface,5.0,2832388.0,34555.0,1.2199952831321133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+composition,buried,5.0,3838992.0,44031.0,1.1469416971955138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+pooled joint fit,,,,,,D,3.65,5.745866789616863,0.04069728338934207,0.020832205731887824,0.05085242388143599,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,,
+pooled joint fit,,,,,,E,4.25,5.901075182936701,0.10416216027572715,0.017384904750256187,2.3489781448673415e-09,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,,
+pooled joint fit,,,,,,H,6.0,1.688375150417349,-0.220656849311794,0.035186758810155275,4.150225033643785e-10,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,,
+pooled joint fit,,,,,,K,10.5,4.067879068236975,-0.02172760971001982,0.016346520818335257,0.18389568369523784,2768.0,0.5730029268313387,,,,,,,,,,,,,,,,,,,,,
+verdict,,,,,,,,,,,,,,0.10416216027572715,-0.220656849311794,4.150225033643785e-10,False,"BUFFERING: opposite sign to glutamate, so more histidine goes with a lower pH limit rather than a higher one - the direction this project's withdrawn proteome-wide lead ran.",,,,,,,,,,,,,,,,
+genome-wide histidine control,,,,,,,,,,0.03706757254234618,2.502348445623185e-09,,,,,,,,-0.22170494935629195,-0.007700980956682373,0.9555973079421511,0.4642327373667306,True,1.0047499094080554,,,,,,,,,,
+cytoplasmic control,,,,,,,,,-0.12229404018824981,0.0348343448347089,0.00045403159145831383,2768.0,,,,,,,,,,,,,,,,,,,,,,
+specificity,,,,,,,,,,,,,,,,,,,,,,,,,False,0.5542272563470036,,,,,,,,
+reconciliation with scripts/75,,,,,,,,,,,,,,,,,,,,,,,,,,,2.3699999999999997,2.5594376725156414,0.07993150739056613,,,,,
+"design implication, not adopted",,,,,,,,,,,,,,,-0.220656849311794,4.150225033643785e-10,,,,,,,,,,,,,,-0.02172760971001982,0.18389568369523784,10.155597060915392,False,histidine fails the exposed-cytoplasmic specificity control

@@ -1,0 +1,15 @@
+part,threshold,measure,n,n_tolerant_genomes,n_singleton,largest_clade,n_dropped,min_sister_tips,n_pairs,n_as_predicted,sign_p,signed_rank_p,median_diff,mean_diff,predicted_direction,is_claim,median_in_predicted_direction,critical_count,consistency_for_80pct_power,verdict,n_sig_claim,n_sig_control,n_claim_direction_ok,n_tolerant,n_clades,n_contrasts,headline_k,headline_n,headline_signed_rank_p,histidine_k,histidine_n,histidine_signed_rank_p,is_primary
+1,4.0,maximal wholly-tolerant clades,151.0,230.0,125.0,21.0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,4.0,usable tolerant-vs-sister contrasts,33.0,,,,118.0,3.0,,,,,,,,,,,,,,,,,,,,,,,,,
+3,4.0,exposed periplasmic acidic (the headline measure),,,,,,,33.0,19.0,0.48685024166479707,0.12551978579722345,-0.03785802805571539,-0.10790785375037666,-1.0,True,True,,,,,,,,,,,,,,,,
+3,4.0,exposed periplasmic histidine,,,,,,,33.0,22.0,0.08014331245794892,0.04634791240096092,0.17721648878342486,0.355639306959384,1.0,True,True,,,,,,,,,,,,,,,,
+3,4.0,exposed cytoplasmic acidic (control),,,,,,,33.0,20.0,0.296206368599087,0.21407612529583275,-0.08779968154781988,-0.05942198961915232,0.0,False,True,,,,,,,,,,,,,,,,
+3,4.0,transmembrane acidic (control),,,,,,,33.0,14.0,0.48685024166479707,0.737572681857273,0.0377632076947042,0.011545324500187918,0.0,False,False,,,,,,,,,,,,,,,,
+3,4.0,exposed cytoplasmic histidine (control),,,,,,,33.0,12.0,0.16275565745308995,0.05058561568148434,0.163940520855551,0.20347582790973706,0.0,False,False,,,,,,,,,,,,,,,,
+4,4.0,power of the sign test,,,,,,,33.0,,,,,,,,,23.0,0.7500000000000002,,,,,,,,,,,,,,
+5,4.0,verdict,,,,,,,33.0,,,,,,,,,,,"CONVERGENT at threshold 4.0 for exposed periplasmic histidine, SPECIFICITY NOT ESTABLISHED: its own matched control (exposed cytoplasmic histidine (control)) sits at p 0.0506, which is over the line by an amount no one should rest a specificity claim on. The sided contrast in scripts/82 is where that claim lives, not here. Separately, the headline measure is NOT significant here (signed-rank p 0.126, 19/33 in the predicted direction, median -0.0379 which does point the predicted way).",1.0,0.0,2.0,,,,,,,,,,
+6,3.0,threshold sweep,,,,,,,,,,,,,,,,,,,,,,82.0,40.0,8.0,7.0,8.0,0.0234375,7.0,8.0,0.0546875,False
+6,3.5,threshold sweep,,,,,,,,,,,,,,,,,,,,,,111.0,59.0,12.0,9.0,12.0,0.01220703125,8.0,12.0,0.0771484375,False
+6,4.0,threshold sweep,,,,,,,,,,,,,,,,,,,,,,230.0,151.0,33.0,19.0,33.0,0.12551978579722345,22.0,33.0,0.04634791240096092,True
+6,4.5,threshold sweep,,,,,,,,,,,,,,,,,,,,,,303.0,204.0,47.0,28.0,47.0,0.015085341312627065,31.0,47.0,0.0024501173084559014,False
+6,5.0,threshold sweep,,,,,,,,,,,,,,,,,,,,,,787.0,577.0,136.0,72.0,136.0,0.03968155754299246,78.0,136.0,0.006242449470812071,False

@@ -1,0 +1,24 @@
+system,hmm_prev,kw_prev,kw_true_pos,kw_false_pos,kw_false_neg,kw_precision,kw_recall,copy_corr,caveat
+kdp,0.4,0.35,7,0,1,1.0,0.875,0.9526139960922353,
+trk_ktr,0.5,0.45,9,0,1,1.0,0.9,0.8163456771837414,
+kef,0.05,0.05,0,1,1,0.0,0.0,-0.052631578947368446,
+f_atp_synthase,0.65,0.9,13,5,0,0.7222222222222222,1.0,0.8945869193704435,
+v_a_atp_synthase,0.1,0.35,2,5,0,0.2857142857142857,1.0,0.4457245163072948,
+nuo_complex_i,0.85,0.75,15,0,2,1.0,0.8823529411764706,0.5381057098271997,PF00346 also occurs in some NiFe hydrogenases
+cytochrome_oxidase,1.0,1.0,20,0,0,1.0,1.0,0.5320264525623735,
+p_type_atpase,1.0,0.9,18,0,2,1.0,0.9,0.8022141993655445,
+gad,0.25,0.35,4,3,1,0.5714285714285714,0.8,0.7477287401027786,PF00282 is the whole group-II PLP decarboxylase family (includes histidine/DOPA decarboxylases): family-level only
+urease,0.65,0.65,13,0,0,1.0,1.0,0.8305431965150344,
+adi_arc,0.25,0.2,4,0,1,1.0,0.8,0.782230897563225,
+carbonic_anhydrase,0.6,0.6,11,1,1,0.9166666666666666,0.9166666666666666,0.7260322861258971,
+hopanoid_shc,0.55,0.3,6,0,5,1.0,0.5454545454545454,0.27171928052559885,
+cfa,0.5,0.0,0,0,10,,0.0,,PF02353 also covers mycolic-acid methyltransferases
+s_layer,0.5,0.4,5,3,5,0.625,0.5,0.9312457650523401,
+chaperones,1.0,0.85,17,0,3,1.0,0.85,0.7459083353674287,Cpn60/HSP70/HSP20/Clp_N pooled; near-universal
+proteases,0.65,0.95,12,7,1,0.631578947368421,0.9230769230769231,-0.9064713334994534,
+dna_repair,1.0,1.0,20,0,0,1.0,1.0,0.8102679084779033,
+oxidative,1.0,1.0,20,0,0,1.0,1.0,0.39083647566100477,
+cdf_metal_efflux,1.0,0.6,12,0,8,1.0,0.6,0.24286827806483924,
+arsenic_resistance,0.6,0.9,12,6,0,0.6666666666666666,1.0,0.7422949693306733,
+rusticyanin_iron_ox,0.75,0.0,0,0,15,,0.0,,"PF00127 is the whole cupredoxin family, broader than rusticyanin"
+copper_resistance,0.6,0.3,6,0,6,1.0,0.5,0.05983998930793824,"PF00394 is multicopper oxidase generally, not only CopA"

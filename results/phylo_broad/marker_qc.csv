@@ -1,0 +1,3 @@
+domain,genomes,kept,families_used,alignment_columns,median_marker_families_per_genome,dropped
+Bacteria,1319,1317,29,3143,29,GCA_000226295.1;GCA_001039595.1
+Archaea,176,176,29,3118,28,

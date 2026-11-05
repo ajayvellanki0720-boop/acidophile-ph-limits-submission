@@ -1,0 +1,12 @@
+part,subset,n,min_exact_rate,mean_error,sd_error,max_abs_error,errors,error_rate,note,mean_ph_min,beta_per_sd,se,p
+fidelity,all parsed rows,106,0.9716981132075472,0.007547169811320753,0.08129676758940155,0.5999999999999996,,,,,,,
+fidelity,rows flagged clean,69,0.9855072463768116,-0.004347826086956519,0.03611575592573075,0.2999999999999998,,,,,,,
+fidelity,rows flagged usable (the gate in use),84,0.9880952380952381,-0.003571428571428569,0.032732683535398835,0.2999999999999998,,,,,,,
+hand check,"25 random rows, pH_min in [4,7]",25,,,,,3.0,0.12,all three read an optimum range as the growth range; all three have no parsed optimum,,,,
+signature,parser rows with a parsed optimum,1438,,,,,,,,5.844054242002781,,,
+signature,parser rows with no parsed optimum,1098,,,,,,,,6.05127504553734,,,
+sensitivity,all bacteria,2768,,,,,,,,,0.18483736873503334,0.02898041776861345,2.096127849329498e-10
+sensitivity,drop parser rows with no parsed optimum,1671,,,,,,,,,0.21687830540717815,0.036503903770469436,3.4377551354063465e-09
+sensitivity,ONLY parser rows with no parsed optimum,1097,,,,,,,,,0.1620628443780903,0.04192419955706128,0.00011733274711525152
+sensitivity,ONLY parser rows with a parsed optimum,1437,,,,,,,,,0.1515023173363194,0.03492658697565886,1.540234714600673e-05
+sensitivity,no parser rows at all (hand-curated + databases),234,,,,,,,,,0.27508594675613807,0.06978557849149783,0.0001075660788551042
