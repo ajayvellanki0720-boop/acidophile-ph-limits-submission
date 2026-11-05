@@ -14,7 +14,9 @@ Run `bash reproduce.sh figures`. This executes `scripts/100_figures.py`, which r
 
 ## Regenerate the Word manuscript source
 
-Run `bash reproduce.sh manuscript`. The generator asserts the headline values against their stored results before writing `docs/submission/Periplasmic_surface_charge_manuscript.docx`; `scripts/108_peerj_submission.py` then applies the supplied reference manuscript's margins, typography, paragraph rhythm, and black heading styles, embeds all five figure panels, and retains native continuous Word line numbering.
+Run `bash reproduce.sh figures` before `bash reproduce.sh manuscript`. The base generator asserts headline values against stored results; `scripts/108_peerj_submission.py` applies reference typography and `scripts/peerj_revision.py` applies the current structured abstract, methods, terminology, limitations and disclosures. The final Word copy retains continuous line numbering and includes legends without embedded figures. `scripts/109_submission_assets.py` exports four separate journal figures (including combined Figure 4A/B) and creates the 30-MB-limit-checked `Supplemental_Data_S1.zip` for direct journal upload. PNGs are rendered at 300 dpi; SVGs preserve vector graphics.
+
+The primary stored panel and its later deterministic rebuild are distinct. The manuscript explicitly records that the canonical headline uses the original panel and the measured deterministic-rebuild sensitivity is +0.1858 versus +0.1848 per SD. No full-sample maximum-likelihood tree analysis was run. Historical source documents retain earlier language and are not the current submission manuscript.
 
 ## Full reconstruction
 

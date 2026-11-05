@@ -13,3 +13,4 @@ dependencies:
   - pip:
       - pyhmmer==0.12.3
       - python-docx
+      - Pillow

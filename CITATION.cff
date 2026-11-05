@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Vellanki
     given-names: Ajay
+    orcid: "https://orcid.org/0009-0008-7994-152X"
 repository-code: "https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-submission"
 version: 1.0.0
 date-released: 2026-11-05

@@ -1,6 +1,6 @@
 # Acidophile pH limits submission archive
 
-This repository is the submission snapshot for the study **Periplasmic surface charge composition predicts the lower pH limit of bacterial growth independently of growth optimum**.
+This repository is the submission snapshot for the study **Extracytoplasmic surface charge composition is associated with reported minimum growth pH after adjustment for growth optimum**.
 
 It contains the analysis code, curated analysis tables, stored results, final figure files, manuscript source, tests, and reproducibility records. The 17 GB working collection of downloaded assemblies, proteomes, structures, and other re-fetchable raw inputs is intentionally excluded. Exact accessions and retrieval instructions are provided in [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md).
 
@@ -24,6 +24,10 @@ The verification tier uses only files committed here. Reconstructing the structu
 - `tests/` — automated tests.
 - `docs/` — manuscript source, analysis record, data dictionary, and design documents.
 - `docs/submission/` — submission manuscript generated from stored results.
+- `docs/submission/figures/` — four separate journal figure files in SVG and 300-dpi PNG formats, including combined Figure 4A/B.
+- `docs/submission/Supplemental_Data_S1.zip` — analysis-data supplement intended for direct journal upload, without an external DOI.
+
+The Word submission copy contains figure legends rather than embedded images. Earlier drafts and the historical project record below retain prior terminology and interpretations; the revised submission document is the current manuscript. The main analysis is observational, uses reported minima rather than established biological limits, and has no demonstrated out-of-clade predictive benefit.
 
 See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for commands and [PROVENANCE.md](PROVENANCE.md) for the exact source snapshot and local additions. The exploratory project log previously at the top of this file is retained unchanged in `docs/ORIGINAL_PROJECT_README.md`.
 

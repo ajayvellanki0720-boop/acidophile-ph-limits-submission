@@ -203,5 +203,7 @@ doc.core_properties.title = (
 )
 doc.core_properties.subject = "PeerJ submission manuscript"
 doc.core_properties.author = "Ajay Vellanki"
+from peerj_revision import revise
+revise(doc)
 doc.save(OUTPUT)
 print(OUTPUT)

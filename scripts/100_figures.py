@@ -46,7 +46,7 @@ INK, INK2, MUTED = "#0b0b0b", "#52514e", "#8a8984"
 GRID = "#e4e3df"
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9, "axes.edgecolor": MUTED,
                      "axes.linewidth": 0.6, "xtick.color": INK2, "ytick.color": INK2,
-                     "xtick.labelsize": 8.5, "ytick.labelsize": 8.5, "figure.dpi": 200,
+                     "xtick.labelsize": 8.5, "ytick.labelsize": 8.5, "figure.dpi": 300,
                      "savefig.bbox": "tight", "axes.labelcolor": INK, "text.color": INK})
 
 
@@ -77,7 +77,7 @@ def row(fig_name):
 
 
 print("1. the compartment contrast")
-SPEC = [("exposed periplasmic\n(the claim)", "exposed periplasmic, 32-reference rule-selected panel", True),
+SPEC = [("exposed extracytoplasmic", "exposed periplasmic, 32-reference rule-selected panel", True),
         ("exposed cytoplasmic", "exposed cytoplasmic control, 32 references", False),
         ("transmembrane", "transmembrane control, 32 references", False),
         ("soluble surface\n(5 references)", "soluble-surface control, 5 references", False)]
@@ -97,13 +97,13 @@ for i, (lab, key, is_claim) in enumerate(SPEC):
             color=INK if is_claim else INK2, fontweight="bold" if is_claim else "normal")
 ax.set_yticks(range(len(SPEC)))
 ax.set_yticklabels([s[0] for s in reversed(SPEC)])
-ax.set_xlabel("pH units per SD of composite  (95% CI; n = 2,768 except soluble, 2,764)")
+ax.set_xlabel("pH units per SD of composite  (95% CI)")
 ax.set_xlim(-0.22, 0.36)
 # NOT "only the periplasmic surface predicts the limit", which the first draft said and section 3.2 of the
 # manuscript denies in as many words: the soluble-surface control is significant and OPPOSITE in sign, so the
 # pattern is a contrast between compartments rather than a periplasm-only effect. A figure title is a claim and
 # gets held to the text it illustrates.
-ax.set_title("Periplasmic surface only: inward controls null, soluble surface reversed", loc="left", fontsize=9.5, color=INK, pad=8)
+ax.set_title("Associations differ between membrane position classes", loc="left", fontsize=9.5, color=INK, pad=8)
 save(fig, "fig1_compartment_contrast")
 
 print("2. the growth-optimum and histidine decomposition")
@@ -126,7 +126,7 @@ for i, spec in enumerate(ORDER):
             va="center", ha="left", fontsize=8.5, color=INK2)
 ax.set_yticks(range(len(ORDER)))
 ax.set_yticklabels([s.replace("+ ", "+ ") for s in reversed(ORDER)])
-ax.set_xlabel("pH units per SD of composite  (95% CI; all four fits on the same n = 1,655)")
+ax.set_xlabel("pH units per SD of pooled net share  (95% CI; n = 1,655)")
 ax.set_xlim(0, 0.46)
 ax.grid(axis="x", color=GRID, lw=0.6)
 ax.set_title("39% survives the growth optimum and histidine held together", loc="left", fontsize=10, color=INK, pad=8)
@@ -175,7 +175,7 @@ ax.axhline(0, color=INK2, lw=0.9, zorder=1)
 ax.plot(x, y, "-", color=BLUE, lw=2.0, zorder=3)
 ax.plot(x, y, "o", ms=5.5, color=BLUE, mec="white", mew=1.2, zorder=4)
 ax.plot([-float(az)], [0], "o", ms=9, color=ORANGE, mec="white", mew=1.6, zorder=5)
-ax.annotate(f"headline reaches zero at\n{-float(az):.3f} pH per SD", xy=(-float(az), 0), xytext=(-float(az) - 0.075, 0.075),
+ax.annotate(f"headline reaches zero at\n{-float(az):.3f} pH per SD", xy=(-float(az), 0), xytext=(0.21, 0.115),
             fontsize=8, color=INK2, ha="center",
             arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.8))
 ax.set_xlabel("differential censoring aligned with the predictor  (pH per SD)")
@@ -194,16 +194,16 @@ thr = p6[p6.required_depth_ph > 0].copy()
 labs = [m.split(": ", 1)[1] for m in thr.measure]
 yy = np.arange(len(thr))
 ax.barh(yy + 0.20, thr.required_depth_ph, height=0.32, color=ORANGE, zorder=3, label="depth required to erase the result")
-ax.barh(yy - 0.20, thr.headroom_to_ph0, height=0.32, color=MUTED, zorder=3, label="depth physically available (to pH 0)")
+ax.barh(yy - 0.20, thr.headroom_to_ph0, height=0.32, color=MUTED, zorder=3, label="headroom to assumed pH 0 floor")
 for i, r in enumerate(thr.itertuples()):
     ax.text(r.required_depth_ph + 0.25, i + 0.20, f"{r.required_depth_ph:.1f}", va="center", fontsize=8, color=INK2)
     ax.text(r.headroom_to_ph0 + 0.25, i - 0.20, f"{r.headroom_to_ph0:.1f}", va="center", fontsize=8, color=INK2)
 ax.set_yticks(yy)
 ax.set_yticklabels([textwrap.fill(lab, 30) for lab in labs], fontsize=7.6)
-ax.set_xlabel("mean displacement of reported minimum below the true limit (pH units)")
+ax.set_xlabel("downward displacement from reported to assumed true minimum (pH units)")
 ax.set_xlim(0, max(thr.required_depth_ph) * 1.22)
 ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.32), ncol=2, frameon=False, fontsize=8)
-ax.set_title("Every threatening proxy needs more depth than physically exists", loc="left", fontsize=10, color=INK, pad=8)
+ax.set_title("Specified proxies exceed headroom to an assumed pH 0 floor", loc="left", fontsize=10, color=INK, pad=8)
 save(fig, "fig4b_censoring_headroom")
 
 print("\nall figures drawn from stored results; every headline value asserted against the manuscript's text first")

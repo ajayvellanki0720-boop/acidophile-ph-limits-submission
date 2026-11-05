@@ -16,7 +16,7 @@ from pathlib import Path
 from docx import Document
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / "docs/submission/Periplasmic_surface_charge_manuscript.docx"
+SRC = ROOT / "docs/submission/Acidophile_PeerJ_Line_Numbered_Manuscript.docx"
 OUT = ROOT / "docs/submission/line_number_preview.html"
 WRAP = 96          # characters per line, close to 6.5 inches of 12pt Times New Roman
 
@@ -61,7 +61,7 @@ OUT.write_text(f"""<!doctype html>
   @media (max-width:640px) {{ .page {{ padding:1rem; }} .n {{ flex-basis:2.4rem; }} }}
 </style></head><body><div class="page">
 <p class="note"><strong>Preview only.</strong> The submission file is
-<code>Periplasmic_surface_charge_manuscript.docx</code>, which carries real Word line numbering in its section
+<code>Acidophile_PeerJ_Line_Numbered_Manuscript.docx</code>, which carries real Word line numbering in its section
 properties and renumbers itself as you edit. This page re-wraps the same text at a fixed width so the numbering can
 be seen without Word; line breaks here will not match Word's exactly.</p>
 {body}

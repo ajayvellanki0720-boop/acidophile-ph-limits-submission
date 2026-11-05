@@ -16,6 +16,7 @@ case "$mode" in
   manuscript)
     python3 scripts/105_submission_docx.py
     python3 scripts/108_peerj_submission.py
+    python3 scripts/109_submission_assets.py
     ;;
   *)
     echo "usage: $0 {verify|figures|manuscript}" >&2

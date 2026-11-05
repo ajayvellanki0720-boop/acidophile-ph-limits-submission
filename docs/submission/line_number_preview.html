@@ -21,438 +21,510 @@
   @media (max-width:640px) { .page { padding:1rem; } .n { flex-basis:2.4rem; } }
 </style></head><body><div class="page">
 <p class="note"><strong>Preview only.</strong> The submission file is
-<code>Periplasmic_surface_charge_manuscript.docx</code>, which carries real Word line numbering in its section
+<code>Acidophile_PeerJ_Line_Numbered_Manuscript.docx</code>, which carries real Word line numbering in its section
 properties and renumbers itself as you edit. This page re-wraps the same text at a fixed width so the numbering can
 be seen without Word; line breaks here will not match Word's exactly.</p>
-<div class="l"><span class="n">1</span><span class="t">Periplasmic surface charge composition predicts the lower pH limit of bacterial growth</span></div>
-<div class="l"><span class="n">2</span><span class="t">independently of growth optimum</span></div>
+<div class="l"><span class="n">1</span><span class="t">Extracytoplasmic surface charge composition is associated with reported minimum growth pH after</span></div>
+<div class="l"><span class="n">2</span><span class="t">adjustment for growth optimum</span></div>
 <div class="l"><span class="n">3</span><span class="t">Authors: Ajay Vellanki. ORCID iD: 0009-0008-7994-152X</span></div>
 <div class="l"><span class="n">4</span><span class="t">Affiliations: Independent Researcher, West Windsor, New Jersey, USA</span></div>
 <div class="l"><span class="n">5</span><span class="t">Corresponding author: Ajay Vellanki, ajayvellanki0720@gmail.com</span></div>
 <div class="l"><span class="n">6</span><span class="t">Keywords: acidophile; growth pH limit; comparative genomics; periplasm; surface charge;</span></div>
 <div class="l"><span class="n">7</span><span class="t">phylogenetic generalised least squares</span></div>
-<div class="l"><span class="n">8</span><span class="t">Running title: Periplasmic charge and the bacterial pH limit</span></div>
-<div class="l"><span class="n">9</span><span class="t">Word count (main text, Introduction to Discussion): 3,463</span></div>
-<div class="l"><span class="n">10</span><span class="t">&nbsp;</span></div>
-<div class="l"><span class="n">11</span><span class="t h">Abstract</span></div>
-<div class="l"><span class="n">12</span><span class="t">How acidic an environment a bacterium will grow in is only partly explained by where it grows</span></div>
-<div class="l"><span class="n">13</span><span class="t">best, and the genomic basis of the lower limit itself is not established. We asked which genomic</span></div>
-<div class="l"><span class="n">14</span><span class="t">features predict the minimum growth pH (pH_min) beyond what the growth optimum already explains,</span></div>
-<div class="l"><span class="n">15</span><span class="t">using 2,768 bacterial genomes with a curated minimum and a 32-protein panel of conserved inner-</span></div>
-<div class="l"><span class="n">16</span><span class="t">membrane reference proteins with per-residue structural confidence filtering. Analyses are</span></div>
-<div class="l"><span class="n">17</span><span class="t">phylogenetic generalised least squares with Pagel&#x27;s λ, controlling genome-wide amino acid</span></div>
-<div class="l"><span class="n">18</span><span class="t">composition and data source throughout. Composition at solvent-exposed periplasmic positions</span></div>
-<div class="l"><span class="n">19</span><span class="t">predicts the limit: a composite of net acidic residue share gives +0.1848 pH units per standard</span></div>
-<div class="l"><span class="n">20</span><span class="t">deviation (P = 2 × 10⁻10), and the direction is depletion, acid-tolerant bacteria carrying fewer</span></div>
-<div class="l"><span class="n">21</span><span class="t">exposed periplasmic acidic residues. Matched cytoplasmic (+0.0212, P = 0.33) and transmembrane</span></div>
-<div class="l"><span class="n">22</span><span class="t">(-0.0430, P = 0.07) controls computed on the same proteins are null, and the periplasmic-minus-</span></div>
-<div class="l"><span class="n">23</span><span class="t">cytoplasmic difference, estimated directly so that it carries a standard error, is +0.0536 pH</span></div>
-<div class="l"><span class="n">24</span><span class="t">per percentage point (P = 3 × 10⁻6). The association retains 39% of its size with growth optimum</span></div>
-<div class="l"><span class="n">25</span><span class="t">and exposed histidine controlled together (+0.1120 per SD, P = 4 × 10⁻3). Exposed histidine</span></div>
-<div class="l"><span class="n">26</span><span class="t">carries a separate, larger and oppositely signed association that is not a proxy for the first.</span></div>
-<div class="l"><span class="n">27</span><span class="t">The presence of particular membrane complexes predicts the limit independently of composition,</span></div>
-<div class="l"><span class="n">28</span><span class="t">with 7 of 22 testable reference families surviving Benjamini–Hochberg correction at q &lt; 0.10.</span></div>
-<div class="l"><span class="n">29</span><span class="t">The effects are small in variance terms, the work is correlational, and the reported minima</span></div>
-<div class="l"><span class="n">30</span><span class="t">largely sit on an experimental testing grid rather than on a demonstrated biological boundary;</span></div>
-<div class="l"><span class="n">31</span><span class="t">we bound rather than dismiss what that could do, and show that no observable censoring pattern</span></div>
-<div class="l"><span class="n">32</span><span class="t">could account for the association. The composite does not improve out-of-sample prediction in</span></div>
-<div class="l"><span class="n">33</span><span class="t">clades the model has not seen, which we report in full.</span></div>
-<div class="l"><span class="n">34</span><span class="t h">Data Summary</span></div>
-<div class="l"><span class="n">35</span><span class="t">All analysis code, the curated phenotype table, the structural panel and every result table</span></div>
-<div class="l"><span class="n">36</span><span class="t">underlying the figures and quoted coefficients are available at</span></div>
-<div class="l"><span class="n">37</span><span class="t">https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-submission, which includes a</span></div>
-<div class="l"><span class="n">38</span><span class="t">release manifest recording the software environment, a SHA-256 checksum for every result file</span></div>
-<div class="l"><span class="n">39</span><span class="t">cited in this article, and the order in which scripts are run.</span></div>
-<div class="l"><span class="n">40</span><span class="t">No new sequence data were generated by this study. Genome assemblies and proteomes were obtained</span></div>
-<div class="l"><span class="n">41</span><span class="t">from NCBI; the accession used for every genome is listed in the deposited file</span></div>
-<div class="l"><span class="n">42</span><span class="t">accession_used.csv, which should be cited alongside the originating submitters of those</span></div>
-<div class="l"><span class="n">43</span><span class="t">assemblies.</span></div>
-<div class="l"><span class="n">44</span><span class="t">Growth phenotypes were compiled from published species descriptions and from the following</span></div>
-<div class="l"><span class="n">45</span><span class="t">databases, whose authors should be credited by any reuse: AciDB (acidb.cl), ThermoBase, BacDive,</span></div>
-<div class="l"><span class="n">46</span><span class="t">and metaTraits (metatraits.embl.de), the last supplying the measured salinity values used in the</span></div>
-<div class="l"><span class="n">47</span><span class="t">confounder analysis. Protein structures were obtained from the AlphaFold Protein Structure</span></div>
-<div class="l"><span class="n">48</span><span class="t">Database and Pfam/InterPro hidden Markov models from EMBL-EBI.</span></div>
-<div class="l"><span class="n">49</span><span class="t">Software: Python 3.9.6, with NumPy 2.0.2, pandas 2.3.3, SciPy 1.13.1, Biopython 1.85, pyHMMER</span></div>
-<div class="l"><span class="n">50</span><span class="t">0.12.3 and Matplotlib 3.9.4; versions are pinned in the release manifest. Analyses can be</span></div>
-<div class="l"><span class="n">51</span><span class="t">reproduced from the deposited result tables without re-downloading genomes.</span></div>
-<div class="l"><span class="n">52</span><span class="t h">Impact Statement</span></div>
-<div class="l"><span class="n">53</span><span class="t">Compositional signatures of extremophily are well established for temperature and salinity but</span></div>
-<div class="l"><span class="n">54</span><span class="t">not for pH, which a standing review describes as considerably less discernible. The mechanisms</span></div>
-<div class="l"><span class="n">55</span><span class="t">of bacterial acid resistance that are understood in detail are inducible responses —</span></div>
-<div class="l"><span class="n">56</span><span class="t">decarboxylase systems, urea import, dedicated pH sensors — and they explain survival of acid</span></div>
-<div class="l"><span class="n">57</span><span class="t">shock better than they explain the pH at which steady growth stops. This study asks what sets</span></div>
-<div class="l"><span class="n">58</span><span class="t">that limit, and finds a signal in the composition of the one compartment the hypothesis names in</span></div>
-<div class="l"><span class="n">59</span><span class="t">advance: the outward-facing periplasmic surface, which unlike the cytoplasm is not held near</span></div>
-<div class="l"><span class="n">60</span><span class="t">neutrality. Because the prediction is compartment-specific, it comes with controls that are the</span></div>
-<div class="l"><span class="n">61</span><span class="t">same measurement on other faces of the same proteins, and those controls are null. The work also</span></div>
-<div class="l"><span class="n">62</span><span class="t">shows what such an analysis cannot deliver: the association does not transfer as a predictor to</span></div>
-<div class="l"><span class="n">63</span><span class="t">clades the model has not seen, and the outcome variable is bounded by how species descriptions</span></div>
-<div class="l"><span class="n">64</span><span class="t">are written rather than by biology. We quantify that bound instead of noting it. For readers</span></div>
-<div class="l"><span class="n">65</span><span class="t">building genome-based trait predictors, the reported limits may be as useful as the association.</span></div>
-<div class="l"><span class="n">66</span><span class="t">&nbsp;</span></div>
-<div class="l"><span class="n">67</span><span class="t h">Introduction</span></div>
-<div class="l"><span class="n">68</span><span class="t">Bacteria differ enormously in how acidic an environment they will grow in. Some isolates of</span></div>
-<div class="l"><span class="n">69</span><span class="t">Acidithiobacillus and Picrophilus grow below pH 1; most described species will not grow below pH</span></div>
-<div class="l"><span class="n">70</span><span class="t">5. What sets that lower bound is not the same question as where an organism grows best, and the</span></div>
-<div class="l"><span class="n">71</span><span class="t">two are routinely conflated because the optimum is far more often reported. A species whose</span></div>
-<div class="l"><span class="n">72</span><span class="t">optimum is pH 7 may have a limit at pH 4 or at pH 6, and the difference between those organisms</span></div>
-<div class="l"><span class="n">73</span><span class="t">is the quantity of interest here.</span></div>
-<div class="l"><span class="n">74</span><span class="t">The mechanisms of acid resistance that are understood in detail are inducible and physiological.</span></div>
-<div class="l"><span class="n">75</span><span class="t">Enteric bacteria surviving gastric transit deploy amino-acid decarboxylase systems that consume</span></div>
-<div class="l"><span class="n">76</span><span class="t">cytoplasmic protons, regulated by sensors that detect acidification directly: the EvgS/EvgA two-</span></div>
-<div class="l"><span class="n">77</span><span class="t">component system, in which a single histidine in the periplasmic domain is required for acid</span></div>
-<div class="l"><span class="n">78</span><span class="t">induction [1], and the regulator AdiY, whose pH response runs through the protonation of two</span></div>
-<div class="l"><span class="n">79</span><span class="t">histidines [2]. Helicobacter pylori additionally imports urea through the pH-gated channel UreI</span></div>
-<div class="l"><span class="n">80</span><span class="t">to feed intrabacterial urease [3]. Experimental evolution for acid resistance in Escherichia</span></div>
-<div class="l"><span class="n">81</span><span class="t">coli converges on the same signalling machinery, with evgS mutated in every selected population</span></div>
-<div class="l"><span class="n">82</span><span class="t">[4]. These are responses: machinery switched on when the environment turns acidic, and they</span></div>
-<div class="l"><span class="n">83</span><span class="t">explain survival of acid shock better than they explain the pH at which steady growth becomes</span></div>
-<div class="l"><span class="n">84</span><span class="t">impossible.</span></div>
-<div class="l"><span class="n">85</span><span class="t">A limit might instead be set by what the cell&#x27;s proteins can tolerate, and if so the relevant</span></div>
-<div class="l"><span class="n">86</span><span class="t">compartment is identifiable in advance. A Gram-negative bacterium holds its cytoplasm near</span></div>
-<div class="l"><span class="n">87</span><span class="t">neutrality even in strong acid, so cytoplasmic proteins never experience the external pH. The</span></div>
-<div class="l"><span class="n">88</span><span class="t">periplasm has no such protection: it equilibrates far closer to the medium, and proteins with</span></div>
-<div class="l"><span class="n">89</span><span class="t">surfaces facing it operate at whatever pH the organism is growing in. Any compositional</span></div>
-<div class="l"><span class="n">90</span><span class="t">signature of acid adaptation should therefore appear on outward-facing surfaces and not on</span></div>
-<div class="l"><span class="n">91</span><span class="t">cytoplasmic ones — which makes the hypothesis testable against a control that is the same</span></div>
-<div class="l"><span class="n">92</span><span class="t">measurement on a different face of the same protein. Consistent with the compartment mattering,</span></div>
-<div class="l"><span class="n">93</span><span class="t">periplasmic redox proteins of acidophiles have systematically more positive redox potentials</span></div>
-<div class="l"><span class="n">94</span><span class="t">than neutrophilic homologues [5].</span></div>
-<div class="l"><span class="n">95</span><span class="t">Compositional signatures of other extremes are established; for pH they are not. Thermophily is</span></div>
-<div class="l"><span class="n">96</span><span class="t">visible in the IVYWREL fraction and halophily in a pronounced excess of surface acidic residues,</span></div>
-<div class="l"><span class="n">97</span><span class="t">while a review of archaeal extremophile protein adaptation reports that adaptations toward pH</span></div>
-<div class="l"><span class="n">98</span><span class="t">are considerably less discernible [6]. That is a documented absence rather than an assumption,</span></div>
-<div class="l"><span class="n">99</span><span class="t">and it is the gap addressed here.</span></div>
-<div class="l"><span class="n">100</span><span class="t">Two recent results make the question tractable. Cabello-Yeves et al. showed that predicted</span></div>
-<div class="l"><span class="n">101</span><span class="t">isoelectric point shifts with habitat between marine and freshwater prokaryotes, with the</span></div>
-<div class="l"><span class="n">102</span><span class="t">difference sharper in secreted than cytoplasmic than membrane proteins and concentrated on</span></div>
-<div class="l"><span class="n">103</span><span class="t">protein surfaces [7], establishing that compartment-resolved composition carries environmental</span></div>
-<div class="l"><span class="n">104</span><span class="t">signal. Independently, Barnum et al. showed that growth pH can be predicted from amino acid</span></div>
-<div class="l"><span class="n">105</span><span class="t">composition computed per predicted subcellular localization, reporting the extracellular-minus-</span></div>
-<div class="l"><span class="n">106</span><span class="t">intracellular glutamate difference as the strongest residue-level correlate [8]. Together these</span></div>
-<div class="l"><span class="n">107</span><span class="t">say that the compartment-resolved signal exists and that pH is among the variables it carries.</span></div>
-<div class="l"><span class="n">108</span><span class="t">We ask which genomic features predict pH_min beyond the growth optimum, and whether any such</span></div>
-<div class="l"><span class="n">109</span><span class="t">signal is specific to the compartment the hypothesis names. Three associations survive the</span></div>
-<div class="l"><span class="n">110</span><span class="t">controls, and the limits that bound them are reported as fully as the associations themselves.</span></div>
-<div class="l"><span class="n">111</span><span class="t h">Methods</span></div>
-<div class="l"><span class="n">112</span><span class="t h">Phenotype data</span></div>
-<div class="l"><span class="n">113</span><span class="t">The analysis sample is 2,768 bacterial genomes carrying a curated minimum growth pH and a</span></div>
-<div class="l"><span class="n">114</span><span class="t">position in the reference phylogeny. Minima were compiled from four source tiers, recorded per</span></div>
-<div class="l"><span class="n">115</span><span class="t">record: hand-curated species descriptions read from primary sources, rule-based extraction from</span></div>
-<div class="l"><span class="n">116</span><span class="t">species-description abstracts, ThermoBase, and AciDB/BacDive [9]. Source is entered as a set of</span></div>
-<div class="l"><span class="n">117</span><span class="t">indicator covariates in every model, so a between-source level difference cannot by itself</span></div>
-<div class="l"><span class="n">118</span><span class="t">produce an association.</span></div>
-<div class="l"><span class="n">119</span><span class="t">The extraction tier dominates the sample and its fidelity was measured rather than assumed.</span></div>
-<div class="l"><span class="n">120</span><span class="t">Against hand-curated records it is exact for 98.8% of minima. Because that validation set was</span></div>
-<div class="l"><span class="n">121</span><span class="t">acidophile-enriched, 25 further records were read by hand from the pH band carrying most of the</span></div>
-<div class="l"><span class="n">122</span><span class="t">data; 3 of 25 were wrong, all by one mechanism, in which a sentence reporting only an optimum</span></div>
-<div class="l"><span class="n">123</span><span class="t">has that optimum recorded as the growth range. A detector for that specific failure scores 8 of</span></div>
-<div class="l"><span class="n">124</span><span class="t">8 against fifteen hand-read statements with no false positives and flags 298 of 2,536 extracted</span></div>
-<div class="l"><span class="n">125</span><span class="t">records; excluding exactly those records moves the headline estimate by 0.13 standard errors.</span></div>
-<div class="l"><span class="n">126</span><span class="t h">Structural panel and composite</span></div>
-<div class="l"><span class="n">127</span><span class="t">The predictor is built on a panel of conserved inner-membrane proteins of Escherichia coli with</span></div>
-<div class="l"><span class="n">128</span><span class="t">experimentally determined or high-confidence predicted structures. Each reference position was</span></div>
-<div class="l"><span class="n">129</span><span class="t">assigned to a class — exposed periplasmic, exposed cytoplasmic, transmembrane or buried — from</span></div>
-<div class="l"><span class="n">130</span><span class="t">UniProt topology together with relative solvent accessibility of the isolated model, computed by</span></div>
-<div class="l"><span class="n">131</span><span class="t">the Shrake–Rupley algorithm and normalised to the maxima of Tien et al. [10], with exposure</span></div>
-<div class="l"><span class="n">132</span><span class="t">defined as RSA ≥ 0.25. A position enters only if its per-residue pLDDT is ≥ 70, since the</span></div>
-<div class="l"><span class="n">133</span><span class="t">solvent accessibility of a poorly predicted residue is not interpretable. For each genome, the</span></div>
-<div class="l"><span class="n">134</span><span class="t">best-aligning hit of the reference&#x27;s Pfam family was tallied by the class of the reference</span></div>
-<div class="l"><span class="n">135</span><span class="t">position it aligned to, counting D, E, K, R and H separately.</span></div>
-<div class="l"><span class="n">136</span><span class="t">The composite is the mean across references of the per-reference net acidic share (D + E − K −</span></div>
-<div class="l"><span class="n">137</span><span class="t">R) divided by scorable positions, each reference standardised across genomes before averaging,</span></div>
-<div class="l"><span class="n">138</span><span class="t">with a per-reference position floor and a minimum of three contributing references. The panel</span></div>
-<div class="l"><span class="n">139</span><span class="t">used throughout is a 32-reference rule-selected set; a 7-reference hand-picked panel preceded it</span></div>
-<div class="l"><span class="n">140</span><span class="t">and is not the same measurement, so per-unit coefficients from the two are never compared. Panel</span></div>
-<div class="l"><span class="n">141</span><span class="t">construction is deterministic and verified to rebuild byte-identically.</span></div>
-<div class="l"><span class="n">142</span><span class="t h">Statistical model</span></div>
-<div class="l"><span class="n">143</span><span class="t">All estimates are phylogenetic generalised least squares on a Brownian covariance matrix derived</span></div>
-<div class="l"><span class="n">144</span><span class="t">from the reference marker-gene tree, with Pagel&#x27;s λ [11] estimated by maximum likelihood. Every</span></div>
-<div class="l"><span class="n">145</span><span class="t">model carries an intercept, a genome-wide amino acid composition control and the source</span></div>
-<div class="l"><span class="n">146</span><span class="t">indicators. Coefficients are reported per standard deviation of the predictor unless a per-unit</span></div>
-<div class="l"><span class="n">147</span><span class="t">figure is explicitly labelled, because composites averaging different numbers of references have</span></div>
-<div class="l"><span class="n">148</span><span class="t">different spreads. Where a model adds the growth optimum, the comparison is made on the single</span></div>
-<div class="l"><span class="n">149</span><span class="t">sample for which the optimum is known, never against the full-sample figure, so that a change of</span></div>
-<div class="l"><span class="n">150</span><span class="t">model is not confounded with a change of sample. Multiple testing across reference families is</span></div>
-<div class="l"><span class="n">151</span><span class="t">controlled by the Benjamini–Hochberg procedure [12].</span></div>
-<div class="l"><span class="n">152</span><span class="t">Compartment contrasts are estimated by entering both faces in one model as their sum and</span></div>
-<div class="l"><span class="n">153</span><span class="t">difference. This spans the same column space as entering the two levels and so changes no fitted</span></div>
-<div class="l"><span class="n">154</span><span class="t">value, but it makes the periplasmic excess an estimate carrying its own standard error, which a</span></div>
-<div class="l"><span class="n">155</span><span class="t">difference taken between two separately fitted coefficients does not.</span></div>
-<div class="l"><span class="n">156</span><span class="t h">Verification</span></div>
-<div class="l"><span class="n">157</span><span class="t">Four checks were required to pass before any figure was quoted. A static audit searches the</span></div>
-<div class="l"><span class="n">158</span><span class="t">analysis code for nine previously made error classes. A unit-test suite covers the library,</span></div>
-<div class="l"><span class="n">159</span><span class="t">including mutation-checked guards on the per-standard-deviation/per-unit identity. A</span></div>
-<div class="l"><span class="n">160</span><span class="t">traceability check extracts every signed coefficient from the manuscript and supporting</span></div>
-<div class="l"><span class="n">161</span><span class="t">documents and requires it to be present in the stored result file that the same claim cites.</span></div>
-<div class="l"><span class="n">162</span><span class="t">Finally, the estimator was reimplemented independently, sharing no Newick parser, no covariance</span></div>
-<div class="l"><span class="n">163</span><span class="t">construction, no matrix factorisation and no λ search with the original: across 30 declared</span></div>
-<div class="l"><span class="n">164</span><span class="t">comparisons the headline reproduces at +0.184838 per SD against +0.184837.</span></div>
-<div class="l"><span class="n">165</span><span class="t h">Results</span></div>
-<div class="l"><span class="n">166</span><span class="t h">Exposed periplasmic acidic composition predicts the lower growth limit</span></div>
-<div class="l"><span class="n">167</span><span class="t">The composite of net acidic residue share at exposed periplasmic positions gives +0.1848 pH</span></div>
-<div class="l"><span class="n">168</span><span class="t">units per standard deviation (2,768 genomes, P = 2 × 10⁻10) with genome-wide composition and</span></div>
-<div class="l"><span class="n">169</span><span class="t">source controlled (Fig. 1). The sign warrants stating explicitly, because it is easy to invert</span></div>
-<div class="l"><span class="n">170</span><span class="t">in prose: the coefficient is positive, so a higher net acidic share accompanies a higher</span></div>
-<div class="l"><span class="n">171</span><span class="t">minimum, that is, less acid tolerance. Acid-tolerant bacteria are depleted of acidic residues on</span></div>
-<div class="l"><span class="n">172</span><span class="t">their outward-facing periplasmic surfaces, not enriched. At compartment level the contrast is</span></div>
-<div class="l"><span class="n">173</span><span class="t">direct: genomes with pH_min ≤ 3.5 average a secreted acidic share of 0.0999 against 0.1246 for</span></div>
-<div class="l"><span class="n">174</span><span class="t">those at or above pH 6.</span></div>
-<div class="l"><span class="n">175</span><span class="t h">The association is confined to the periplasmic-facing surface</span></div>
-<div class="l"><span class="n">176</span><span class="t">Because the claim is about a compartment, the controls are the same measurement computed on</span></div>
-<div class="l"><span class="n">177</span><span class="t">other compartments of the same proteins, on the same genomes, in the same model (Fig. 1).</span></div>
-<div class="l"><span class="n">178</span><span class="t">Exposed cytoplasmic gives +0.0212 (P = 0.33) and transmembrane -0.0430 (P = 0.07); both are</span></div>
-<div class="l"><span class="n">179</span><span class="t">null. The soluble-surface reference set gives -0.0935 (P = 0.01), which is significant and</span></div>
-<div class="l"><span class="n">180</span><span class="t">opposite in sign. That is not a failure of specificity, but it does mean the pattern is a</span></div>
-<div class="l"><span class="n">181</span><span class="t">contrast between compartments rather than a periplasm-only effect, and we describe it as such.</span></div>
-<div class="l"><span class="n">182</span><span class="t">Entering both faces in a single model as sum and difference makes the periplasmic excess an</span></div>
-<div class="l"><span class="n">183</span><span class="t">estimate in its own right: +0.0536 pH per percentage point (P = 3 × 10⁻6).</span></div>
-<div class="l"><span class="n">184</span><span class="t h">Part of the association is independent of growth optimum and of histidine</span></div>
-<div class="l"><span class="n">185</span><span class="t">On the genomes whose optimum is known, so that the drop is a change of model alone, the</span></div>
-<div class="l"><span class="n">186</span><span class="t">composition-only coefficient of +0.2123 per SD falls to +0.0904 with the optimum controlled</span></div>
-<div class="l"><span class="n">187</span><span class="t">(Fig. 2). The more demanding test holds the optimum and exposed histidine fixed together, since</span></div>
-<div class="l"><span class="n">188</span><span class="t">histidine carries its own association. The coefficient is +0.1120 per SD (P = 4 × 10⁻3),</span></div>
-<div class="l"><span class="n">189</span><span class="t">retaining 39% of the composition-only figure on that sample. The two controls prove nearly</span></div>
-<div class="l"><span class="n">190</span><span class="t">independent: the product of their separate shares is 0.375 against a joint share of 0.387.</span></div>
-<div class="l"><span class="n">191</span><span class="t h">Exposed histidine is a separate association, not a proxy</span></div>
-<div class="l"><span class="n">192</span><span class="t">Exposed periplasmic histidine share carries a larger coefficient than the acidic composite and</span></div>
-<div class="l"><span class="n">193</span><span class="t">in the opposite direction. Entered as sum and difference across the two compartments, with</span></div>
-<div class="l"><span class="n">194</span><span class="t">periplasmic D, E and K held fixed, the shared component is -0.1317 pH per percentage point and</span></div>
-<div class="l"><span class="n">195</span><span class="t">the periplasmic excess -0.0800 (P = 3 × 10⁻3) — so the association has both a side-specific and</span></div>
-<div class="l"><span class="n">196</span><span class="t">a shared part. That contrast was calibrated on the acidic result first, which fires at +0.0536,</span></div>
-<div class="l"><span class="n">197</span><span class="t">because a test is only a test once it has been shown capable of firing.</span></div>
-<div class="l"><span class="n">198</span><span class="t">The two measures correlate at r = −0.549, which makes one standing in for the other the obvious</span></div>
-<div class="l"><span class="n">199</span><span class="t">concern. Mutual adjustment excludes it: each retains roughly three quarters of its coefficient</span></div>
-<div class="l"><span class="n">200</span><span class="t">with the other held fixed, and the acidic measure&#x27;s one-sidedness survives at 77% of its</span></div>
-<div class="l"><span class="n">201</span><span class="t">unadjusted value. Solvent access is doing demonstrable work — histidine at non-exposed positions</span></div>
-<div class="l"><span class="n">202</span><span class="t">in the same reference families predicts nothing, alone or jointly. A pre-registered ordering of</span></div>
-<div class="l"><span class="n">203</span><span class="t">coefficients by side-chain pKa does not hold monotonically; what does organise them is charge</span></div>
-<div class="l"><span class="n">204</span><span class="t">class, which remains significant with histidine held fixed, while pKa orders the acidic pair and</span></div>
-<div class="l"><span class="n">205</span><span class="t">fails to order the basic residues.</span></div>
-<div class="l"><span class="n">206</span><span class="t h">Detectable presence of particular membrane complexes predicts the limit</span></div>
-<div class="l"><span class="n">207</span><span class="t">How many of the panel&#x27;s reference families a genome has a detectable homologue of was initially</span></div>
-<div class="l"><span class="n">208</span><span class="t">held fixed as a nuisance control. Decomposed, it is two things: breadth survives at −0.036 pH</span></div>
-<div class="l"><span class="n">209</span><span class="t">per reference with assembly level, similarity to the reference proteins and genome size held</span></div>
-<div class="l"><span class="n">210</span><span class="t">fixed, whereas depth — positions per homologue — carries nothing once similarity is controlled.</span></div>
-<div class="l"><span class="n">211</span><span class="t">Of the accepted references, 22 have enough detection variance to regress on and 7 survive</span></div>
-<div class="l"><span class="n">212</span><span class="t">Benjamini–Hochberg at q &lt; 0.10 (Fig. 3), the strongest being cytochrome bo(3) ubiquinol oxidase</span></div>
-<div class="l"><span class="n">213</span><span class="t">subunit 1 at -0.4286 pH.</span></div>
-<div class="l"><span class="n">214</span><span class="t">Three limits are explicit. The intended negative control cannot be run: the soluble reference</span></div>
-<div class="l"><span class="n">215</span><span class="t">proteins are detected in over 99% of genomes and therefore fall below the variance floor, so</span></div>
-<div class="l"><span class="n">216</span><span class="t">none was tested, and a control that cannot run is a limitation rather than a pass. What replaces</span></div>
-<div class="l"><span class="n">217</span><span class="t">it is weaker and labelled so — the survivors&#x27; signs are mixed, five down and two up, which</span></div>
-<div class="l"><span class="n">218</span><span class="t">excludes a shared sequencing or annotation artefact because such an account predicts one</span></div>
-<div class="l"><span class="n">219</span><span class="t">direction for every reference, and establishes nothing about function. Detection is a crude</span></div>
-<div class="l"><span class="n">220</span><span class="t">proxy for presence, so these are claims about detectable homologues of E. coli proteins. And</span></div>
-<div class="l"><span class="n">221</span><span class="t">breadth retains 47% of its coefficient with the survivors held fixed against a pre-set criterion</span></div>
-<div class="l"><span class="n">222</span><span class="t">of half, so the named references carry about half of the breadth effect rather than being it.</span></div>
-<div class="l"><span class="n">223</span><span class="t h">The measure survives being made homogeneous, and the estimator reproduces</span></div>
-<div class="l"><span class="n">224</span><span class="t">The composite pools numerator and denominator over whichever references a genome has a</span></div>
-<div class="l"><span class="n">225</span><span class="t">detectable homologue of, so two genomes with identical surface chemistry can receive different</span></div>
-<div class="l"><span class="n">226</span><span class="t">shares. This is heterogeneity in what the measure measures, which holding breadth fixed in a</span></div>
-<div class="l"><span class="n">227</span><span class="t">regression does not remove. Two routes that fail in different places were run: a six-reference</span></div>
-<div class="l"><span class="n">228</span><span class="t">common core identical across genomes, and the 239 genomes carrying every reference. Neither</span></div>
-<div class="l"><span class="n">229</span><span class="t">failed, at +0.0362 and +0.0888 pH per percentage point respectively.</span></div>
-<div class="l"><span class="n">230</span><span class="t h">Discussion</span></div>
-<div class="l"><span class="n">231</span><span class="t">Three associations survive the controls designed to break them, and the compartment specificity</span></div>
-<div class="l"><span class="n">232</span><span class="t">is the part we would defend most firmly: the cytoplasmic and transmembrane controls are the</span></div>
-<div class="l"><span class="n">233</span><span class="t">identical measurement on other faces of the same proteins, and they are null. We think the</span></div>
-<div class="l"><span class="n">234</span><span class="t">limits below matter as much as the findings.</span></div>
-<div class="l"><span class="n">235</span><span class="t h">Mechanism: charge burden rather than buffering</span></div>
-<div class="l"><span class="n">236</span><span class="t">The mechanism is contested by the one directly comparable experiment. Weeks and Sachs</span></div>
-<div class="l"><span class="n">237</span><span class="t">mutagenised every histidine, aspartate and glutamate in the periplasmic domain of the H. pylori</span></div>
-<div class="l"><span class="n">238</span><span class="t">urea channel UreI and found three histidines and three carboxylates all required to activate</span></div>
-<div class="l"><span class="n">239</span><span class="t">transport at acidic pH, with those residues largely absent from the pH-independent Streptococcus</span></div>
-<div class="l"><span class="n">240</span><span class="t">salivarius homologue [3]. There, periplasmic carboxylates are required for low-pH function; here</span></div>
-<div class="l"><span class="n">241</span><span class="t">they are depleted in acid-tolerant genomes. A later study adds a conserved cytoplasmic glutamate</span></div>
-<div class="l"><span class="n">242</span><span class="t">to the same channel&#x27;s gating [13], and an engineering study aimed at gastric pH deliberately</span></div>
-<div class="l"><span class="n">243</span><span class="t">adds acidic residues on an explicit buffering rationale [14].</span></div>
-<div class="l"><span class="n">244</span><span class="t">The two accounts are separable from composition alone, because they require opposite signs of</span></div>
-<div class="l"><span class="n">245</span><span class="t">the same quantity. Writing Q(pH) for net surface charge and β(pH) = −dQ/dpH for buffer capacity,</span></div>
-<div class="l"><span class="n">246</span><span class="t">a charge-burden account predicts acid tolerance accompanying a smaller charge change between</span></div>
-<div class="l"><span class="n">247</span><span class="t">neutrality and the limit, while a buffering account predicts it accompanying greater capacity at</span></div>
-<div class="l"><span class="n">248</span><span class="t">the operating pH. At pH 3 and pH 4, inside the acidophile range and near the carboxylate pKa</span></div>
-<div class="l"><span class="n">249</span><span class="t">values, the charge change carries a positive coefficient (+0.1399, P = 4 × 10⁻8; +0.0776, P = 1</span></div>
-<div class="l"><span class="n">250</span><span class="t">× 10⁻3), so acid-tolerant genomes have less outward-facing charge to change, as burden predicts,</span></div>
-<div class="l"><span class="n">251</span><span class="t">while buffer capacity carries a positive coefficient, the opposite of what buffering predicts.</span></div>
-<div class="l"><span class="n">252</span><span class="t">Both quantities reverse sign between pH 4 and pH 6 (-0.2092), which is where histidine titrates</span></div>
-<div class="l"><span class="n">253</span><span class="t">and where its opposite-signed association appears inside the same quantity. We emphasise that</span></div>
-<div class="l"><span class="n">254</span><span class="t">this is not an electrostatics calculation — no structure, no solvent, no interaction between</span></div>
-<div class="l"><span class="n">255</span><span class="t">groups, and model pKa values throughout.</span></div>
-<div class="l"><span class="n">256</span><span class="t">A protein whose function is to respond to acid needs titratable groups on the face that senses</span></div>
-<div class="l"><span class="n">257</span><span class="t">it; a proteome that must merely continue working at low pH may do better with fewer. That</span></div>
-<div class="l"><span class="n">258</span><span class="t">reconciles UreI with the present result, and it makes a falsifiable prediction: a panel built</span></div>
-<div class="l"><span class="n">259</span><span class="t">from dedicated pH sensors should carry the opposite sign to a housekeeping panel. We attempted</span></div>
-<div class="l"><span class="n">260</span><span class="t">that test and it cannot be run on this sample. Dedicated periplasmic sensor domains are detected</span></div>
-<div class="l"><span class="n">261</span><span class="t">in 1.9% of genomes, with all detections in a single phylum, so the contrast would be between</span></div>
-<div class="l"><span class="n">262</span><span class="t">lineages rather than between protein classes. The prediction is untested, not refuted.</span></div>
-<div class="l"><span class="n">263</span><span class="t h">The outcome variable is the principal limitation, and it is bounded</span></div>
-<div class="l"><span class="n">264</span><span class="t">pH_min is meant to be the lowest pH at which an organism grows. What a species description</span></div>
-<div class="l"><span class="n">265</span><span class="t">usually records is the lowest pH at which growth was observed, bounded below by whatever the</span></div>
-<div class="l"><span class="n">266</span><span class="t">authors chose to test. If that choice tracks what they expected, the error is not noise but is</span></div>
-<div class="l"><span class="n">267</span><span class="t">systematically related to apparent acid tolerance and therefore to anything predicting it.</span></div>
-<div class="l"><span class="n">268</span><span class="t">The reported minima do carry a testing-grid signature: 74% sit on a whole pH unit and 93% on a</span></div>
-<div class="l"><span class="n">269</span><span class="t">whole or half unit, and the modal value, pH 6.0, accounts for 34% of the sample. A measured</span></div>
-<div class="l"><span class="n">270</span><span class="t">limit has no reason to prefer a round number; a testing grid has every reason to. Measured</span></div>
-<div class="l"><span class="n">271</span><span class="t">outcome reliability is high (ICC 0.965 from cross-source replicate readings, error SD 0.343 pH)</span></div>
-<div class="l"><span class="n">272</span><span class="t">and supports the standard result that error in the dependent variable inflates standard errors</span></div>
-<div class="l"><span class="n">273</span><span class="t">without biasing slopes — but that holds for classical error, independent of the predictor by</span></div>
-<div class="l"><span class="n">274</span><span class="t">construction. Censoring is not classical: it has a sign and a mechanism. Simulated at equal</span></div>
-<div class="l"><span class="n">275</span><span class="t">magnitude, classical noise moves the coefficient by 0.006 standard errors while the same</span></div>
-<div class="l"><span class="n">276</span><span class="t">magnitude aligned with the predictor moves it by 11.8.</span></div>
-<div class="l"><span class="n">277</span><span class="t">We therefore bounded it. To drive the coefficient to zero, the censoring displacement would have</span></div>
-<div class="l"><span class="n">278</span><span class="t">to deepen by 0.185 pH for every standard deviation of surface composition. Routed through</span></div>
-<div class="l"><span class="n">279</span><span class="t">observable proxies for being censored, that requirement is not merely implausible but physically</span></div>
-<div class="l"><span class="n">280</span><span class="t">impossible: the proxies pointing in the threatening direction require mean displacements of 8.4</span></div>
-<div class="l"><span class="n">281</span><span class="t">pH or more against 6.0 pH of available headroom, which would place the flagged organisms&#x27; true</span></div>
-<div class="l"><span class="n">282</span><span class="t">minima below pH 0 (Fig. 4). This closes the objection in the form a proxy can express it. It</span></div>
-<div class="l"><span class="n">283</span><span class="t">does not close the objection: the proxies are weak and each proxies other things, and selection</span></div>
-<div class="l"><span class="n">284</span><span class="t">acting on which organisms get described at all would appear in none of them. Settling it</span></div>
-<div class="l"><span class="n">285</span><span class="t">requires bound type read from full texts at scale, or growth limits measured on a common pH</span></div>
-<div class="l"><span class="n">286</span><span class="t">grid.</span></div>
-<div class="l"><span class="n">287</span><span class="t h">What the association does not do</span></div>
-<div class="l"><span class="n">288</span><span class="t">It does not predict out of clade. Fitting on every other phylum, with the composite re-</span></div>
-<div class="l"><span class="n">289</span><span class="t">standardised on training genomes only, pooled out-of-sample RMSE is 0.9253 pH with the composite</span></div>
-<div class="l"><span class="n">290</span><span class="t">against 0.9248 pH without it — fractionally worse — and the cytoplasmic control, at 0.9238 pH,</span></div>
-<div class="l"><span class="n">291</span><span class="t">does no worse than either. The composite lowers error in three of four folds, and the pooled</span></div>
-<div class="l"><span class="n">292</span><span class="t">figure is decided by the one it fails, which is the phylum holding most of the acidophiles and</span></div>
-<div class="l"><span class="n">293</span><span class="t">whose removal leaves the training set with little of the acid-tolerant range the effect is</span></div>
-<div class="l"><span class="n">294</span><span class="t">confined to; fold-level gain tracks the tail retained in training at r = +0.835 across four</span></div>
-<div class="l"><span class="n">295</span><span class="t">folds, a direction predicted in advance and resting on four points. Both readings stand: the</span></div>
-<div class="l"><span class="n">296</span><span class="t">association survives every within-sample test reported here and buys no out-of-sample accuracy</span></div>
-<div class="l"><span class="n">297</span><span class="t">across clades. For a claim about mechanism that is survivable; for a claim about prediction it</span></div>
-<div class="l"><span class="n">298</span><span class="t">would be fatal, and we make none. Reference selection was additionally performed once on all</span></div>
-<div class="l"><span class="n">299</span><span class="t">genomes, so even these figures are optimistic by an unmeasured amount.</span></div>
-<div class="l"><span class="n">300</span><span class="t">The effects are small in variance terms, well under 1% of pH_min variance beyond the growth</span></div>
-<div class="l"><span class="n">301</span><span class="t">optimum, and the relationship is concentrated in the acid-tolerant tail rather than running</span></div>
-<div class="l"><span class="n">302</span><span class="t">uniformly across the range. Nothing here is interventional. In archaea the pattern is consistent</span></div>
-<div class="l"><span class="n">303</span><span class="t">but marginal, and within halophilic archaea specificity fails outright.</span></div>
-<div class="l"><span class="n">304</span><span class="t h">A second environmental variable acts on a different compartment</span></div>
-<div class="l"><span class="n">305</span><span class="t">Because compartment-resolved isoelectric point shifts with marine-versus-freshwater habitat in</span></div>
-<div class="l"><span class="n">306</span><span class="t">the same ordering reported here [7], a habitat variable could in principle act through the</span></div>
-<div class="l"><span class="n">307</span><span class="t">periplasmic face and mimic the result. Measured salinity tolerance, available for 669 genomes of</span></div>
-<div class="l"><span class="n">308</span><span class="t">this sample, does not predict pH_min (P = 0.36) and removes 1% of the periplasmic coefficient</span></div>
-<div class="l"><span class="n">309</span><span class="t">when held fixed. More informative, the two variables have separable compartment profiles:</span></div>
-<div class="l"><span class="n">310</span><span class="t">salinity gives secreted &gt; cytoplasmic &gt; membrane, reproducing the published ordering, while</span></div>
-<div class="l"><span class="n">311</span><span class="t">pH_min gives secreted &gt; membrane &gt; cytoplasmic. Salinity moves the secreted and cytoplasmic</span></div>
-<div class="l"><span class="n">312</span><span class="t">shares together, as a whole-cell osmotic account predicts; pH moves the secreted share and</span></div>
-<div class="l"><span class="n">313</span><span class="t">leaves the cytoplasmic one untouched. The method does not impose one ordering on every variable</span></div>
-<div class="l"><span class="n">314</span><span class="t">given to it, which is a stronger defence of the controls than salinity being inert — it is not</span></div>
-<div class="l"><span class="n">315</span><span class="t">inert, and predicts secreted composition more strongly than pH does. Within the salinity-</span></div>
-<div class="l"><span class="n">316</span><span class="t">measured subsample the transmembrane control does fire, and that signal is confined to the salt-</span></div>
-<div class="l"><span class="n">317</span><span class="t">tolerant half, consistent with halotolerant membranes being compositionally distinct: a second</span></div>
-<div class="l"><span class="n">318</span><span class="t">environmental variable perturbing a different compartment from the one claimed here.</span></div>
-<div class="l"><span class="n">319</span><span class="t h">Conclusion</span></div>
-<div class="l"><span class="n">320</span><span class="t">Composition at the outward-facing periplasmic surface is associated with the lower pH limit of</span></div>
-<div class="l"><span class="n">321</span><span class="t">bacterial growth beyond what growth optimum explains, specifically to that compartment, and</span></div>
-<div class="l"><span class="n">322</span><span class="t">separably from a larger histidine association and from gene content. The direction is depletion</span></div>
-<div class="l"><span class="n">323</span><span class="t">of acidic residues, and a charge-burden rather than buffering account is the one the titration</span></div>
-<div class="l"><span class="n">324</span><span class="t">behaviour supports, against the single most directly comparable experiment in the literature.</span></div>
-<div class="l"><span class="n">325</span><span class="t">The limits are as firm as the findings: no out-of-clade predictive gain, an outcome variable</span></div>
-<div class="l"><span class="n">326</span><span class="t">shaped by how species descriptions are written, and no interventional evidence. A pre-registered</span></div>
-<div class="l"><span class="n">327</span><span class="t">charge-reversal experiment is designed; the discrimination between burden and buffering should</span></div>
-<div class="l"><span class="n">328</span><span class="t">be settled on a single chassis protein before it is run.</span></div>
-<div class="l"><span class="n">329</span><span class="t h">Conflicts of interest</span></div>
-<div class="l"><span class="n">330</span><span class="t">The author declares that there are no conflicts of interest.</span></div>
-<div class="l"><span class="n">331</span><span class="t h">Funding information</span></div>
-<div class="l"><span class="n">332</span><span class="t">This research received no specific grant from any funding agency, commercial or not-for-profit.</span></div>
-<div class="l"><span class="n">333</span><span class="t h">Ethical approval and consent to participate</span></div>
-<div class="l"><span class="n">334</span><span class="t">This study used only previously published phenotype data and publicly available genome</span></div>
-<div class="l"><span class="n">335</span><span class="t">sequences; no human participants, human material, human data or animals were involved, and no</span></div>
-<div class="l"><span class="n">336</span><span class="t">ethical approval or consent was required.</span></div>
-<div class="l"><span class="n">337</span><span class="t h">Author contributions</span></div>
-<div class="l"><span class="n">338</span><span class="t">Ajay Vellanki is the sole author and, in CRediT terms, is responsible for conceptualization,</span></div>
-<div class="l"><span class="n">339</span><span class="t">data curation, formal analysis, investigation, methodology, project administration, software,</span></div>
-<div class="l"><span class="n">340</span><span class="t">validation, visualization, writing – original draft preparation, and writing – review and</span></div>
-<div class="l"><span class="n">341</span><span class="t">editing. No funding was acquired and the work was not supervised externally.</span></div>
-<div class="l"><span class="n">342</span><span class="t h">Acknowledgements</span></div>
-<div class="l"><span class="n">343</span><span class="t">The analysis code, the result tables and the drafts of this manuscript were produced with the</span></div>
-<div class="l"><span class="n">344</span><span class="t">assistance of a large language model (Anthropic Claude) working under the direction of the</span></div>
-<div class="l"><span class="n">345</span><span class="t">author. The author set the research question, chose and approved every analysis, and is</span></div>
-<div class="l"><span class="n">346</span><span class="t">responsible for the content. The verification described in Methods was built for this reason: an</span></div>
-<div class="l"><span class="n">347</span><span class="t">independent re-implementation of the estimator sharing no code with the original reproduces</span></div>
-<div class="l"><span class="n">348</span><span class="t">every headline coefficient, each quoted figure is checked mechanically against the stored result</span></div>
-<div class="l"><span class="n">349</span><span class="t">table it comes from, and the corrections made to earlier analyses during this work are listed in</span></div>
-<div class="l"><span class="n">350</span><span class="t">the deposited repository rather than removed from the record. No generative tool is an author,</span></div>
-<div class="l"><span class="n">351</span><span class="t">and none was used to produce data, figures or references that were not independently verified</span></div>
-<div class="l"><span class="n">352</span><span class="t">against the primary sources cited.</span></div>
-<div class="l"><span class="n">353</span><span class="t h">References</span></div>
-<div class="l"><span class="n">354</span><span class="t">1. Sen H, Aggarwal N, Ishionwu C, Hussain N, Parmar C, Jamshad M, Bavro VN, Lund PA. Structural</span></div>
-<div class="l"><span class="n">355</span><span class="t">and functional analysis of the Escherichia coli acid-sensing histidine kinase EvgS. J Bacteriol</span></div>
-<div class="l"><span class="n">356</span><span class="t">2017;199(18):e00310-17. doi:10.1128/JB.00310-17</span></div>
-<div class="l"><span class="n">357</span><span class="t">2. Gallo G, Brameyer S, Kuppermann S, Schneider S, Kielkowski P, Jung K. AdiY acts as a</span></div>
-<div class="l"><span class="n">358</span><span class="t">cytoplasmic pH sensor via histidine protonation to regulate acid stress adaptation in</span></div>
-<div class="l"><span class="n">359</span><span class="t">Escherichia coli. J Bacteriol 2026;208(1):e0054225 (published online 23 December 2025).</span></div>
-<div class="l"><span class="n">360</span><span class="t">doi:10.1128/jb.00542-25</span></div>
-<div class="l"><span class="n">361</span><span class="t">3. Weeks DL, Sachs G. Sites of pH regulation of the urea channel of Helicobacter pylori. Mol</span></div>
-<div class="l"><span class="n">362</span><span class="t">Microbiol 2001;40(6):1249–1259. doi:10.1046/j.1365-2958.2001.02466.x</span></div>
-<div class="l"><span class="n">363</span><span class="t">4. Johnson MD, Bell J, Clarke K, Chandler R, Pathak P, Xia Y, Marshall RL, Weinstock GM, Loman</span></div>
-<div class="l"><span class="n">364</span><span class="t">NJ, Winn PJ, Lund PA. Characterization of mutations in the PAS domain of the EvgS sensor kinase</span></div>
-<div class="l"><span class="n">365</span><span class="t">selected by laboratory evolution for acid resistance in Escherichia coli. Mol Microbiol</span></div>
-<div class="l"><span class="n">366</span><span class="t">2014;93(5):911–927. doi:10.1111/mmi.12704</span></div>
-<div class="l"><span class="n">367</span><span class="t">5. Ullrich SR, Fuchs H, Ashworth-Güth C. Electrochemical and structural characterization of</span></div>
-<div class="l"><span class="n">368</span><span class="t">recombinant respiratory proteins of the acidophilic iron oxidizer Ferrovum sp. PN-J47-F6</span></div>
-<div class="l"><span class="n">369</span><span class="t">suggests adaptations to the acidic pH at protein level. Front Microbiol 2024;15:1357152.</span></div>
-<div class="l"><span class="n">370</span><span class="t">doi:10.3389/fmicb.2024.1357152</span></div>
-<div class="l"><span class="n">371</span><span class="t">6. Reed CJ, Lewis H, Trejo E, Winston V, Evilia C. Protein adaptations in archaeal</span></div>
-<div class="l"><span class="n">372</span><span class="t">extremophiles. Archaea 2013;2013:373275. doi:10.1155/2013/373275</span></div>
-<div class="l"><span class="n">373</span><span class="t">7. Cabello-Yeves PJ, Rodriguez-Valera F. Marine-freshwater prokaryotic transitions require</span></div>
-<div class="l"><span class="n">374</span><span class="t">extensive changes in the predicted proteome. Microbiome 2019;7:117.</span></div>
-<div class="l"><span class="n">375</span><span class="t">doi:10.1186/s40168-019-0731-5</span></div>
-<div class="l"><span class="n">376</span><span class="t">8. Barnum TP, et al. Predicting microbial growth conditions from amino acid composition. bioRxiv</span></div>
-<div class="l"><span class="n">377</span><span class="t">2024. doi:10.1101/2024.03.22.586313 [preprint]</span></div>
-<div class="l"><span class="n">378</span><span class="t">9. Neira G, Cortez D, Jil J, Holmes DS. AciDB 1.0: a database of acidophilic organisms, their</span></div>
-<div class="l"><span class="n">379</span><span class="t">genomic information and associated metadata. Bioinformatics 2020;36(19):4970–4971.</span></div>
-<div class="l"><span class="n">380</span><span class="t">doi:10.1093/bioinformatics/btaa638</span></div>
-<div class="l"><span class="n">381</span><span class="t">10. Tien MZ, Meyer AG, Sydykova DK, Spielman SJ, Wilke CO. Maximum allowed solvent</span></div>
-<div class="l"><span class="n">382</span><span class="t">accessibilites of residues in proteins. PLoS One 2013;8(11):e80635.</span></div>
-<div class="l"><span class="n">383</span><span class="t">doi:10.1371/journal.pone.0080635</span></div>
-<div class="l"><span class="n">384</span><span class="t">11. Pagel M. Inferring the historical patterns of biological evolution. Nature</span></div>
-<div class="l"><span class="n">385</span><span class="t">1999;401(6756):877–884. doi:10.1038/44766</span></div>
-<div class="l"><span class="n">386</span><span class="t">12. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful</span></div>
-<div class="l"><span class="n">387</span><span class="t">approach to multiple testing. J R Stat Soc Series B Stat Methodol 1995;57(1):289–300.</span></div>
-<div class="l"><span class="n">388</span><span class="t">doi:10.1111/j.2517-6161.1995.tb02031.x</span></div>
-<div class="l"><span class="n">389</span><span class="t">13. Stoib A, Shojaei S, Fischer X, Posch S, Parisse G, Frezzini M, Putz T, Siligan C,</span></div>
-<div class="l"><span class="n">390</span><span class="t">Goessweiner-Mohr N, Narzi D, Horner A. A cytoplasmic pH sensor redefines gating in bacterial</span></div>
-<div class="l"><span class="n">391</span><span class="t">urea channels and acid resistance. Small 2026;e76130. doi:10.1002/smll.76130</span></div>
-<div class="l"><span class="n">392</span><span class="t">14. Dhiman A, Purohit R. Identification of potential mutational hotspots in serratiopeptidase to</span></div>
-<div class="l"><span class="n">393</span><span class="t">address its poor pH tolerance issue. J Biomol Struct Dyn 2023;41(18):8831–8843.</span></div>
-<div class="l"><span class="n">394</span><span class="t">doi:10.1080/07391102.2022.2137699</span></div>
-<div class="l"><span class="n">395</span><span class="t">15. Podlesny D, et al. metaTraits: a large-scale integration of microbial phenotypic trait</span></div>
-<div class="l"><span class="n">396</span><span class="t">information. Nucleic Acids Res 2026;54(D1):D835. doi:10.1093/nar/gkaf1241</span></div>
-<div class="l"><span class="n">397</span><span class="t">16. Sayers EW, Bolton EE, Fine AM, Kelly C, Kim S, Landrum M, Lathrop S, Malheiro A, Murphy TD,</span></div>
-<div class="l"><span class="n">398</span><span class="t">Phan L, Pujar S, Trawick BW, Schneider VA, Pruitt KD. Database resources of the National Center</span></div>
-<div class="l"><span class="n">399</span><span class="t">for Biotechnology Information in 2026. Nucleic Acids Res 2026;54(D1):D20–D27.</span></div>
-<div class="l"><span class="n">400</span><span class="t">doi:10.1093/nar/gkaf1060</span></div>
-<div class="l"><span class="n">401</span><span class="t">17. Bertoni D, Tsenkov M, Magana P, Nair S, Pidruchna I, Querino Lima Afonso M, Midlik A,</span></div>
-<div class="l"><span class="n">402</span><span class="t">Paramval U, Lawal D, Tanweer A, Last M, Patel R, Laydon A, Lasecki D, Dietrich N, Tomlinson H,</span></div>
-<div class="l"><span class="n">403</span><span class="t">Žídek A, Green T, Kovalevskiy O, Lau A, Kandathil S, Bordin N, Sillitoe I, Mirdita M, Jones D,</span></div>
-<div class="l"><span class="n">404</span><span class="t">Orengo C, Steinegger M, Fleming JR, Velankar S. AlphaFold Protein Structure Database 2025: a</span></div>
-<div class="l"><span class="n">405</span><span class="t">redesigned interface and updated structural coverage. Nucleic Acids Res 2026;54(D1):D358–D362.</span></div>
-<div class="l"><span class="n">406</span><span class="t">doi:10.1093/nar/gkaf1226</span></div>
-<div class="l"><span class="n">407</span><span class="t">18. Shrake A, Rupley JA. Environment and exposure to solvent of protein atoms. Lysozyme and</span></div>
-<div class="l"><span class="n">408</span><span class="t">insulin. J Mol Biol 1973;79(2):351–371. doi:10.1016/0022-2836(73)90011-9</span></div>
-<div class="l"><span class="n">409</span><span class="t h">Figure legends</span></div>
-<div class="l"><span class="n">410</span><span class="t">Fig. 1. The association is confined to the periplasmic-facing surface. Coefficients (points) and</span></div>
-<div class="l"><span class="n">411</span><span class="t">95% confidence intervals (bars) for the net acidic composite computed on four position classes</span></div>
-<div class="l"><span class="n">412</span><span class="t">of the same 32 reference proteins, in the same phylogenetic model with genome-wide composition</span></div>
-<div class="l"><span class="n">413</span><span class="t">and source controlled. n = 2,768 except the soluble-surface control (n = 2,764). Positive values</span></div>
-<div class="l"><span class="n">414</span><span class="t">indicate a higher minimum growth pH, i.e. less acid tolerance.</span></div>
-<div class="l"><span class="n">415</span><span class="t">Fig. 2. Part of the association is independent of growth optimum and of exposed histidine.</span></div>
-<div class="l"><span class="n">416</span><span class="t">Coefficients and 95% confidence intervals for the periplasmic composite under four nested</span></div>
-<div class="l"><span class="n">417</span><span class="t">models, all fitted on the same 1,655 genomes for which the growth optimum is known, so that each</span></div>
-<div class="l"><span class="n">418</span><span class="t">drop reflects a change of model rather than of sample. Percentages give the share of the</span></div>
-<div class="l"><span class="n">419</span><span class="t">composition-only coefficient retained.</span></div>
-<div class="l"><span class="n">420</span><span class="t">Fig. 3. Detectable presence of particular reference families predicts the limit. Per-reference</span></div>
-<div class="l"><span class="n">421</span><span class="t">coefficients and 95% confidence intervals for detection, sorted by effect, with the 7 families</span></div>
-<div class="l"><span class="n">422</span><span class="t">surviving Benjamini–Hochberg correction at q &lt; 0.10 shown in filled markers and the remainder in</span></div>
-<div class="l"><span class="n">423</span><span class="t">open markers. Every fit controls composition, source, mean alignment score, log genome size and</span></div>
-<div class="l"><span class="n">424</span><span class="t">assembly level.</span></div>
-<div class="l"><span class="n">425</span><span class="t">Fig. 4. No observable censoring pattern can account for the association. For each proxy of a</span></div>
-<div class="l"><span class="n">426</span><span class="t">censored minimum, the mean displacement that would be required to drive the coefficient to zero</span></div>
-<div class="l"><span class="n">427</span><span class="t">(upper bar) against the displacement physically available, which is the mean reported minimum of</span></div>
-<div class="l"><span class="n">428</span><span class="t">the flagged records and would place every true limit at pH 0 (lower bar). Both threatening</span></div>
-<div class="l"><span class="n">429</span><span class="t">proxies require more displacement than exists.</span></div>
-<div class="l"><span class="n">430</span><span class="t">Figure files: all five panels are deposited with the code as PNG and SVG and are embedded in the</span></div>
-<div class="l"><span class="n">431</span><span class="t">PeerJ-formatted submission manuscript with alt text.</span></div>
+<div class="l"><span class="n">8</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">9</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">10</span><span class="t">Abstract</span></div>
+<div class="l"><span class="n">11</span><span class="t">Background. The genomic correlates of reported minimum growth pH may differ from those of growth</span></div>
+<div class="l"><span class="n">12</span><span class="t">optimum. We tested whether charge composition on the outward-facing surfaces of conserved</span></div>
+<div class="l"><span class="n">13</span><span class="t">membrane proteins is associated with reported minimum growth pH after adjustment for growth</span></div>
+<div class="l"><span class="n">14</span><span class="t">optimum.</span></div>
+<div class="l"><span class="n">15</span><span class="t">Methods. We analysed 2,768 bacterial genomes using a 32-reference membrane-protein panel,</span></div>
+<div class="l"><span class="n">16</span><span class="t">structural confidence and solvent-accessibility filters, and phylogenetic generalised least</span></div>
+<div class="l"><span class="n">17</span><span class="t">squares with genome-wide composition and source controls. Matched cytoplasmic and transmembrane</span></div>
+<div class="l"><span class="n">18</span><span class="t">positions provided compartment controls. Models incorporating growth optimum used the same 1,655</span></div>
+<div class="l"><span class="n">19</span><span class="t">genomes for each comparison.</span></div>
+<div class="l"><span class="n">20</span><span class="t">Results. The extracytoplasmic net acidic composite was positively associated with reported</span></div>
+<div class="l"><span class="n">21</span><span class="t">minimum growth pH (+0.1848 pH units per standard deviation; P = 2 × 10⁻¹⁰). The cytoplasmic and</span></div>
+<div class="l"><span class="n">22</span><span class="t">transmembrane controls were not statistically significant. A separate pooled residue-share</span></div>
+<div class="l"><span class="n">23</span><span class="t">analysis adjusted for growth optimum and exposed histidine retained 39% of its own baseline</span></div>
+<div class="l"><span class="n">24</span><span class="t">association (+0.1120 per standard deviation; P = 4 × 10⁻³). Seven of 22 detectable reference</span></div>
+<div class="l"><span class="n">25</span><span class="t">families passed Benjamini–Hochberg correction at q &lt; 0.10. The composite did not improve</span></div>
+<div class="l"><span class="n">26</span><span class="t">prediction in held-out phyla.</span></div>
+<div class="l"><span class="n">27</span><span class="t">Conclusions. Acid-tolerant bacteria have lower net acidic composition on extracytoplasmic-facing</span></div>
+<div class="l"><span class="n">28</span><span class="t">positions of this reference panel. The result is an observational association; most reported</span></div>
+<div class="l"><span class="n">29</span><span class="t">minima are not experimentally demonstrated boundaries. A charge-burden interpretation is a</span></div>
+<div class="l"><span class="n">30</span><span class="t">hypothesis requiring experimental testing.</span></div>
+<div class="l"><span class="n">31</span><span class="t h">Introduction</span></div>
+<div class="l"><span class="n">32</span><span class="t">Bacteria differ greatly in the acidity at which growth is observed. Some Acidithiobacillus</span></div>
+<div class="l"><span class="n">33</span><span class="t">isolates grow below pH 1; the archaeal genus Picrophilus also includes organisms capable of</span></div>
+<div class="l"><span class="n">34</span><span class="t">growth at very low pH. A reported minimum growth pH is distinct from the growth optimum. A</span></div>
+<div class="l"><span class="n">35</span><span class="t">species with an optimum near pH 7 may have reported growth extending to pH 4 or only to pH 6.</span></div>
+<div class="l"><span class="n">36</span><span class="t">Here we study that reported minimum, without assuming it is a demonstrated biological boundary.</span></div>
+<div class="l"><span class="n">37</span><span class="t">The mechanisms of acid resistance that are understood in detail are inducible and physiological.</span></div>
+<div class="l"><span class="n">38</span><span class="t">Enteric bacteria surviving gastric transit deploy amino-acid decarboxylase systems that consume</span></div>
+<div class="l"><span class="n">39</span><span class="t">cytoplasmic protons, regulated by sensors that detect acidification directly: the EvgS/EvgA two-</span></div>
+<div class="l"><span class="n">40</span><span class="t">component system, in which a single histidine in the extracytoplasmic domain is required for</span></div>
+<div class="l"><span class="n">41</span><span class="t">acid induction [1], and the regulator AdiY, whose pH response runs through the protonation of</span></div>
+<div class="l"><span class="n">42</span><span class="t">two histidines [2]. Helicobacter pylori additionally imports urea through the pH-gated channel</span></div>
+<div class="l"><span class="n">43</span><span class="t">UreI to feed intrabacterial urease [3]. Experimental evolution for acid resistance in</span></div>
+<div class="l"><span class="n">44</span><span class="t">Escherichia coli converges on the same signalling machinery, with evgS mutated in every selected</span></div>
+<div class="l"><span class="n">45</span><span class="t">population [4]. These are responses: machinery switched on when the environment turns acidic,</span></div>
+<div class="l"><span class="n">46</span><span class="t">and they explain survival of acid shock better than they explain the pH at which steady growth</span></div>
+<div class="l"><span class="n">47</span><span class="t">becomes impossible.</span></div>
+<div class="l"><span class="n">48</span><span class="t">A limit might instead be set by what the cell&#x27;s proteins can tolerate, and if so the relevant</span></div>
+<div class="l"><span class="n">49</span><span class="t">compartment is identifiable in advance. A Gram-negative bacterium holds its cytoplasm near</span></div>
+<div class="l"><span class="n">50</span><span class="t">neutrality even in strong acid, so cytoplasmic proteins never experience the external pH. The</span></div>
+<div class="l"><span class="n">51</span><span class="t">periplasm has no such protection: it equilibrates far closer to the medium, and proteins with</span></div>
+<div class="l"><span class="n">52</span><span class="t">surfaces facing it operate at whatever pH the organism is growing in. Any compositional</span></div>
+<div class="l"><span class="n">53</span><span class="t">signature of acid adaptation should therefore appear on outward-facing surfaces and not on</span></div>
+<div class="l"><span class="n">54</span><span class="t">cytoplasmic ones — which makes the hypothesis testable against a control that is the same</span></div>
+<div class="l"><span class="n">55</span><span class="t">measurement on a different face of the same protein. Consistent with the compartment mattering,</span></div>
+<div class="l"><span class="n">56</span><span class="t">extracytoplasmic redox proteins of acidophiles have systematically more positive redox</span></div>
+<div class="l"><span class="n">57</span><span class="t">potentials than neutrophilic homologues [5].</span></div>
+<div class="l"><span class="n">58</span><span class="t">Compositional signatures of other extremes are established; for pH they are not. Thermophily is</span></div>
+<div class="l"><span class="n">59</span><span class="t">visible in the IVYWREL fraction and halophily in a pronounced excess of surface acidic residues,</span></div>
+<div class="l"><span class="n">60</span><span class="t">while a review of archaeal extremophile protein adaptation reports that adaptations toward pH</span></div>
+<div class="l"><span class="n">61</span><span class="t">are considerably less discernible [6]. That is a documented absence rather than an assumption,</span></div>
+<div class="l"><span class="n">62</span><span class="t">and it is the gap addressed here.</span></div>
+<div class="l"><span class="n">63</span><span class="t">Two recent results make the question tractable. Cabello-Yeves et al. showed that predicted</span></div>
+<div class="l"><span class="n">64</span><span class="t">isoelectric point shifts with habitat between marine and freshwater prokaryotes, with the</span></div>
+<div class="l"><span class="n">65</span><span class="t">difference sharper in secreted than cytoplasmic than membrane proteins and concentrated on</span></div>
+<div class="l"><span class="n">66</span><span class="t">protein surfaces [7], establishing that compartment-resolved composition carries environmental</span></div>
+<div class="l"><span class="n">67</span><span class="t">signal. Independently, Barnum et al. showed that growth pH can be predicted from amino acid</span></div>
+<div class="l"><span class="n">68</span><span class="t">composition computed per predicted subcellular localization, reporting the extracellular-minus-</span></div>
+<div class="l"><span class="n">69</span><span class="t">intracellular glutamate difference as the strongest residue-level correlate [8]. Together these</span></div>
+<div class="l"><span class="n">70</span><span class="t">say that the compartment-resolved signal exists and that pH is among the variables it carries.</span></div>
+<div class="l"><span class="n">71</span><span class="t">We use extracytoplasmic to describe the outward-facing side of the cytoplasmic membrane across</span></div>
+<div class="l"><span class="n">72</span><span class="t">the bacterial sample. In diderm bacteria these positions face the periplasm; in monoderms they</span></div>
+<div class="l"><span class="n">73</span><span class="t">face the cell wall and extracellular environment. Position classes are transferred from</span></div>
+<div class="l"><span class="n">74</span><span class="t">reference annotations by sequence alignment, rather than measured structurally in each sampled</span></div>
+<div class="l"><span class="n">75</span><span class="t">organism.</span></div>
+<div class="l"><span class="n">76</span><span class="t">We test which genomic features are associated with reported minimum growth pH after adjustment</span></div>
+<div class="l"><span class="n">77</span><span class="t">for growth optimum, and whether the association differs between outward-facing and cytoplasmic</span></div>
+<div class="l"><span class="n">78</span><span class="t">positions of the same proteins.</span></div>
+<div class="l"><span class="n">79</span><span class="t h">Materials &amp; Methods</span></div>
+<div class="l"><span class="n">80</span><span class="t h">Phenotype data</span></div>
+<div class="l"><span class="n">81</span><span class="t">The analysis sample is 2,768 bacterial genomes carrying a curated minimum growth pH and a</span></div>
+<div class="l"><span class="n">82</span><span class="t">position in the reference phylogeny. Minima were compiled from four source tiers, recorded per</span></div>
+<div class="l"><span class="n">83</span><span class="t">record: hand-curated species descriptions read from primary sources, rule-based extraction from</span></div>
+<div class="l"><span class="n">84</span><span class="t">species-description abstracts, ThermoBase, and AciDB/BacDive [9]. Source is entered as a set of</span></div>
+<div class="l"><span class="n">85</span><span class="t">indicator covariates in every model, so a between-source level difference cannot by itself</span></div>
+<div class="l"><span class="n">86</span><span class="t">produce an association.</span></div>
+<div class="l"><span class="n">87</span><span class="t">The extraction tier dominates the sample and its fidelity was measured rather than assumed.</span></div>
+<div class="l"><span class="n">88</span><span class="t">Against hand-curated records it is exact for 98.8% of minima. Because that validation set was</span></div>
+<div class="l"><span class="n">89</span><span class="t">acidophile-enriched, 25 further records were read by hand from the pH band carrying most of the</span></div>
+<div class="l"><span class="n">90</span><span class="t">data; 3 of 25 were wrong, all by one mechanism, in which a sentence reporting only an optimum</span></div>
+<div class="l"><span class="n">91</span><span class="t">has that optimum recorded as the growth range. A detector for that specific failure scores 8 of</span></div>
+<div class="l"><span class="n">92</span><span class="t">8 against fifteen hand-read statements with no false positives and flags 298 of 2,536 extracted</span></div>
+<div class="l"><span class="n">93</span><span class="t">records; excluding exactly those records moves the headline estimate by 0.13 standard errors.</span></div>
+<div class="l"><span class="n">94</span><span class="t">One assembly was retained per species. The bacterial phenotype table contains 2,771 assemblies;</span></div>
+<div class="l"><span class="n">95</span><span class="t">intersection with the reference phylogeny produces the 2,768-genome headline sample. Before that</span></div>
+<div class="l"><span class="n">96</span><span class="t">intersection, source tiers contain 2,536 automatically extracted records, 100 ThermoBase</span></div>
+<div class="l"><span class="n">97</span><span class="t">records, 90 hand-curated records, 30 AciDB records and 15 BacDive records. Sources can overlap;</span></div>
+<div class="l"><span class="n">98</span><span class="t">the deposited table records the selected source and assembly provenance. The hand-curated tier</span></div>
+<div class="l"><span class="n">99</span><span class="t">is enriched for acidophiles and is not a representative random validation set.</span></div>
+<div class="l"><span class="n">100</span><span class="t">The 25-record central-range check found three optimum-as-range extraction errors. The targeted</span></div>
+<div class="l"><span class="n">101</span><span class="t">detector was assessed on 15 hand-read statements and flagged 298 extracted records. The primary</span></div>
+<div class="l"><span class="n">102</span><span class="t">analysis retains the deposited phenotype table; exclusion of flagged records is a sensitivity</span></div>
+<div class="l"><span class="n">103</span><span class="t">analysis, not a correction of those records. Only five species were recorded as having a</span></div>
+<div class="l"><span class="n">104</span><span class="t">strictly demonstrated lower limit in the project curation. Cross-source agreement largely</span></div>
+<div class="l"><span class="n">105</span><span class="t">measures agreement in transcription of shared literature and does not establish the precision of</span></div>
+<div class="l"><span class="n">106</span><span class="t">the original growth experiments.</span></div>
+<div class="l"><span class="n">107</span><span class="t h">Structural panel and composite</span></div>
+<div class="l"><span class="n">108</span><span class="t">The predictor is built on a panel of conserved inner-membrane proteins of Escherichia coli with</span></div>
+<div class="l"><span class="n">109</span><span class="t">experimentally determined or high-confidence predicted structures. Each reference position was</span></div>
+<div class="l"><span class="n">110</span><span class="t">assigned to a class — exposed extracytoplasmic, exposed cytoplasmic, transmembrane or buried —</span></div>
+<div class="l"><span class="n">111</span><span class="t">from UniProt topology together with relative solvent accessibility of the isolated model,</span></div>
+<div class="l"><span class="n">112</span><span class="t">computed by the Shrake–Rupley algorithm [18] and normalised to the maxima of Tien et al. [10],</span></div>
+<div class="l"><span class="n">113</span><span class="t">with exposure defined as RSA ≥ 0.25. A position enters only if its per-residue pLDDT is ≥ 70,</span></div>
+<div class="l"><span class="n">114</span><span class="t">since the solvent accessibility of a poorly predicted residue is not interpretable. For each</span></div>
+<div class="l"><span class="n">115</span><span class="t">genome, the best-aligning hit of the reference&#x27;s Pfam family was tallied by the class of the</span></div>
+<div class="l"><span class="n">116</span><span class="t">reference position it aligned to, counting D, E, K, R and H separately.</span></div>
+<div class="l"><span class="n">117</span><span class="t">The composite is the mean across references of the per-reference net acidic share (D + E − K −</span></div>
+<div class="l"><span class="n">118</span><span class="t">R) divided by scorable positions, each reference standardised across genomes before averaging,</span></div>
+<div class="l"><span class="n">119</span><span class="t">with a per-reference position floor and a minimum of three contributing references. The panel</span></div>
+<div class="l"><span class="n">120</span><span class="t">used throughout is a 32-reference rule-selected set; a 7-reference hand-picked panel preceded it</span></div>
+<div class="l"><span class="n">121</span><span class="t">and is not the same measurement, so per-unit coefficients from the two are never compared.</span></div>
+<div class="l"><span class="n">122</span><span class="t">Canonical and deterministic panel provenance is distinguished below; the canonical stored panel</span></div>
+<div class="l"><span class="n">123</span><span class="t">is not a byte-identical rebuild of the corrected code.</span></div>
+<div class="l"><span class="n">124</span><span class="t">Reference selection used reviewed E. coli K-12 proteins with at least four transmembrane</span></div>
+<div class="l"><span class="n">125</span><span class="t">helices, at least three annotated outward-facing and three cytoplasmic topological domains, and</span></div>
+<div class="l"><span class="n">126</span><span class="t">exactly one Pfam family. One candidate per family was retained using the number of annotated</span></div>
+<div class="l"><span class="n">127</span><span class="t">topological domains. Screening used 150 sampled bacterial proteomes, an 80% detection threshold,</span></div>
+<div class="l"><span class="n">128</span><span class="t">median model pLDDT of at least 70, and at least 15 exposed outward-facing positions after</span></div>
+<div class="l"><span class="n">129</span><span class="t">residue-confidence filtering. Accepted reference identifiers and annotations are deposited in</span></div>
+<div class="l"><span class="n">130</span><span class="t">data/curated/structure_panel_refs.csv; five conserved soluble references serve as controls.</span></div>
+<div class="l"><span class="n">131</span><span class="t">For the headline composite, a reference contributes only when the number of scorable positions</span></div>
+<div class="l"><span class="n">132</span><span class="t">reaches max(8, half the reference class length). Its net acidic share is (D + E − K − R)/n. Each</span></div>
+<div class="l"><span class="n">133</span><span class="t">reference share is centred and scaled across the available genomes, then available standardised</span></div>
+<div class="l"><span class="n">134</span><span class="t">shares are averaged; at least three references must contribute. Model rows are restricted to</span></div>
+<div class="l"><span class="n">135</span><span class="t">complete outcomes, predictors and covariates; missing growth optima are not imputed. The genome-</span></div>
+<div class="l"><span class="n">136</span><span class="t">wide composition control is acidic excess, (D + E − K − R), expressed as percentage points.</span></div>
+<div class="l"><span class="n">137</span><span class="t">Source indicators use hand-curated literature as the reference category.</span></div>
+<div class="l"><span class="n">138</span><span class="t">A separate analysis pools counts across reference proteins, requires at least 200 outward-facing</span></div>
+<div class="l"><span class="n">139</span><span class="t">exposed positions, and models net residue share together with exposed histidine. It is a</span></div>
+<div class="l"><span class="n">140</span><span class="t">different predictor from the mean of standardised reference shares. Retained percentages are</span></div>
+<div class="l"><span class="n">141</span><span class="t">calculated within that pooled-share analysis and must not be computed by dividing its</span></div>
+<div class="l"><span class="n">142</span><span class="t">coefficient by a coefficient from the headline composite. The exact model samples, scales,</span></div>
+<div class="l"><span class="n">143</span><span class="t">coefficients and standard errors are recorded in headline_numbers.csv and</span></div>
+<div class="l"><span class="n">144</span><span class="t">optimum_and_histidine_wide.csv.</span></div>
+<div class="l"><span class="n">145</span><span class="t h">Statistical model</span></div>
+<div class="l"><span class="n">146</span><span class="t">All estimates are phylogenetic generalised least squares on a Brownian covariance matrix derived</span></div>
+<div class="l"><span class="n">147</span><span class="t">from the reference marker-gene tree, with Pagel&#x27;s λ [11] estimated by maximum likelihood. Every</span></div>
+<div class="l"><span class="n">148</span><span class="t">model carries an intercept, a genome-wide amino acid composition control and the source</span></div>
+<div class="l"><span class="n">149</span><span class="t">indicators. Coefficients are reported per standard deviation of the predictor unless a per-unit</span></div>
+<div class="l"><span class="n">150</span><span class="t">figure is explicitly labelled, because composites averaging different numbers of references have</span></div>
+<div class="l"><span class="n">151</span><span class="t">different spreads. Where a model adds the growth optimum, the comparison is made on the single</span></div>
+<div class="l"><span class="n">152</span><span class="t">sample for which the optimum is known, never against the full-sample figure, so that a change of</span></div>
+<div class="l"><span class="n">153</span><span class="t">model is not confounded with a change of sample. Multiple testing across reference families is</span></div>
+<div class="l"><span class="n">154</span><span class="t">controlled by the Benjamini–Hochberg procedure [12].</span></div>
+<div class="l"><span class="n">155</span><span class="t">Compartment contrasts are estimated by entering both faces in one model as their sum and</span></div>
+<div class="l"><span class="n">156</span><span class="t">difference. This spans the same column space as entering the two levels and so changes no fitted</span></div>
+<div class="l"><span class="n">157</span><span class="t">value, but it makes the extracytoplasmic excess an estimate carrying its own standard error,</span></div>
+<div class="l"><span class="n">158</span><span class="t">which a difference taken between two separately fitted coefficients does not.</span></div>
+<div class="l"><span class="n">159</span><span class="t h">Phylogeny construction and sensitivity</span></div>
+<div class="l"><span class="n">160</span><span class="t">The phylogeny uses 29 ribosomal-protein Pfam marker families. Highest-scoring gathering-cutoff</span></div>
+<div class="l"><span class="n">161</span><span class="t">hits were aligned to their Pfam profiles with pyHMMER hmmalign using match columns and</span></div>
+<div class="l"><span class="n">162</span><span class="t">concatenated. Genomes with fewer than half the retained families and columns with less than 50%</span></div>
+<div class="l"><span class="n">163</span><span class="t">occupancy were removed. Gamma-corrected Poisson distances on shared non-gap sites were used for</span></div>
+<div class="l"><span class="n">164</span><span class="t">neighbour joining, followed by midpoint rooting. The marker list, assembly order and retained</span></div>
+<div class="l"><span class="n">165</span><span class="t">tree are deposited with the code. The Brownian covariance is shared root-to-tip path length;</span></div>
+<div class="l"><span class="n">166</span><span class="t">Pagel’s λ scales its off-diagonal entries and is estimated by maximum likelihood.</span></div>
+<div class="l"><span class="n">167</span><span class="t">The headline association remained significant on 25 column-bootstrap trees, with coefficients</span></div>
+<div class="l"><span class="n">168</span><span class="t">ranging from +0.1751 to +0.1863 per standard deviation (median +0.1822). These trees share an</span></div>
+<div class="l"><span class="n">169</span><span class="t">alignment and inference method. No maximum-likelihood or approximate-maximum-likelihood tree</span></div>
+<div class="l"><span class="n">170</span><span class="t">sensitivity analysis was completed for the full 2,768-genome sample; shared systematic topology</span></div>
+<div class="l"><span class="n">171</span><span class="t">or branch-length error remains a limitation. Parametric null calibration and bootstrap analyses</span></div>
+<div class="l"><span class="n">172</span><span class="t">assess specified assumptions, rather than proving the phylogenetic model correct.</span></div>
+<div class="l"><span class="n">173</span><span class="t h">Panel provenance and analysis scope</span></div>
+<div class="l"><span class="n">174</span><span class="t">The canonical stored panel predates deterministic paralogue tie-breaking. A corrected build</span></div>
+<div class="l"><span class="n">175</span><span class="t">sorts tied hits and output rows and reproduces byte-identically on repeated runs, but the</span></div>
+<div class="l"><span class="n">176</span><span class="t">canonical results have not all been migrated to that build. Refitting the authoritative headline</span></div>
+<div class="l"><span class="n">177</span><span class="t">table on the corrected panel changes +0.1848 to +0.1858 per standard deviation (0.035 standard</span></div>
+<div class="l"><span class="n">178</span><span class="t">errors), with no sign changes or p = 0.05 crossings among its 14 rows. This comparison bounds</span></div>
+<div class="l"><span class="n">179</span><span class="t">that measured impact; it does not make the original stored panel a byte-identical rebuild.</span></div>
+<div class="l"><span class="n">180</span><span class="t">Independent estimator replication begins from stored intermediates and does not independently</span></div>
+<div class="l"><span class="n">181</span><span class="t">validate phenotype curation, hit detection or structural annotation.</span></div>
+<div class="l"><span class="n">182</span><span class="t h">Verification</span></div>
+<div class="l"><span class="n">183</span><span class="t">Verification used a static audit for nine previously encountered code-error classes, 26 unit</span></div>
+<div class="l"><span class="n">184</span><span class="t">tests, numerical traceability checks on the working Markdown manuscript and supporting</span></div>
+<div class="l"><span class="n">185</span><span class="t">documents, and an independently implemented PGLS estimator. The traceability check verifies that</span></div>
+<div class="l"><span class="n">186</span><span class="t">quoted numbers occur in a cited result table, but does not establish that a number supports its</span></div>
+<div class="l"><span class="n">187</span><span class="t">attached interpretation; it does not directly parse this Word document. The independent</span></div>
+<div class="l"><span class="n">188</span><span class="t">estimator shares no Newick parser, covariance construction, matrix factorisation or λ search</span></div>
+<div class="l"><span class="n">189</span><span class="t">with the original. Across 30 declared comparisons, its headline estimate is +0.184838 per</span></div>
+<div class="l"><span class="n">190</span><span class="t">standard deviation compared with +0.184837 in the original. These checks assess specified</span></div>
+<div class="l"><span class="n">191</span><span class="t">computational properties rather than independently validating all biological inputs.</span></div>
+<div class="l"><span class="n">192</span><span class="t h">Results</span></div>
+<div class="l"><span class="n">193</span><span class="t h">Exposed outward-facing composition is associated with reported minimum growth pH</span></div>
+<div class="l"><span class="n">194</span><span class="t">The composite of net acidic residue share at exposed extracytoplasmic positions gives +0.1848 pH</span></div>
+<div class="l"><span class="n">195</span><span class="t">units per standard deviation (2,768 genomes, P = 2 × 10⁻¹⁰) with genome-wide composition and</span></div>
+<div class="l"><span class="n">196</span><span class="t">source controlled (Fig. 1). The sign warrants stating explicitly, because it is easy to invert</span></div>
+<div class="l"><span class="n">197</span><span class="t">in prose: the coefficient is positive, so a higher net acidic share accompanies a higher</span></div>
+<div class="l"><span class="n">198</span><span class="t">minimum, that is, less acid tolerance. Acid-tolerant bacteria are depleted of acidic residues on</span></div>
+<div class="l"><span class="n">199</span><span class="t">their outward-facing extracytoplasmic surfaces, not enriched. At compartment level the contrast</span></div>
+<div class="l"><span class="n">200</span><span class="t">is direct: genomes with pH_min ≤ 3.5 average a secreted acidic share of 0.0999 against 0.1246</span></div>
+<div class="l"><span class="n">201</span><span class="t">for those at or above pH 6.</span></div>
+<div class="l"><span class="n">202</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">203</span><span class="t h">Associations differ between membrane position classes</span></div>
+<div class="l"><span class="n">204</span><span class="t">Because the claim is about a compartment, the controls are the same measurement computed on</span></div>
+<div class="l"><span class="n">205</span><span class="t">other compartments of the same proteins, on the same genomes, in the same model (Fig. 1).</span></div>
+<div class="l"><span class="n">206</span><span class="t">Exposed cytoplasmic gives +0.0212 (P = 0.33) and transmembrane -0.0430 (P = 0.07); both are</span></div>
+<div class="l"><span class="n">207</span><span class="t">null. The soluble-surface reference set gives -0.0935 (P = 0.01), which is significant and</span></div>
+<div class="l"><span class="n">208</span><span class="t">opposite in sign. That is not a failure of specificity, but it does mean the pattern is a</span></div>
+<div class="l"><span class="n">209</span><span class="t">contrast between compartments rather than a periplasm-only effect, and we describe it as such.</span></div>
+<div class="l"><span class="n">210</span><span class="t">Entering both faces in a single model as sum and difference makes the extracytoplasmic excess an</span></div>
+<div class="l"><span class="n">211</span><span class="t">estimate in its own right: +0.0536 pH per percentage point (P = 3 × 10⁻⁶).</span></div>
+<div class="l"><span class="n">212</span><span class="t h">Part of the association is independent of growth optimum and of histidine</span></div>
+<div class="l"><span class="n">213</span><span class="t">On the same 1,655 genomes with a recorded optimum, the headline mean-of-standardised-shares</span></div>
+<div class="l"><span class="n">214</span><span class="t">composite gives +0.2123 per standard deviation with composition and source controlled and</span></div>
+<div class="l"><span class="n">215</span><span class="t">+0.0904 with growth optimum also controlled. Figure 2 presents a separate pooled-share analysis</span></div>
+<div class="l"><span class="n">216</span><span class="t">on these genomes: adding growth optimum and exposed histidine together leaves +0.1120 per</span></div>
+<div class="l"><span class="n">217</span><span class="t">standard deviation (P = 4 × 10⁻³), or 39% of that pooled predictor’s own baseline coefficient.</span></div>
+<div class="l"><span class="n">218</span><span class="t">These coefficients come from different predictor definitions and should not be divided to</span></div>
+<div class="l"><span class="n">219</span><span class="t">estimate a retained percentage. The product of the pooled analysis’s separate retained shares is</span></div>
+<div class="l"><span class="n">220</span><span class="t">0.375, compared with a joint share of 0.387.</span></div>
+<div class="l"><span class="n">221</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">222</span><span class="t h">Exposed histidine is a separate association, not a proxy</span></div>
+<div class="l"><span class="n">223</span><span class="t">Exposed extracytoplasmic histidine share carries a larger coefficient than the acidic composite</span></div>
+<div class="l"><span class="n">224</span><span class="t">and in the opposite direction. Entered as sum and difference across the two compartments, with</span></div>
+<div class="l"><span class="n">225</span><span class="t">extracytoplasmic D, E and K held fixed, the shared component is -0.1317 pH per percentage point</span></div>
+<div class="l"><span class="n">226</span><span class="t">and the extracytoplasmic excess -0.0800 (P = 3 × 10⁻³) — so the association has both a side-</span></div>
+<div class="l"><span class="n">227</span><span class="t">specific and a shared part. That contrast was calibrated on the acidic result first, which fires</span></div>
+<div class="l"><span class="n">228</span><span class="t">at +0.0536, because a test is only a test once it has been shown capable of firing.</span></div>
+<div class="l"><span class="n">229</span><span class="t">The two measures correlate at r = −0.549, which makes one standing in for the other the obvious</span></div>
+<div class="l"><span class="n">230</span><span class="t">concern. Mutual adjustment excludes it: each retains roughly three quarters of its coefficient</span></div>
+<div class="l"><span class="n">231</span><span class="t">with the other held fixed, and the acidic measure&#x27;s one-sidedness survives at 77% of its</span></div>
+<div class="l"><span class="n">232</span><span class="t">unadjusted value. Solvent access is doing demonstrable work — histidine at non-exposed positions</span></div>
+<div class="l"><span class="n">233</span><span class="t">in the same reference families predicts nothing, alone or jointly. A previously specified</span></div>
+<div class="l"><span class="n">234</span><span class="t">ordering of coefficients by side-chain pKa does not hold monotonically; what does organise them</span></div>
+<div class="l"><span class="n">235</span><span class="t">is charge class, which remains significant with histidine held fixed, while pKa orders the</span></div>
+<div class="l"><span class="n">236</span><span class="t">acidic pair and fails to order the basic residues.</span></div>
+<div class="l"><span class="n">237</span><span class="t h">Detectable reference families are associated with reported minimum growth pH</span></div>
+<div class="l"><span class="n">238</span><span class="t">How many of the panel&#x27;s reference families a genome has a detectable homologue of was initially</span></div>
+<div class="l"><span class="n">239</span><span class="t">held fixed as a nuisance control. Decomposed, it is two things: breadth survives at −0.036 pH</span></div>
+<div class="l"><span class="n">240</span><span class="t">per reference with assembly level, similarity to the reference proteins and genome size held</span></div>
+<div class="l"><span class="n">241</span><span class="t">fixed, whereas depth — positions per homologue — carries nothing once similarity is controlled.</span></div>
+<div class="l"><span class="n">242</span><span class="t">Of the accepted references, 22 have enough detection variance to regress on and 7 survive</span></div>
+<div class="l"><span class="n">243</span><span class="t">Benjamini–Hochberg at q &lt; 0.10 (Fig. 3), the strongest being cytochrome bo(3) ubiquinol oxidase</span></div>
+<div class="l"><span class="n">244</span><span class="t">subunit 1 at -0.4286 pH.</span></div>
+<div class="l"><span class="n">245</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">246</span><span class="t">Three limits are explicit. The intended negative control cannot be run: the soluble reference</span></div>
+<div class="l"><span class="n">247</span><span class="t">proteins are detected in over 99% of genomes and therefore fall below the variance floor, so</span></div>
+<div class="l"><span class="n">248</span><span class="t">none was tested, and a control that cannot run is a limitation rather than a pass. What replaces</span></div>
+<div class="l"><span class="n">249</span><span class="t">it is weaker and labelled so — the survivors&#x27; signs are mixed, five down and two up, which</span></div>
+<div class="l"><span class="n">250</span><span class="t">argues against a uniform directional artefact but does not exclude family-specific detection</span></div>
+<div class="l"><span class="n">251</span><span class="t">bias or establish function. Detection is a crude proxy for presence, so these are claims about</span></div>
+<div class="l"><span class="n">252</span><span class="t">detectable homologues of E. coli proteins. And breadth retains 47% of its coefficient with the</span></div>
+<div class="l"><span class="n">253</span><span class="t">survivors held fixed against a pre-set criterion of half, so the named references carry about</span></div>
+<div class="l"><span class="n">254</span><span class="t">half of the breadth effect rather than being it.</span></div>
+<div class="l"><span class="n">255</span><span class="t h">The measure survives being made homogeneous, and the estimator reproduces</span></div>
+<div class="l"><span class="n">256</span><span class="t">The contribution of reference families varies between genomes, so holding reference breadth</span></div>
+<div class="l"><span class="n">257</span><span class="t">fixed does not guarantee that every genome’s composite measures identical positions. Sensitivity</span></div>
+<div class="l"><span class="n">258</span><span class="t">analyses use a six-reference common core and the 239 genomes carrying the complete reference</span></div>
+<div class="l"><span class="n">259</span><span class="t">set; the corresponding associations are +0.0362 and +0.0888 pH units per percentage point. These</span></div>
+<div class="l"><span class="n">260</span><span class="t">results support stability under those restrictions, without establishing that reference-level</span></div>
+<div class="l"><span class="n">261</span><span class="t">measurements are interchangeable.</span></div>
+<div class="l"><span class="n">262</span><span class="t h">Discussion</span></div>
+<div class="l"><span class="n">263</span><span class="t">Three associations survive the controls designed to break them, and the compartment specificity</span></div>
+<div class="l"><span class="n">264</span><span class="t">is the part we would defend most firmly: the cytoplasmic and transmembrane controls are the</span></div>
+<div class="l"><span class="n">265</span><span class="t">identical measurement on other faces of the same proteins, and they are null. We think the</span></div>
+<div class="l"><span class="n">266</span><span class="t">limits below matter as much as the findings.</span></div>
+<div class="l"><span class="n">267</span><span class="t h">Charge burden and buffering hypotheses</span></div>
+<div class="l"><span class="n">268</span><span class="t">The mechanism is contested by the one directly comparable experiment. Weeks and Sachs</span></div>
+<div class="l"><span class="n">269</span><span class="t">mutagenised every histidine, aspartate and glutamate in the extracytoplasmic domain of the H.</span></div>
+<div class="l"><span class="n">270</span><span class="t">pylori urea channel UreI and found three histidines and three carboxylates all required to</span></div>
+<div class="l"><span class="n">271</span><span class="t">activate transport at acidic pH, with those residues largely absent from the pH-independent</span></div>
+<div class="l"><span class="n">272</span><span class="t">Streptococcus salivarius homologue [3]. There, extracytoplasmic carboxylates are required for</span></div>
+<div class="l"><span class="n">273</span><span class="t">low-pH function; here they are depleted in acid-tolerant genomes. A later study adds a conserved</span></div>
+<div class="l"><span class="n">274</span><span class="t">cytoplasmic glutamate to the same channel&#x27;s gating [13], and an engineering study aimed at</span></div>
+<div class="l"><span class="n">275</span><span class="t">gastric pH deliberately adds acidic residues on an explicit buffering rationale [14].</span></div>
+<div class="l"><span class="n">276</span><span class="t">We contrasted simplified charge-burden and buffering hypotheses using composition-derived</span></div>
+<div class="l"><span class="n">277</span><span class="t">titration summaries; these summaries do not identify a mechanism on their own. Writing Q(pH) for</span></div>
+<div class="l"><span class="n">278</span><span class="t">net surface charge and β(pH) = −dQ/dpH for buffer capacity, a charge-burden account predicts</span></div>
+<div class="l"><span class="n">279</span><span class="t">acid tolerance accompanying a smaller charge change between neutrality and the limit, while a</span></div>
+<div class="l"><span class="n">280</span><span class="t">buffering account predicts it accompanying greater capacity at the operating pH. At pH 3 and pH</span></div>
+<div class="l"><span class="n">281</span><span class="t">4, inside the acidophile range and near the carboxylate pKa values, the charge change carries a</span></div>
+<div class="l"><span class="n">282</span><span class="t">positive coefficient (+0.1399, P = 4 × 10⁻⁸; +0.0776, P = 1 × 10⁻³), so acid-tolerant genomes</span></div>
+<div class="l"><span class="n">283</span><span class="t">have less outward-facing charge to change, as burden predicts, while buffer capacity carries a</span></div>
+<div class="l"><span class="n">284</span><span class="t">positive coefficient, the opposite of what buffering predicts. Both quantities reverse sign</span></div>
+<div class="l"><span class="n">285</span><span class="t">between pH 4 and pH 6 (-0.2092), which is where histidine titrates and where its opposite-signed</span></div>
+<div class="l"><span class="n">286</span><span class="t">association appears inside the same quantity. We emphasise that this is not an electrostatics</span></div>
+<div class="l"><span class="n">287</span><span class="t">calculation — no structure, no solvent, no interaction between groups, and model pKa values</span></div>
+<div class="l"><span class="n">288</span><span class="t">throughout.</span></div>
+<div class="l"><span class="n">289</span><span class="t">A protein whose function is to respond to acid needs titratable groups on the face that senses</span></div>
+<div class="l"><span class="n">290</span><span class="t">it; a proteome that must merely continue working at low pH may do better with fewer. That</span></div>
+<div class="l"><span class="n">291</span><span class="t">reconciles UreI with the present result, and it makes a falsifiable prediction: a panel built</span></div>
+<div class="l"><span class="n">292</span><span class="t">from dedicated pH sensors should carry the opposite sign to a housekeeping panel. We attempted</span></div>
+<div class="l"><span class="n">293</span><span class="t">that test and it cannot be run on this sample. Dedicated extracytoplasmic sensor domains are</span></div>
+<div class="l"><span class="n">294</span><span class="t">detected in 1.9% of genomes, with all detections in a single phylum, so the contrast would be</span></div>
+<div class="l"><span class="n">295</span><span class="t">between lineages rather than between protein classes. The prediction is untested, not refuted.</span></div>
+<div class="l"><span class="n">296</span><span class="t h">Reported minima and censoring sensitivity</span></div>
+<div class="l"><span class="n">297</span><span class="t">pH_min is meant to be the lowest pH at which an organism grows. What a species description</span></div>
+<div class="l"><span class="n">298</span><span class="t">usually records is the lowest pH at which growth was observed, bounded below by whatever the</span></div>
+<div class="l"><span class="n">299</span><span class="t">authors chose to test. If that choice tracks what they expected, the error is not noise but is</span></div>
+<div class="l"><span class="n">300</span><span class="t">systematically related to apparent acid tolerance and therefore to anything predicting it.</span></div>
+<div class="l"><span class="n">301</span><span class="t">The reported minima do carry a testing-grid signature: 74% sit on a whole pH unit and 93% on a</span></div>
+<div class="l"><span class="n">302</span><span class="t">whole or half unit, and the modal value, pH 6.0, accounts for 34% of the sample. A measured</span></div>
+<div class="l"><span class="n">303</span><span class="t">limit has no reason to prefer a round number; a testing grid has every reason to. Measured</span></div>
+<div class="l"><span class="n">304</span><span class="t">outcome reliability is high (ICC 0.965 from cross-source replicate readings, error SD 0.343 pH)</span></div>
+<div class="l"><span class="n">305</span><span class="t">and supports the standard result that error in the dependent variable inflates standard errors</span></div>
+<div class="l"><span class="n">306</span><span class="t">without biasing slopes — but that holds for classical error, independent of the predictor by</span></div>
+<div class="l"><span class="n">307</span><span class="t">construction. Censoring is not classical: it has a sign and a mechanism. Simulated at equal</span></div>
+<div class="l"><span class="n">308</span><span class="t">magnitude, classical noise moves the coefficient by 0.006 standard errors while the same</span></div>
+<div class="l"><span class="n">309</span><span class="t">magnitude aligned with the predictor moves it by 11.8.</span></div>
+<div class="l"><span class="n">310</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">311</span><span class="t">&nbsp;</span></div>
+<div class="l"><span class="n">312</span><span class="t">We evaluated specified observable censoring proxies. Erasing the headline slope requires</span></div>
+<div class="l"><span class="n">313</span><span class="t">censoring displacement to change by 0.185 pH units per predictor standard deviation (Fig. 4A).</span></div>
+<div class="l"><span class="n">314</span><span class="t">For the two proxies with effects in the threatening direction, the required mean displacements</span></div>
+<div class="l"><span class="n">315</span><span class="t">are at least 8.4 pH units, exceeding the roughly 6.0-unit headroom under an assumed lower bound</span></div>
+<div class="l"><span class="n">316</span><span class="t">of pH 0 (Fig. 4B). This bound applies only to those proxies and that assumed floor; pH 0 is not</span></div>
+<div class="l"><span class="n">317</span><span class="t">a universal physical lower limit. The proxies are weak and may capture other traits. Predictor-</span></div>
+<div class="l"><span class="n">318</span><span class="t">related censoring not represented by these proxies, or selection of organisms for description,</span></div>
+<div class="l"><span class="n">319</span><span class="t">remains unexcluded. Common-grid measurements or full-text classification of bound type would</span></div>
+<div class="l"><span class="n">320</span><span class="t">provide a stronger test.</span></div>
+<div class="l"><span class="n">321</span><span class="t h">Reference transfer and envelope architecture</span></div>
+<div class="l"><span class="n">322</span><span class="t">The reference models are isolated chains and do not represent every oligomeric interface or</span></div>
+<div class="l"><span class="n">323</span><span class="t">species-specific structure. For alternative reference structures from the same Pfam family, per-</span></div>
+<div class="l"><span class="n">324</span><span class="t">genome measurements correlate weakly (median r = 0.126), although rescoring the same reference</span></div>
+<div class="l"><span class="n">325</span><span class="t">is reproducible. Topology-only annotation retains approximately 101% of the headline effect;</span></div>
+<div class="l"><span class="n">326</span><span class="t">solvent exposure concentrates signal per position but is not required for the aggregate</span></div>
+<div class="l"><span class="n">327</span><span class="t">association. The strongest interpretation is an outward-facing versus cytoplasmic contrast,</span></div>
+<div class="l"><span class="n">328</span><span class="t">rather than an exposure-specific causal effect.</span></div>
+<div class="l"><span class="n">329</span><span class="t">The association is present in both diderm and monoderm subsets. In a ten-phylum meta-regression,</span></div>
+<div class="l"><span class="n">330</span><span class="t">the monoderm increment is +0.1239 per standard deviation (SE 0.0788; one-sided P = 0.058).</span></div>
+<div class="l"><span class="n">331</span><span class="t">Envelope classification is coarse and partly confounded with phylogeny. These comparisons</span></div>
+<div class="l"><span class="n">332</span><span class="t">motivate consistent use of extracytoplasmic terminology and do not establish that outer-membrane</span></div>
+<div class="l"><span class="n">333</span><span class="t">architecture modifies the effect.</span></div>
+<div class="l"><span class="n">334</span><span class="t h">What the association does not do</span></div>
+<div class="l"><span class="n">335</span><span class="t">It does not predict out of clade. Fitting on every other phylum, with the composite re-</span></div>
+<div class="l"><span class="n">336</span><span class="t">standardised on training genomes only, pooled out-of-sample RMSE is 0.9253 pH with the composite</span></div>
+<div class="l"><span class="n">337</span><span class="t">against 0.9248 pH without it — fractionally worse — and the cytoplasmic control, at 0.9238 pH,</span></div>
+<div class="l"><span class="n">338</span><span class="t">does no worse than either. The composite lowers error in three of four folds, and the pooled</span></div>
+<div class="l"><span class="n">339</span><span class="t">figure is decided by the one it fails, which is the phylum holding most of the acidophiles and</span></div>
+<div class="l"><span class="n">340</span><span class="t">whose removal leaves the training set with little of the acid-tolerant range the effect is</span></div>
+<div class="l"><span class="n">341</span><span class="t">confined to; fold-level gain tracks the tail retained in training at r = +0.835 across four</span></div>
+<div class="l"><span class="n">342</span><span class="t">folds, a direction predicted in advance and resting on four points. Both readings stand: the</span></div>
+<div class="l"><span class="n">343</span><span class="t">association survives every within-sample test reported here and buys no out-of-sample accuracy</span></div>
+<div class="l"><span class="n">344</span><span class="t">across clades. These results support an in-sample conditional association and do not demonstrate</span></div>
+<div class="l"><span class="n">345</span><span class="t">generalisable prediction or a causal mechanism. Reference selection was additionally performed</span></div>
+<div class="l"><span class="n">346</span><span class="t">once on all genomes, so even these figures are optimistic by an unmeasured amount.</span></div>
+<div class="l"><span class="n">347</span><span class="t">The effects are small in variance terms, well under 1% of pH_min variance beyond the growth</span></div>
+<div class="l"><span class="n">348</span><span class="t">optimum, and the relationship is concentrated in the acid-tolerant tail rather than running</span></div>
+<div class="l"><span class="n">349</span><span class="t">uniformly across the range. Nothing here is interventional. In archaea the pattern is consistent</span></div>
+<div class="l"><span class="n">350</span><span class="t">but marginal, and within halophilic archaea specificity fails outright.</span></div>
+<div class="l"><span class="n">351</span><span class="t h">A second environmental variable acts on a different compartment</span></div>
+<div class="l"><span class="n">352</span><span class="t">Because compartment-resolved isoelectric point shifts with marine-versus-freshwater habitat in</span></div>
+<div class="l"><span class="n">353</span><span class="t">the same ordering reported here [7], a habitat variable could in principle act through the</span></div>
+<div class="l"><span class="n">354</span><span class="t">extracytoplasmic face and mimic the result. Measured salinity tolerance, available for 669</span></div>
+<div class="l"><span class="n">355</span><span class="t">genomes of this sample, does not predict pH_min (P = 0.36) and removes 1% of the</span></div>
+<div class="l"><span class="n">356</span><span class="t">extracytoplasmic coefficient when held fixed. More informative, the two variables have separable</span></div>
+<div class="l"><span class="n">357</span><span class="t">compartment profiles: salinity gives secreted &gt; cytoplasmic &gt; membrane, reproducing the</span></div>
+<div class="l"><span class="n">358</span><span class="t">published ordering, while pH_min gives secreted &gt; membrane &gt; cytoplasmic. Salinity moves the</span></div>
+<div class="l"><span class="n">359</span><span class="t">secreted and cytoplasmic shares together, as a whole-cell osmotic account predicts; pH moves the</span></div>
+<div class="l"><span class="n">360</span><span class="t">secreted share and leaves the cytoplasmic one untouched. The method does not impose one ordering</span></div>
+<div class="l"><span class="n">361</span><span class="t">on every variable given to it, which is a stronger defence of the controls than salinity being</span></div>
+<div class="l"><span class="n">362</span><span class="t">inert — it is not inert, and predicts secreted composition more strongly than pH does. Within</span></div>
+<div class="l"><span class="n">363</span><span class="t">the salinity-measured subsample the transmembrane control does fire, and that signal is confined</span></div>
+<div class="l"><span class="n">364</span><span class="t">to the salt-tolerant half, consistent with halotolerant membranes being compositionally</span></div>
+<div class="l"><span class="n">365</span><span class="t">distinct: a second environmental variable perturbing a different compartment from the one</span></div>
+<div class="l"><span class="n">366</span><span class="t">claimed here.</span></div>
+<div class="l"><span class="n">367</span><span class="t h">Conclusions</span></div>
+<div class="l"><span class="n">368</span><span class="t">Extracytoplasmic-facing charge composition in the reference panel is associated with reported</span></div>
+<div class="l"><span class="n">369</span><span class="t">minimum growth pH after adjustment for growth optimum and histidine. The direction is lower net</span></div>
+<div class="l"><span class="n">370</span><span class="t">acidic composition in acid-tolerant organisms. Composition-derived titration summaries are</span></div>
+<div class="l"><span class="n">371</span><span class="t">consistent with a charge-burden hypothesis, but do not establish it over alternative mechanisms.</span></div>
+<div class="l"><span class="n">372</span><span class="t">The outcome is shaped by growth-testing conventions, the phylogeny and structural annotation</span></div>
+<div class="l"><span class="n">373</span><span class="t">impose additional assumptions, and the composite provides no out-of-clade predictive gain. An</span></div>
+<div class="l"><span class="n">374</span><span class="t">experimental charge-reversal protocol has been specified but not performed; causal</span></div>
+<div class="l"><span class="n">375</span><span class="t">interpretation awaits experimental evidence.</span></div>
+<div class="l"><span class="n">376</span><span class="t h">Data availability</span></div>
+<div class="l"><span class="n">377</span><span class="t">The code, curated inputs, stored results and figures are available at</span></div>
+<div class="l"><span class="n">378</span><span class="t">https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-submission. Supplemental Data S1</span></div>
+<div class="l"><span class="n">379</span><span class="t">is the accompanying analysis-data archive, containing curated phenotype and accession tables,</span></div>
+<div class="l"><span class="n">380</span><span class="t">reference annotations, stored model inputs and results, phylogenies, environment specifications,</span></div>
+<div class="l"><span class="n">381</span><span class="t">provenance and SHA-256 checksums. It is supplied for direct upload as journal-hosted</span></div>
+<div class="l"><span class="n">382</span><span class="t">supplemental material. Oversized third-party raw genomes, proteomes and structures are accessed</span></div>
+<div class="l"><span class="n">383</span><span class="t">through the accession and retrieval instructions in DATA_AVAILABILITY.md; no new sequence data</span></div>
+<div class="l"><span class="n">384</span><span class="t">were generated. The repository documents which reconstruction steps require those inputs and</span></div>
+<div class="l"><span class="n">385</span><span class="t">manual curation.</span></div>
+<div class="l"><span class="n">386</span><span class="t">No new sequence data were generated by this study. Genome assemblies and proteomes were obtained</span></div>
+<div class="l"><span class="n">387</span><span class="t">from NCBI [16]; the accession used for every genome is listed in the deposited file</span></div>
+<div class="l"><span class="n">388</span><span class="t">accession_used.csv, which should be cited alongside the originating submitters of those</span></div>
+<div class="l"><span class="n">389</span><span class="t">assemblies.</span></div>
+<div class="l"><span class="n">390</span><span class="t">Growth phenotypes were compiled from published species descriptions and from the following</span></div>
+<div class="l"><span class="n">391</span><span class="t">databases, whose authors should be credited by any reuse: AciDB (acidb.cl), ThermoBase, BacDive,</span></div>
+<div class="l"><span class="n">392</span><span class="t">and metaTraits (metatraits.embl.de) [15], the last supplying the measured salinity values used</span></div>
+<div class="l"><span class="n">393</span><span class="t">in the confounder analysis. Protein structures were obtained from the AlphaFold Protein</span></div>
+<div class="l"><span class="n">394</span><span class="t">Structure Database [17] and Pfam/InterPro hidden Markov models from EMBL-EBI.</span></div>
+<div class="l"><span class="n">395</span><span class="t">Software: Python 3.9.6, with NumPy 2.0.2, pandas 2.3.3, SciPy 1.13.1, Biopython 1.85, pyHMMER</span></div>
+<div class="l"><span class="n">396</span><span class="t">0.12.3 and Matplotlib 3.9.4; versions are pinned in the release manifest. Analyses can be</span></div>
+<div class="l"><span class="n">397</span><span class="t">reproduced from the deposited result tables without re-downloading genomes. Software versions</span></div>
+<div class="l"><span class="n">398</span><span class="t">describe the original analysis environment; an environment specification and package</span></div>
+<div class="l"><span class="n">399</span><span class="t">requirements accompany the deposited archive.</span></div>
+<div class="l"><span class="n">400</span><span class="t h">Competing interests</span></div>
+<div class="l"><span class="n">401</span><span class="t">The author declares that there are no conflicts of interest.</span></div>
+<div class="l"><span class="n">402</span><span class="t h">Funding information</span></div>
+<div class="l"><span class="n">403</span><span class="t">This research received no specific grant from any funding agency, commercial or not-for-profit.</span></div>
+<div class="l"><span class="n">404</span><span class="t h">Ethical approval and consent to participate</span></div>
+<div class="l"><span class="n">405</span><span class="t">This study used only previously published phenotype data and publicly available genome</span></div>
+<div class="l"><span class="n">406</span><span class="t">sequences; no human participants, human material, human data or animals were involved, and no</span></div>
+<div class="l"><span class="n">407</span><span class="t">ethical approval or consent was required.</span></div>
+<div class="l"><span class="n">408</span><span class="t h">Author contributions</span></div>
+<div class="l"><span class="n">409</span><span class="t">Ajay Vellanki is the sole author and, in CRediT terms, is responsible for conceptualization,</span></div>
+<div class="l"><span class="n">410</span><span class="t">data curation, formal analysis, investigation, methodology, project administration, software,</span></div>
+<div class="l"><span class="n">411</span><span class="t">validation, visualization, writing – original draft preparation, and writing – review and</span></div>
+<div class="l"><span class="n">412</span><span class="t">editing. No funding was acquired and the work was not supervised externally.</span></div>
+<div class="l"><span class="n">413</span><span class="t h">Acknowledgements</span></div>
+<div class="l"><span class="n">414</span><span class="t">Anthropic Claude Opus 5, as identified by the author, assisted development of the analysis code</span></div>
+<div class="l"><span class="n">415</span><span class="t">and earlier manuscript drafts. OpenAI Codex using GPT-6.1 assisted manuscript revision,</span></div>
+<div class="l"><span class="n">416</span><span class="t">reproducibility packaging and figure-export code. These tools were used to support coding,</span></div>
+<div class="l"><span class="n">417</span><span class="t">checks and editorial preparation. The scientific figures are programmatic plots of stored</span></div>
+<div class="l"><span class="n">418</span><span class="t">numerical results, not generated research imagery. The author is responsible for reviewing and</span></div>
+<div class="l"><span class="n">419</span><span class="t">approving the content, code, data visualisations and references. Earlier and revised drafts and</span></div>
+<div class="l"><span class="n">420</span><span class="t">the analysis scripts are retained in the project record. The author confirms that the</span></div>
+<div class="l"><span class="n">421</span><span class="t">manuscript, references and figures have been checked for originality and accuracy, that</span></div>
+<div class="l"><span class="n">422</span><span class="t">publication rights and any required permissions are secured, and that the applicable AI tool</span></div>
+<div class="l"><span class="n">423</span><span class="t">terms have been checked for suitability for publication. The author takes full responsibility</span></div>
+<div class="l"><span class="n">424</span><span class="t">for the integrity of the complete article, including the references.</span></div>
+<div class="l"><span class="n">425</span><span class="t h">References</span></div>
+<div class="l"><span class="n">426</span><span class="t">1. Sen H, Aggarwal N, Ishionwu C, Hussain N, Parmar C, Jamshad M, Bavro VN, Lund PA. Structural</span></div>
+<div class="l"><span class="n">427</span><span class="t">and functional analysis of the Escherichia coli acid-sensing histidine kinase EvgS. J Bacteriol</span></div>
+<div class="l"><span class="n">428</span><span class="t">2017;199(18):e00310-17. doi:10.1128/JB.00310-17</span></div>
+<div class="l"><span class="n">429</span><span class="t">2. Gallo G, Brameyer S, Kuppermann S, Schneider S, Kielkowski P, Jung K. AdiY acts as a</span></div>
+<div class="l"><span class="n">430</span><span class="t">cytoplasmic pH sensor via histidine protonation to regulate acid stress adaptation in</span></div>
+<div class="l"><span class="n">431</span><span class="t">Escherichia coli. J Bacteriol 2026;208(1):e0054225 (published online 23 December 2025).</span></div>
+<div class="l"><span class="n">432</span><span class="t">doi:10.1128/jb.00542-25</span></div>
+<div class="l"><span class="n">433</span><span class="t">3. Weeks DL, Sachs G. Sites of pH regulation of the urea channel of Helicobacter pylori. Mol</span></div>
+<div class="l"><span class="n">434</span><span class="t">Microbiol 2001;40(6):1249–1259. doi:10.1046/j.1365-2958.2001.02466.x</span></div>
+<div class="l"><span class="n">435</span><span class="t">4. Johnson MD, Bell J, Clarke K, Chandler R, Pathak P, Xia Y, Marshall RL, Weinstock GM, Loman</span></div>
+<div class="l"><span class="n">436</span><span class="t">NJ, Winn PJ, Lund PA. Characterization of mutations in the PAS domain of the EvgS sensor kinase</span></div>
+<div class="l"><span class="n">437</span><span class="t">selected by laboratory evolution for acid resistance in Escherichia coli. Mol Microbiol</span></div>
+<div class="l"><span class="n">438</span><span class="t">2014;93(5):911–927. doi:10.1111/mmi.12704</span></div>
+<div class="l"><span class="n">439</span><span class="t">5. Ullrich SR, Fuchs H, Ashworth-Güth C. Electrochemical and structural characterization of</span></div>
+<div class="l"><span class="n">440</span><span class="t">recombinant respiratory proteins of the acidophilic iron oxidizer Ferrovum sp. PN-J47-F6</span></div>
+<div class="l"><span class="n">441</span><span class="t">suggests adaptations to the acidic pH at protein level. Front Microbiol 2024;15:1357152.</span></div>
+<div class="l"><span class="n">442</span><span class="t">doi:10.3389/fmicb.2024.1357152</span></div>
+<div class="l"><span class="n">443</span><span class="t">6. Reed CJ, Lewis H, Trejo E, Winston V, Evilia C. Protein adaptations in archaeal</span></div>
+<div class="l"><span class="n">444</span><span class="t">extremophiles. Archaea 2013;2013:373275. doi:10.1155/2013/373275</span></div>
+<div class="l"><span class="n">445</span><span class="t">7. Cabello-Yeves PJ, Rodriguez-Valera F. Marine-freshwater prokaryotic transitions require</span></div>
+<div class="l"><span class="n">446</span><span class="t">extensive changes in the predicted proteome. Microbiome 2019;7:117.</span></div>
+<div class="l"><span class="n">447</span><span class="t">doi:10.1186/s40168-019-0731-5</span></div>
+<div class="l"><span class="n">448</span><span class="t">8. Barnum TP, et al. Predicting microbial growth conditions from amino acid composition. bioRxiv</span></div>
+<div class="l"><span class="n">449</span><span class="t">2024. doi:10.1101/2024.03.22.586313 [preprint]</span></div>
+<div class="l"><span class="n">450</span><span class="t">9. Neira G, Cortez D, Jil J, Holmes DS. AciDB 1.0: a database of acidophilic organisms, their</span></div>
+<div class="l"><span class="n">451</span><span class="t">genomic information and associated metadata. Bioinformatics 2020;36(19):4970–4971.</span></div>
+<div class="l"><span class="n">452</span><span class="t">doi:10.1093/bioinformatics/btaa638</span></div>
+<div class="l"><span class="n">453</span><span class="t">10. Tien MZ, Meyer AG, Sydykova DK, Spielman SJ, Wilke CO. Maximum allowed solvent</span></div>
+<div class="l"><span class="n">454</span><span class="t">accessibilities of residues in proteins. PLoS One 2013;8(11):e80635.</span></div>
+<div class="l"><span class="n">455</span><span class="t">doi:10.1371/journal.pone.0080635</span></div>
+<div class="l"><span class="n">456</span><span class="t">11. Pagel M. Inferring the historical patterns of biological evolution. Nature</span></div>
+<div class="l"><span class="n">457</span><span class="t">1999;401(6756):877–884. doi:10.1038/44766</span></div>
+<div class="l"><span class="n">458</span><span class="t">12. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful</span></div>
+<div class="l"><span class="n">459</span><span class="t">approach to multiple testing. J R Stat Soc Series B Stat Methodol 1995;57(1):289–300.</span></div>
+<div class="l"><span class="n">460</span><span class="t">doi:10.1111/j.2517-6161.1995.tb02031.x</span></div>
+<div class="l"><span class="n">461</span><span class="t">13. Stoib A, Shojaei S, Fischer X, Posch S, Parisse G, Frezzini M, Putz T, Siligan C,</span></div>
+<div class="l"><span class="n">462</span><span class="t">Goessweiner-Mohr N, Narzi D, Horner A. A cytoplasmic pH sensor redefines gating in bacterial</span></div>
+<div class="l"><span class="n">463</span><span class="t">urea channels and acid resistance. Small 2026;e76130. doi:10.1002/smll.76130</span></div>
+<div class="l"><span class="n">464</span><span class="t">14. Dhiman A, Purohit R. Identification of potential mutational hotspots in serratiopeptidase to</span></div>
+<div class="l"><span class="n">465</span><span class="t">address its poor pH tolerance issue. J Biomol Struct Dyn 2023;41(18):8831–8843.</span></div>
+<div class="l"><span class="n">466</span><span class="t">doi:10.1080/07391102.2022.2137699</span></div>
+<div class="l"><span class="n">467</span><span class="t">15. Podlesny D, et al. metaTraits: a large-scale integration of microbial phenotypic trait</span></div>
+<div class="l"><span class="n">468</span><span class="t">information. Nucleic Acids Res 2026;54(D1):D835. doi:10.1093/nar/gkaf1241</span></div>
+<div class="l"><span class="n">469</span><span class="t">16. Sayers EW, Bolton EE, Fine AM, Kelly C, Kim S, Landrum M, Lathrop S, Malheiro A, Murphy TD,</span></div>
+<div class="l"><span class="n">470</span><span class="t">Phan L, Pujar S, Trawick BW, Schneider VA, Pruitt KD. Database resources of the National Center</span></div>
+<div class="l"><span class="n">471</span><span class="t">for Biotechnology Information in 2026. Nucleic Acids Res 2026;54(D1):D20–D27.</span></div>
+<div class="l"><span class="n">472</span><span class="t">doi:10.1093/nar/gkaf1060</span></div>
+<div class="l"><span class="n">473</span><span class="t">17. Bertoni D, Tsenkov M, Magana P, Nair S, Pidruchna I, Querino Lima Afonso M, Midlik A,</span></div>
+<div class="l"><span class="n">474</span><span class="t">Paramval U, Lawal D, Tanweer A, Last M, Patel R, Laydon A, Lasecki D, Dietrich N, Tomlinson H,</span></div>
+<div class="l"><span class="n">475</span><span class="t">Žídek A, Green T, Kovalevskiy O, Lau A, Kandathil S, Bordin N, Sillitoe I, Mirdita M, Jones D,</span></div>
+<div class="l"><span class="n">476</span><span class="t">Orengo C, Steinegger M, Fleming JR, Velankar S. AlphaFold Protein Structure Database 2025: a</span></div>
+<div class="l"><span class="n">477</span><span class="t">redesigned interface and updated structural coverage. Nucleic Acids Res 2026;54(D1):D358–D362.</span></div>
+<div class="l"><span class="n">478</span><span class="t">doi:10.1093/nar/gkaf1226</span></div>
+<div class="l"><span class="n">479</span><span class="t">18. Shrake A, Rupley JA. Environment and exposure to solvent of protein atoms. Lysozyme and</span></div>
+<div class="l"><span class="n">480</span><span class="t">insulin. J Mol Biol 1973;79(2):351–371. doi:10.1016/0022-2836(73)90011-9</span></div>
+<div class="l"><span class="n">481</span><span class="t h">Figure legends</span></div>
+<div class="l"><span class="n">482</span><span class="t">Fig. 1. Associations differ between membrane position classes. Coefficients and 95% confidence</span></div>
+<div class="l"><span class="n">483</span><span class="t">intervals are shown for the net acidic composite computed on three membrane position classes</span></div>
+<div class="l"><span class="n">484</span><span class="t">from the same 32 membrane references and a surface class from five separate soluble references</span></div>
+<div class="l"><span class="n">485</span><span class="t">in the same phylogenetic model, with genome-wide composition and source controlled. n = 2,768</span></div>
+<div class="l"><span class="n">486</span><span class="t">except the soluble-surface control (n = 2,764). Positive values indicate a higher minimum growth</span></div>
+<div class="l"><span class="n">487</span><span class="t">pH and therefore less acid tolerance.</span></div>
+<div class="l"><span class="n">488</span><span class="t">Fig. 2. Pooled residue-share associations after adjustment for growth optimum and exposed</span></div>
+<div class="l"><span class="n">489</span><span class="t">histidine. Coefficients and 95% confidence intervals are shown for the pooled extracytoplasmic</span></div>
+<div class="l"><span class="n">490</span><span class="t">net residue share under four adjustment specifications, all fitted on the same 1,655 genomes for</span></div>
+<div class="l"><span class="n">491</span><span class="t">which the growth optimum is known. Percentages give the share of the composition-only</span></div>
+<div class="l"><span class="n">492</span><span class="t">coefficient retained.</span></div>
+<div class="l"><span class="n">493</span><span class="t">Fig. 3. Detectable reference families are associated with reported minimum growth pH. Per-</span></div>
+<div class="l"><span class="n">494</span><span class="t">reference coefficients and 95% confidence intervals for detection are sorted by effect; the</span></div>
+<div class="l"><span class="n">495</span><span class="t">seven families surviving Benjamini-Hochberg correction at q &lt; 0.10 are shown with filled markers</span></div>
+<div class="l"><span class="n">496</span><span class="t">and the remainder with open markers. Every fit controls composition, source, mean alignment</span></div>
+<div class="l"><span class="n">497</span><span class="t">score, log genome size and assembly level.</span></div>
+<div class="l"><span class="n">498</span><span class="t">Fig. 4. Sensitivity to specified differential-censoring models. (A) The headline coefficient</span></div>
+<div class="l"><span class="n">499</span><span class="t">reaches zero when displacement changes by 0.185 pH units per predictor standard deviation. (B)</span></div>
+<div class="l"><span class="n">500</span><span class="t">For the two proxies with effects in the threatening direction, required displacement exceeds</span></div>
+<div class="l"><span class="n">501</span><span class="t">available headroom under an assumed pH 0 floor. This floor is a modeling assumption, not a</span></div>
+<div class="l"><span class="n">502</span><span class="t">universal physical boundary; these calculations do not exclude unmeasured censoring mechanisms.</span></div>
+<div class="l"><span class="n">503</span><span class="t">Orange bars show required depth and grey bars headroom to the assumed floor.</span></div>
 </div></body></html>
