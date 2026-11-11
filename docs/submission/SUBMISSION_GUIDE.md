@@ -8,7 +8,7 @@ The portal rejected the valid Word file with an unexpected request for an EPS ex
 
 To regenerate the RTF with LibreOffice installed, run `soffice --headless --convert-to rtf --outdir docs/submission docs/submission/Acidophile_PeerJ_Line_Numbered_Manuscript.docx` after rebuilding the Word source.
 
-Upload `Supplemental_Data_S1.zip` as Supplemental Data S1, titled “Curated inputs and stored analysis outputs for extracytoplasmic surface charge and reported minimum growth pH.” It is about 21 MB, below the stated 30 MB individual-file limit. This is intended as journal-hosted supplemental data; the GitHub repository supplies code, figures, retrieval instructions and a public project record. No external archive DOI is promised.
+Upload `Supplemental_Data_S1.zip` as Supplemental Data S1, titled “Curated inputs and stored analysis outputs for extracytoplasmic surface charge and reported minimum growth pH.” It is about 21 MB, below the stated 30 MB individual-file limit. This is intended as journal-hosted supplemental data; the GitHub repository supplies code, figures, retrieval instructions and a public project record. The code and reproducibility archive is preserved at https://doi.org/10.5281/zenodo.24147308 (version 1.0.0, commit 97257f22dde358b920c70a67aa921a08556b41fb). Include this DOI in the submission system data availability declaration.
 
 Repository: https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-submission
 

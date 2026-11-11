@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the accompanying manuscript."
+message: "If you use this repository, please cite this archive and the accompanying manuscript."
 title: "Acidophile pH limits submission archive"
 type: software
 authors:
@@ -10,3 +10,4 @@ repository-code: "https://github.com/ajayvellanki0720-boop/acidophile-ph-limits-
 version: 1.0.0
 date-released: 2026-11-05
 license: MIT
+doi: "10.5281/zenodo.24147308"

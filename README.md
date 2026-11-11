@@ -4,6 +4,8 @@ This repository is the submission snapshot for the study **Extracytoplasmic surf
 
 It contains the analysis code, curated analysis tables, stored results, final figure files, manuscript source, tests, and reproducibility records. The 17 GB working collection of downloaded assemblies, proteomes, structures, and other re-fetchable raw inputs is intentionally excluded. Exact accessions and retrieval instructions are provided in [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md).
 
+The code and reproducibility archive is preserved on Zenodo: [https://doi.org/10.5281/zenodo.24147308](https://doi.org/10.5281/zenodo.24147308), version 1.0.0, archived commit `97257f22dde358b920c70a67aa921a08556b41fb`. Later submission metadata updates in this repository do not change that immutable snapshot. See [CODE_ARCHIVE.md](CODE_ARCHIVE.md) for the archive checksum.
+
 ## Submission snapshot quick start
 
 1. Create the recorded software environment: `conda env create -f environment.yml`.
